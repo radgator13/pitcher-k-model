@@ -52,58 +52,65 @@ with tab1:
     try:
         st.markdown("### 📈 Strikeout Predictions for Today")
 
-        # === Date Picker ===
         selected_date = st.date_input("📅 Select date", value=datetime.date.today())
+        date_str = selected_date.strftime("%Y-%m-%d")
 
-        # === Load prediction and odds data ===
-        prediction_path = "outputs/pitcher_k_predictions.csv"
+        prediction_path = f"predictions/{date_str}/strikeouts_master.csv"
         odds_path = "data/betonline_pitcher_props.csv"
+
+        if not os.path.exists(prediction_path) or not os.path.exists(odds_path):
+            st.warning("Required files not found.")
+            st.stop()
 
         pred_df = pd.read_csv(prediction_path)
         odds_df = pd.read_csv(odds_path)
 
-        # === Filter correct market and extract correct pitcher name column
-        odds_df = odds_df[odds_df["market"].str.lower() == "pitcher_strikeouts"]
-        odds_df["pitcher_key"] = odds_df["description"].apply(lambda x: normalize(clean_pitcher_name(x)))
+        pitcher_col = next((c for c in pred_df.columns if normalize(c) in ["pitcher", "starting_pitcher"]), None)
+        if pitcher_col is None:
+            st.error("No pitcher column found.")
+            st.stop()
+
+        pred_df["pitcher_key"] = pred_df[pitcher_col].apply(lambda x: normalize(clean_pitcher_name(x)).strip())
+
+        odds_df = odds_df[odds_df["market"].str.lower() == "pitcher_strikeouts"].copy()
+        odds_df["description"] = odds_df["description"].astype(str)
+        odds_df["pitcher_key"] = odds_df["description"].apply(lambda x: normalize(clean_pitcher_name(x)).strip())
         odds_df["line"] = pd.to_numeric(odds_df["line"], errors="coerce")
 
-        pred_df["pitcher_key"] = pred_df["starting_pitcher"].apply(lambda x: normalize(clean_pitcher_name(x)))
-
-        # === Collapse lines (Over/Under) to most common value per pitcher
         line_df = odds_df.groupby("pitcher_key", as_index=False)["line"].agg(get_mode_line)
+        line_df = line_df.rename(columns={"line": "vegas_line"})
 
-        # === Merge predictions with odds
         merged = pred_df.merge(line_df, on="pitcher_key", how="left")
-        merged["vegas_line"] = merged["line"]
-
-        # === Compute confidence
         merged["🔥 Confidence"] = merged.apply(
-            lambda row: render_confidence(get_confidence(row["predicted_ks"], row["vegas_line"])),
+            lambda row: render_confidence(get_confidence(row.get("Predicted K"), row.get("vegas_line"))),
             axis=1
         )
-
         merged["date"] = selected_date
-        final = merged.copy()
 
-        # === Format final output table
-        output_df = final.rename(columns={
-            "team": "Team",
-            "opponent": "Opponent",
-            "starting_pitcher": "Pitcher",
-            "predicted_ks": "Predicted K",
-            "vegas_line": "Vegas Line"
-        })[[
-            "date", "Team", "Opponent", "Pitcher",
-            "Predicted K", "Vegas Line", "🔥 Confidence"
-        ]]
+        col_map = {c.lower(): c for c in merged.columns}
+        output_df = merged[[
+            col_map["date"],
+            col_map.get("team", "Team"),
+            col_map.get("opponent", "Opponent"),
+            pitcher_col,
+            col_map.get("predicted k", "Predicted K"),
+            "vegas_line",
+            "🔥 Confidence"
+        ]].rename(columns={
+            pitcher_col: "Pitcher",
+            "vegas_line": "Vegas Line",
+            col_map.get("team", "Team"): "Team",
+            col_map.get("opponent", "Opponent"): "Opponent"
+        })
 
+        output_df = output_df.sort_values("Vegas Line", ascending=False)
+
+        st.markdown("### 📊 Final Output Table")
         st.dataframe(output_df, use_container_width=True)
 
-        # === Export + Download Button
         if len(output_df) > 0:
             if st.button("📥 Generate & Save CSV"):
                 try:
-                    date_str = selected_date.strftime("%Y-%m-%d")
                     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
                     folder = f"predictions/{date_str}"
                     os.makedirs(folder, exist_ok=True)
@@ -111,7 +118,6 @@ with tab1:
                     full_path = f"{folder}/strikeouts_{timestamp}.csv"
                     output_df.to_csv(full_path, index=False)
 
-                    # Save most complete run as daily master
                     master_path = f"{folder}/strikeouts_master.csv"
                     current_complete = output_df["Vegas Line"].notna().sum()
 
@@ -140,7 +146,20 @@ with tab1:
             st.info("No data to export.")
 
     except Exception as e:
-        st.error(f"Tab 1 failed: {e}")
+        st.error(f"❌ Tab 1 failed: {e}")
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -267,12 +286,16 @@ with tab3:
             # === Select date
             st.write("📆 Max date in backfill:", backfill_df["Date"].max())
             available_dates = sorted(backfill_df["Date"].unique(), reverse=True)
+            default_date = datetime.date.today() - datetime.timedelta(days=1)
+            default_date = max([d for d in available_dates if d <= default_date], default=available_dates[0])
+
             selected_date = st.date_input(
                 "📅 Select a date",
-                value=available_dates[0],
+                value=default_date,
                 min_value=min(available_dates),
                 max_value=max(available_dates)
-            )
+)
+
 
             # === Vegas Line slider
             vegas_line = st.slider("🎯 Adjust comparison line (Vegas Line)", 0.0, 15.0, 4.5, 0.5)

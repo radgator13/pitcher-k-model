@@ -1,4 +1,6 @@
 ﻿import subprocess
+import sys
+import os
 
 steps = [
     ("📥 Step 1: Scrape latest odds", "bet_logic/run_odds_api.py"),
@@ -15,16 +17,22 @@ steps = [
     ("✅ DONE! Now run: streamlit run app.py", None),
 ]
 
-# Run pipeline steps
 for label, script in steps:
     print(f"\n=== {label} ===")
     if script:
-        result = subprocess.run(["python", script])
-        if result.returncode != 0:
-            print(f"❌ Error in {script}. Halting pipeline.")
+        try:
+            result = subprocess.run([sys.executable, script], check=True)
+            print(f"✅ SUCCESS: {script}")
+        except subprocess.CalledProcessError as e:
+            print(f"❌ ERROR in {script}: Exit code {e.returncode}")
+            print("🚫 Halting pipeline.")
             break
-else:
-    # All steps completed successfully
-    print("\n🚀 All steps completed successfully.")
+        except Exception as e:
+            print(f"❌ Exception running {script}: {e}")
+            break
+    else:
+        print("🎉 All steps completed.")
+
+
 
     
