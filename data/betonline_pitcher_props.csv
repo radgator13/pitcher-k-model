@@ -1,71 +1,69 @@
 event_id,home_team,away_team,commence_time,bookmaker,last_update,market,participant,description,raw_name,line,odds
-1983549c8bf3b2f72cda37084a592a42,Colorado Rockies,New York Mets,2025-06-08T19:11:00Z,DraftKings,2025-06-08T20:14:26Z,pitcher_strikeouts,,Tylor Megill,Over,8.5,-115
-1983549c8bf3b2f72cda37084a592a42,Colorado Rockies,New York Mets,2025-06-08T19:11:00Z,DraftKings,2025-06-08T20:14:26Z,pitcher_strikeouts,,Tylor Megill,Under,8.5,-115
-1983549c8bf3b2f72cda37084a592a42,Colorado Rockies,New York Mets,2025-06-08T19:11:00Z,Bovada,2025-06-08T20:28:33Z,pitcher_strikeouts,,Tylor Megill,Over,8.5,-115
-1983549c8bf3b2f72cda37084a592a42,Colorado Rockies,New York Mets,2025-06-08T19:11:00Z,Bovada,2025-06-08T20:28:33Z,pitcher_strikeouts,,Tylor Megill,Under,8.5,-115
-e959d850a0692c6d3e64c1ba95f3f560,Washington Nationals,Texas Rangers,2025-06-08T19:16:00Z,Bovada,2025-06-08T20:28:34Z,pitcher_strikeouts,,Trevor Williams,Over,2.5,-155
-e959d850a0692c6d3e64c1ba95f3f560,Washington Nationals,Texas Rangers,2025-06-08T19:16:00Z,Bovada,2025-06-08T20:28:34Z,pitcher_strikeouts,,Trevor Williams,Under,2.5,120
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:29:06Z,pitcher_strikeouts,,Landen Roupp,Over,4.5,130
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:29:06Z,pitcher_strikeouts,,Landen Roupp,Under,4.5,-180
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:28:19Z,pitcher_strikeouts,,Landen Roupp,Over,4.5,130
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:28:19Z,pitcher_strikeouts,,Landen Roupp,Under,4.5,-168
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:28:48Z,pitcher_strikeouts,,Landen Roupp,Over,4.5,130
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:28:48Z,pitcher_strikeouts,,Landen Roupp,Under,4.5,-170
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:28:48Z,pitcher_strikeouts,,Spencer Strider,Over,7.5,-105
-06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:28:48Z,pitcher_strikeouts,,Spencer Strider,Under,7.5,-125
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:28:35Z,pitcher_strikeouts,,Tomoyuki Sugano,Over,4.5,120
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:28:35Z,pitcher_strikeouts,,Tomoyuki Sugano,Under,4.5,-170
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:28:40Z,pitcher_strikeouts,,Jacob Lopez,Over,4.5,-125
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:28:40Z,pitcher_strikeouts,,Jacob Lopez,Under,4.5,-105
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:28:40Z,pitcher_strikeouts,,Tomoyuki Sugano,Over,3.5,-175
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:28:40Z,pitcher_strikeouts,,Tomoyuki Sugano,Under,3.5,135
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:27:14Z,pitcher_strikeouts,,Jacob Lopez,Over,4.5,-120
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:27:14Z,pitcher_strikeouts,,Jacob Lopez,Under,4.5,-110
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:27:14Z,pitcher_strikeouts,,Tomoyuki Sugano,Over,3.5,-175
-4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:27:14Z,pitcher_strikeouts,,Tomoyuki Sugano,Under,3.5,135
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Fanatics,2025-06-08T20:28:47Z,pitcher_strikeouts,,George Kirby,Over,6.5,-140
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Fanatics,2025-06-08T20:28:47Z,pitcher_strikeouts,,George Kirby,Under,6.5,100
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:29:04Z,pitcher_strikeouts,,George Kirby,Over,6.5,-120
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:29:04Z,pitcher_strikeouts,,George Kirby,Under,6.5,-110
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:29:04Z,pitcher_strikeouts,,Tyler Anderson,Over,3.5,-142
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:29:04Z,pitcher_strikeouts,,Tyler Anderson,Under,3.5,110
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:27:08Z,pitcher_strikeouts,,George Kirby,Over,6.5,-135
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:27:08Z,pitcher_strikeouts,,George Kirby,Under,6.5,105
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:27:08Z,pitcher_strikeouts,,Tyler Anderson,Over,4.5,120
-2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:27:08Z,pitcher_strikeouts,,Tyler Anderson,Under,4.5,-155
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:29:02Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-102
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:29:02Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-124
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:29:02Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-130
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:29:02Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,102
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:24:53Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-119
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:24:53Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-109
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:24:53Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-137
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:24:53Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,106
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T20:28:49Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,100
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T20:28:49Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-130
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T20:28:49Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-140
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T20:28:49Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,105
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T20:28:49Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-140
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T20:28:49Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,105
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T20:28:49Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,100
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T20:28:49Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-130
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:29:21Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-130
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:29:21Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,100
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:29:21Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,100
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:29:21Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-130
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Hunter Dobbins,Over,4.5,163
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Hunter Dobbins,Under,4.5,-225
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-107
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-125
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-137
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,104
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Over,6.5,-210
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Under,6.5,155
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Hunter Dobbins,Over,2.5,-345
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Hunter Dobbins,Under,2.5,245
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Over,5.5,-420
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Under,5.5,285
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Over,8.5,185
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:29:03Z,pitcher_strikeouts,,Carlos Rodon,Under,8.5,-250
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Bovada,2025-06-08T20:27:00Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-110
-07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Bovada,2025-06-08T20:27:00Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-120
+1983549c8bf3b2f72cda37084a592a42,Colorado Rockies,New York Mets,2025-06-08T19:11:00Z,Bovada,2025-06-08T20:52:29Z,pitcher_strikeouts,,Tylor Megill,Over,6.5,-185
+1983549c8bf3b2f72cda37084a592a42,Colorado Rockies,New York Mets,2025-06-08T19:11:00Z,Bovada,2025-06-08T20:52:29Z,pitcher_strikeouts,,Tylor Megill,Under,6.5,140
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:46:34Z,pitcher_strikeouts,,Landen Roupp,Over,4.5,135
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:46:34Z,pitcher_strikeouts,,Landen Roupp,Under,4.5,-190
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:46:34Z,pitcher_strikeouts,,Spencer Strider,Over,8.5,-110
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:46:34Z,pitcher_strikeouts,,Spencer Strider,Under,8.5,-130
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:53:39Z,pitcher_strikeouts,,Spencer Strider,Over,8.5,-125
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:53:39Z,pitcher_strikeouts,,Spencer Strider,Under,8.5,-105
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:59:42Z,pitcher_strikeouts,,Landen Roupp,Over,3.5,135
+06df9a146a1525dce991df4c1385b264,San Francisco Giants,Atlanta Braves,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:59:42Z,pitcher_strikeouts,,Landen Roupp,Under,3.5,-175
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:59:31Z,pitcher_strikeouts,,Tomoyuki Sugano,Over,2.5,-110
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Fanatics,2025-06-08T20:59:31Z,pitcher_strikeouts,,Tomoyuki Sugano,Under,2.5,-130
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:59:12Z,pitcher_strikeouts,,Jacob Lopez,Over,5.5,126
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:59:12Z,pitcher_strikeouts,,Jacob Lopez,Under,5.5,-162
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:59:12Z,pitcher_strikeouts,,Tomoyuki Sugano,Over,2.5,100
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,DraftKings,2025-06-08T20:59:12Z,pitcher_strikeouts,,Tomoyuki Sugano,Under,2.5,-130
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:59:50Z,pitcher_strikeouts,,Jacob Lopez,Over,5.5,140
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:59:50Z,pitcher_strikeouts,,Jacob Lopez,Under,5.5,-185
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:59:50Z,pitcher_strikeouts,,Tomoyuki Sugano,Over,2.5,-105
+4039141276b69914e77489f7775fbe05,Oakland Athletics,Baltimore Orioles,2025-06-08T20:06:00Z,Bovada,2025-06-08T20:59:50Z,pitcher_strikeouts,,Tomoyuki Sugano,Under,2.5,-125
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Fanatics,2025-06-08T20:52:28Z,pitcher_strikeouts,,Tyler Anderson,Over,5.5,-180
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Fanatics,2025-06-08T20:52:28Z,pitcher_strikeouts,,Tyler Anderson,Under,5.5,130
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:58:35Z,pitcher_strikeouts,,George Kirby,Over,9.5,105
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:58:35Z,pitcher_strikeouts,,George Kirby,Under,9.5,-135
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:58:35Z,pitcher_strikeouts,,Tyler Anderson,Over,6.5,-135
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,DraftKings,2025-06-08T20:58:35Z,pitcher_strikeouts,,Tyler Anderson,Under,6.5,105
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:58:47Z,pitcher_strikeouts,,George Kirby,Over,9.5,105
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:58:47Z,pitcher_strikeouts,,George Kirby,Under,9.5,-135
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:58:47Z,pitcher_strikeouts,,Tyler Anderson,Over,6.5,-135
+2a67ebe495383564e15538e80dc7cb38,Los Angeles Angels,Seattle Mariners,2025-06-08T20:08:00Z,Bovada,2025-06-08T20:58:47Z,pitcher_strikeouts,,Tyler Anderson,Under,6.5,105
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:57:58Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-102
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:57:58Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-124
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:57:58Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-130
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,FanDuel,2025-06-08T20:57:58Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,102
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:58:50Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-119
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:58:50Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-109
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:58:50Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-133
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetOnline.ag,2025-06-08T20:58:50Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,103
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T21:00:07Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,100
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T21:00:07Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-130
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T21:00:07Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-140
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,DraftKings,2025-06-08T21:00:07Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,105
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T21:00:07Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-140
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T21:00:07Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,105
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T21:00:07Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,100
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetMGM,2025-06-08T21:00:07Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-130
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:59:15Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-130
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:59:15Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,100
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:59:15Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-110
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Fanatics,2025-06-08T20:59:15Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-120
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Hunter Dobbins,Over,4.5,163
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Hunter Dobbins,Under,4.5,-225
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-106
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-127
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-139
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,104
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Over,6.5,-205
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Under,6.5,150
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Hunter Dobbins,Over,2.5,-360
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Hunter Dobbins,Under,2.5,245
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Over,5.5,-435
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Under,5.5,290
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Over,8.5,180
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,BetRivers,2025-06-08T20:59:19Z,pitcher_strikeouts,,Carlos Rodon,Under,8.5,-250
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Bovada,2025-06-08T20:59:51Z,pitcher_strikeouts,,Carlos Rodon,Over,7.5,-115
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Bovada,2025-06-08T20:59:51Z,pitcher_strikeouts,,Carlos Rodon,Under,7.5,-115
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Bovada,2025-06-08T20:59:51Z,pitcher_strikeouts,,Hunter Dobbins,Over,3.5,-125
+07c66f2aed14e868ceba851b02f532fb,New York Yankees,Boston Red Sox,2025-06-08T23:11:00Z,Bovada,2025-06-08T20:59:51Z,pitcher_strikeouts,,Hunter Dobbins,Under,3.5,-105
