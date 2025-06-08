@@ -272,9 +272,9 @@ with tab3:
     try:
         st.markdown("### 🗓️ Model Backfill Results by Date")
 
-        # === Load backfill data (cache disabled for fresh load)
+        # === Load backfill data (now reads pitcher-specific backfill file)
         def load_backfill_data():
-            df = pd.read_csv("data/model_backfill_results.csv")
+            df = pd.read_csv("data/model_backfill_pitcher_ks.csv")
             df["Date"] = pd.to_datetime(df["Date"]).dt.date
             return df
 
@@ -283,7 +283,6 @@ with tab3:
         if backfill_df.empty:
             st.warning("No backfill results found.")
         else:
-            # === Select date
             st.write("📆 Max date in backfill:", backfill_df["Date"].max())
             available_dates = sorted(backfill_df["Date"].unique(), reverse=True)
             default_date = datetime.date.today() - datetime.timedelta(days=1)
@@ -294,8 +293,7 @@ with tab3:
                 value=default_date,
                 min_value=min(available_dates),
                 max_value=max(available_dates)
-)
-
+            )
 
             # === Vegas Line slider
             vegas_line = st.slider("🎯 Adjust comparison line (Vegas Line)", 0.0, 15.0, 4.5, 0.5)
@@ -305,14 +303,12 @@ with tab3:
             if filtered.empty:
                 st.warning(f"No results for {selected_date}")
             else:
-                # === Compute Confidence and Model Pick based on slider
                 filtered["Vegas Line"] = vegas_line
                 filtered["Confidence"] = (filtered["Predicted K"] - vegas_line).abs().round(2)
                 filtered["Model Pick"] = filtered.apply(
                     lambda row: "Over" if row["Predicted K"] > vegas_line else "Under", axis=1
                 )
 
-                # === Evaluate Result if Actual K exists
                 def result_eval(row):
                     if pd.isna(row["Actual K"]):
                         return "NO DATA"
@@ -324,7 +320,6 @@ with tab3:
 
                 filtered["Result"] = filtered.apply(result_eval, axis=1)
 
-                # === Add fireball rendering for confidence
                 def render_confidence(conf):
                     if pd.isna(conf): return ""
                     if conf >= 2.0: return "🔥🔥🔥🔥🔥"
@@ -336,7 +331,6 @@ with tab3:
 
                 filtered["🔥"] = filtered["Confidence"].apply(render_confidence)
 
-                # === Final columns for display
                 display_df = filtered[[
                     "Date", "Team", "Opponent", "Pitcher",
                     "Predicted K", "Vegas Line", "Confidence", "🔥",
@@ -346,7 +340,6 @@ with tab3:
                 st.markdown(f"### Results for {selected_date} ({len(display_df)} rows)")
                 st.dataframe(display_df, use_container_width=True)
 
-                # === Summary
                 hits = (display_df["Result"] == "HIT").sum()
                 misses = (display_df["Result"] == "MISS").sum()
                 total = hits + misses
@@ -356,6 +349,7 @@ with tab3:
 
     except Exception as e:
         st.error(f"❌ Failed to load backfill data: {e}")
+
 
 
 

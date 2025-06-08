@@ -33,6 +33,24 @@ for label, script in steps:
     else:
         print("🎉 All steps completed.")
 
+import subprocess
+
+# === Final Git push step
+print("\n🚀 All pipeline steps completed successfully.")
+print("📤 Pushing changes to GitHub...")
+
+try:
+    subprocess.run(["git", "add", "."], check=True)
+    subprocess.run(["git", "commit", "-m", "🤖 Automated pipeline update"], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)
+    print("✅ GitHub push successful!")
+except subprocess.CalledProcessError as e:
+    if "nothing to commit" in str(e):
+        print("🟡 No changes to commit.")
+    else:
+        print(f"❌ Git push failed: {e}")
+except Exception as e:
+    print(f"❌ Unexpected error during Git push: {e}")
 
 
     

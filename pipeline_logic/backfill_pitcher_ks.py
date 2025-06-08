@@ -82,26 +82,29 @@ def compute_result(pred_k, actual_k):
 predicted_ks = model.predict(X)
 
 # === Build output
-backfill_df = pd.DataFrame({
-    "Date": dates,
-    "Team": teams,
-    "Opponent": opponents,
-    "Pitcher": pitchers,
-    "Predicted K": np.round(predicted_ks, 2),
-    "Confidence": np.round(abs(predicted_ks - VEGAS_LINE), 2),
-    "Model Pick": ["Over" if k > VEGAS_LINE else "Under" for k in predicted_ks],
-    "Actual K": y
-})
-
-# === Add result column
-backfill_df["Result"] = backfill_df.apply(
-    lambda row: compute_result(row["Predicted K"], row["Actual K"]), axis=1
-)
-
-# === Deduplicate by pitcher/date
-backfill_df = backfill_df.drop_duplicates(subset=["Date", "Pitcher"])
+records = []
+for i in range(len(X)):
+    pred_k = round(predicted_ks[i], 2)
+    actual_k = y.iloc[i]
+    row = {
+        "Date": dates.iloc[i],
+        "Team": teams.iloc[i],
+        "Opponent": opponents.iloc[i],
+        "Pitcher": pitchers.iloc[i],
+        "Predicted K": pred_k,
+        "Confidence": round(abs(pred_k - VEGAS_LINE), 2),
+        "Model Pick": "Over" if pred_k > VEGAS_LINE else "Under",
+        "Actual K": actual_k,
+        "Result": compute_result(pred_k, actual_k)
+    }
+    records.append(row)
 
 # === Save to correct file
-os.makedirs("data", exist_ok=True)
-backfill_df.to_csv("data/model_backfill_results.csv", index=False)
-print("✅ Backfilled pitcher K predictions saved to data/model_backfill_results.csv")
+OUTPUT_PATH = "data/model_backfill_pitcher_ks.csv"
+os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+
+out_df = pd.DataFrame(records)
+out_df = out_df.drop_duplicates(subset=["Date", "Pitcher"])
+out_df.to_csv(OUTPUT_PATH, index=False)
+
+print(f"✅ Backfilled pitcher K predictions saved to {OUTPUT_PATH}")
