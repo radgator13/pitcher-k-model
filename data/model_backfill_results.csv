@@ -1,0 +1,2030 @@
+Date,Pitcher,Team,Opponent,Predicted K,Confidence,Model Pick,Actual K,Result
+2025-03-31,Luis García,Dodgers,Braves,3.75,0.75,Under,2,HIT
+2025-04-01,Caleb Ferguson,Pirates,Rays,2.03,2.47,Under,0,HIT
+2025-04-01,Ryan Pressly,Cubs,Athletics,1.14,3.36,Under,0,HIT
+2025-04-01,T.J. McFarland,Athletics,Cubs,1.07,3.43,Under,0,HIT
+2025-04-02,Lake Bachar,Marlins,Mets,3.74,0.76,Under,1,HIT
+2025-04-02,Colin Holderman,Pirates,Rays,3.52,0.98,Under,1,HIT
+2025-04-02,Ryan Borucki,Pirates,Rays,6.09,1.59,Over,1,MISS
+2025-04-02,Luke Jackson,Rangers,Reds,2.02,2.48,Under,1,HIT
+2025-04-02,Yimi García,Blue Jays,Nationals,3.78,0.72,Under,1,HIT
+2025-04-02,Jeff Hoffman,Blue Jays,Nationals,3.78,0.72,Under,1,HIT
+2025-04-02,Sam Long,Royals,Brewers,1.96,2.54,Under,0,HIT
+2025-04-02,Ben Casparius,Dodgers,Braves,3.0,1.5,Under,3,HIT
+2025-04-02,Jack Dreyer,Dodgers,Braves,3.0,1.5,Under,1,HIT
+2025-04-02,Nate Pearson,Cubs,Athletics,2.46,2.04,Under,1,HIT
+2025-04-02,Eli Morgan,Cubs,Athletics,3.61,0.89,Under,0,HIT
+2025-04-02,Tyler Ferguson,Athletics,Cubs,2.97,1.53,Under,1,HIT
+2025-04-03,Mark Leiter Jr.,Yankees,Diamondbacks,6.09,1.59,Over,2,MISS
+2025-04-03,José Alvarado,Phillies,Rockies,7.55,3.05,Over,3,MISS
+2025-04-03,Joel Payamps,Brewers,Reds,2.0,2.5,Under,1,HIT
+2025-04-04,A.J. Puk,Diamondbacks,Nationals,6.12,1.62,Over,1,MISS
+2025-04-04,Luis García,Dodgers,Phillies,3.72,0.78,Under,1,HIT
+2025-04-04,Matt Strahm,Phillies,Dodgers,3.76,0.74,Under,1,HIT
+2025-04-04,Ryan Fernandez,Cardinals,Red Sox,0.94,3.56,Under,0,HIT
+2025-04-04,Chris Roycroft,Cardinals,Red Sox,2.05,2.45,Under,0,HIT
+2025-04-04,Greg Weissert,Red Sox,Cardinals,3.0,1.5,Under,1,HIT
+2025-04-04,Tony Santillan,Reds,Brewers,3.0,1.5,Under,1,HIT
+2025-04-04,Joel Payamps,Brewers,Reds,3.02,1.48,Under,0,HIT
+2025-04-04,Yuki Matsui,Padres,Cubs,6.78,2.28,Over,1,MISS
+2025-04-04,Ryan Pressly,Cubs,Padres,0.92,3.58,Under,1,HIT
+2025-04-04,Shawn Armstrong,Rangers,Rays,3.79,0.71,Under,2,HIT
+2025-04-04,Luke Jackson,Rangers,Rays,2.06,2.44,Under,2,HIT
+2025-04-04,Tyler Ferguson,Athletics,Rockies,3.78,0.72,Under,0,HIT
+2025-04-04,José Leclerc,Athletics,Rockies,2.58,1.92,Under,2,HIT
+2025-04-04,Angel Chivilli,Rockies,Athletics,2.02,2.48,Under,0,HIT
+2025-04-04,Tim Herrin,Guardians,Angels,2.99,1.51,Under,2,HIT
+2025-04-04,Paul Sewald,Guardians,Angels,2.98,1.52,Under,1,HIT
+2025-04-04,Ryan Zeferjahn,Angels,Guardians,2.06,2.44,Under,0,HIT
+2025-04-04,Gabe Speier,Mariners,Giants,3.78,0.72,Under,2,HIT
+2025-04-04,Randy Rodríguez,Giants,Mariners,6.67,2.17,Over,2,MISS
+2025-04-04,Erik Miller,Giants,Mariners,2.05,2.45,Under,0,HIT
+2025-04-04,Ryan Walker,Giants,Mariners,2.06,2.44,Under,1,HIT
+2025-04-05,Joe Mantiply,Diamondbacks,Nationals,2.04,2.46,Under,2,HIT
+2025-04-05,Cam Booser,White Sox,Tigers,5.83,1.33,Over,1,MISS
+2025-04-05,Beau Brieske,Tigers,White Sox,2.0,2.5,Under,0,HIT
+2025-04-05,Ben Casparius,Dodgers,Phillies,5.03,0.53,Over,1,MISS
+2025-04-05,Enyel De Los Santos,Braves,Marlins,3.78,0.72,Under,3,HIT
+2025-04-05,Tim Hill,Yankees,Pirates,2.98,1.52,Under,0,HIT
+2025-04-05,Mark Leiter Jr.,Yankees,Pirates,6.09,1.59,Over,0,MISS
+2025-04-05,Colin Holderman,Pirates,Yankees,2.96,1.54,Under,2,HIT
+2025-04-05,Caleb Ferguson,Pirates,Yankees,1.63,2.87,Under,0,HIT
+2025-04-05,Ryan Borucki,Pirates,Yankees,6.09,1.59,Over,0,MISS
+2025-04-05,Yimi García,Blue Jays,Mets,3.78,0.72,Under,0,HIT
+2025-04-05,Nick Sandlin,Blue Jays,Mets,4.28,0.22,Under,1,HIT
+2025-04-05,Jeff Hoffman,Blue Jays,Mets,3.78,0.72,Under,0,HIT
+2025-04-05,Matt Bowman,Orioles,Royals,1.99,2.51,Under,0,HIT
+2025-04-05,Sam Long,Royals,Orioles,2.05,2.45,Under,1,HIT
+2025-04-05,Tony Santillan,Reds,Brewers,2.03,2.47,Under,3,HIT
+2025-04-05,Nate Pearson,Cubs,Padres,1.3,3.2,Under,0,HIT
+2025-04-05,Caleb Thielbar,Cubs,Padres,2.64,1.86,Under,1,HIT
+2025-04-05,Luke Jackson,Rangers,Rays,3.79,0.71,Under,0,HIT
+2025-04-05,Tyler Ferguson,Athletics,Rockies,2.05,2.45,Under,0,HIT
+2025-04-05,Scott Alexander,Rockies,Athletics,1.03,3.47,Under,0,HIT
+2025-04-05,Ryan Walker,Giants,Mariners,3.0,1.5,Under,1,HIT
+2025-04-06,Joe Mantiply,Diamondbacks,Nationals,2.98,1.52,Under,0,HIT
+2025-04-06,Kyle Finnegan,Nationals,Diamondbacks,2.65,1.85,Under,1,HIT
+2025-04-06,Mike Clevinger,White Sox,Tigers,2.03,2.47,Under,0,HIT
+2025-04-06,Cam Booser,White Sox,Tigers,3.73,0.77,Under,1,HIT
+2025-04-06,Penn Murfee,White Sox,Tigers,2.98,1.52,Under,0,HIT
+2025-04-06,John Brebbia,Tigers,White Sox,3.78,0.72,Under,0,HIT
+2025-04-06,Jack Dreyer,Dodgers,Phillies,3.0,1.5,Under,4,HIT
+2025-04-06,Luis García,Dodgers,Phillies,4.82,0.32,Over,0,MISS
+2025-04-06,Orion Kerkering,Phillies,Dodgers,3.0,1.5,Under,0,HIT
+2025-04-06,Matt Strahm,Phillies,Dodgers,3.76,0.74,Under,1,HIT
+2025-04-06,José Alvarado,Phillies,Dodgers,7.5,3.0,Over,0,MISS
+2025-04-06,Brent Headrick,Yankees,Pirates,5.27,0.77,Over,4,MISS
+2025-04-06,Ryan Borucki,Pirates,Yankees,3.79,0.71,Under,1,HIT
+2025-04-06,Caleb Ferguson,Pirates,Yankees,0.2,4.3,Under,0,HIT
+2025-04-06,Chris Roycroft,Cardinals,Red Sox,1.0,3.5,Under,2,HIT
+2025-04-06,Max Kranick,Mets,Blue Jays,2.35,2.15,Under,1,HIT
+2025-04-06,Reed Garrett,Mets,Blue Jays,3.79,0.71,Under,1,HIT
+2025-04-06,A.J. Minter,Mets,Blue Jays,6.12,1.62,Over,2,MISS
+2025-04-06,Ian Gibaut,Reds,Brewers,3.75,0.75,Under,1,HIT
+2025-04-06,Luis Contreras,Astros,Twins,6.24,1.74,Over,1,MISS
+2025-04-06,Danny Coulombe,Twins,Astros,1.04,3.46,Under,0,HIT
+2025-04-06,Caleb Thielbar,Cubs,Padres,2.64,1.86,Under,1,HIT
+2025-04-06,Julian Merryweather,Cubs,Padres,0.23,4.27,Under,2,HIT
+2025-04-06,Brad Keller,Cubs,Padres,3.78,0.72,Under,2,HIT
+2025-04-06,Ryan Pressly,Cubs,Padres,1.96,2.54,Under,0,HIT
+2025-04-06,T.J. McFarland,Athletics,Rockies,1.06,3.44,Under,1,HIT
+2025-04-06,Luis Peralta,Rockies,Athletics,2.96,1.54,Under,0,HIT
+2025-04-06,Paul Sewald,Guardians,Angels,2.98,1.52,Under,1,HIT
+2025-04-06,Ryan Zeferjahn,Angels,Guardians,1.03,3.47,Under,3,HIT
+2025-04-06,Ben Joyce,Angels,Guardians,0.23,4.27,Under,1,HIT
+2025-04-06,Randy Rodríguez,Giants,Mariners,5.85,1.35,Over,1,MISS
+2025-04-06,Erik Miller,Giants,Mariners,1.07,3.43,Under,0,HIT
+2025-04-06,JoJo Romero,Cardinals,Red Sox,1.01,3.49,Under,1,HIT
+2025-04-06,Ryan Helsley,Cardinals,Red Sox,6.67,2.17,Over,2,MISS
+2025-04-06,Ryan Fernandez,Cardinals,Red Sox,1.09,3.41,Under,0,HIT
+2025-04-06,Greg Weissert,Red Sox,Cardinals,3.0,1.5,Under,1,HIT
+2025-04-07,Kyle Finnegan,Nationals,Dodgers,2.06,2.44,Under,2,HIT
+2025-04-07,Lake Bachar,Marlins,Mets,2.26,2.24,Under,2,HIT
+2025-04-07,Tim Hill,Yankees,Tigers,2.99,1.51,Under,1,HIT
+2025-04-07,Beau Brieske,Tigers,Yankees,0.89,3.61,Under,0,HIT
+2025-04-07,Chris Roycroft,Cardinals,Pirates,2.02,2.48,Under,0,HIT
+2025-04-07,Yimi García,Blue Jays,Red Sox,3.0,1.5,Under,1,HIT
+2025-04-07,Jeff Hoffman,Blue Jays,Red Sox,2.05,2.45,Under,1,HIT
+2025-04-07,Greg Weissert,Red Sox,Blue Jays,2.99,1.51,Under,1,HIT
+2025-04-07,Ryan Thompson,Diamondbacks,Orioles,2.04,2.46,Under,2,HIT
+2025-04-07,Tony Santillan,Reds,Giants,5.24,0.74,Over,0,MISS
+2025-04-07,Erik Miller,Giants,Reds,1.04,3.46,Under,1,HIT
+2025-04-07,Lou Trivino,Giants,Reds,2.02,2.48,Under,2,HIT
+2025-04-07,Noah Murdock,Athletics,Padres,4.11,0.39,Under,2,HIT
+2025-04-08,Mike Clevinger,White Sox,Guardians,1.63,2.87,Under,0,HIT
+2025-04-08,Paul Sewald,Guardians,White Sox,2.99,1.51,Under,1,HIT
+2025-04-08,Ben Casparius,Dodgers,Nationals,5.34,0.84,Over,2,MISS
+2025-04-08,Luis García,Dodgers,Nationals,2.99,1.51,Under,0,HIT
+2025-04-08,Ronny Henriquez,Marlins,Mets,6.0,1.5,Over,1,MISS
+2025-04-08,A.J. Minter,Mets,Marlins,6.7,2.2,Over,1,MISS
+2025-04-08,Reed Garrett,Mets,Marlins,2.99,1.51,Under,1,HIT
+2025-04-08,Ryan Yarbrough,Yankees,Tigers,5.95,1.45,Over,3,MISS
+2025-04-08,Matt Strahm,Phillies,Braves,3.76,0.74,Under,1,HIT
+2025-04-08,Orion Kerkering,Phillies,Braves,2.06,2.44,Under,0,HIT
+2025-04-08,Enyel De Los Santos,Braves,Phillies,6.46,1.96,Over,2,MISS
+2025-04-08,JoJo Romero,Cardinals,Pirates,2.03,2.47,Under,0,HIT
+2025-04-08,Tim Mayza,Pirates,Cardinals,3.78,0.72,Under,2,HIT
+2025-04-08,Danny Coulombe,Twins,Royals,1.06,3.44,Under,2,HIT
+2025-04-08,John Schreiber,Royals,Twins,3.77,0.73,Under,1,HIT
+2025-04-08,Marc Church,Rangers,Cubs,3.21,1.29,Under,1,HIT
+2025-04-08,Shawn Armstrong,Rangers,Cubs,5.24,0.74,Over,1,MISS
+2025-04-08,Hoby Milner,Rangers,Cubs,3.73,0.77,Under,0,HIT
+2025-04-08,Julian Merryweather,Cubs,Rangers,2.05,2.45,Under,1,HIT
+2025-04-08,Ryan Pressly,Cubs,Rangers,1.01,3.49,Under,0,HIT
+2025-04-08,Joel Payamps,Brewers,Rockies,2.05,2.45,Under,2,HIT
+2025-04-08,Angel Chivilli,Rockies,Brewers,1.65,2.85,Under,1,HIT
+2025-04-08,A.J. Puk,Diamondbacks,Orioles,3.77,0.73,Under,1,HIT
+2025-04-08,Luis Castillo,Mariners,Astros,7.12,2.62,Over,6,HIT
+2025-04-08,Gabe Speier,Mariners,Astros,6.4,1.9,Over,0,MISS
+2025-04-08,Ryan Zeferjahn,Angels,Rays,3.79,0.71,Under,2,HIT
+2025-04-08,Ben Joyce,Angels,Rays,1.03,3.47,Under,0,HIT
+2025-04-08,Pete Fairbanks,Rays,Angels,6.06,1.56,Over,1,MISS
+2025-04-08,Yuki Matsui,Padres,Athletics,6.2,1.7,Over,1,MISS
+2025-04-08,José Leclerc,Athletics,Padres,2.92,1.58,Under,1,HIT
+2025-04-08,Tyler Ferguson,Athletics,Padres,1.04,3.46,Under,3,HIT
+2025-04-09,Penn Murfee,White Sox,Guardians,0.06,4.44,Under,1,HIT
+2025-04-09,Paul Sewald,Guardians,White Sox,2.99,1.51,Under,3,HIT
+2025-04-09,Tim Herrin,Guardians,White Sox,3.0,1.5,Under,0,HIT
+2025-04-09,Jack Dreyer,Dodgers,Nationals,6.76,2.26,Over,2,MISS
+2025-04-09,Lake Bachar,Marlins,Mets,2.97,1.53,Under,1,HIT
+2025-04-09,Max Kranick,Mets,Marlins,4.07,0.43,Under,2,HIT
+2025-04-09,Ryne Stanek,Mets,Marlins,2.03,2.47,Under,2,HIT
+2025-04-09,Luke Weaver,Yankees,Tigers,5.61,1.11,Over,1,MISS
+2025-04-09,Devin Williams,Yankees,Tigers,2.97,1.53,Under,2,HIT
+2025-04-09,Mark Leiter Jr.,Yankees,Tigers,2.96,1.54,Under,0,HIT
+2025-04-09,John Brebbia,Tigers,Yankees,2.05,2.45,Under,1,HIT
+2025-04-09,Joe Ross,Phillies,Braves,2.94,1.56,Under,0,HIT
+2025-04-09,José Alvarado,Phillies,Braves,5.88,1.38,Over,2,MISS
+2025-04-09,Ryan Fernandez,Cardinals,Pirates,0.85,3.65,Under,2,HIT
+2025-04-09,JoJo Romero,Cardinals,Pirates,2.04,2.46,Under,0,HIT
+2025-04-09,Ryan Helsley,Cardinals,Pirates,5.62,1.12,Over,1,MISS
+2025-04-09,Chris Roycroft,Cardinals,Pirates,2.64,1.86,Under,0,HIT
+2025-04-09,Caleb Ferguson,Pirates,Cardinals,0.2,4.3,Under,1,HIT
+2025-04-09,Ryan Borucki,Pirates,Cardinals,2.02,2.48,Under,0,HIT
+2025-04-09,Jeff Hoffman,Blue Jays,Red Sox,2.05,2.45,Under,3,HIT
+2025-04-09,Nick Sandlin,Blue Jays,Red Sox,5.14,0.64,Over,1,MISS
+2025-04-09,Greg Weissert,Red Sox,Blue Jays,2.98,1.52,Under,0,HIT
+2025-04-09,Sam Long,Royals,Twins,2.02,2.48,Under,2,HIT
+2025-04-09,Chris Stratton,Royals,Twins,2.46,2.04,Under,2,HIT
+2025-04-09,Luke Jackson,Rangers,Cubs,2.99,1.51,Under,0,HIT
+2025-04-09,Nate Pearson,Cubs,Rangers,0.95,3.55,Under,2,HIT
+2025-04-09,Eli Morgan,Cubs,Rangers,2.52,1.98,Under,0,HIT
+2025-04-09,Tyler Alexander,Brewers,Rockies,8.08,3.58,Over,3,MISS
+2025-04-09,Luis Peralta,Rockies,Brewers,2.05,2.45,Under,0,HIT
+2025-04-09,Angel Chivilli,Rockies,Brewers,0.88,3.62,Under,0,HIT
+2025-04-09,Seth Halvorsen,Rockies,Brewers,3.79,0.71,Under,1,HIT
+2025-04-09,Matt Bowman,Orioles,Diamondbacks,1.03,3.47,Under,1,HIT
+2025-04-09,Tony Santillan,Reds,Giants,3.79,0.71,Under,0,HIT
+2025-04-09,Ian Gibaut,Reds,Giants,2.99,1.51,Under,0,HIT
+2025-04-09,Lou Trivino,Giants,Reds,2.96,1.54,Under,1,HIT
+2025-04-09,Randy Rodríguez,Giants,Reds,5.58,1.08,Over,1,MISS
+2025-04-09,Ryan Walker,Giants,Reds,2.05,2.45,Under,1,HIT
+2025-04-09,Erik Miller,Giants,Reds,1.63,2.87,Under,1,HIT
+2025-04-09,Luis Contreras,Astros,Mariners,4.69,0.19,Over,1,MISS
+2025-04-09,Luis Castillo,Mariners,Astros,9.32,4.82,Over,3,MISS
+2025-04-09,Reid Detmers,Angels,Rays,4.28,0.22,Under,2,HIT
+2025-04-09,Mason Montgomery,Rays,Angels,7.59,3.09,Over,0,MISS
+2025-04-09,Pete Fairbanks,Rays,Angels,3.78,0.72,Under,1,HIT
+2025-04-09,Noah Murdock,Athletics,Padres,4.81,0.31,Over,1,MISS
+2025-04-09,T.J. McFarland,Athletics,Padres,0.8,3.7,Under,0,HIT
+2025-04-10,Ryan Johnson,Angels,Rays,1.98,2.52,Under,1,HIT
+2025-04-10,Mike Clevinger,White Sox,Guardians,1.38,3.12,Under,0,HIT
+2025-04-10,Joey Cantillo,Guardians,White Sox,3.41,1.09,Under,4,HIT
+2025-04-10,Matt Strahm,Phillies,Braves,2.99,1.51,Under,2,HIT
+2025-04-10,Joe Ross,Phillies,Braves,2.0,2.5,Under,0,HIT
+2025-04-10,Enyel De Los Santos,Braves,Phillies,5.25,0.75,Over,1,MISS
+2025-04-10,Yimi García,Blue Jays,Red Sox,2.03,2.47,Under,2,HIT
+2025-04-10,Nick Sandlin,Blue Jays,Red Sox,3.79,0.71,Under,0,HIT
+2025-04-10,Danny Coulombe,Twins,Royals,2.99,1.51,Under,0,HIT
+2025-04-10,John Schreiber,Royals,Twins,3.0,1.5,Under,1,HIT
+2025-04-10,Joel Payamps,Brewers,Rockies,2.99,1.51,Under,1,HIT
+2025-04-10,Scott Alexander,Rockies,Brewers,0.86,3.64,Under,1,HIT
+2025-04-10,Seth Halvorsen,Rockies,Brewers,3.84,0.66,Under,1,HIT
+2025-04-11,Mason Montgomery,Rays,Braves,6.7,2.2,Over,1,MISS
+2025-04-11,Pete Fairbanks,Rays,Braves,3.0,1.5,Under,0,HIT
+2025-04-11,Chris Stratton,Royals,Guardians,3.77,0.73,Under,0,HIT
+2025-04-11,Tim Herrin,Guardians,Royals,2.97,1.53,Under,0,HIT
+2025-04-11,Ryan Yarbrough,Yankees,Giants,8.04,3.54,Over,3,MISS
+2025-04-11,Tim Hill,Yankees,Giants,1.03,3.47,Under,0,HIT
+2025-04-11,Kyle Finnegan,Nationals,Marlins,2.92,1.58,Under,1,HIT
+2025-04-11,Lake Bachar,Marlins,Nationals,3.76,0.74,Under,0,HIT
+2025-04-11,Ian Anderson,Angels,Astros,3.66,0.84,Under,2,HIT
+2025-04-11,Luis Contreras,Astros,Angels,3.46,1.04,Under,0,HIT
+2025-04-11,Cam Booser,White Sox,Red Sox,3.0,1.5,Under,0,HIT
+2025-04-11,Penn Murfee,White Sox,Red Sox,0.98,3.52,Under,3,HIT
+2025-04-11,Beau Brieske,Tigers,Twins,0.99,3.51,Under,1,HIT
+2025-04-11,Danny Coulombe,Twins,Tigers,2.02,2.48,Under,1,HIT
+2025-04-11,Ryan Helsley,Cardinals,Phillies,4.29,0.21,Under,0,HIT
+2025-04-11,Eli Morgan,Cubs,Dodgers,-0.41,4.91,Under,0,HIT
+2025-04-11,Angel Chivilli,Rockies,Padres,1.03,3.47,Under,2,HIT
+2025-04-11,Luis Peralta,Rockies,Padres,2.03,2.47,Under,1,HIT
+2025-04-11,Yuki Matsui,Padres,Rockies,3.76,0.74,Under,3,HIT
+2025-04-11,Ryan Thompson,Diamondbacks,Brewers,3.77,0.73,Under,0,HIT
+2025-04-11,Joe Mantiply,Diamondbacks,Brewers,2.99,1.51,Under,1,HIT
+2025-04-11,Marc Church,Rangers,Mariners,4.29,0.21,Under,1,HIT
+2025-04-11,Hoby Milner,Rangers,Mariners,3.0,1.5,Under,2,HIT
+2025-04-11,Gabe Speier,Mariners,Rangers,2.99,1.51,Under,2,HIT
+2025-04-11,Reed Garrett,Mets,Athletics,3.78,0.72,Under,1,HIT
+2025-04-11,Ryne Stanek,Mets,Athletics,3.79,0.71,Under,1,HIT
+2025-04-11,A.J. Minter,Mets,Athletics,6.67,2.17,Over,1,MISS
+2025-04-11,José Leclerc,Athletics,Mets,3.0,1.5,Under,1,HIT
+2025-04-12,Sam Long,Royals,Guardians,2.96,1.54,Under,1,HIT
+2025-04-12,Tim Herrin,Guardians,Royals,2.03,2.47,Under,1,HIT
+2025-04-12,Paul Sewald,Guardians,Royals,5.06,0.56,Over,1,MISS
+2025-04-12,Tim Mayza,Pirates,Reds,6.14,1.64,Over,1,MISS
+2025-04-12,Ian Gibaut,Reds,Pirates,2.05,2.45,Under,2,HIT
+2025-04-12,Tony Santillan,Reds,Pirates,2.99,1.51,Under,1,HIT
+2025-04-12,Randy Rodríguez,Giants,Yankees,3.78,0.72,Under,2,HIT
+2025-04-12,Lou Trivino,Giants,Yankees,4.27,0.23,Under,3,HIT
+2025-04-12,Luke Weaver,Yankees,Giants,3.71,0.79,Under,2,HIT
+2025-04-12,Mark Leiter Jr.,Yankees,Giants,2.05,2.45,Under,1,HIT
+2025-04-12,Devin Williams,Yankees,Giants,3.58,0.92,Under,2,HIT
+2025-04-12,Mason Fluharty,Blue Jays,Orioles,2.05,2.45,Under,1,HIT
+2025-04-12,Félix Bautista,Orioles,Blue Jays,3.52,0.98,Under,1,HIT
+2025-04-12,Ronny Henriquez,Marlins,Nationals,6.36,1.86,Over,2,MISS
+2025-04-12,Ryan Johnson,Angels,Astros,2.06,2.44,Under,1,HIT
+2025-04-12,Ryan Zeferjahn,Angels,Astros,5.88,1.38,Over,2,MISS
+2025-04-12,Penn Murfee,White Sox,Red Sox,3.79,0.71,Under,1,HIT
+2025-04-12,John Brebbia,Tigers,Twins,2.94,1.56,Under,2,HIT
+2025-04-12,Orion Kerkering,Phillies,Cardinals,2.03,2.47,Under,1,HIT
+2025-04-12,José Alvarado,Phillies,Cardinals,5.01,0.51,Over,1,MISS
+2025-04-12,Ben Brown,Cubs,Dodgers,7.38,2.88,Over,5,HIT
+2025-04-12,Julian Merryweather,Cubs,Dodgers,2.98,1.52,Under,1,HIT
+2025-04-12,Caleb Thielbar,Cubs,Dodgers,3.57,0.93,Under,1,HIT
+2025-04-12,Nate Pearson,Cubs,Dodgers,2.98,1.52,Under,0,HIT
+2025-04-12,Roki Sasaki,Dodgers,Cubs,8.15,3.65,Over,3,MISS
+2025-04-12,Ben Casparius,Dodgers,Cubs,6.08,1.58,Over,1,MISS
+2025-04-12,Luis García,Dodgers,Cubs,1.02,3.48,Under,0,HIT
+2025-04-12,Chad Patrick,Brewers,Diamondbacks,8.66,4.16,Over,3,MISS
+2025-04-12,Joel Payamps,Brewers,Diamondbacks,2.74,1.76,Under,0,HIT
+2025-04-12,Ryne Nelson,Diamondbacks,Brewers,7.77,3.27,Over,3,MISS
+2025-04-12,Shawn Armstrong,Rangers,Mariners,3.69,0.81,Under,2,HIT
+2025-04-12,Tyler Ferguson,Athletics,Mets,3.0,1.5,Under,2,HIT
+2025-04-13,Enyel De Los Santos,Braves,Rays,5.25,0.75,Over,1,MISS
+2025-04-13,Mason Montgomery,Rays,Braves,3.77,0.73,Under,1,HIT
+2025-04-13,Cole Ragans,Royals,Guardians,9.1,4.6,Over,10,HIT
+2025-04-13,Ben Lively,Guardians,Royals,7.12,2.62,Over,5,HIT
+2025-04-13,Joey Cantillo,Guardians,Royals,7.54,3.04,Over,4,MISS
+2025-04-13,Ryan Borucki,Pirates,Reds,0.83,3.67,Under,1,HIT
+2025-04-13,Caleb Ferguson,Pirates,Reds,1.04,3.46,Under,0,HIT
+2025-04-13,Ian Gibaut,Reds,Pirates,2.99,1.51,Under,0,HIT
+2025-04-13,Tony Santillan,Reds,Pirates,1.03,3.47,Under,1,HIT
+2025-04-13,Ryan Walker,Giants,Yankees,2.99,1.51,Under,1,HIT
+2025-04-13,Mark Leiter Jr.,Yankees,Giants,1.07,3.43,Under,1,HIT
+2025-04-13,Tim Hill,Yankees,Giants,1.01,3.49,Under,3,HIT
+2025-04-13,José Berríos,Blue Jays,Orioles,7.38,2.88,Over,6,HIT
+2025-04-13,Nick Sandlin,Blue Jays,Orioles,2.05,2.45,Under,0,HIT
+2025-04-13,Mason Fluharty,Blue Jays,Orioles,2.05,2.45,Under,1,HIT
+2025-04-13,Yimi García,Blue Jays,Orioles,3.54,0.96,Under,2,HIT
+2025-04-13,Jeff Hoffman,Blue Jays,Orioles,3.79,0.71,Under,4,HIT
+2025-04-13,Matt Bowman,Orioles,Blue Jays,0.98,3.52,Under,0,HIT
+2025-04-13,Ronny Henriquez,Marlins,Nationals,5.52,1.02,Over,0,MISS
+2025-04-13,Tyler Phillips,Marlins,Nationals,2.65,1.85,Under,2,HIT
+2025-04-13,Reid Detmers,Angels,Astros,3.0,1.5,Under,0,HIT
+2025-04-13,Mike Clevinger,White Sox,Red Sox,0.45,4.05,Under,1,HIT
+2025-04-13,Cam Booser,White Sox,Red Sox,2.03,2.47,Under,2,HIT
+2025-04-13,Zack Wheeler,Phillies,Cardinals,7.38,2.88,Over,3,MISS
+2025-04-13,Matt Strahm,Phillies,Cardinals,3.78,0.72,Under,3,HIT
+2025-04-13,JoJo Romero,Cardinals,Phillies,1.03,3.47,Under,1,HIT
+2025-04-13,Brad Keller,Cubs,Dodgers,3.0,1.5,Under,1,HIT
+2025-04-13,Caleb Thielbar,Cubs,Dodgers,2.97,1.53,Under,0,HIT
+2025-04-13,Julian Merryweather,Cubs,Dodgers,3.77,0.73,Under,1,HIT
+2025-04-13,Ryan Pressly,Cubs,Dodgers,1.01,3.49,Under,1,HIT
+2025-04-13,Jack Dreyer,Dodgers,Cubs,7.91,3.41,Over,2,MISS
+2025-04-13,Kyle Freeland,Rockies,Padres,8.14,3.64,Over,2,MISS
+2025-04-13,Angel Chivilli,Rockies,Padres,2.93,1.57,Under,0,HIT
+2025-04-13,Grant Anderson,Brewers,Diamondbacks,7.57,3.07,Over,1,MISS
+2025-04-13,Zac Gallen,Diamondbacks,Brewers,7.38,2.88,Over,5,HIT
+2025-04-13,A.J. Puk,Diamondbacks,Brewers,2.99,1.51,Under,3,HIT
+2025-04-13,Hoby Milner,Rangers,Mariners,3.78,0.72,Under,2,HIT
+2025-04-13,Gabe Speier,Mariners,Rangers,3.78,0.72,Under,0,HIT
+2025-04-13,A.J. Minter,Mets,Athletics,3.78,0.72,Under,1,HIT
+2025-04-13,Max Kranick,Mets,Athletics,3.87,0.63,Under,1,HIT
+2025-04-13,Luis Severino,Athletics,Mets,7.38,2.88,Over,6,HIT
+2025-04-13,T.J. McFarland,Athletics,Mets,0.91,3.59,Under,0,HIT
+2025-04-13,Noah Murdock,Athletics,Mets,6.76,2.26,Over,1,MISS
+2025-04-13,José Leclerc,Athletics,Mets,3.71,0.79,Under,0,HIT
+2025-04-14,Greg Weissert,Red Sox,Rays,2.04,2.46,Under,2,HIT
+2025-04-14,Josh Winckowski,Red Sox,Rays,2.31,2.19,Under,3,HIT
+2025-04-14,John Schreiber,Royals,Yankees,3.71,0.79,Under,1,HIT
+2025-04-14,Tim Hill,Yankees,Royals,3.73,0.77,Under,1,HIT
+2025-04-14,Luke Weaver,Yankees,Royals,5.89,1.39,Over,0,MISS
+2025-04-14,Devin Williams,Yankees,Royals,4.27,0.23,Under,0,HIT
+2025-04-14,Randy Rodríguez,Giants,Phillies,3.78,0.72,Under,1,HIT
+2025-04-14,Erik Miller,Giants,Phillies,2.03,2.47,Under,1,HIT
+2025-04-14,Joe Ross,Phillies,Giants,0.95,3.55,Under,1,HIT
+2025-04-14,Paul Skenes,Pirates,Nationals,8.6,4.1,Over,6,HIT
+2025-04-14,Caleb Ferguson,Pirates,Nationals,1.04,3.46,Under,0,HIT
+2025-04-14,Tyler Alexander,Brewers,Tigers,9.53,5.03,Over,2,MISS
+2025-04-14,Elvin Rodríguez,Brewers,Tigers,5.06,0.56,Over,7,HIT
+2025-04-14,Luis Contreras,Astros,Cardinals,2.07,2.43,Under,2,HIT
+2025-04-14,Ryan Fernandez,Cardinals,Astros,2.02,2.48,Under,0,HIT
+2025-04-14,Clay Holmes,Mets,Twins,7.38,2.88,Over,8,HIT
+2025-04-14,Reed Garrett,Mets,Twins,2.97,1.53,Under,2,HIT
+2025-04-14,Ryne Stanek,Mets,Twins,3.78,0.72,Under,2,HIT
+2025-04-14,Joe Ryan,Twins,Mets,10.13,5.63,Over,8,HIT
+2025-04-14,Brad Keller,Cubs,Padres,3.79,0.71,Under,2,HIT
+2025-04-14,Nate Pearson,Cubs,Padres,2.04,2.46,Under,0,HIT
+2025-04-14,Eli Morgan,Cubs,Padres,0.23,4.27,Under,0,HIT
+2025-04-14,Luis Peralta,Rockies,Dodgers,1.04,3.46,Under,0,HIT
+2025-04-15,Joe Mantiply,Diamondbacks,Marlins,3.02,1.48,Under,1,HIT
+2025-04-15,Lake Bachar,Marlins,Diamondbacks,2.97,1.53,Under,0,HIT
+2025-04-15,Mason Fluharty,Blue Jays,Braves,3.0,1.5,Under,0,HIT
+2025-04-15,Nick Sandlin,Blue Jays,Braves,1.03,3.47,Under,1,HIT
+2025-04-15,Ryan Pepiot,Rays,Red Sox,7.86,3.36,Over,8,HIT
+2025-04-15,Paul Sewald,Guardians,Orioles,5.27,0.77,Over,1,MISS
+2025-04-15,Joey Cantillo,Guardians,Orioles,9.82,5.32,Over,1,MISS
+2025-04-15,Matt Bowman,Orioles,Guardians,1.03,3.47,Under,0,HIT
+2025-04-15,Max Fried,Yankees,Royals,11.05,6.55,Over,7,HIT
+2025-04-15,Luke Weaver,Yankees,Royals,2.97,1.53,Under,1,HIT
+2025-04-15,Devin Williams,Yankees,Royals,3.84,0.66,Under,1,HIT
+2025-04-15,Luis Castillo,Mariners,Reds,7.6,3.1,Over,3,MISS
+2025-04-15,Nick Lodolo,Reds,Mariners,8.15,3.65,Over,6,HIT
+2025-04-15,Tony Santillan,Reds,Mariners,2.05,2.45,Under,1,HIT
+2025-04-15,Randy Rodríguez,Giants,Phillies,3.78,0.72,Under,0,HIT
+2025-04-15,Orion Kerkering,Phillies,Giants,1.01,3.49,Under,1,HIT
+2025-04-15,José Alvarado,Phillies,Giants,2.99,1.51,Under,1,HIT
+2025-04-15,Matt Strahm,Phillies,Giants,6.46,1.96,Over,1,MISS
+2025-04-15,Kyle Finnegan,Nationals,Pirates,3.73,0.77,Under,2,HIT
+2025-04-15,Ryan Borucki,Pirates,Nationals,2.02,2.48,Under,0,HIT
+2025-04-15,Tim Mayza,Pirates,Nationals,5.12,0.62,Over,0,MISS
+2025-04-15,Reid Detmers,Angels,Rangers,1.96,2.54,Under,0,HIT
+2025-04-15,Ryan Johnson,Angels,Rangers,2.06,2.44,Under,2,HIT
+2025-04-15,Luke Jackson,Rangers,Angels,2.05,2.45,Under,1,HIT
+2025-04-15,Jack Flaherty,Tigers,Brewers,10.29,5.79,Over,4,MISS
+2025-04-15,John Brebbia,Tigers,Brewers,2.94,1.56,Under,0,HIT
+2025-04-15,Grant Anderson,Brewers,Tigers,7.39,2.89,Over,1,MISS
+2025-04-15,Max Kranick,Mets,Twins,3.78,0.72,Under,1,HIT
+2025-04-15,Penn Murfee,White Sox,Athletics,6.4,1.9,Over,0,MISS
+2025-04-15,Mike Clevinger,White Sox,Athletics,1.63,2.87,Under,0,HIT
+2025-04-15,Julian Merryweather,Cubs,Padres,2.99,1.51,Under,1,HIT
+2025-04-15,Ryan Pressly,Cubs,Padres,1.04,3.46,Under,1,HIT
+2025-04-15,Caleb Thielbar,Cubs,Padres,2.02,2.48,Under,1,HIT
+2025-04-15,Yuki Matsui,Padres,Cubs,6.2,1.7,Over,2,MISS
+2025-04-15,Ryan Feltner,Rockies,Dodgers,9.1,4.6,Over,1,MISS
+2025-04-15,Scott Alexander,Rockies,Dodgers,2.05,2.45,Under,1,HIT
+2025-04-15,Seth Halvorsen,Rockies,Dodgers,3.84,0.66,Under,0,HIT
+2025-04-15,Jack Dreyer,Dodgers,Rockies,8.77,4.27,Over,4,MISS
+2025-04-15,Luis García,Dodgers,Rockies,0.44,4.06,Under,1,HIT
+2025-04-16,A.J. Puk,Diamondbacks,Marlins,6.09,1.59,Over,1,MISS
+2025-04-16,Max Meyer,Marlins,Diamondbacks,9.79,5.29,Over,8,HIT
+2025-04-16,Tyler Phillips,Marlins,Diamondbacks,2.92,1.58,Under,1,HIT
+2025-04-16,Nick Sandlin,Blue Jays,Braves,1.02,3.48,Under,1,HIT
+2025-04-16,Yimi García,Blue Jays,Braves,5.18,0.68,Over,4,MISS
+2025-04-16,Jeff Hoffman,Blue Jays,Braves,6.4,1.9,Over,1,MISS
+2025-04-16,Sean Newcomb,Red Sox,Rays,7.38,2.88,Over,4,MISS
+2025-04-16,Greg Weissert,Red Sox,Rays,2.98,1.52,Under,3,HIT
+2025-04-16,Zack Littell,Rays,Red Sox,8.6,4.1,Over,5,HIT
+2025-04-16,Gavin Williams,Guardians,Orioles,9.32,4.82,Over,4,MISS
+2025-04-16,Joey Cantillo,Guardians,Orioles,8.7,4.2,Over,1,MISS
+2025-04-16,Dean Kremer,Orioles,Guardians,8.34,3.84,Over,2,MISS
+2025-04-16,John Schreiber,Royals,Yankees,3.0,1.5,Under,0,HIT
+2025-04-16,Mark Leiter Jr.,Yankees,Royals,2.06,2.44,Under,2,HIT
+2025-04-16,Gabe Speier,Mariners,Reds,2.05,2.45,Under,1,HIT
+2025-04-16,Nick Martinez,Reds,Mariners,7.17,2.67,Over,4,MISS
+2025-04-16,Ian Gibaut,Reds,Mariners,2.05,2.45,Under,1,HIT
+2025-04-16,Lou Trivino,Giants,Phillies,4.94,0.44,Over,2,MISS
+2025-04-16,Joe Ross,Phillies,Giants,1.01,3.49,Under,1,HIT
+2025-04-16,Caleb Ferguson,Pirates,Nationals,1.03,3.47,Under,1,HIT
+2025-04-16,José Soriano,Angels,Rangers,7.86,3.36,Over,2,MISS
+2025-04-16,Shawn Armstrong,Rangers,Angels,5.24,0.74,Over,2,MISS
+2025-04-16,Luke Jackson,Rangers,Angels,1.03,3.47,Under,0,HIT
+2025-04-16,Grant Anderson,Brewers,Tigers,5.32,0.82,Over,3,MISS
+2025-04-16,Ryan Fernandez,Cardinals,Astros,2.06,2.44,Under,1,HIT
+2025-04-16,Ryan Helsley,Cardinals,Astros,3.52,0.98,Under,0,HIT
+2025-04-16,Ryne Stanek,Mets,Twins,6.4,1.9,Over,1,MISS
+2025-04-16,A.J. Minter,Mets,Twins,2.99,1.51,Under,2,HIT
+2025-04-16,Reed Garrett,Mets,Twins,3.76,0.74,Under,0,HIT
+2025-04-16,Danny Coulombe,Twins,Mets,2.96,1.54,Under,1,HIT
+2025-04-16,T.J. McFarland,Athletics,White Sox,1.0,3.5,Under,0,HIT
+2025-04-16,José Leclerc,Athletics,White Sox,1.98,2.52,Under,1,HIT
+2025-04-16,Tyler Ferguson,Athletics,White Sox,5.86,1.36,Over,1,MISS
+2025-04-16,Nick Pivetta,Padres,Cubs,10.08,5.58,Over,6,HIT
+2025-04-16,Angel Chivilli,Rockies,Dodgers,1.99,2.51,Under,4,HIT
+2025-04-16,Luis Peralta,Rockies,Dodgers,1.24,3.26,Under,1,HIT
+2025-04-16,Scott Alexander,Rockies,Dodgers,2.05,2.45,Under,0,HIT
+2025-04-16,Ben Casparius,Dodgers,Rockies,2.61,1.89,Under,3,HIT
+2025-04-17,Ryan Thompson,Diamondbacks,Marlins,2.99,1.51,Under,2,HIT
+2025-04-17,A.J. Puk,Diamondbacks,Marlins,5.88,1.38,Over,1,MISS
+2025-04-17,Ronny Henriquez,Marlins,Diamondbacks,2.97,1.53,Under,3,HIT
+2025-04-17,Lake Bachar,Marlins,Diamondbacks,1.04,3.46,Under,5,MISS
+2025-04-17,Tim Herrin,Guardians,Orioles,1.07,3.43,Under,1,HIT
+2025-04-17,Félix Bautista,Orioles,Guardians,1.19,3.31,Under,2,HIT
+2025-04-17,Chris Stratton,Royals,Tigers,2.8,1.7,Under,1,HIT
+2025-04-17,Beau Brieske,Tigers,Royals,0.99,3.51,Under,1,HIT
+2025-04-17,Ryan Yarbrough,Yankees,Rays,11.13,6.63,Over,1,MISS
+2025-04-17,Tim Hill,Yankees,Rays,3.79,0.71,Under,2,HIT
+2025-04-17,Ian Hamilton,Yankees,Rays,5.68,1.18,Over,3,MISS
+2025-04-17,Devin Williams,Yankees,Rays,2.97,1.53,Under,0,HIT
+2025-04-17,Taj Bradley,Rays,Yankees,7.38,2.88,Over,3,MISS
+2025-04-17,Mason Montgomery,Rays,Yankees,2.05,2.45,Under,1,HIT
+2025-04-17,Pete Fairbanks,Rays,Yankees,2.06,2.44,Under,0,HIT
+2025-04-17,Gabe Speier,Mariners,Reds,2.99,1.51,Under,0,HIT
+2025-04-17,Ian Gibaut,Reds,Mariners,3.0,1.5,Under,0,HIT
+2025-04-17,Tony Santillan,Reds,Mariners,2.99,1.51,Under,0,HIT
+2025-04-17,Erik Miller,Giants,Phillies,3.59,0.91,Under,1,HIT
+2025-04-17,Orion Kerkering,Phillies,Giants,2.03,2.47,Under,2,HIT
+2025-04-17,José Alvarado,Phillies,Giants,3.72,0.78,Under,0,HIT
+2025-04-17,Andre Pallante,Cardinals,Mets,9.79,5.29,Over,2,MISS
+2025-04-17,Reed Garrett,Mets,Cardinals,2.97,1.53,Under,1,HIT
+2025-04-17,A.J. Minter,Mets,Cardinals,3.78,0.72,Under,0,HIT
+2025-04-17,Ryan Borucki,Pirates,Nationals,1.04,3.46,Under,0,HIT
+2025-04-17,Jack Kochanowicz,Angels,Rangers,5.91,1.41,Over,1,MISS
+2025-04-17,Ryan Johnson,Angels,Rangers,3.78,0.72,Under,1,HIT
+2025-04-17,Ryan Zeferjahn,Angels,Rangers,7.76,3.26,Over,3,MISS
+2025-04-17,Ian Anderson,Angels,Rangers,2.09,2.41,Under,0,HIT
+2025-04-17,JP Sears,Athletics,White Sox,8.6,4.1,Over,2,MISS
+2025-04-17,Noah Murdock,Athletics,White Sox,4.12,0.38,Under,2,HIT
+2025-04-17,T.J. McFarland,Athletics,White Sox,0.04,4.46,Under,0,HIT
+2025-04-18,Penn Murfee,White Sox,Red Sox,3.74,0.76,Under,2,HIT
+2025-04-18,Josh Winckowski,Red Sox,White Sox,3.73,0.77,Under,0,HIT
+2025-04-18,Cade Povich,Orioles,Reds,9.12,4.62,Over,4,MISS
+2025-04-18,Matt Bowman,Orioles,Reds,1.03,3.47,Under,0,HIT
+2025-04-18,Tim Herrin,Guardians,Pirates,2.05,2.45,Under,2,HIT
+2025-04-18,Paul Sewald,Guardians,Pirates,6.09,1.59,Over,0,MISS
+2025-04-18,Carmen Mlodzinski,Pirates,Guardians,7.38,2.88,Over,0,MISS
+2025-04-18,Tim Mayza,Pirates,Guardians,2.99,1.51,Under,1,HIT
+2025-04-18,Cole Ragans,Royals,Tigers,10.92,6.42,Over,8,HIT
+2025-04-18,John Schreiber,Royals,Tigers,2.06,2.44,Under,0,HIT
+2025-04-18,Chris Stratton,Royals,Tigers,3.07,1.43,Under,1,HIT
+2025-04-18,John Brebbia,Tigers,Royals,3.54,0.96,Under,2,HIT
+2025-04-18,Sandy Alcantara,Marlins,Phillies,7.38,2.88,Over,1,MISS
+2025-04-18,Tyler Phillips,Marlins,Phillies,3.66,0.84,Under,1,HIT
+2025-04-18,Zack Wheeler,Phillies,Marlins,7.17,2.67,Over,13,HIT
+2025-04-18,Danny Coulombe,Twins,Braves,2.05,2.45,Under,0,HIT
+2025-04-18,Enyel De Los Santos,Braves,Twins,3.77,0.73,Under,0,HIT
+2025-04-18,Mark Leiter Jr.,Yankees,Rays,3.79,0.71,Under,2,HIT
+2025-04-18,Luke Weaver,Yankees,Rays,2.97,1.53,Under,2,HIT
+2025-04-18,Drew Rasmussen,Rays,Yankees,10.35,5.85,Over,7,HIT
+2025-04-18,Mason Fluharty,Blue Jays,Mariners,2.03,2.47,Under,0,HIT
+2025-04-18,Yimi García,Blue Jays,Mariners,7.23,2.73,Over,0,MISS
+2025-04-18,Jeff Hoffman,Blue Jays,Mariners,7.64,3.14,Over,2,MISS
+2025-04-18,JoJo Romero,Cardinals,Mets,1.03,3.47,Under,0,HIT
+2025-04-18,Ryan Fernandez,Cardinals,Mets,2.99,1.51,Under,0,HIT
+2025-04-18,David Peterson,Mets,Cardinals,9.32,4.82,Over,9,HIT
+2025-04-18,Max Kranick,Mets,Cardinals,3.78,0.72,Under,2,HIT
+2025-04-18,Ryne Stanek,Mets,Cardinals,3.79,0.71,Under,1,HIT
+2025-04-18,Ryne Nelson,Diamondbacks,Cubs,7.43,2.93,Over,2,MISS
+2025-04-18,Joe Mantiply,Diamondbacks,Cubs,1.22,3.28,Under,1,HIT
+2025-04-18,Caleb Thielbar,Cubs,Diamondbacks,2.06,2.44,Under,0,HIT
+2025-04-18,Brad Keller,Cubs,Diamondbacks,5.8,1.3,Over,2,MISS
+2025-04-18,Julian Merryweather,Cubs,Diamondbacks,3.0,1.5,Under,1,HIT
+2025-04-18,Ryan Pressly,Cubs,Diamondbacks,2.05,2.45,Under,0,HIT
+2025-04-18,Hoby Milner,Rangers,Dodgers,3.78,0.72,Under,1,HIT
+2025-04-18,Shawn Armstrong,Rangers,Dodgers,5.27,0.77,Over,0,MISS
+2025-04-18,José Leclerc,Athletics,Brewers,1.96,2.54,Under,0,HIT
+2025-04-18,Grant Anderson,Brewers,Athletics,5.8,1.3,Over,0,MISS
+2025-04-18,Yuki Matsui,Padres,Astros,6.46,1.96,Over,1,MISS
+2025-04-18,Randy Rodríguez,Giants,Angels,2.99,1.51,Under,0,HIT
+2025-04-18,Lou Trivino,Giants,Angels,6.09,1.59,Over,0,MISS
+2025-04-18,Grant Anderson,Angels,Giants,5.8,1.3,Over,6,HIT
+2025-04-18,Ryan Zeferjahn,Angels,Giants,7.59,3.09,Over,2,MISS
+2025-04-19,Cam Booser,White Sox,Red Sox,3.0,1.5,Under,1,HIT
+2025-04-19,Greg Weissert,Red Sox,White Sox,5.58,1.08,Over,0,MISS
+2025-04-19,Matt Bowman,Orioles,Reds,0.23,4.27,Under,0,HIT
+2025-04-19,Félix Bautista,Orioles,Reds,3.59,0.91,Under,1,HIT
+2025-04-19,Ben Lively,Guardians,Pirates,7.38,2.88,Over,3,MISS
+2025-04-19,Tim Herrin,Guardians,Pirates,3.78,0.72,Under,2,HIT
+2025-04-19,Paul Skenes,Pirates,Guardians,8.83,4.33,Over,4,MISS
+2025-04-19,Caleb Ferguson,Pirates,Guardians,1.03,3.47,Under,2,HIT
+2025-04-19,Cal Quantrill,Marlins,Phillies,4.86,0.36,Over,0,MISS
+2025-04-19,Matt Strahm,Phillies,Marlins,6.46,1.96,Over,0,MISS
+2025-04-19,Joe Ross,Phillies,Marlins,1.51,2.99,Under,0,HIT
+2025-04-19,José Alvarado,Phillies,Marlins,2.04,2.46,Under,0,HIT
+2025-04-19,Simeon Woods Richardson,Twins,Braves,7.38,2.88,Over,3,MISS
+2025-04-19,Ian Hamilton,Yankees,Rays,4.78,0.28,Over,0,MISS
+2025-04-19,Mark Leiter Jr.,Yankees,Rays,6.4,1.9,Over,1,MISS
+2025-04-19,Luke Weaver,Yankees,Rays,3.0,1.5,Under,2,HIT
+2025-04-19,Devin Williams,Yankees,Rays,1.04,3.46,Under,0,HIT
+2025-04-19,Mason Montgomery,Rays,Yankees,2.99,1.51,Under,0,HIT
+2025-04-19,Pete Fairbanks,Rays,Yankees,1.04,3.46,Under,1,HIT
+2025-04-19,José Berríos,Blue Jays,Mariners,7.38,2.88,Over,3,MISS
+2025-04-19,Nick Sandlin,Blue Jays,Mariners,2.05,2.45,Under,2,HIT
+2025-04-19,Reed Garrett,Mets,Cardinals,3.0,1.5,Under,0,HIT
+2025-04-19,A.J. Minter,Mets,Cardinals,2.99,1.51,Under,0,HIT
+2025-04-19,Zac Gallen,Diamondbacks,Cubs,7.38,2.88,Over,5,HIT
+2025-04-19,Ben Brown,Cubs,Diamondbacks,7.38,2.88,Over,6,HIT
+2025-04-19,Caleb Thielbar,Cubs,Diamondbacks,1.04,3.46,Under,1,HIT
+2025-04-19,Brad Keller,Cubs,Diamondbacks,5.8,1.3,Over,1,MISS
+2025-04-19,Roki Sasaki,Dodgers,Rangers,8.15,3.65,Over,4,MISS
+2025-04-19,Jack Dreyer,Dodgers,Rangers,6.99,2.49,Over,0,MISS
+2025-04-19,Luis Severino,Athletics,Brewers,7.38,2.88,Over,1,MISS
+2025-04-19,Chad Patrick,Brewers,Athletics,9.89,5.39,Over,7,HIT
+2025-04-19,Grant Anderson,Brewers,Athletics,3.79,0.71,Under,0,HIT
+2025-04-19,Joel Payamps,Brewers,Athletics,2.63,1.87,Under,0,HIT
+2025-04-19,Kyle Finnegan,Nationals,Rockies,5.21,0.71,Over,3,MISS
+2025-04-19,Luis Peralta,Rockies,Nationals,2.66,1.84,Under,0,HIT
+2025-04-19,Ryan Walker,Giants,Angels,2.99,1.51,Under,0,HIT
+2025-04-19,Kyle Hendricks,Angels,Giants,5.91,1.41,Over,1,MISS
+2025-04-19,Reid Detmers,Angels,Giants,2.06,2.44,Under,2,HIT
+2025-04-19,Ryan Johnson,Angels,Giants,3.78,0.72,Under,0,HIT
+2025-04-20,Cam Booser,White Sox,Red Sox,2.97,1.53,Under,0,HIT
+2025-04-20,Ian Gibaut,Reds,Orioles,1.01,3.49,Under,2,HIT
+2025-04-20,Paul Sewald,Guardians,Pirates,2.05,2.45,Under,1,HIT
+2025-04-20,Joey Cantillo,Guardians,Pirates,6.46,1.96,Over,0,MISS
+2025-04-20,John Schreiber,Royals,Tigers,1.06,3.44,Under,2,HIT
+2025-04-20,Orion Kerkering,Phillies,Marlins,3.78,0.72,Under,1,HIT
+2025-04-20,José Alvarado,Phillies,Marlins,1.02,3.48,Under,1,HIT
+2025-04-20,Matt Strahm,Phillies,Marlins,3.78,0.72,Under,0,HIT
+2025-04-20,Joe Ryan,Twins,Braves,10.29,5.79,Over,5,HIT
+2025-04-20,Danny Coulombe,Twins,Braves,2.05,2.45,Under,0,HIT
+2025-04-20,Enyel De Los Santos,Braves,Twins,2.04,2.46,Under,1,HIT
+2025-04-20,Max Fried,Yankees,Rays,11.05,6.55,Over,2,MISS
+2025-04-20,Ryan Pepiot,Rays,Yankees,7.38,2.88,Over,7,HIT
+2025-04-20,Luis Castillo,Mariners,Blue Jays,7.38,2.88,Over,5,HIT
+2025-04-20,Gabe Speier,Mariners,Blue Jays,1.07,3.43,Under,2,HIT
+2025-04-20,Casey Legumina,Mariners,Blue Jays,3.0,1.5,Under,0,HIT
+2025-04-20,Mason Fluharty,Blue Jays,Mariners,1.63,2.87,Under,2,HIT
+2025-04-20,JoJo Romero,Cardinals,Mets,1.63,2.87,Under,1,HIT
+2025-04-20,Ryan Fernandez,Cardinals,Mets,1.03,3.47,Under,1,HIT
+2025-04-20,Clay Holmes,Mets,Cardinals,7.86,3.36,Over,6,HIT
+2025-04-20,Ryne Stanek,Mets,Cardinals,3.79,0.71,Under,1,HIT
+2025-04-20,Ryan Thompson,Diamondbacks,Cubs,4.44,0.06,Under,2,HIT
+2025-04-20,Julian Merryweather,Cubs,Diamondbacks,3.0,1.5,Under,1,HIT
+2025-04-20,Ryan Pressly,Cubs,Diamondbacks,2.05,2.45,Under,1,HIT
+2025-04-20,Luis García,Dodgers,Rangers,0.92,3.58,Under,1,HIT
+2025-04-20,Ben Casparius,Dodgers,Rangers,4.08,0.42,Under,1,HIT
+2025-04-20,Jack Dreyer,Dodgers,Rangers,5.25,0.75,Over,1,MISS
+2025-04-20,Hoby Milner,Rangers,Dodgers,5.15,0.65,Over,1,MISS
+2025-04-20,T.J. McFarland,Athletics,Brewers,0.04,4.46,Under,0,HIT
+2025-04-20,Noah Murdock,Athletics,Brewers,4.4,0.1,Under,0,HIT
+2025-04-20,Scott Alexander,Brewers,Athletics,2.05,2.45,Under,5,MISS
+2025-04-20,Kyle Finnegan,Nationals,Rockies,6.04,1.54,Over,1,MISS
+2025-04-20,Kyle Freeland,Rockies,Nationals,7.16,2.66,Over,2,MISS
+2025-04-20,Angel Chivilli,Rockies,Nationals,6.1,1.6,Over,0,MISS
+2025-04-20,Scott Alexander,Rockies,Nationals,2.05,2.45,Under,0,HIT
+2025-04-20,Seth Halvorsen,Rockies,Nationals,2.77,1.73,Under,2,HIT
+2025-04-20,Ryan Walker,Giants,Angels,2.05,2.45,Under,1,HIT
+2025-04-20,Ian Anderson,Angels,Giants,3.16,1.34,Under,1,HIT
+2025-04-20,Michael Darrell-Hicks,Angels,Giants,1.28,3.22,Under,1,HIT
+2025-04-21,Penn Murfee,White Sox,Red Sox,2.73,1.77,Under,1,HIT
+2025-04-21,Nick Lodolo,Reds,Marlins,10.92,6.42,Over,4,MISS
+2025-04-21,Max Meyer,Marlins,Reds,7.86,3.36,Over,14,HIT
+2025-04-21,Ronny Henriquez,Marlins,Reds,4.54,0.04,Over,0,MISS
+2025-04-21,Tyler Phillips,Marlins,Reds,4.26,0.24,Under,0,HIT
+2025-04-21,Ryan Yarbrough,Yankees,Guardians,7.92,3.42,Over,0,MISS
+2025-04-21,Gavin Williams,Guardians,Yankees,7.38,2.88,Over,8,HIT
+2025-04-21,Paul Sewald,Guardians,Yankees,2.05,2.45,Under,1,HIT
+2025-04-21,Joey Cantillo,Guardians,Yankees,2.06,2.44,Under,1,HIT
+2025-04-21,Reed Garrett,Mets,Phillies,1.07,3.43,Under,1,HIT
+2025-04-21,Max Kranick,Mets,Phillies,3.71,0.79,Under,0,HIT
+2025-04-21,Yuki Matsui,Padres,Tigers,6.04,1.54,Over,1,MISS
+2025-04-21,JoJo Romero,Cardinals,Braves,2.65,1.85,Under,1,HIT
+2025-04-21,Grant Anderson,Brewers,Giants,2.97,1.53,Under,2,HIT
+2025-04-21,Joel Payamps,Brewers,Giants,0.78,3.72,Under,0,HIT
+2025-04-22,Dean Kremer,Orioles,Nationals,5.38,0.88,Over,4,MISS
+2025-04-22,Matt Bowman,Orioles,Nationals,0.2,4.3,Under,2,HIT
+2025-04-22,Nick Martinez,Reds,Marlins,7.38,2.88,Over,4,MISS
+2025-04-22,Tony Santillan,Reds,Marlins,2.06,2.44,Under,0,HIT
+2025-04-22,Lake Bachar,Marlins,Reds,5.61,1.11,Over,2,MISS
+2025-04-22,Mark Leiter Jr.,Yankees,Guardians,5.58,1.08,Over,1,MISS
+2025-04-22,Tim Hill,Yankees,Guardians,5.55,1.05,Over,0,MISS
+2025-04-22,Luke Weaver,Yankees,Guardians,5.58,1.08,Over,0,MISS
+2025-04-22,Tim Herrin,Guardians,Yankees,6.2,1.7,Over,2,MISS
+2025-04-22,Joe Ross,Phillies,Mets,1.99,2.51,Under,3,HIT
+2025-04-22,Orion Kerkering,Phillies,Mets,3.77,0.73,Under,0,HIT
+2025-04-22,A.J. Minter,Mets,Phillies,2.65,1.85,Under,1,HIT
+2025-04-22,Ryne Stanek,Mets,Phillies,3.0,1.5,Under,0,HIT
+2025-04-22,Nick Pivetta,Padres,Tigers,9.79,5.29,Over,6,HIT
+2025-04-22,Jack Flaherty,Tigers,Padres,9.79,5.29,Over,9,HIT
+2025-04-22,Greg Weissert,Red Sox,Mariners,5.3,0.8,Over,0,MISS
+2025-04-22,Andre Pallante,Cardinals,Braves,7.86,3.36,Over,1,MISS
+2025-04-22,Ryan Helsley,Cardinals,Braves,1.01,3.49,Under,1,HIT
+2025-04-22,Enyel De Los Santos,Braves,Cardinals,2.04,2.46,Under,1,HIT
+2025-04-22,Ryan Feltner,Rockies,Royals,7.38,2.88,Over,4,MISS
+2025-04-22,Seth Halvorsen,Rockies,Royals,2.92,1.58,Under,0,HIT
+2025-04-22,John Schreiber,Royals,Rockies,2.06,2.44,Under,0,HIT
+2025-04-22,Luis García,Dodgers,Cubs,2.0,2.5,Under,3,HIT
+2025-04-22,Brad Keller,Cubs,Dodgers,5.88,1.38,Over,0,MISS
+2025-04-22,Mason Fluharty,Blue Jays,Astros,2.03,2.47,Under,3,HIT
+2025-04-22,Grant Anderson,Brewers,Giants,2.06,2.44,Under,0,HIT
+2025-04-22,Joel Payamps,Brewers,Giants,0.09,4.41,Under,0,HIT
+2025-04-22,Lou Trivino,Giants,Brewers,5.14,0.64,Over,0,MISS
+2025-04-22,Ryan Borucki,Pirates,Angels,1.06,3.44,Under,1,HIT
+2025-04-22,José Soriano,Angels,Pirates,7.38,2.88,Over,2,MISS
+2025-04-22,Michael Darrell-Hicks,Angels,Pirates,2.06,2.44,Under,2,HIT
+2025-04-22,Ian Anderson,Angels,Pirates,3.4,1.1,Under,1,HIT
+2025-04-22,Zack Littell,Rays,Diamondbacks,7.38,2.88,Over,2,MISS
+2025-04-22,Ryan Thompson,Diamondbacks,Rays,4.44,0.06,Under,0,HIT
+2025-04-22,Shawn Armstrong,Rangers,Athletics,3.79,0.71,Under,1,HIT
+2025-04-22,Hoby Milner,Rangers,Athletics,3.77,0.73,Under,1,HIT
+2025-04-22,Luke Jackson,Rangers,Athletics,1.03,3.47,Under,0,HIT
+2025-04-22,T.J. McFarland,Athletics,Rangers,0.13,4.37,Under,0,HIT
+2025-04-22,José Leclerc,Athletics,Rangers,1.01,3.49,Under,1,HIT
+2025-04-22,Tyler Ferguson,Athletics,Rangers,5.2,0.7,Over,0,MISS
+2025-04-23,Kyle Finnegan,Nationals,Orioles,6.0,1.5,Over,1,MISS
+2025-04-23,Ian Gibaut,Reds,Marlins,3.59,0.91,Under,1,HIT
+2025-04-23,Tony Santillan,Reds,Marlins,1.01,3.49,Under,0,HIT
+2025-04-23,Sandy Alcantara,Marlins,Reds,3.81,0.69,Under,4,HIT
+2025-04-23,Ronny Henriquez,Marlins,Reds,3.15,1.35,Under,2,HIT
+2025-04-23,Luke Weaver,Yankees,Guardians,3.78,0.72,Under,0,HIT
+2025-04-23,Joey Cantillo,Guardians,Yankees,2.03,2.47,Under,2,HIT
+2025-04-23,Zack Wheeler,Phillies,Mets,7.17,2.67,Over,9,HIT
+2025-04-23,Matt Strahm,Phillies,Mets,1.03,3.47,Under,2,HIT
+2025-04-23,José Alvarado,Phillies,Mets,1.06,3.44,Under,2,HIT
+2025-04-23,David Peterson,Mets,Phillies,7.86,3.36,Over,2,MISS
+2025-04-23,Max Kranick,Mets,Phillies,3.1,1.4,Under,0,HIT
+2025-04-23,Yuki Matsui,Padres,Tigers,3.71,0.79,Under,2,HIT
+2025-04-23,Gabe Speier,Mariners,Red Sox,2.97,1.53,Under,1,HIT
+2025-04-23,Casey Legumina,Mariners,Red Sox,2.06,2.44,Under,2,HIT
+2025-04-23,Sean Newcomb,Red Sox,Mariners,10.29,5.79,Over,8,HIT
+2025-04-23,Josh Winckowski,Red Sox,Mariners,2.2,2.3,Under,4,HIT
+2025-04-23,JoJo Romero,Cardinals,Braves,2.64,1.86,Under,0,HIT
+2025-04-23,Ryan Fernandez,Cardinals,Braves,2.02,2.48,Under,2,HIT
+2025-04-23,Penn Murfee,White Sox,Twins,2.8,1.7,Under,0,HIT
+2025-04-23,Cam Booser,White Sox,Twins,3.0,1.5,Under,1,HIT
+2025-04-23,Danny Coulombe,Twins,White Sox,1.03,3.47,Under,1,HIT
+2025-04-23,Ben Casparius,Dodgers,Cubs,3.18,1.32,Under,4,HIT
+2025-04-23,Jack Dreyer,Dodgers,Cubs,5.24,0.74,Over,0,MISS
+2025-04-23,Luis García,Dodgers,Cubs,6.09,1.59,Over,1,MISS
+2025-04-23,Julian Merryweather,Cubs,Dodgers,2.99,1.51,Under,2,HIT
+2025-04-23,Yimi García,Blue Jays,Astros,5.85,1.35,Over,1,MISS
+2025-04-23,Jeff Hoffman,Blue Jays,Astros,7.07,2.57,Over,2,MISS
+2025-04-23,Erik Miller,Giants,Brewers,3.59,0.91,Under,0,HIT
+2025-04-23,Ryan Walker,Giants,Brewers,2.02,2.48,Under,1,HIT
+2025-04-23,Caleb Ferguson,Pirates,Angels,2.96,1.54,Under,0,HIT
+2025-04-23,Jack Kochanowicz,Angels,Pirates,3.81,0.69,Under,3,HIT
+2025-04-23,Reid Detmers,Angels,Pirates,2.18,2.32,Under,4,HIT
+2025-04-23,Taj Bradley,Rays,Diamondbacks,7.38,2.88,Over,3,MISS
+2025-04-23,Mason Montgomery,Rays,Diamondbacks,2.06,2.44,Under,2,HIT
+2025-04-23,Pete Fairbanks,Rays,Diamondbacks,1.0,3.5,Under,0,HIT
+2025-04-23,Ryan Thompson,Diamondbacks,Rays,3.62,0.88,Under,2,HIT
+2025-04-23,JP Sears,Athletics,Rangers,7.6,3.1,Over,5,HIT
+2025-04-23,Tyler Ferguson,Athletics,Rangers,2.97,1.53,Under,2,HIT
+2025-04-24,Cade Povich,Orioles,Nationals,5.91,1.41,Over,5,HIT
+2025-04-24,Félix Bautista,Orioles,Nationals,4.28,0.22,Under,1,HIT
+2025-04-24,Gabe Speier,Mariners,Red Sox,2.97,1.53,Under,1,HIT
+2025-04-24,Greg Weissert,Red Sox,Mariners,2.96,1.54,Under,2,HIT
+2025-04-24,Cole Ragans,Royals,Rockies,8.6,4.1,Over,4,MISS
+2025-04-24,Tyler Alexander,Brewers,Giants,6.25,1.75,Over,0,MISS
+2025-04-24,Erik Miller,Giants,Brewers,2.65,1.85,Under,1,HIT
+2025-04-24,Carmen Mlodzinski,Pirates,Angels,5.91,1.41,Over,4,MISS
+2025-04-24,Kyle Nicolas,Pirates,Angels,1.76,2.74,Under,3,HIT
+2025-04-24,Tyler Anderson,Angels,Pirates,10.03,5.53,Over,1,MISS
+2025-04-24,Ryan Johnson,Angels,Pirates,2.93,1.57,Under,1,HIT
+2025-04-24,Ryan Zeferjahn,Angels,Pirates,7.18,2.68,Over,2,MISS
+2025-04-24,Drew Rasmussen,Rays,Diamondbacks,10.03,5.53,Over,5,HIT
+2025-04-24,Pete Fairbanks,Rays,Diamondbacks,1.0,3.5,Under,1,HIT
+2025-04-24,Ryne Nelson,Diamondbacks,Rays,5.47,0.97,Over,5,HIT
+2025-04-24,Hoby Milner,Rangers,Athletics,2.91,1.59,Under,2,HIT
+2025-04-24,Luke Jackson,Rangers,Athletics,1.03,3.47,Under,1,HIT
+2025-04-24,Noah Murdock,Athletics,Rangers,3.43,1.07,Under,0,HIT
+2025-04-24,Chase Dollander,Rockies,Royals,7.38,2.88,Over,3,MISS
+2025-04-24,John Schreiber,Royals,Rockies,2.87,1.63,Under,2,HIT
+2025-04-25,Reed Garrett,Mets,Nationals,2.06,2.44,Under,1,HIT
+2025-04-25,Ryne Stanek,Mets,Nationals,2.03,2.47,Under,0,HIT
+2025-04-25,A.J. Minter,Mets,Nationals,1.63,2.87,Under,0,HIT
+2025-04-25,Kyle Finnegan,Nationals,Mets,5.86,1.36,Over,0,MISS
+2025-04-25,José Berríos,Blue Jays,Yankees,7.12,2.62,Over,4,MISS
+2025-04-25,Yimi García,Blue Jays,Yankees,5.58,1.08,Over,0,MISS
+2025-04-25,Mason Fluharty,Blue Jays,Yankees,5.27,0.77,Over,0,MISS
+2025-04-25,Jeff Hoffman,Blue Jays,Yankees,6.2,1.7,Over,1,MISS
+2025-04-25,Tim Hill,Yankees,Blue Jays,2.99,1.51,Under,0,HIT
+2025-04-25,Ian Hamilton,Yankees,Blue Jays,5.9,1.4,Over,0,MISS
+2025-04-25,Devin Williams,Yankees,Blue Jays,0.98,3.52,Under,0,HIT
+2025-04-25,Mark Leiter Jr.,Yankees,Blue Jays,3.79,0.71,Under,0,HIT
+2025-04-25,Kyle Hendricks,Angels,Twins,3.81,0.69,Under,3,HIT
+2025-04-25,Danny Coulombe,Twins,Angels,1.03,3.47,Under,1,HIT
+2025-04-25,Chad Patrick,Brewers,Cardinals,10.29,5.79,Over,2,MISS
+2025-04-25,Scott Alexander,Brewers,Cardinals,1.04,3.46,Under,0,HIT
+2025-04-25,Grant Anderson,Brewers,Cardinals,2.02,2.48,Under,1,HIT
+2025-04-25,Ryan Helsley,Cardinals,Brewers,1.63,2.87,Under,0,HIT
+2025-04-25,Orion Kerkering,Phillies,Cubs,3.53,0.97,Under,1,HIT
+2025-04-25,Caleb Thielbar,Cubs,Phillies,2.03,2.47,Under,1,HIT
+2025-04-25,Brad Keller,Cubs,Phillies,2.94,1.56,Under,1,HIT
+2025-04-25,Ian Gibaut,Reds,Rockies,2.97,1.53,Under,0,HIT
+2025-04-25,Tony Santillan,Reds,Rockies,0.2,4.3,Under,0,HIT
+2025-04-25,Kyle Freeland,Rockies,Reds,7.13,2.63,Over,4,MISS
+2025-04-25,Angel Chivilli,Rockies,Reds,3.7,0.8,Under,3,HIT
+2025-04-25,Scott Alexander,Rockies,Reds,1.04,3.46,Under,0,HIT
+2025-04-25,Seth Halvorsen,Rockies,Reds,1.99,2.51,Under,1,HIT
+2025-04-25,Enyel De Los Santos,Braves,Diamondbacks,2.0,2.5,Under,0,HIT
+2025-04-25,Zac Gallen,Diamondbacks,Braves,7.38,2.88,Over,6,HIT
+2025-04-25,Juan Morillo,Diamondbacks,Braves,3.76,0.74,Under,1,HIT
+2025-04-25,Cal Quantrill,Marlins,Mariners,3.81,0.69,Under,5,MISS
+2025-04-25,Ronny Henriquez,Marlins,Mariners,4.82,0.32,Over,1,MISS
+2025-04-25,Casey Lawrence,Mariners,Marlins,0.24,4.26,Under,4,HIT
+2025-04-25,Paul Skenes,Pirates,Dodgers,8.3,3.8,Over,9,HIT
+2025-04-25,Ryan Borucki,Pirates,Dodgers,1.06,3.44,Under,0,HIT
+2025-04-25,Luis García,Dodgers,Pirates,6.06,1.56,Over,0,MISS
+2025-04-25,Luke Jackson,Rangers,Giants,1.04,3.46,Under,1,HIT
+2025-04-25,Randy Rodríguez,Giants,Rangers,1.06,3.44,Under,3,HIT
+2025-04-25,Ryan Walker,Giants,Rangers,1.46,3.04,Under,2,HIT
+2025-04-25,Penn Murfee,White Sox,Athletics,2.91,1.59,Under,1,HIT
+2025-04-25,Luis Severino,Athletics,White Sox,7.13,2.63,Over,7,HIT
+2025-04-26,Matt Bowman,Orioles,Tigers,1.96,2.54,Under,1,HIT
+2025-04-26,Clay Holmes,Mets,Nationals,7.86,3.36,Over,2,MISS
+2025-04-26,Reed Garrett,Mets,Nationals,2.05,2.45,Under,0,HIT
+2025-04-26,A.J. Minter,Mets,Nationals,1.63,2.87,Under,1,HIT
+2025-04-26,Max Kranick,Mets,Nationals,2.05,2.45,Under,1,HIT
+2025-04-26,Ryan Johnson,Angels,Twins,2.06,2.44,Under,4,HIT
+2025-04-26,Reid Detmers,Angels,Twins,6.18,1.68,Over,2,MISS
+2025-04-26,Simeon Woods Richardson,Twins,Angels,7.38,2.88,Over,7,HIT
+2025-04-26,John Schreiber,Royals,Astros,4.5,0.0,Under,1,HIT
+2025-04-26,Quinn Priester,Brewers,Cardinals,10.03,5.53,Over,2,MISS
+2025-04-26,Joel Payamps,Brewers,Cardinals,0.22,4.28,Under,2,HIT
+2025-04-26,Ryan Helsley,Cardinals,Brewers,1.63,2.87,Under,0,HIT
+2025-04-26,Matt Strahm,Phillies,Cubs,2.05,2.45,Under,0,HIT
+2025-04-26,Joe Ross,Phillies,Cubs,2.57,1.93,Under,2,HIT
+2025-04-26,Ben Brown,Cubs,Phillies,7.86,3.36,Over,5,HIT
+2025-04-26,Brad Keller,Cubs,Phillies,2.77,1.73,Under,2,HIT
+2025-04-26,Seth Halvorsen,Rockies,Reds,2.99,1.51,Under,0,HIT
+2025-04-26,Ryan Thompson,Diamondbacks,Braves,3.71,0.79,Under,0,HIT
+2025-04-26,Lake Bachar,Marlins,Mariners,6.43,1.93,Over,1,MISS
+2025-04-26,Tyler Phillips,Marlins,Mariners,2.02,2.48,Under,1,HIT
+2025-04-26,Luis Castillo,Mariners,Marlins,7.12,2.62,Over,5,HIT
+2025-04-26,Casey Legumina,Mariners,Marlins,2.96,1.54,Under,1,HIT
+2025-04-26,Caleb Ferguson,Pirates,Dodgers,2.97,1.53,Under,0,HIT
+2025-04-26,Colin Holderman,Pirates,Dodgers,6.12,1.62,Over,0,MISS
+2025-04-26,Roki Sasaki,Dodgers,Pirates,9.53,5.03,Over,4,MISS
+2025-04-26,Jack Dreyer,Dodgers,Pirates,1.29,3.21,Under,1,HIT
+2025-04-26,Evan Phillips,Dodgers,Pirates,3.0,1.5,Under,1,HIT
+2025-04-26,Ryan Pepiot,Rays,Padres,7.38,2.88,Over,3,MISS
+2025-04-26,Pete Fairbanks,Rays,Padres,2.64,1.86,Under,1,HIT
+2025-04-26,Yuki Matsui,Padres,Rays,3.75,0.75,Under,1,HIT
+2025-04-26,Shawn Armstrong,Rangers,Giants,2.97,1.53,Under,2,HIT
+2025-04-26,Hoby Milner,Rangers,Giants,3.76,0.74,Under,1,HIT
+2025-04-26,Ryan Walker,Giants,Rangers,3.41,1.09,Under,2,HIT
+2025-04-26,Penn Murfee,White Sox,Athletics,2.03,2.47,Under,0,HIT
+2025-04-26,Noah Murdock,Athletics,White Sox,2.5,2.0,Under,3,HIT
+2025-04-26,Greg Weissert,Red Sox,Guardians,2.02,2.48,Under,2,HIT
+2025-04-26,Ben Lively,Guardians,Red Sox,9.79,5.29,Over,4,MISS
+2025-04-26,Tim Herrin,Guardians,Red Sox,6.46,1.96,Over,1,MISS
+2025-04-27,Dean Kremer,Orioles,Tigers,7.16,2.66,Over,3,MISS
+2025-04-27,Matt Bowman,Orioles,Tigers,2.93,1.57,Under,1,HIT
+2025-04-27,Ryne Stanek,Mets,Nationals,0.94,3.56,Under,0,HIT
+2025-04-27,Max Fried,Yankees,Blue Jays,9.82,5.32,Over,3,MISS
+2025-04-27,José Soriano,Angels,Twins,4.86,0.36,Over,4,MISS
+2025-04-27,Ryan Zeferjahn,Angels,Twins,7.34,2.84,Over,2,MISS
+2025-04-27,Joe Ryan,Twins,Angels,8.6,4.1,Over,11,HIT
+2025-04-27,Chris Stratton,Royals,Astros,2.46,2.04,Under,1,HIT
+2025-04-27,Jose Quintana,Brewers,Cardinals,8.08,3.58,Over,6,HIT
+2025-04-27,Grant Anderson,Brewers,Cardinals,2.99,1.51,Under,1,HIT
+2025-04-27,JoJo Romero,Cardinals,Brewers,2.02,2.48,Under,1,HIT
+2025-04-27,Orion Kerkering,Phillies,Cubs,2.76,1.74,Under,0,HIT
+2025-04-27,José Alvarado,Phillies,Cubs,2.99,1.51,Under,1,HIT
+2025-04-27,Ryan Pressly,Cubs,Phillies,2.05,2.45,Under,0,HIT
+2025-04-27,Julian Merryweather,Cubs,Phillies,3.78,0.72,Under,0,HIT
+2025-04-27,Caleb Thielbar,Cubs,Phillies,2.06,2.44,Under,1,HIT
+2025-04-27,Nick Lodolo,Reds,Rockies,7.17,2.67,Over,9,HIT
+2025-04-27,Scott Alexander,Rockies,Reds,0.81,3.69,Under,0,HIT
+2025-04-27,Ryan Thompson,Diamondbacks,Braves,1.99,2.51,Under,1,HIT
+2025-04-27,Max Meyer,Marlins,Mariners,10.08,5.58,Over,6,HIT
+2025-04-27,Ronny Henriquez,Marlins,Mariners,3.0,1.5,Under,3,HIT
+2025-04-27,Tyler Phillips,Marlins,Mariners,2.72,1.78,Under,0,HIT
+2025-04-27,Gabe Speier,Mariners,Marlins,3.79,0.71,Under,2,HIT
+2025-04-27,Kyle Nicolas,Pirates,Dodgers,5.39,0.89,Over,1,MISS
+2025-04-27,Colin Holderman,Pirates,Dodgers,2.74,1.76,Under,0,HIT
+2025-04-27,Ben Casparius,Dodgers,Pirates,8.4,3.9,Over,5,HIT
+2025-04-27,Luis García,Dodgers,Pirates,3.79,0.71,Under,1,HIT
+2025-04-27,Zack Littell,Rays,Padres,7.12,2.62,Over,1,MISS
+2025-04-27,Mason Montgomery,Rays,Padres,2.96,1.54,Under,1,HIT
+2025-04-27,Pete Fairbanks,Rays,Padres,2.06,2.44,Under,0,HIT
+2025-04-27,Luke Jackson,Rangers,Giants,2.06,2.44,Under,0,HIT
+2025-04-27,Sean Newcomb,Red Sox,Guardians,7.86,3.36,Over,3,MISS
+2025-04-27,Liam Hendriks,Red Sox,Guardians,2.64,1.86,Under,2,HIT
+2025-04-27,Paul Sewald,Guardians,Red Sox,2.02,2.48,Under,1,HIT
+2025-04-27,Joey Cantillo,Guardians,Red Sox,3.59,0.91,Under,3,HIT
+2025-04-27,Cam Booser,White Sox,Athletics,2.02,2.48,Under,1,HIT
+2025-04-27,T.J. McFarland,Athletics,White Sox,0.25,4.25,Under,0,HIT
+2025-04-27,Tyler Ferguson,Athletics,White Sox,3.0,1.5,Under,0,HIT
+2025-04-27,Tim Hill,Yankees,Blue Jays,2.0,2.5,Under,0,HIT
+2025-04-27,Mark Leiter Jr.,Yankees,Blue Jays,2.06,2.44,Under,3,HIT
+2025-04-27,Luke Weaver,Yankees,Blue Jays,2.05,2.45,Under,1,HIT
+2025-04-28,Gavin Williams,Guardians,Twins,7.38,2.88,Over,2,MISS
+2025-04-28,Paul Sewald,Guardians,Twins,2.98,1.52,Under,1,HIT
+2025-04-28,Tim Herrin,Guardians,Twins,6.09,1.59,Over,0,MISS
+2025-04-28,Ryan Yarbrough,Yankees,Orioles,2.62,1.88,Under,3,HIT
+2025-04-28,Devin Williams,Yankees,Orioles,-0.32,4.82,Under,1,HIT
+2025-04-28,Félix Bautista,Orioles,Yankees,3.79,0.71,Under,2,HIT
+2025-04-28,Max Kranick,Mets,Nationals,0.92,3.58,Under,1,HIT
+2025-04-28,Andre Pallante,Cardinals,Reds,4.13,0.37,Under,4,HIT
+2025-04-28,Nick Martinez,Reds,Cardinals,7.38,2.88,Over,3,MISS
+2025-04-28,Tony Santillan,Reds,Cardinals,0.23,4.27,Under,1,HIT
+2025-04-28,Jack Flaherty,Tigers,Astros,9.32,4.82,Over,4,MISS
+2025-04-28,JP Sears,Athletics,Rangers,9.1,4.6,Over,7,HIT
+2025-04-28,Tyler Ferguson,Athletics,Rangers,2.06,2.44,Under,0,HIT
+2025-04-28,Shawn Armstrong,Rangers,Athletics,2.97,1.53,Under,1,HIT
+2025-04-28,Hoby Milner,Rangers,Athletics,3.76,0.74,Under,0,HIT
+2025-04-28,Ryan Feltner,Rockies,Braves,7.38,2.88,Over,4,MISS
+2025-04-28,Angel Chivilli,Rockies,Braves,6.1,1.6,Over,0,MISS
+2025-04-28,Lake Bachar,Marlins,Dodgers,7.13,2.63,Over,1,MISS
+2025-04-28,Ronny Henriquez,Marlins,Dodgers,6.28,1.78,Over,0,MISS
+2025-04-28,Evan Phillips,Dodgers,Marlins,2.06,2.44,Under,0,HIT
+2025-04-29,Ryne Nelson,Diamondbacks,Mets,5.94,1.44,Over,3,MISS
+2025-04-29,David Peterson,Mets,Diamondbacks,8.29,3.79,Over,2,MISS
+2025-04-29,Mason Fluharty,Blue Jays,Red Sox,5.06,0.56,Over,2,MISS
+2025-04-29,Casey Lawrence,Blue Jays,Red Sox,4.26,0.24,Under,1,HIT
+2025-04-29,Caleb Thielbar,Cubs,Pirates,2.99,1.51,Under,0,HIT
+2025-04-29,Kyle Nicolas,Pirates,Cubs,4.46,0.04,Under,0,HIT
+2025-04-29,Colin Holderman,Pirates,Cubs,2.02,2.48,Under,0,HIT
+2025-04-29,Taj Bradley,Rays,Royals,7.38,2.88,Over,2,MISS
+2025-04-29,Ian Hamilton,Yankees,Orioles,3.0,1.5,Under,3,HIT
+2025-04-29,Matt Bowman,Orioles,Yankees,3.72,0.78,Under,2,HIT
+2025-04-29,Kyle Finnegan,Nationals,Phillies,2.06,2.44,Under,0,HIT
+2025-04-29,Zack Wheeler,Phillies,Nationals,8.6,4.1,Over,7,HIT
+2025-04-29,Matt Strahm,Phillies,Nationals,2.02,2.48,Under,1,HIT
+2025-04-29,José Alvarado,Phillies,Nationals,3.78,0.72,Under,3,HIT
+2025-04-29,Orion Kerkering,Phillies,Nationals,1.0,3.5,Under,2,HIT
+2025-04-29,Joel Payamps,Brewers,White Sox,2.05,2.45,Under,1,HIT
+2025-04-29,Penn Murfee,White Sox,Brewers,1.06,3.44,Under,1,HIT
+2025-04-29,Noah Murdock,Athletics,Rangers,2.02,2.48,Under,0,HIT
+2025-04-29,T.J. McFarland,Athletics,Rangers,0.22,4.28,Under,1,HIT
+2025-04-29,AJ Smith-Shawver,Braves,Rockies,7.38,2.88,Over,5,HIT
+2025-04-29,Enyel De Los Santos,Braves,Rockies,2.72,1.78,Under,1,HIT
+2025-04-29,Seth Halvorsen,Rockies,Braves,1.03,3.47,Under,0,HIT
+2025-04-29,Scott Alexander,Rockies,Braves,0.81,3.69,Under,1,HIT
+2025-04-29,Jack Kochanowicz,Angels,Mariners,5.24,0.74,Over,6,HIT
+2025-04-29,Gabe Speier,Mariners,Angels,3.78,0.72,Under,1,HIT
+2025-04-29,Casey Legumina,Mariners,Angels,2.99,1.51,Under,1,HIT
+2025-04-29,Sandy Alcantara,Marlins,Dodgers,3.81,0.69,Under,2,HIT
+2025-04-29,Tyler Phillips,Marlins,Dodgers,0.86,3.64,Under,1,HIT
+2025-04-29,Jack Dreyer,Dodgers,Marlins,2.75,1.75,Under,3,HIT
+2025-04-29,Luis García,Dodgers,Marlins,2.06,2.44,Under,0,HIT
+2025-04-29,Erik Miller,Giants,Padres,2.03,2.47,Under,2,HIT
+2025-04-29,Randy Rodríguez,Giants,Padres,2.99,1.51,Under,0,HIT
+2025-04-29,Lou Trivino,Giants,Padres,2.0,2.5,Under,0,HIT
+2025-04-29,Nick Pivetta,Padres,Giants,9.67,5.17,Over,9,HIT
+2025-04-30,Ryan Thompson,Diamondbacks,Mets,2.92,1.58,Under,1,HIT
+2025-04-30,Ryne Stanek,Mets,Diamondbacks,0.65,3.85,Under,0,HIT
+2025-04-30,Yimi García,Blue Jays,Red Sox,1.04,3.46,Under,1,HIT
+2025-04-30,Jeff Hoffman,Blue Jays,Red Sox,6.4,1.9,Over,3,MISS
+2025-04-30,Brad Keller,Cubs,Pirates,3.71,0.79,Under,1,HIT
+2025-04-30,Caleb Thielbar,Cubs,Pirates,2.05,2.45,Under,1,HIT
+2025-04-30,Carmen Mlodzinski,Pirates,Cubs,4.86,0.36,Over,4,MISS
+2025-04-30,Ryan Borucki,Pirates,Cubs,1.06,3.44,Under,2,HIT
+2025-04-30,Caleb Ferguson,Pirates,Cubs,2.64,1.86,Under,0,HIT
+2025-04-30,John Schreiber,Royals,Rays,2.97,1.53,Under,0,HIT
+2025-04-30,Drew Rasmussen,Rays,Royals,9.32,4.82,Over,3,MISS
+2025-04-30,Danny Coulombe,Twins,Guardians,2.05,2.45,Under,3,HIT
+2025-04-30,Tim Hill,Yankees,Orioles,0.22,4.28,Under,0,HIT
+2025-04-30,Devin Williams,Yankees,Orioles,0.48,4.02,Under,1,HIT
+2025-04-30,Mark Leiter Jr.,Yankees,Orioles,3.79,0.71,Under,2,HIT
+2025-04-30,Cade Povich,Orioles,Yankees,7.12,2.62,Over,2,MISS
+2025-04-30,Félix Bautista,Orioles,Yankees,3.78,0.72,Under,1,HIT
+2025-04-30,Tyler Alexander,Brewers,White Sox,5.11,0.61,Over,1,MISS
+2025-04-30,Grant Anderson,Brewers,White Sox,2.03,2.47,Under,0,HIT
+2025-04-30,Cam Booser,White Sox,Brewers,2.05,2.45,Under,0,HIT
+2025-04-30,Luis Severino,Athletics,Rangers,9.32,4.82,Over,4,MISS
+2025-04-30,Tyler Ferguson,Athletics,Rangers,2.06,2.44,Under,1,HIT
+2025-04-30,Luke Jackson,Rangers,Athletics,2.06,2.44,Under,1,HIT
+2025-04-30,Shawn Armstrong,Rangers,Athletics,4.44,0.06,Under,1,HIT
+2025-04-30,Chase Dollander,Rockies,Braves,7.38,2.88,Over,4,MISS
+2025-04-30,Seth Halvorsen,Rockies,Braves,1.03,3.47,Under,2,HIT
+2025-04-30,Grant Anderson,Angels,Mariners,2.03,2.47,Under,5,MISS
+2025-04-30,Reid Detmers,Angels,Mariners,8.23,3.73,Over,0,MISS
+2025-04-30,Ryan Johnson,Angels,Mariners,5.02,0.52,Over,1,MISS
+2025-04-30,Casey Legumina,Mariners,Angels,3.77,0.73,Under,0,HIT
+2025-04-30,Cal Quantrill,Marlins,Dodgers,4.13,0.37,Under,3,HIT
+2025-04-30,Lake Bachar,Marlins,Dodgers,3.78,0.72,Under,0,HIT
+2025-04-30,JoJo Romero,Cardinals,Reds,2.05,2.45,Under,1,HIT
+2025-05-01,Zac Gallen,Diamondbacks,Mets,7.38,2.88,Over,8,HIT
+2025-05-01,Ryan Thompson,Diamondbacks,Mets,2.05,2.45,Under,2,HIT
+2025-05-01,Max Kranick,Mets,Diamondbacks,2.06,2.44,Under,2,HIT
+2025-05-01,Reed Garrett,Mets,Diamondbacks,2.05,2.45,Under,3,HIT
+2025-05-01,José Berríos,Blue Jays,Red Sox,7.38,2.88,Over,8,HIT
+2025-05-01,Mason Fluharty,Blue Jays,Red Sox,5.06,0.56,Over,0,MISS
+2025-05-01,Yimi García,Blue Jays,Red Sox,2.06,2.44,Under,2,HIT
+2025-05-01,Julian Merryweather,Cubs,Pirates,3.59,0.91,Under,0,HIT
+2025-05-01,Ryan Pressly,Cubs,Pirates,1.04,3.46,Under,0,HIT
+2025-05-01,Paul Skenes,Pirates,Cubs,10.61,6.11,Over,2,MISS
+2025-05-01,Kyle Nicolas,Pirates,Cubs,3.97,0.53,Under,0,HIT
+2025-05-01,Chris Stratton,Pirates,Cubs,2.93,1.57,Under,0,HIT
+2025-05-01,Chris Stratton,Royals,Rays,2.93,1.57,Under,2,HIT
+2025-05-01,Mason Montgomery,Rays,Royals,3.58,0.92,Under,2,HIT
+2025-05-01,Simeon Woods Richardson,Twins,Guardians,10.23,5.73,Over,4,MISS
+2025-05-01,Ben Lively,Guardians,Twins,7.38,2.88,Over,2,MISS
+2025-05-01,Joey Cantillo,Guardians,Twins,7.24,2.74,Over,1,MISS
+2025-05-01,Tim Herrin,Guardians,Twins,2.96,1.54,Under,0,HIT
+2025-05-01,Matt Svanson,Cardinals,Reds,2.06,2.44,Under,2,HIT
+2025-05-01,Kyle Finnegan,Nationals,Phillies,1.03,3.47,Under,0,HIT
+2025-05-01,Orion Kerkering,Phillies,Nationals,2.99,1.51,Under,1,HIT
+2025-05-01,Joe Ross,Phillies,Nationals,3.74,0.76,Under,1,HIT
+2025-05-01,Chad Patrick,Brewers,White Sox,9.57,5.07,Over,4,MISS
+2025-05-01,Joel Payamps,Brewers,White Sox,2.99,1.51,Under,0,HIT
+2025-05-01,T.J. McFarland,Athletics,Rangers,1.03,3.47,Under,1,HIT
+2025-05-01,Hoby Milner,Rangers,Athletics,2.97,1.53,Under,1,HIT
+2025-05-01,Shawn Armstrong,Rangers,Athletics,3.71,0.79,Under,0,HIT
+2025-05-01,Kyle Freeland,Rockies,Giants,4.65,0.15,Over,5,HIT
+2025-05-01,Angel Chivilli,Rockies,Giants,4.19,0.31,Under,0,HIT
+2025-05-01,Scott Alexander,Rockies,Giants,1.01,3.49,Under,0,HIT
+2025-05-01,Randy Rodríguez,Giants,Rockies,2.92,1.58,Under,2,HIT
+2025-05-01,Ryan Zeferjahn,Angels,Tigers,6.04,1.54,Over,1,MISS
+2025-05-01,Reid Detmers,Angels,Tigers,6.55,2.05,Over,0,MISS
+2025-05-02,Juan Morillo,Diamondbacks,Phillies,3.0,1.5,Under,1,HIT
+2025-05-02,Matt Strahm,Phillies,Diamondbacks,2.96,1.54,Under,0,HIT
+2025-05-02,José Alvarado,Phillies,Diamondbacks,5.64,1.14,Over,1,MISS
+2025-05-02,Joey Cantillo,Guardians,Blue Jays,6.35,1.85,Over,0,MISS
+2025-05-02,Jeff Hoffman,Blue Jays,Guardians,5.7,1.2,Over,1,MISS
+2025-05-02,Dean Kremer,Orioles,Royals,5.91,1.41,Over,2,MISS
+2025-05-02,Félix Bautista,Orioles,Royals,3.78,0.72,Under,1,HIT
+2025-05-02,Evan Phillips,Dodgers,Braves,1.07,3.43,Under,2,HIT
+2025-05-02,Joe Ryan,Twins,Red Sox,7.17,2.67,Over,8,HIT
+2025-05-02,Danny Coulombe,Twins,Red Sox,6.4,1.9,Over,1,MISS
+2025-05-02,Greg Weissert,Red Sox,Twins,3.79,0.71,Under,3,HIT
+2025-05-02,Liam Hendriks,Red Sox,Twins,2.99,1.51,Under,1,HIT
+2025-05-02,Noah Murdock,Athletics,Marlins,3.43,1.07,Under,2,HIT
+2025-05-02,Ronny Henriquez,Marlins,Athletics,3.75,0.75,Under,2,HIT
+2025-05-02,Tyler Phillips,Marlins,Athletics,2.06,2.44,Under,2,HIT
+2025-05-02,Yuki Matsui,Padres,Pirates,3.72,0.78,Under,0,HIT
+2025-05-02,Ryan Borucki,Pirates,Padres,2.99,1.51,Under,2,HIT
+2025-05-02,Caleb Ferguson,Pirates,Padres,0.23,4.27,Under,1,HIT
+2025-05-02,Colin Holderman,Pirates,Padres,0.06,4.44,Under,1,HIT
+2025-05-02,Ryan Pepiot,Rays,Yankees,7.38,2.88,Over,1,MISS
+2025-05-02,Mason Montgomery,Rays,Yankees,6.49,1.99,Over,1,MISS
+2025-05-02,Max Fried,Yankees,Rays,10.03,5.53,Over,6,HIT
+2025-05-02,Devin Williams,Yankees,Rays,2.05,2.45,Under,1,HIT
+2025-05-02,Luke Weaver,Yankees,Rays,1.03,3.47,Under,2,HIT
+2025-05-02,Tony Santillan,Reds,Nationals,1.03,3.47,Under,1,HIT
+2025-05-02,Ben Brown,Cubs,Brewers,7.38,2.88,Over,4,MISS
+2025-05-02,Tyler Alexander,Brewers,Cubs,0.92,3.58,Under,1,HIT
+2025-05-02,Quinn Priester,Brewers,Cubs,5.91,1.41,Over,4,MISS
+2025-05-02,Joel Payamps,Brewers,Cubs,2.99,1.51,Under,1,HIT
+2025-05-02,Grant Anderson,Brewers,Cubs,2.03,2.47,Under,1,HIT
+2025-05-02,Jake Bauers,Brewers,Cubs,0.23,4.27,Under,0,HIT
+2025-05-02,Cam Booser,White Sox,Astros,2.82,1.68,Under,0,HIT
+2025-05-02,Clay Holmes,Mets,Cardinals,9.82,5.32,Over,3,MISS
+2025-05-02,Ryne Stanek,Mets,Cardinals,-0.09,4.59,Under,1,HIT
+2025-05-02,Chris Roycroft,Cardinals,Mets,2.21,2.29,Under,0,HIT
+2025-05-02,Ryan Helsley,Cardinals,Mets,1.0,3.5,Under,0,HIT
+2025-05-02,Jack Leiter,Rangers,Mariners,10.29,5.79,Over,2,MISS
+2025-05-02,Caleb Boushley,Rangers,Mariners,6.0,1.5,Over,1,MISS
+2025-05-02,José Soriano,Angels,Tigers,4.86,0.36,Over,5,HIT
+2025-05-02,Ryan Johnson,Angels,Tigers,6.24,1.74,Over,1,MISS
+2025-05-02,Ryan Zeferjahn,Angels,Tigers,6.43,1.93,Over,1,MISS
+2025-05-03,Joe Ross,Phillies,Diamondbacks,5.15,0.65,Over,2,MISS
+2025-05-03,Gavin Williams,Guardians,Blue Jays,7.38,2.88,Over,9,HIT
+2025-05-03,Mason Fluharty,Blue Jays,Guardians,2.06,2.44,Under,1,HIT
+2025-05-03,Yimi García,Blue Jays,Guardians,3.0,1.5,Under,2,HIT
+2025-05-03,John Schreiber,Royals,Orioles,2.99,1.51,Under,1,HIT
+2025-05-03,Roki Sasaki,Dodgers,Braves,7.6,3.1,Over,4,MISS
+2025-05-03,Luis García,Dodgers,Braves,1.07,3.43,Under,3,HIT
+2025-05-03,Enyel De Los Santos,Braves,Dodgers,2.8,1.7,Under,2,HIT
+2025-05-03,Greg Weissert,Red Sox,Twins,7.42,2.92,Over,0,MISS
+2025-05-03,Tyler Ferguson,Athletics,Marlins,1.07,3.43,Under,1,HIT
+2025-05-03,T.J. McFarland,Athletics,Marlins,2.05,2.45,Under,0,HIT
+2025-05-03,Max Meyer,Marlins,Athletics,7.38,2.88,Over,0,MISS
+2025-05-03,Lake Bachar,Marlins,Athletics,2.05,2.45,Under,4,HIT
+2025-05-03,Yuki Matsui,Padres,Pirates,2.99,1.51,Under,0,HIT
+2025-05-03,Zack Littell,Rays,Yankees,5.3,0.8,Over,3,MISS
+2025-05-03,Pete Fairbanks,Rays,Yankees,2.06,2.44,Under,0,HIT
+2025-05-03,Ryan Yarbrough,Yankees,Rays,4.96,0.46,Over,2,MISS
+2025-05-03,Ian Hamilton,Yankees,Rays,3.01,1.49,Under,3,HIT
+2025-05-03,Mark Leiter Jr.,Yankees,Rays,6.4,1.9,Over,1,MISS
+2025-05-03,Tim Hill,Yankees,Rays,0.13,4.37,Under,1,HIT
+2025-05-03,Nick Lodolo,Reds,Nationals,7.17,2.67,Over,4,MISS
+2025-05-03,Julian Merryweather,Cubs,Brewers,2.65,1.85,Under,1,HIT
+2025-05-03,Brad Keller,Cubs,Brewers,3.79,0.71,Under,1,HIT
+2025-05-03,Jose Quintana,Brewers,Cubs,10.29,5.79,Over,6,HIT
+2025-05-03,Grant Anderson,Brewers,Cubs,2.03,2.47,Under,2,HIT
+2025-05-03,Elvin Rodríguez,Brewers,Cubs,7.15,2.65,Over,2,MISS
+2025-05-03,Penn Murfee,White Sox,Astros,2.03,2.47,Under,0,HIT
+2025-05-03,Luis Castillo,Mariners,Rangers,7.38,2.88,Over,2,MISS
+2025-05-03,Gabe Speier,Mariners,Rangers,3.77,0.73,Under,0,HIT
+2025-05-03,Hoby Milner,Rangers,Mariners,2.06,2.44,Under,1,HIT
+2025-05-03,Randy Rodríguez,Giants,Rockies,5.09,0.59,Over,1,MISS
+2025-05-03,Erik Miller,Giants,Rockies,2.99,1.51,Under,0,HIT
+2025-05-03,Ryan Walker,Giants,Rockies,6.43,1.93,Over,1,MISS
+2025-05-03,Jack Flaherty,Tigers,Angels,7.17,2.67,Over,8,HIT
+2025-05-03,Beau Brieske,Tigers,Angels,2.03,2.47,Under,0,HIT
+2025-05-03,Kyle Hendricks,Angels,Tigers,5.24,0.74,Over,3,MISS
+2025-05-04,Juan Morillo,Diamondbacks,Phillies,2.99,1.51,Under,1,HIT
+2025-05-04,Ryan Thompson,Diamondbacks,Phillies,3.79,0.71,Under,0,HIT
+2025-05-04,Orion Kerkering,Phillies,Diamondbacks,2.99,1.51,Under,0,HIT
+2025-05-04,Matt Strahm,Phillies,Diamondbacks,1.03,3.47,Under,0,HIT
+2025-05-04,Joe Ross,Phillies,Diamondbacks,5.34,0.84,Over,1,MISS
+2025-05-04,José Alvarado,Phillies,Diamondbacks,6.4,1.9,Over,0,MISS
+2025-05-04,Tim Herrin,Guardians,Blue Jays,1.56,2.94,Under,0,HIT
+2025-05-04,Matt Bowman,Orioles,Royals,3.78,0.72,Under,1,HIT
+2025-05-04,Jack Dreyer,Dodgers,Braves,3.46,1.04,Under,1,HIT
+2025-05-04,Luis García,Dodgers,Braves,3.76,0.74,Under,0,HIT
+2025-05-04,Liam Hendriks,Red Sox,Twins,3.67,0.83,Under,1,HIT
+2025-05-04,JP Sears,Athletics,Marlins,11.05,6.55,Over,2,MISS
+2025-05-04,Tyler Ferguson,Athletics,Marlins,2.03,2.47,Under,1,HIT
+2025-05-04,Colin Holderman,Pirates,Padres,0.94,3.56,Under,1,HIT
+2025-05-04,Taj Bradley,Rays,Yankees,4.86,0.36,Over,1,MISS
+2025-05-04,Mason Montgomery,Rays,Yankees,3.75,0.75,Under,0,HIT
+2025-05-04,Pete Fairbanks,Rays,Yankees,1.03,3.47,Under,3,HIT
+2025-05-04,Kyle Finnegan,Nationals,Reds,0.22,4.28,Under,2,HIT
+2025-05-04,Nick Martinez,Reds,Nationals,7.6,3.1,Over,6,HIT
+2025-05-04,Julian Merryweather,Cubs,Brewers,1.63,2.87,Under,0,HIT
+2025-05-04,Drew Pomeranz,Cubs,Brewers,3.0,1.5,Under,1,HIT
+2025-05-04,Reed Garrett,Mets,Cardinals,3.78,0.72,Under,1,HIT
+2025-05-04,JoJo Romero,Cardinals,Mets,2.05,2.45,Under,1,HIT
+2025-05-04,Ryan Helsley,Cardinals,Mets,0.21,4.29,Under,1,HIT
+2025-05-04,Casey Legumina,Mariners,Rangers,2.06,2.44,Under,0,HIT
+2025-05-04,Hoby Milner,Rangers,Mariners,2.06,2.44,Under,0,HIT
+2025-05-04,Luke Jackson,Rangers,Mariners,2.0,2.5,Under,2,HIT
+2025-05-04,Angel Chivilli,Rockies,Giants,3.27,1.23,Under,1,HIT
+2025-05-04,Seth Halvorsen,Rockies,Giants,2.05,2.45,Under,0,HIT
+2025-05-04,Lou Trivino,Giants,Rockies,0.04,4.46,Under,1,HIT
+2025-05-04,Beau Brieske,Tigers,Angels,1.96,2.54,Under,2,HIT
+2025-05-04,Jack Kochanowicz,Angels,Tigers,5.91,1.41,Over,1,MISS
+2025-05-04,Michael Darrell-Hicks,Angels,Tigers,3.01,1.49,Under,2,HIT
+2025-05-04,José Fermín,Angels,Tigers,3.75,0.75,Under,2,HIT
+2025-05-04,Max Kranick,Mets,Cardinals,3.72,0.78,Under,1,HIT
+2025-05-04,Ryne Stanek,Mets,Cardinals,0.98,3.52,Under,1,HIT
+2025-05-04,Andre Pallante,Cardinals,Mets,4.13,0.37,Under,1,HIT
+2025-05-05,AJ Smith-Shawver,Braves,Reds,7.38,2.88,Over,5,HIT
+2025-05-05,Enyel De Los Santos,Braves,Reds,2.92,1.58,Under,1,HIT
+2025-05-05,Jack Dreyer,Dodgers,Marlins,6.06,1.56,Over,0,MISS
+2025-05-05,Ben Casparius,Dodgers,Marlins,9.31,4.81,Over,5,HIT
+2025-05-05,Evan Phillips,Dodgers,Marlins,3.0,1.5,Under,0,HIT
+2025-05-05,Sandy Alcantara,Marlins,Dodgers,4.13,0.37,Under,4,HIT
+2025-05-05,Tyler Phillips,Marlins,Dodgers,3.61,0.89,Under,2,HIT
+2025-05-05,Nick Pivetta,Padres,Yankees,9.57,5.07,Over,5,HIT
+2025-05-05,Yuki Matsui,Padres,Yankees,1.01,3.49,Under,0,HIT
+2025-05-05,Devin Williams,Yankees,Padres,3.0,1.5,Under,2,HIT
+2025-05-05,Luke Weaver,Yankees,Padres,2.99,1.51,Under,0,HIT
+2025-05-05,Tim Hill,Yankees,Padres,1.79,2.71,Under,0,HIT
+2025-05-05,Cam Booser,White Sox,Royals,1.56,2.94,Under,1,HIT
+2025-05-05,Cole Ragans,Royals,White Sox,7.38,2.88,Over,11,HIT
+2025-05-05,John Schreiber,Royals,White Sox,2.05,2.45,Under,2,HIT
+2025-05-05,Grant Anderson,Brewers,Astros,2.97,1.53,Under,0,HIT
+2025-05-05,Joel Payamps,Brewers,Astros,2.05,2.45,Under,2,HIT
+2025-05-05,Carmen Mlodzinski,Pirates,Cardinals,4.65,0.15,Over,2,MISS
+2025-05-05,Ryan Borucki,Pirates,Cardinals,3.78,0.72,Under,0,HIT
+2025-05-05,Caleb Ferguson,Pirates,Cardinals,0.92,3.58,Under,0,HIT
+2025-05-05,Ryan Helsley,Cardinals,Pirates,1.01,3.49,Under,2,HIT
+2025-05-05,Caleb Thielbar,Cubs,Giants,2.05,2.45,Under,2,HIT
+2025-05-05,Reed Garrett,Mets,Diamondbacks,3.73,0.77,Under,2,HIT
+2025-05-05,Ryne Nelson,Diamondbacks,Mets,7.5,3.0,Over,2,MISS
+2025-05-05,Juan Morillo,Diamondbacks,Mets,2.99,1.51,Under,0,HIT
+2025-05-05,Ryan Thompson,Diamondbacks,Mets,3.0,1.5,Under,1,HIT
+2025-05-05,Casey Legumina,Mariners,Athletics,1.01,3.49,Under,0,HIT
+2025-05-05,Luis Severino,Athletics,Mariners,10.58,6.08,Over,5,HIT
+2025-05-05,Tyler Ferguson,Athletics,Mariners,2.97,1.53,Under,1,HIT
+2025-05-06,Tony Santillan,Reds,Braves,2.05,2.45,Under,2,HIT
+2025-05-06,Ben Lively,Guardians,Nationals,7.94,3.44,Over,3,MISS
+2025-05-06,Tim Herrin,Guardians,Nationals,0.19,4.31,Under,1,HIT
+2025-05-06,Luis García,Dodgers,Marlins,2.97,1.53,Under,1,HIT
+2025-05-06,Cal Quantrill,Marlins,Dodgers,4.65,0.15,Over,6,HIT
+2025-05-06,Lake Bachar,Marlins,Dodgers,5.07,0.57,Over,0,MISS
+2025-05-06,Zack Wheeler,Phillies,Rays,9.12,4.62,Over,9,HIT
+2025-05-06,Orion Kerkering,Phillies,Rays,2.97,1.53,Under,1,HIT
+2025-05-06,Matt Strahm,Phillies,Rays,1.06,3.44,Under,2,HIT
+2025-05-06,Drew Rasmussen,Rays,Phillies,7.38,2.88,Over,2,MISS
+2025-05-06,Mason Montgomery,Rays,Phillies,2.99,1.51,Under,0,HIT
+2025-05-06,Ryan Bergert,Padres,Yankees,2.05,2.45,Under,0,HIT
+2025-05-06,Tim Hill,Yankees,Padres,1.79,2.71,Under,0,HIT
+2025-05-06,Shawn Armstrong,Rangers,Red Sox,2.43,2.07,Under,1,HIT
+2025-05-06,Sean Newcomb,Red Sox,Rangers,9.57,5.07,Over,3,MISS
+2025-05-06,Cade Povich,Orioles,Twins,7.12,2.62,Over,4,MISS
+2025-05-06,Matt Bowman,Orioles,Twins,3.82,0.68,Under,1,HIT
+2025-05-06,Danny Coulombe,Twins,Orioles,6.4,1.9,Over,2,MISS
+2025-05-06,Cam Booser,White Sox,Royals,1.56,2.94,Under,0,HIT
+2025-05-06,Chad Patrick,Brewers,Astros,8.3,3.8,Over,6,HIT
+2025-05-06,Paul Skenes,Pirates,Cardinals,9.32,4.82,Over,6,HIT
+2025-05-06,Randy Rodríguez,Giants,Cubs,2.93,1.57,Under,2,HIT
+2025-05-06,Ryan Walker,Giants,Cubs,6.4,1.9,Over,2,MISS
+2025-05-06,Erik Miller,Giants,Cubs,3.0,1.5,Under,2,HIT
+2025-05-06,Drew Pomeranz,Cubs,Giants,2.06,2.44,Under,0,HIT
+2025-05-06,Brad Keller,Cubs,Giants,3.78,0.72,Under,0,HIT
+2025-05-06,Ryan Pressly,Cubs,Giants,1.04,3.46,Under,0,HIT
+2025-05-06,Caleb Thielbar,Cubs,Giants,2.99,1.51,Under,2,HIT
+2025-05-06,David Peterson,Mets,Diamondbacks,8.83,4.33,Over,6,HIT
+2025-05-06,Zac Gallen,Diamondbacks,Mets,7.38,2.88,Over,6,HIT
+2025-05-06,Mason Fluharty,Blue Jays,Angels,2.99,1.51,Under,1,HIT
+2025-05-06,Yimi García,Blue Jays,Angels,6.07,1.57,Over,1,MISS
+2025-05-06,Jeff Hoffman,Blue Jays,Angels,5.06,0.56,Over,0,MISS
+2025-05-06,Tyler Anderson,Angels,Blue Jays,9.1,4.6,Over,7,HIT
+2025-05-06,Ryan Johnson,Angels,Blue Jays,6.52,2.02,Over,2,MISS
+2025-05-06,José Fermín,Angels,Blue Jays,3.54,0.96,Under,0,HIT
+2025-05-06,Gabe Speier,Mariners,Athletics,2.99,1.51,Under,1,HIT
+2025-05-06,Noah Murdock,Athletics,Mariners,5.8,1.3,Over,2,MISS
+2025-05-06,T.J. McFarland,Athletics,Mariners,2.05,2.45,Under,0,HIT
+2025-05-06,Tyler Ferguson,Athletics,Mariners,2.97,1.53,Under,1,HIT
+2025-05-06,Joey Cantillo,Guardians,Nationals,3.75,0.75,Under,1,HIT
+2025-05-06,Kyle Finnegan,Nationals,Guardians,2.05,2.45,Under,0,HIT
+2025-05-07,Tony Santillan,Reds,Braves,3.73,0.77,Under,1,HIT
+2025-05-07,Enyel De Los Santos,Braves,Reds,3.71,0.79,Under,2,HIT
+2025-05-07,Joey Cantillo,Guardians,Nationals,2.06,2.44,Under,1,HIT
+2025-05-07,Tim Herrin,Guardians,Nationals,1.01,3.49,Under,1,HIT
+2025-05-07,Lake Bachar,Marlins,Dodgers,4.43,0.07,Under,1,HIT
+2025-05-07,Ronny Henriquez,Marlins,Dodgers,6.06,1.56,Over,2,MISS
+2025-05-07,Tyler Phillips,Marlins,Dodgers,6.33,1.83,Over,1,MISS
+2025-05-07,Pete Fairbanks,Rays,Phillies,2.99,1.51,Under,0,HIT
+2025-05-07,Max Fried,Yankees,Padres,9.29,4.79,Over,8,HIT
+2025-05-07,Ian Hamilton,Yankees,Padres,5.25,0.75,Over,0,MISS
+2025-05-07,Luke Weaver,Yankees,Padres,3.0,1.5,Under,0,HIT
+2025-05-07,Devin Williams,Yankees,Padres,4.27,0.23,Under,3,HIT
+2025-05-07,Hoby Milner,Rangers,Red Sox,2.06,2.44,Under,0,HIT
+2025-05-07,Caleb Boushley,Rangers,Red Sox,3.73,0.77,Under,1,HIT
+2025-05-07,Greg Weissert,Red Sox,Rangers,5.43,0.93,Over,0,MISS
+2025-05-07,Matt Bowman,Orioles,Twins,3.65,0.85,Under,1,HIT
+2025-05-07,Simeon Woods Richardson,Twins,Orioles,7.86,3.36,Over,1,MISS
+2025-05-07,Danny Coulombe,Twins,Orioles,6.67,2.17,Over,2,MISS
+2025-05-07,Quinn Priester,Brewers,Astros,5.91,1.41,Over,3,MISS
+2025-05-07,Elvin Rodríguez,Brewers,Astros,9.53,5.03,Over,2,MISS
+2025-05-07,Scott Alexander,Brewers,Astros,1.03,3.47,Under,0,HIT
+2025-05-07,Ryan Borucki,Pirates,Cardinals,3.79,0.71,Under,0,HIT
+2025-05-07,Caleb Ferguson,Pirates,Cardinals,1.01,3.49,Under,2,HIT
+2025-05-07,Colin Holderman,Pirates,Cardinals,2.04,2.46,Under,1,HIT
+2025-05-07,Chris Roycroft,Cardinals,Pirates,0.28,4.22,Under,1,HIT
+2025-05-07,Ryan Walker,Giants,Cubs,6.09,1.59,Over,0,MISS
+2025-05-07,Ben Brown,Cubs,Giants,7.38,2.88,Over,9,HIT
+2025-05-07,Drew Pomeranz,Cubs,Giants,2.06,2.44,Under,1,HIT
+2025-05-07,Julian Merryweather,Cubs,Giants,1.03,3.47,Under,0,HIT
+2025-05-07,Brad Keller,Cubs,Giants,2.05,2.45,Under,1,HIT
+2025-05-07,Chase Dollander,Rockies,Tigers,7.38,2.88,Over,0,MISS
+2025-05-07,Scott Alexander,Rockies,Tigers,1.03,3.47,Under,1,HIT
+2025-05-07,Seth Halvorsen,Rockies,Tigers,2.05,2.45,Under,3,HIT
+2025-05-07,Max Kranick,Mets,Diamondbacks,3.78,0.72,Under,1,HIT
+2025-05-07,Ryne Stanek,Mets,Diamondbacks,2.04,2.46,Under,0,HIT
+2025-05-07,José Castillo,Diamondbacks,Mets,0.21,4.29,Under,1,HIT
+2025-05-07,José Berríos,Blue Jays,Angels,9.32,4.82,Over,9,HIT
+2025-05-07,Jeff Hoffman,Blue Jays,Angels,3.72,0.78,Under,1,HIT
+2025-05-07,Reid Detmers,Angels,Blue Jays,1.7,2.8,Under,0,HIT
+2025-05-07,Ryan Zeferjahn,Angels,Blue Jays,3.77,0.73,Under,2,HIT
+2025-05-07,Gabe Speier,Mariners,Athletics,2.05,2.45,Under,0,HIT
+2025-05-07,T.J. McFarland,Athletics,Mariners,1.04,3.46,Under,0,HIT
+2025-05-07,Noah Murdock,Athletics,Mariners,3.13,1.37,Under,2,HIT
+2025-05-08,Nick Lodolo,Reds,Braves,7.38,2.88,Over,7,HIT
+2025-05-08,Lyon Richardson,Reds,Braves,1.98,2.52,Under,2,HIT
+2025-05-08,José Alvarado,Phillies,Rays,3.72,0.78,Under,1,HIT
+2025-05-08,Matt Strahm,Phillies,Rays,2.06,2.44,Under,2,HIT
+2025-05-08,Ryan Pepiot,Rays,Phillies,7.6,3.1,Over,3,MISS
+2025-05-08,Mason Montgomery,Rays,Phillies,1.03,3.47,Under,0,HIT
+2025-05-08,Pete Fairbanks,Rays,Phillies,2.99,1.51,Under,1,HIT
+2025-05-08,Jack Leiter,Rangers,Red Sox,7.12,2.62,Over,3,MISS
+2025-05-08,Liam Hendriks,Red Sox,Rangers,3.79,0.71,Under,0,HIT
+2025-05-08,Dean Kremer,Orioles,Twins,5.91,1.41,Over,8,HIT
+2025-05-08,Chris Stratton,Royals,White Sox,3.71,0.79,Under,2,HIT
+2025-05-08,Sean Guenther,Tigers,Rockies,3.78,0.72,Under,1,HIT
+2025-05-08,Kyle Freeland,Rockies,Tigers,6.91,2.41,Over,2,MISS
+2025-05-08,Angel Chivilli,Rockies,Tigers,1.11,3.39,Under,3,HIT
+2025-05-08,Jack Dreyer,Dodgers,Diamondbacks,3.78,0.72,Under,1,HIT
+2025-05-08,Juan Morillo,Diamondbacks,Dodgers,2.06,2.44,Under,1,HIT
+2025-05-08,José Soriano,Angels,Blue Jays,7.12,2.62,Over,6,HIT
+2025-05-08,Ryan Johnson,Angels,Blue Jays,3.72,0.78,Under,0,HIT
+2025-05-08,José Fermín,Angels,Blue Jays,3.77,0.73,Under,2,HIT
+2025-05-08,Beau Brieske,Tigers,Rockies,3.0,1.5,Under,2,HIT
+2025-05-08,Scott Alexander,Rockies,Tigers,2.06,2.44,Under,0,HIT
+2025-05-09,Enyel De Los Santos,Braves,Pirates,5.24,0.74,Over,2,MISS
+2025-05-09,Caleb Ferguson,Pirates,Braves,3.01,1.49,Under,1,HIT
+2025-05-09,Gavin Hollowell,Cubs,Mets,2.99,1.51,Under,2,HIT
+2025-05-09,Ryan Pressly,Cubs,Mets,-0.83,5.33,Under,1,HIT
+2025-05-09,Clay Holmes,Mets,Cubs,10.76,6.26,Over,5,HIT
+2025-05-09,Ryne Stanek,Mets,Cubs,2.05,2.45,Under,1,HIT
+2025-05-09,Reed Garrett,Mets,Cubs,4.99,0.49,Over,0,MISS
+2025-05-09,Jose Quintana,Brewers,Rays,7.38,2.88,Over,3,MISS
+2025-05-09,Grant Anderson,Brewers,Rays,3.0,1.5,Under,0,HIT
+2025-05-09,Joel Payamps,Brewers,Rays,2.99,1.51,Under,1,HIT
+2025-05-09,Zack Littell,Rays,Brewers,5.06,0.56,Over,5,HIT
+2025-05-09,Mason Montgomery,Rays,Brewers,0.11,4.39,Under,2,HIT
+2025-05-09,Cole Sulser,Rays,Brewers,0.98,3.52,Under,1,HIT
+2025-05-09,Joe Ross,Phillies,Guardians,3.73,0.77,Under,1,HIT
+2025-05-09,Orion Kerkering,Phillies,Guardians,2.65,1.85,Under,1,HIT
+2025-05-09,Gavin Williams,Guardians,Phillies,7.38,2.88,Over,8,HIT
+2025-05-09,Tim Herrin,Guardians,Phillies,2.03,2.47,Under,0,HIT
+2025-05-09,Greg Weissert,Red Sox,Royals,2.99,1.51,Under,0,HIT
+2025-05-09,Sean Newcomb,Red Sox,Royals,11.05,6.55,Over,0,MISS
+2025-05-09,John Schreiber,Royals,Red Sox,2.99,1.51,Under,1,HIT
+2025-05-09,Nick Martinez,Reds,Astros,9.57,5.07,Over,5,HIT
+2025-05-09,Max Meyer,Marlins,White Sox,7.38,2.88,Over,5,HIT
+2025-05-09,Ronny Henriquez,Marlins,White Sox,3.73,0.77,Under,2,HIT
+2025-05-09,Cam Booser,White Sox,Marlins,1.01,3.49,Under,1,HIT
+2025-05-09,Danny Coulombe,Twins,Giants,6.4,1.9,Over,2,MISS
+2025-05-09,Yuki Matsui,Padres,Rockies,0.23,4.27,Under,0,HIT
+2025-05-09,Seth Halvorsen,Rockies,Padres,6.09,1.59,Over,2,MISS
+2025-05-09,Félix Bautista,Orioles,Angels,3.78,0.72,Under,2,HIT
+2025-05-09,Kyle Hendricks,Angels,Orioles,4.13,0.37,Under,5,MISS
+2025-05-09,Reid Detmers,Angels,Orioles,-0.78,5.28,Under,1,HIT
+2025-05-09,Roki Sasaki,Dodgers,Diamondbacks,7.38,2.88,Over,0,MISS
+2025-05-09,Luis García,Dodgers,Diamondbacks,3.77,0.73,Under,1,HIT
+2025-05-09,Ryan Thompson,Diamondbacks,Dodgers,2.98,1.52,Under,0,HIT
+2025-05-09,Yimi García,Blue Jays,Mariners,5.17,0.67,Over,2,MISS
+2025-05-09,Jeff Hoffman,Blue Jays,Mariners,1.49,3.01,Under,3,HIT
+2025-05-09,Luis Castillo,Mariners,Blue Jays,9.79,5.29,Over,3,MISS
+2025-05-09,Casey Legumina,Mariners,Blue Jays,0.21,4.29,Under,3,HIT
+2025-05-09,Mark Leiter Jr.,Yankees,Athletics,6.28,1.78,Over,1,MISS
+2025-05-10,AJ Smith-Shawver,Braves,Pirates,9.79,5.29,Over,7,HIT
+2025-05-10,Caleb Ferguson,Pirates,Braves,2.98,1.52,Under,0,HIT
+2025-05-10,Brad Keller,Cubs,Mets,2.05,2.45,Under,2,HIT
+2025-05-10,Drew Pomeranz,Cubs,Mets,2.06,2.44,Under,1,HIT
+2025-05-10,Julian Merryweather,Cubs,Mets,1.0,3.5,Under,2,HIT
+2025-05-10,Max Kranick,Mets,Cubs,3.84,0.66,Under,0,HIT
+2025-05-10,Scott Alexander,Brewers,Rays,1.06,3.44,Under,1,HIT
+2025-05-10,Grant Anderson,Brewers,Rays,2.03,2.47,Under,0,HIT
+2025-05-10,Taj Bradley,Rays,Brewers,3.81,0.69,Under,5,MISS
+2025-05-10,Pete Fairbanks,Rays,Brewers,3.79,0.71,Under,1,HIT
+2025-05-10,Joe Ross,Phillies,Guardians,3.77,0.73,Under,0,HIT
+2025-05-10,Joey Cantillo,Guardians,Phillies,2.06,2.44,Under,3,HIT
+2025-05-10,Andre Pallante,Cardinals,Nationals,3.81,0.69,Under,7,MISS
+2025-05-10,JoJo Romero,Cardinals,Nationals,2.97,1.53,Under,0,HIT
+2025-05-10,Ryan Helsley,Cardinals,Nationals,2.99,1.51,Under,1,HIT
+2025-05-10,Hoby Milner,Rangers,Tigers,1.04,3.46,Under,2,HIT
+2025-05-10,Shawn Armstrong,Rangers,Tigers,2.02,2.48,Under,0,HIT
+2025-05-10,Luke Jackson,Rangers,Tigers,2.94,1.56,Under,1,HIT
+2025-05-10,Jack Flaherty,Tigers,Rangers,8.6,4.1,Over,4,MISS
+2025-05-10,Sean Guenther,Tigers,Rangers,3.79,0.71,Under,0,HIT
+2025-05-10,John Brebbia,Tigers,Rangers,3.62,0.88,Under,2,HIT
+2025-05-10,Liam Hendriks,Red Sox,Royals,2.05,2.45,Under,1,HIT
+2025-05-10,Cole Ragans,Royals,Red Sox,7.38,2.88,Over,8,HIT
+2025-05-10,Chris Stratton,Royals,Red Sox,6.43,1.93,Over,4,MISS
+2025-05-10,Lyon Richardson,Reds,Astros,3.8,0.7,Under,1,HIT
+2025-05-10,Tony Santillan,Reds,Astros,3.73,0.77,Under,2,HIT
+2025-05-10,Lake Bachar,Marlins,White Sox,5.87,1.37,Over,0,MISS
+2025-05-10,Randy Rodríguez,Giants,Twins,6.06,1.56,Over,3,MISS
+2025-05-10,Joe Ryan,Twins,Giants,8.6,4.1,Over,7,HIT
+2025-05-10,Scott Alexander,Rockies,Padres,1.06,3.44,Under,1,HIT
+2025-05-10,Jack Kochanowicz,Angels,Orioles,5.91,1.41,Over,4,MISS
+2025-05-10,José Fermín,Angels,Orioles,3.77,0.73,Under,2,HIT
+2025-05-10,Ryan Zeferjahn,Angels,Orioles,3.78,0.72,Under,0,HIT
+2025-05-10,Ryne Nelson,Diamondbacks,Dodgers,8.66,4.16,Over,1,MISS
+2025-05-10,Mason Fluharty,Blue Jays,Mariners,2.05,2.45,Under,2,HIT
+2025-05-10,Jeff Hoffman,Blue Jays,Mariners,3.41,1.09,Under,3,HIT
+2025-05-10,Gabe Speier,Mariners,Blue Jays,1.07,3.43,Under,2,HIT
+2025-05-10,Tim Hill,Yankees,Athletics,1.04,3.46,Under,0,HIT
+2025-05-10,Ian Hamilton,Yankees,Athletics,5.81,1.31,Over,1,MISS
+2025-05-10,JP Sears,Athletics,Yankees,10.23,5.73,Over,4,MISS
+2025-05-10,Tyler Ferguson,Athletics,Yankees,2.99,1.51,Under,0,HIT
+2025-05-11,Enyel De Los Santos,Braves,Pirates,6.09,1.59,Over,1,MISS
+2025-05-11,Carmen Mlodzinski,Pirates,Braves,7.16,2.66,Over,2,MISS
+2025-05-11,Ryan Borucki,Pirates,Braves,2.06,2.44,Under,2,HIT
+2025-05-11,Brad Keller,Cubs,Mets,2.99,1.51,Under,1,HIT
+2025-05-11,Gavin Hollowell,Cubs,Mets,2.92,1.58,Under,0,HIT
+2025-05-11,Reed Garrett,Mets,Cubs,3.0,1.5,Under,0,HIT
+2025-05-11,Ryne Stanek,Mets,Cubs,2.05,2.45,Under,2,HIT
+2025-05-11,Chad Patrick,Brewers,Rays,8.6,4.1,Over,4,MISS
+2025-05-11,Tyler Alexander,Brewers,Rays,2.05,2.45,Under,0,HIT
+2025-05-11,Joel Payamps,Brewers,Rays,3.78,0.72,Under,0,HIT
+2025-05-11,Drew Rasmussen,Rays,Brewers,5.7,1.2,Over,3,MISS
+2025-05-11,Mason Montgomery,Rays,Brewers,2.02,2.48,Under,2,HIT
+2025-05-11,Cole Sulser,Rays,Brewers,1.96,2.54,Under,1,HIT
+2025-05-11,Zack Wheeler,Phillies,Guardians,9.12,4.62,Over,8,HIT
+2025-05-11,José Alvarado,Phillies,Guardians,2.05,2.45,Under,1,HIT
+2025-05-11,Tim Herrin,Guardians,Phillies,2.65,1.85,Under,1,HIT
+2025-05-11,Beau Brieske,Tigers,Rangers,3.79,0.71,Under,0,HIT
+2025-05-11,Greg Weissert,Red Sox,Royals,0.2,4.3,Under,0,HIT
+2025-05-11,John Schreiber,Royals,Red Sox,3.78,0.72,Under,1,HIT
+2025-05-11,Lyon Richardson,Reds,Astros,3.82,0.68,Under,1,HIT
+2025-05-11,Sandy Alcantara,Marlins,White Sox,5.91,1.41,Over,8,HIT
+2025-05-11,Ronny Henriquez,Marlins,White Sox,5.19,0.69,Over,1,MISS
+2025-05-11,Tyler Phillips,Marlins,White Sox,3.98,0.52,Under,2,HIT
+2025-05-11,Cam Booser,White Sox,Marlins,2.06,2.44,Under,0,HIT
+2025-05-11,Erik Miller,Giants,Twins,3.76,0.74,Under,0,HIT
+2025-05-11,Ryan Walker,Giants,Twins,2.96,1.54,Under,0,HIT
+2025-05-11,Danny Coulombe,Twins,Giants,6.67,2.17,Over,2,MISS
+2025-05-11,Nick Pivetta,Padres,Rockies,9.32,4.82,Over,5,HIT
+2025-05-11,Yuki Matsui,Padres,Rockies,0.26,4.24,Under,2,HIT
+2025-05-11,Angel Chivilli,Rockies,Padres,3.14,1.36,Under,1,HIT
+2025-05-11,Seth Halvorsen,Rockies,Padres,6.09,1.59,Over,1,MISS
+2025-05-11,Félix Bautista,Orioles,Angels,3.78,0.72,Under,1,HIT
+2025-05-11,Tyler Anderson,Angels,Orioles,8.6,4.1,Over,5,HIT
+2025-05-11,Jack Dreyer,Dodgers,Diamondbacks,2.08,2.42,Under,2,HIT
+2025-05-11,Ben Casparius,Dodgers,Diamondbacks,10.35,5.85,Over,1,MISS
+2025-05-11,Zac Gallen,Diamondbacks,Dodgers,9.32,4.82,Over,5,HIT
+2025-05-11,Joe Mantiply,Diamondbacks,Dodgers,2.05,2.45,Under,0,HIT
+2025-05-11,José Castillo,Diamondbacks,Dodgers,1.56,2.94,Under,2,HIT
+2025-05-11,Ryan Yarbrough,Yankees,Athletics,4.41,0.09,Under,2,HIT
+2025-05-11,Yerry De los Santos,Yankees,Athletics,1.04,3.46,Under,1,HIT
+2025-05-11,Luis Severino,Athletics,Yankees,7.38,2.88,Over,2,MISS
+2025-05-11,José Alvarado,Athletics,Yankees,2.05,2.45,Under,2,HIT
+2025-05-11,T.J. McFarland,Athletics,Yankees,0.09,4.41,Under,0,HIT
+2025-05-12,Sean Newcomb,Red Sox,Tigers,6.08,1.58,Over,4,MISS
+2025-05-12,Sean Guenther,Tigers,Red Sox,1.61,2.89,Under,1,HIT
+2025-05-12,John Brebbia,Tigers,Red Sox,4.35,0.15,Under,1,HIT
+2025-05-12,Ben Lively,Guardians,Brewers,7.71,3.21,Over,1,MISS
+2025-05-12,Paul Skenes,Pirates,Mets,9.32,4.82,Over,6,HIT
+2025-05-12,Caleb Ferguson,Pirates,Mets,2.99,1.51,Under,1,HIT
+2025-05-12,Colin Holderman,Pirates,Mets,2.92,1.58,Under,0,HIT
+2025-05-12,David Peterson,Mets,Pirates,7.71,3.21,Over,7,HIT
+2025-05-12,JoJo Romero,Cardinals,Phillies,2.03,2.47,Under,0,HIT
+2025-05-12,Ryan Helsley,Cardinals,Phillies,3.71,0.79,Under,2,HIT
+2025-05-12,Matt Strahm,Phillies,Cardinals,3.79,0.71,Under,1,HIT
+2025-05-12,Orion Kerkering,Phillies,Cardinals,2.65,1.85,Under,1,HIT
+2025-05-12,Chase Dollander,Rockies,Rangers,4.13,0.37,Under,7,MISS
+2025-05-12,Luke Jackson,Rangers,Rockies,4.03,0.47,Under,0,HIT
+2025-05-12,John Schreiber,Royals,Astros,3.78,0.72,Under,2,HIT
+2025-05-12,Cal Quantrill,Marlins,Cubs,8.3,3.8,Over,1,MISS
+2025-05-12,Cade Gibson,Marlins,Cubs,3.01,1.49,Under,1,HIT
+2025-05-12,Drew Pomeranz,Cubs,Marlins,2.05,2.45,Under,2,HIT
+2025-05-12,José Fermín,Angels,Padres,3.78,0.72,Under,0,HIT
+2025-05-12,Erik Miller,Giants,Diamondbacks,2.64,1.86,Under,0,HIT
+2025-05-12,Randy Rodríguez,Giants,Diamondbacks,6.25,1.75,Over,2,MISS
+2025-05-12,Mark Leiter Jr.,Yankees,Mariners,3.77,0.73,Under,1,HIT
+2025-05-12,Tim Hill,Yankees,Mariners,0.09,4.41,Under,1,HIT
+2025-05-12,Devin Williams,Yankees,Mariners,6.81,2.31,Over,0,MISS
+2025-05-12,Ian Hamilton,Yankees,Mariners,4.35,0.15,Under,2,HIT
+2025-05-12,Casey Legumina,Mariners,Yankees,3.54,0.96,Under,1,HIT
+2025-05-13,Greg Weissert,Red Sox,Tigers,0.23,4.27,Under,1,HIT
+2025-05-13,Beau Brieske,Tigers,Red Sox,3.72,0.78,Under,2,HIT
+2025-05-13,Cam Booser,White Sox,Reds,1.04,3.46,Under,2,HIT
+2025-05-13,Tony Santillan,Reds,White Sox,5.03,0.53,Over,1,MISS
+2025-05-13,Quinn Priester,Brewers,Guardians,5.91,1.41,Over,3,MISS
+2025-05-13,Tyler Alexander,Brewers,Guardians,1.04,3.46,Under,1,HIT
+2025-05-13,Joel Payamps,Brewers,Guardians,2.99,1.51,Under,1,HIT
+2025-05-13,Ryan Borucki,Pirates,Mets,2.06,2.44,Under,0,HIT
+2025-05-13,Reed Garrett,Mets,Pirates,2.06,2.44,Under,0,HIT
+2025-05-13,Max Kranick,Mets,Pirates,2.0,2.5,Under,1,HIT
+2025-05-13,Ryne Stanek,Mets,Pirates,2.99,1.51,Under,2,HIT
+2025-05-13,Pete Fairbanks,Rays,Blue Jays,1.98,2.52,Under,1,HIT
+2025-05-13,Mason Montgomery,Rays,Blue Jays,3.79,0.71,Under,0,HIT
+2025-05-13,José Berríos,Blue Jays,Rays,9.79,5.29,Over,4,MISS
+2025-05-13,Mason Fluharty,Blue Jays,Rays,3.78,0.72,Under,1,HIT
+2025-05-13,Jeff Hoffman,Blue Jays,Rays,7.18,2.68,Over,1,MISS
+2025-05-13,Zach Brzykcy,Nationals,Braves,1.01,3.49,Under,1,HIT
+2025-05-13,Kyle Freeland,Rockies,Rangers,6.91,2.41,Over,5,HIT
+2025-05-13,Jack Leiter,Rangers,Rockies,4.86,0.36,Over,5,HIT
+2025-05-13,Hoby Milner,Rangers,Rockies,2.06,2.44,Under,0,HIT
+2025-05-13,Shawn Armstrong,Rangers,Rockies,0.94,3.56,Under,3,HIT
+2025-05-13,John Schreiber,Royals,Astros,3.79,0.71,Under,0,HIT
+2025-05-13,Ronny Henriquez,Marlins,Cubs,6.09,1.59,Over,2,MISS
+2025-05-13,Ben Brown,Cubs,Marlins,8.6,4.1,Over,6,HIT
+2025-05-13,Caleb Thielbar,Cubs,Marlins,6.2,1.7,Over,1,MISS
+2025-05-13,Julian Merryweather,Cubs,Marlins,2.0,2.5,Under,0,HIT
+2025-05-13,Ryan Pressly,Cubs,Marlins,0.02,4.48,Under,1,HIT
+2025-05-13,José Soriano,Angels,Padres,7.86,3.36,Over,5,HIT
+2025-05-13,Ryan Zeferjahn,Angels,Padres,2.99,1.51,Under,1,HIT
+2025-05-13,Yuki Matsui,Padres,Angels,2.05,2.45,Under,0,HIT
+2025-05-13,Juan Morillo,Diamondbacks,Giants,2.05,2.45,Under,2,HIT
+2025-05-13,Joe Mantiply,Diamondbacks,Giants,1.98,2.52,Under,1,HIT
+2025-05-13,Max Fried,Yankees,Mariners,9.67,5.17,Over,5,HIT
+2025-05-13,Mark Leiter Jr.,Yankees,Mariners,2.99,1.51,Under,2,HIT
+2025-05-13,Luke Weaver,Yankees,Mariners,2.06,2.44,Under,3,HIT
+2025-05-13,Devin Williams,Yankees,Mariners,6.49,1.99,Over,0,MISS
+2025-05-13,Tim Hill,Yankees,Mariners,1.0,3.5,Under,0,HIT
+2025-05-13,Gabe Speier,Mariners,Yankees,2.99,1.51,Under,2,HIT
+2025-05-13,Casey Legumina,Mariners,Yankees,4.28,0.22,Under,0,HIT
+2025-05-13,Luis García,Dodgers,Athletics,2.05,2.45,Under,0,HIT
+2025-05-13,J.P. Feyereisen,Dodgers,Athletics,2.05,2.45,Under,2,HIT
+2025-05-14,Liam Hendriks,Red Sox,Tigers,1.99,2.51,Under,1,HIT
+2025-05-14,Nick Lodolo,Reds,White Sox,8.6,4.1,Over,4,MISS
+2025-05-14,Lyon Richardson,Reds,White Sox,3.74,0.76,Under,0,HIT
+2025-05-14,Grant Anderson,Brewers,Guardians,0.2,4.3,Under,2,HIT
+2025-05-14,Gavin Williams,Guardians,Brewers,7.86,3.36,Over,6,HIT
+2025-05-14,Tim Herrin,Guardians,Brewers,2.64,1.86,Under,1,HIT
+2025-05-14,Joey Cantillo,Guardians,Brewers,5.3,0.8,Over,0,MISS
+2025-05-14,Danny Coulombe,Twins,Orioles,6.67,2.17,Over,0,MISS
+2025-05-14,Dean Kremer,Orioles,Twins,7.38,2.88,Over,4,MISS
+2025-05-14,Clay Holmes,Mets,Pirates,9.41,4.91,Over,4,MISS
+2025-05-14,José Alvarado,Phillies,Cardinals,2.05,2.45,Under,0,HIT
+2025-05-14,Orion Kerkering,Phillies,Cardinals,3.0,1.5,Under,1,HIT
+2025-05-14,Ryan Pepiot,Rays,Blue Jays,6.46,1.96,Over,7,HIT
+2025-05-14,Yimi García,Blue Jays,Rays,4.86,0.36,Over,1,MISS
+2025-05-14,Kyle Finnegan,Nationals,Braves,2.05,2.45,Under,1,HIT
+2025-05-14,Enyel De Los Santos,Braves,Nationals,5.58,1.08,Over,0,MISS
+2025-05-14,Scott Alexander,Rockies,Rangers,2.06,2.44,Under,0,HIT
+2025-05-14,Angel Chivilli,Rockies,Rangers,5.43,0.93,Over,1,MISS
+2025-05-14,Caleb Boushley,Rangers,Rockies,2.05,2.45,Under,4,HIT
+2025-05-14,Lake Bachar,Marlins,Cubs,0.72,3.78,Under,1,HIT
+2025-05-14,Drew Pomeranz,Cubs,Marlins,3.78,0.72,Under,1,HIT
+2025-05-14,Brad Keller,Cubs,Marlins,3.78,0.72,Under,1,HIT
+2025-05-14,Kyle Hendricks,Angels,Padres,7.12,2.62,Over,4,MISS
+2025-05-14,Reid Detmers,Angels,Padres,0.1,4.4,Under,2,HIT
+2025-05-14,José Fermín,Angels,Padres,3.78,0.72,Under,2,HIT
+2025-05-14,Ryan Thompson,Diamondbacks,Giants,0.95,3.55,Under,2,HIT
+2025-05-14,Ryne Nelson,Diamondbacks,Giants,4.98,0.48,Over,5,HIT
+2025-05-14,Erik Miller,Giants,Diamondbacks,2.02,2.48,Under,0,HIT
+2025-05-14,Ryan Walker,Giants,Diamondbacks,2.64,1.86,Under,0,HIT
+2025-05-14,Ian Hamilton,Yankees,Mariners,3.22,1.28,Under,2,HIT
+2025-05-14,Luke Weaver,Yankees,Mariners,2.94,1.56,Under,3,HIT
+2025-05-14,Luis Castillo,Mariners,Yankees,6.25,1.75,Over,6,HIT
+2025-05-14,Gabe Speier,Mariners,Yankees,3.79,0.71,Under,2,HIT
+2025-05-14,Tyler Ferguson,Athletics,Dodgers,2.02,2.48,Under,1,HIT
+2025-05-14,Ben Casparius,Dodgers,Athletics,10.5,6.0,Over,0,MISS
+2025-05-14,Simeon Woods Richardson,Twins,Orioles,9.32,4.82,Over,4,MISS
+2025-05-14,Chris Roycroft,Cardinals,Phillies,1.01,3.49,Under,1,HIT
+2025-05-14,JoJo Romero,Cardinals,Phillies,1.04,3.46,Under,1,HIT
+2025-05-14,Matt Svanson,Cardinals,Phillies,4.22,0.28,Under,3,HIT
+2025-05-15,Jason Alexander,Athletics,Dodgers,3.72,0.78,Under,1,HIT
+2025-05-15,Nick Martinez,Reds,White Sox,10.29,5.79,Over,3,MISS
+2025-05-15,Zack Littell,Rays,Blue Jays,7.56,3.06,Over,2,MISS
+2025-05-15,Cole Sulser,Rays,Blue Jays,2.97,1.53,Under,1,HIT
+2025-05-15,Mason Fluharty,Blue Jays,Rays,3.78,0.72,Under,0,HIT
+2025-05-15,Zach Brzykcy,Nationals,Braves,1.07,3.43,Under,1,HIT
+2025-05-15,AJ Smith-Shawver,Braves,Nationals,10.29,5.79,Over,6,HIT
+2025-05-15,Shawn Armstrong,Rangers,Astros,3.78,0.72,Under,0,HIT
+2025-05-16,Greg Weissert,Red Sox,Braves,1.0,3.5,Under,0,HIT
+2025-05-16,Liam Hendriks,Red Sox,Braves,1.99,2.51,Under,1,HIT
+2025-05-16,Tony Santillan,Reds,Guardians,3.79,0.71,Under,0,HIT
+2025-05-16,Jack Flaherty,Tigers,Blue Jays,7.38,2.88,Over,6,HIT
+2025-05-16,Beau Brieske,Tigers,Blue Jays,3.72,0.78,Under,0,HIT
+2025-05-16,Mason Fluharty,Blue Jays,Tigers,2.99,1.51,Under,1,HIT
+2025-05-16,Max Kranick,Mets,Yankees,2.03,2.47,Under,1,HIT
+2025-05-16,Mark Leiter Jr.,Yankees,Mets,3.78,0.72,Under,1,HIT
+2025-05-16,Devin Williams,Yankees,Mets,3.0,1.5,Under,3,HIT
+2025-05-16,Yerry De los Santos,Yankees,Mets,1.03,3.47,Under,2,HIT
+2025-05-16,Luke Weaver,Yankees,Mets,5.51,1.01,Over,0,MISS
+2025-05-16,Colin Holderman,Pirates,Phillies,2.0,2.5,Under,1,HIT
+2025-05-16,Ryan Borucki,Pirates,Phillies,2.06,2.44,Under,0,HIT
+2025-05-16,José Alvarado,Phillies,Pirates,2.06,2.44,Under,1,HIT
+2025-05-16,Taj Bradley,Rays,Marlins,5.3,0.8,Over,6,HIT
+2025-05-16,Mason Montgomery,Rays,Marlins,3.79,0.71,Under,1,HIT
+2025-05-16,Max Meyer,Marlins,Rays,7.12,2.62,Over,7,HIT
+2025-05-16,Ronny Henriquez,Marlins,Rays,6.06,1.56,Over,1,MISS
+2025-05-16,Lake Bachar,Marlins,Rays,1.76,2.74,Under,1,HIT
+2025-05-16,Tyler Phillips,Marlins,Rays,5.42,0.92,Over,0,MISS
+2025-05-16,Kyle Finnegan,Nationals,Orioles,2.99,1.51,Under,1,HIT
+2025-05-16,Cade Povich,Orioles,Nationals,6.91,2.41,Over,9,HIT
+2025-05-16,Félix Bautista,Orioles,Nationals,3.78,0.72,Under,0,HIT
+2025-05-16,Caleb Thielbar,Cubs,White Sox,6.4,1.9,Over,0,MISS
+2025-05-16,Ryan Pressly,Cubs,White Sox,1.09,3.41,Under,1,HIT
+2025-05-16,Julian Merryweather,Cubs,White Sox,2.72,1.78,Under,1,HIT
+2025-05-16,Hoby Milner,Rangers,Astros,1.99,2.51,Under,0,HIT
+2025-05-16,Shawn Armstrong,Rangers,Astros,3.0,1.5,Under,0,HIT
+2025-05-16,Joe Ryan,Twins,Brewers,10.66,6.16,Over,9,HIT
+2025-05-16,Chad Patrick,Brewers,Twins,8.6,4.1,Over,2,MISS
+2025-05-16,Scott Alexander,Brewers,Twins,1.03,3.47,Under,2,HIT
+2025-05-16,Joel Payamps,Brewers,Twins,2.06,2.44,Under,1,HIT
+2025-05-16,Andre Pallante,Cardinals,Royals,7.38,2.88,Over,4,MISS
+2025-05-16,Cole Ragans,Royals,Cardinals,7.38,2.88,Over,7,HIT
+2025-05-16,John Schreiber,Royals,Cardinals,2.98,1.52,Under,0,HIT
+2025-05-16,Chris Stratton,Royals,Cardinals,6.97,2.47,Over,1,MISS
+2025-05-16,Jack Kochanowicz,Angels,Dodgers,7.12,2.62,Over,5,HIT
+2025-05-16,Ryan Zeferjahn,Angels,Dodgers,3.58,0.92,Under,0,HIT
+2025-05-16,Jack Dreyer,Dodgers,Angels,3.02,1.48,Under,4,HIT
+2025-05-16,Luis García,Dodgers,Angels,2.05,2.45,Under,2,HIT
+2025-05-16,Seth Halvorsen,Rockies,Diamondbacks,5.25,0.75,Over,0,MISS
+2025-05-16,Scott Alexander,Rockies,Diamondbacks,1.03,3.47,Under,0,HIT
+2025-05-16,JP Sears,Athletics,Giants,10.61,6.11,Over,2,MISS
+2025-05-16,Casey Legumina,Mariners,Padres,3.76,0.74,Under,2,HIT
+2025-05-17,Enyel De Los Santos,Braves,Red Sox,2.99,1.51,Under,0,HIT
+2025-05-17,Joey Cantillo,Guardians,Reds,3.25,1.25,Under,1,HIT
+2025-05-17,Lyon Richardson,Reds,Guardians,1.98,2.52,Under,1,HIT
+2025-05-17,Tony Santillan,Reds,Guardians,3.0,1.5,Under,0,HIT
+2025-05-17,Beau Brieske,Tigers,Blue Jays,2.04,2.46,Under,0,HIT
+2025-05-17,Yimi García,Blue Jays,Tigers,4.27,0.23,Under,0,HIT
+2025-05-17,Jeff Hoffman,Blue Jays,Tigers,7.2,2.7,Over,0,MISS
+2025-05-17,Reed Garrett,Mets,Yankees,0.73,3.77,Under,0,HIT
+2025-05-17,Mark Leiter Jr.,Yankees,Mets,3.78,0.72,Under,0,HIT
+2025-05-17,Tim Hill,Yankees,Mets,1.05,3.45,Under,0,HIT
+2025-05-17,Carmen Mlodzinski,Pirates,Phillies,8.87,4.37,Over,2,MISS
+2025-05-17,Caleb Ferguson,Pirates,Phillies,2.05,2.45,Under,1,HIT
+2025-05-17,Zack Wheeler,Phillies,Pirates,11.05,6.55,Over,6,HIT
+2025-05-17,Matt Strahm,Phillies,Pirates,6.12,1.62,Over,2,MISS
+2025-05-17,Drew Rasmussen,Rays,Marlins,4.65,0.15,Over,5,HIT
+2025-05-17,Pete Fairbanks,Rays,Marlins,3.52,0.98,Under,0,HIT
+2025-05-17,Sandy Alcantara,Marlins,Rays,7.38,2.88,Over,3,MISS
+2025-05-17,Lake Bachar,Marlins,Rays,2.06,2.44,Under,1,HIT
+2025-05-17,Cade Gibson,Marlins,Rays,2.1,2.4,Under,2,HIT
+2025-05-17,Zach Brzykcy,Nationals,Orioles,2.06,2.44,Under,1,HIT
+2025-05-17,Kyle Gibson,Orioles,Nationals,5.91,1.41,Over,1,MISS
+2025-05-17,Cam Booser,White Sox,Cubs,2.99,1.51,Under,1,HIT
+2025-05-17,Brad Keller,Cubs,White Sox,3.78,0.72,Under,1,HIT
+2025-05-17,Kody Funderburk,Twins,Brewers,5.15,0.65,Over,1,MISS
+2025-05-17,Grant Anderson,Brewers,Twins,2.02,2.48,Under,2,HIT
+2025-05-17,Joel Payamps,Brewers,Twins,2.06,2.44,Under,0,HIT
+2025-05-17,Tyler Alexander,Brewers,Twins,2.99,1.51,Under,1,HIT
+2025-05-17,Ryan Helsley,Cardinals,Royals,6.06,1.56,Over,0,MISS
+2025-05-17,Grant Anderson,Angels,Dodgers,2.02,2.48,Under,4,HIT
+2025-05-17,Reid Detmers,Angels,Dodgers,2.99,1.51,Under,2,HIT
+2025-05-17,Ryan Zeferjahn,Angels,Dodgers,1.19,3.31,Under,1,HIT
+2025-05-17,Ben Casparius,Dodgers,Angels,5.81,1.31,Over,2,MISS
+2025-05-17,Luis García,Dodgers,Angels,3.0,1.5,Under,0,HIT
+2025-05-17,Angel Chivilli,Rockies,Diamondbacks,5.26,0.76,Over,1,MISS
+2025-05-17,Seth Halvorsen,Rockies,Diamondbacks,3.0,1.5,Under,0,HIT
+2025-05-17,Zac Gallen,Diamondbacks,Rockies,7.86,3.36,Over,5,HIT
+2025-05-17,Ryan Thompson,Diamondbacks,Rockies,2.95,1.55,Under,1,HIT
+2025-05-17,Juan Morillo,Diamondbacks,Rockies,2.68,1.82,Under,1,HIT
+2025-05-17,Luis Severino,Athletics,Giants,7.12,2.62,Over,5,HIT
+2025-05-17,Tyler Ferguson,Athletics,Giants,1.96,2.54,Under,2,HIT
+2025-05-17,Randy Rodríguez,Giants,Athletics,7.55,3.05,Over,1,MISS
+2025-05-17,Ryan Walker,Giants,Athletics,0.81,3.69,Under,0,HIT
+2025-05-17,Gabe Speier,Mariners,Padres,6.04,1.54,Over,2,MISS
+2025-05-17,Casey Legumina,Mariners,Padres,2.97,1.53,Under,1,HIT
+2025-05-17,Nick Pivetta,Padres,Mariners,7.38,2.88,Over,7,HIT
+2025-05-17,Yuki Matsui,Padres,Mariners,2.05,2.45,Under,0,HIT
+2025-05-18,Sean Newcomb,Red Sox,Braves,7.15,2.65,Over,4,MISS
+2025-05-18,Tony Santillan,Reds,Guardians,1.03,3.47,Under,0,HIT
+2025-05-18,John Brebbia,Tigers,Blue Jays,5.17,0.67,Over,2,MISS
+2025-05-18,José Berríos,Blue Jays,Tigers,7.38,2.88,Over,4,MISS
+2025-05-18,Mason Fluharty,Blue Jays,Tigers,2.05,2.45,Under,1,HIT
+2025-05-18,Yimi García,Blue Jays,Tigers,2.97,1.53,Under,0,HIT
+2025-05-18,David Peterson,Mets,Yankees,9.32,4.82,Over,4,MISS
+2025-05-18,Ryne Stanek,Mets,Yankees,6.4,1.9,Over,1,MISS
+2025-05-18,Max Fried,Yankees,Mets,9.82,5.32,Over,8,HIT
+2025-05-18,Devin Williams,Yankees,Mets,2.99,1.51,Under,1,HIT
+2025-05-18,Tim Hill,Yankees,Mets,1.05,3.45,Under,0,HIT
+2025-05-18,Paul Skenes,Pirates,Phillies,7.86,3.36,Over,9,HIT
+2025-05-18,Orion Kerkering,Phillies,Pirates,2.99,1.51,Under,0,HIT
+2025-05-18,Matt Strahm,Phillies,Pirates,6.2,1.7,Over,2,MISS
+2025-05-18,Cole Sulser,Rays,Marlins,2.97,1.53,Under,2,HIT
+2025-05-18,Cal Quantrill,Marlins,Rays,5.7,1.2,Over,6,HIT
+2025-05-18,Ronny Henriquez,Marlins,Rays,3.79,0.71,Under,1,HIT
+2025-05-18,Drew Pomeranz,Cubs,White Sox,3.78,0.72,Under,1,HIT
+2025-05-18,Ryan Pressly,Cubs,White Sox,3.0,1.5,Under,0,HIT
+2025-05-18,Brad Keller,Cubs,White Sox,3.0,1.5,Under,1,HIT
+2025-05-18,Julian Merryweather,Cubs,White Sox,2.88,1.62,Under,1,HIT
+2025-05-18,Jack Leiter,Rangers,Astros,5.91,1.41,Over,4,MISS
+2025-05-18,Luke Jackson,Rangers,Astros,2.97,1.53,Under,1,HIT
+2025-05-18,Chris Roycroft,Cardinals,Royals,2.06,2.44,Under,0,HIT
+2025-05-18,JoJo Romero,Cardinals,Royals,1.07,3.43,Under,1,HIT
+2025-05-18,John Schreiber,Royals,Cardinals,2.05,2.45,Under,0,HIT
+2025-05-18,Tony Gonsolin,Dodgers,Angels,9.1,4.6,Over,3,MISS
+2025-05-18,Lou Trivino,Dodgers,Angels,0.84,3.66,Under,2,HIT
+2025-05-18,Luis García,Dodgers,Angels,2.06,2.44,Under,1,HIT
+2025-05-18,Chase Dollander,Rockies,Diamondbacks,7.12,2.62,Over,6,HIT
+2025-05-18,Tyler Ferguson,Athletics,Giants,3.59,0.91,Under,0,HIT
+2025-05-18,Erik Miller,Giants,Athletics,0.25,4.25,Under,2,HIT
+2025-05-18,Randy Rodríguez,Giants,Athletics,6.67,2.17,Over,0,MISS
+2025-05-18,Ryan Walker,Giants,Athletics,0.81,3.69,Under,1,HIT
+2025-05-18,Sean Reynolds,Padres,Mariners,7.17,2.67,Over,2,MISS
+2025-05-18,Yuki Matsui,Padres,Mariners,2.05,2.45,Under,0,HIT
+2025-05-19,Ben Brown,Cubs,Marlins,10.29,5.79,Over,8,HIT
+2025-05-19,Caleb Thielbar,Cubs,Marlins,2.99,1.51,Under,1,HIT
+2025-05-19,Ryan Pressly,Cubs,Marlins,2.05,2.45,Under,1,HIT
+2025-05-19,Drew Pomeranz,Cubs,Marlins,3.78,0.72,Under,1,HIT
+2025-05-19,Ronny Henriquez,Marlins,Cubs,3.79,0.71,Under,1,HIT
+2025-05-19,Nick Lodolo,Reds,Pirates,7.17,2.67,Over,7,HIT
+2025-05-19,Lyon Richardson,Reds,Pirates,1.99,2.51,Under,0,HIT
+2025-05-19,Caleb Ferguson,Pirates,Reds,2.05,2.45,Under,2,HIT
+2025-05-19,Colin Holderman,Pirates,Reds,2.02,2.48,Under,1,HIT
+2025-05-19,Ryan Pepiot,Rays,Astros,7.6,3.1,Over,2,MISS
+2025-05-19,Mason Montgomery,Rays,Astros,3.58,0.92,Under,0,HIT
+2025-05-19,José Castillo,Mets,Red Sox,2.9,1.6,Under,0,HIT
+2025-05-19,Greg Weissert,Red Sox,Mets,1.02,3.48,Under,2,HIT
+2025-05-19,Dean Kremer,Orioles,Brewers,7.86,3.36,Over,6,HIT
+2025-05-19,Quinn Priester,Brewers,Orioles,5.91,1.41,Over,2,MISS
+2025-05-19,Joey Cantillo,Guardians,Twins,2.77,1.73,Under,4,HIT
+2025-05-19,Joe Ryan,Twins,Guardians,10.66,6.16,Over,4,MISS
+2025-05-19,Sean Guenther,Tigers,Cardinals,2.8,1.7,Under,0,HIT
+2025-05-19,John Brebbia,Tigers,Cardinals,5.68,1.18,Over,0,MISS
+2025-05-19,JoJo Romero,Cardinals,Tigers,2.06,2.44,Under,1,HIT
+2025-05-19,Luis Castillo,Mariners,White Sox,7.12,2.62,Over,5,HIT
+2025-05-19,Cam Booser,White Sox,Mariners,2.99,1.51,Under,1,HIT
+2025-05-19,Joe Ross,Phillies,Rockies,2.05,2.45,Under,0,HIT
+2025-05-19,Kyle Freeland,Rockies,Phillies,7.17,2.67,Over,6,HIT
+2025-05-19,Seth Halvorsen,Rockies,Phillies,1.01,3.49,Under,1,HIT
+2025-05-19,Scott Alexander,Rockies,Phillies,1.03,3.47,Under,0,HIT
+2025-05-19,Juan Morillo,Diamondbacks,Dodgers,3.82,0.68,Under,1,HIT
+2025-05-19,Ryan Thompson,Diamondbacks,Dodgers,2.95,1.55,Under,0,HIT
+2025-05-19,Jack Dreyer,Dodgers,Diamondbacks,7.87,3.37,Over,1,MISS
+2025-05-19,John Schreiber,Royals,Giants,0.11,4.39,Under,1,HIT
+2025-05-19,José Soriano,Angels,Athletics,10.29,5.79,Over,4,MISS
+2025-05-19,Ryan Zeferjahn,Angels,Athletics,2.71,1.79,Under,0,HIT
+2025-05-19,J.T. Ginn,Athletics,Angels,7.38,2.88,Over,7,HIT
+2025-05-20,Kyle Finnegan,Nationals,Braves,2.05,2.45,Under,0,HIT
+2025-05-20,Lake Bachar,Marlins,Cubs,2.99,1.51,Under,2,HIT
+2025-05-20,Cade Gibson,Marlins,Cubs,2.82,1.68,Under,1,HIT
+2025-05-20,Nick Martinez,Reds,Pirates,10.51,6.01,Over,3,MISS
+2025-05-20,Lyon Richardson,Reds,Pirates,0.98,3.52,Under,0,HIT
+2025-05-20,Zack Littell,Rays,Astros,7.16,2.66,Over,6,HIT
+2025-05-20,Pete Fairbanks,Rays,Astros,1.96,2.54,Under,2,HIT
+2025-05-20,Clay Holmes,Mets,Red Sox,7.17,2.67,Over,5,HIT
+2025-05-20,Max Kranick,Mets,Red Sox,2.0,2.5,Under,2,HIT
+2025-05-20,Greg Weissert,Red Sox,Mets,2.99,1.51,Under,0,HIT
+2025-05-20,Jeff Hoffman,Blue Jays,Padres,3.6,0.9,Under,1,HIT
+2025-05-20,Caleb Boushley,Rangers,Yankees,6.14,1.64,Over,2,MISS
+2025-05-20,Mark Leiter Jr.,Yankees,Rangers,2.99,1.51,Under,2,HIT
+2025-05-20,Devin Williams,Yankees,Rangers,3.78,0.72,Under,2,HIT
+2025-05-20,Ian Hamilton,Yankees,Rangers,6.09,1.59,Over,0,MISS
+2025-05-20,Luke Weaver,Yankees,Rangers,5.85,1.35,Over,0,MISS
+2025-05-20,Félix Bautista,Orioles,Brewers,2.96,1.54,Under,1,HIT
+2025-05-20,Tyler Alexander,Brewers,Orioles,3.72,0.78,Under,2,HIT
+2025-05-20,Joel Payamps,Brewers,Orioles,2.05,2.45,Under,0,HIT
+2025-05-20,Casey Legumina,Mariners,White Sox,3.0,1.5,Under,1,HIT
+2025-05-20,Casey Lawrence,Mariners,White Sox,6.48,1.98,Over,2,MISS
+2025-05-20,Gabe Speier,Mariners,White Sox,6.04,1.54,Over,3,MISS
+2025-05-20,Cam Booser,White Sox,Mariners,3.77,0.73,Under,1,HIT
+2025-05-20,Ryne Nelson,Diamondbacks,Dodgers,7.4,2.9,Over,2,MISS
+2025-05-20,Juan Morillo,Diamondbacks,Dodgers,3.72,0.78,Under,1,HIT
+2025-05-20,Ben Casparius,Dodgers,Diamondbacks,2.99,1.51,Under,1,HIT
+2025-05-20,Randy Rodríguez,Giants,Royals,2.99,1.51,Under,3,HIT
+2025-05-20,Kyle Harrison,Giants,Royals,5.44,0.94,Over,2,MISS
+2025-05-20,Ryan Walker,Giants,Royals,1.01,3.49,Under,0,HIT
+2025-05-20,Kyle Hendricks,Angels,Athletics,7.17,2.67,Over,3,MISS
+2025-05-20,Reid Detmers,Angels,Athletics,5.72,1.22,Over,1,MISS
+2025-05-21,Caleb Thielbar,Cubs,Marlins,2.05,2.45,Under,0,HIT
+2025-05-21,Brad Keller,Cubs,Marlins,3.0,1.5,Under,0,HIT
+2025-05-21,Max Meyer,Marlins,Cubs,7.38,2.88,Over,4,MISS
+2025-05-21,Ronny Henriquez,Marlins,Cubs,3.0,1.5,Under,2,HIT
+2025-05-21,Tyler Phillips,Marlins,Cubs,2.92,1.58,Under,0,HIT
+2025-05-21,Ian Gibaut,Reds,Pirates,2.93,1.57,Under,0,HIT
+2025-05-21,Caleb Ferguson,Pirates,Reds,3.77,0.73,Under,1,HIT
+2025-05-21,Taj Bradley,Rays,Astros,7.38,2.88,Over,7,HIT
+2025-05-21,Pete Fairbanks,Rays,Astros,2.99,1.51,Under,2,HIT
+2025-05-21,Reed Garrett,Mets,Red Sox,0.57,3.93,Under,1,HIT
+2025-05-21,Liam Hendriks,Red Sox,Mets,2.96,1.54,Under,2,HIT
+2025-05-21,Sean Newcomb,Red Sox,Mets,8.27,3.77,Over,0,MISS
+2025-05-21,Luke Jackson,Rangers,Yankees,2.65,1.85,Under,0,HIT
+2025-05-21,Ryan Yarbrough,Yankees,Rangers,6.97,2.47,Over,8,HIT
+2025-05-21,Tim Hill,Yankees,Rangers,0.13,4.37,Under,1,HIT
+2025-05-21,Ian Hamilton,Yankees,Rangers,3.77,0.73,Under,1,HIT
+2025-05-21,Yerry De los Santos,Yankees,Rangers,3.23,1.27,Under,1,HIT
+2025-05-21,Luke Weaver,Yankees,Rangers,2.96,1.54,Under,0,HIT
+2025-05-21,Félix Bautista,Orioles,Brewers,2.77,1.73,Under,1,HIT
+2025-05-21,Chad Patrick,Brewers,Orioles,7.17,2.67,Over,7,HIT
+2025-05-21,Grant Anderson,Brewers,Orioles,3.75,0.75,Under,0,HIT
+2025-05-21,Joel Payamps,Brewers,Orioles,1.02,3.48,Under,1,HIT
+2025-05-21,Scott Alexander,Brewers,Orioles,0.0,4.5,Under,0,HIT
+2025-05-21,Gavin Williams,Guardians,Twins,9.79,5.29,Over,6,HIT
+2025-05-21,Tim Herrin,Guardians,Twins,2.77,1.73,Under,0,HIT
+2025-05-21,Kody Funderburk,Twins,Guardians,2.99,1.51,Under,0,HIT
+2025-05-21,Sean Guenther,Tigers,Cardinals,0.89,3.61,Under,1,HIT
+2025-05-21,Beau Brieske,Tigers,Cardinals,2.03,2.47,Under,2,HIT
+2025-05-21,Andre Pallante,Cardinals,Tigers,7.17,2.67,Over,3,MISS
+2025-05-21,JoJo Romero,Cardinals,Tigers,3.0,1.5,Under,1,HIT
+2025-05-21,Chris Roycroft,Cardinals,Tigers,2.06,2.44,Under,0,HIT
+2025-05-21,Casey Legumina,Mariners,White Sox,3.79,0.71,Under,2,HIT
+2025-05-21,Joe Ross,Phillies,Rockies,0.98,3.52,Under,3,HIT
+2025-05-21,Angel Chivilli,Rockies,Phillies,2.94,1.56,Under,1,HIT
+2025-05-21,Scott Alexander,Rockies,Phillies,0.0,4.5,Under,0,HIT
+2025-05-21,Jack Dreyer,Dodgers,Diamondbacks,7.71,3.21,Over,0,MISS
+2025-05-21,Lou Trivino,Dodgers,Diamondbacks,2.94,1.56,Under,1,HIT
+2025-05-21,Erik Miller,Giants,Royals,2.05,2.45,Under,0,HIT
+2025-05-21,Jack Kochanowicz,Angels,Athletics,5.91,1.41,Over,6,HIT
+2025-05-21,Shaun Anderson,Angels,Athletics,9.03,4.53,Over,0,MISS
+2025-05-21,Ryan Zeferjahn,Angels,Athletics,1.61,2.89,Under,1,HIT
+2025-05-21,JP Sears,Athletics,Angels,4.65,0.15,Over,4,MISS
+2025-05-21,Tyler Ferguson,Athletics,Angels,2.77,1.73,Under,1,HIT
+2025-05-22,AJ Smith-Shawver,Braves,Nationals,9.89,5.39,Over,1,MISS
+2025-05-22,Enyel De Los Santos,Braves,Nationals,1.03,3.47,Under,1,HIT
+2025-05-22,Kyle Finnegan,Nationals,Braves,2.05,2.45,Under,0,HIT
+2025-05-22,Tim Herrin,Guardians,Tigers,2.77,1.73,Under,0,HIT
+2025-05-22,Jack Flaherty,Tigers,Guardians,7.17,2.67,Over,8,HIT
+2025-05-22,Sean Guenther,Tigers,Guardians,2.04,2.46,Under,1,HIT
+2025-05-22,John Brebbia,Tigers,Guardians,2.68,1.82,Under,1,HIT
+2025-05-22,Rob Zastryzny,Brewers,Pirates,5.79,1.29,Over,0,MISS
+2025-05-22,Ryan Borucki,Pirates,Brewers,2.64,1.86,Under,0,HIT
+2025-05-22,Yuki Matsui,Padres,Blue Jays,0.72,3.78,Under,0,HIT
+2025-05-22,Sean Reynolds,Padres,Blue Jays,7.78,3.28,Over,0,MISS
+2025-05-22,Mason Fluharty,Blue Jays,Padres,2.06,2.44,Under,1,HIT
+2025-05-22,Yimi García,Blue Jays,Padres,1.04,3.46,Under,0,HIT
+2025-05-22,Jeff Hoffman,Blue Jays,Padres,1.97,2.53,Under,2,HIT
+2025-05-22,Hoby Milner,Rangers,Yankees,2.05,2.45,Under,0,HIT
+2025-05-22,Shawn Armstrong,Rangers,Yankees,3.71,0.79,Under,1,HIT
+2025-05-22,Mark Leiter Jr.,Yankees,Rangers,2.99,1.51,Under,2,HIT
+2025-05-22,Devin Williams,Yankees,Rangers,6.67,2.17,Over,1,MISS
+2025-05-22,Luke Weaver,Yankees,Rangers,0.11,4.39,Under,1,HIT
+2025-05-22,Gabe Speier,Mariners,Astros,7.22,2.72,Over,0,MISS
+2025-05-22,Lance McCullers Jr.,Astros,Mariners,3.81,0.69,Under,8,MISS
+2025-05-22,Orion Kerkering,Phillies,Rockies,2.06,2.44,Under,0,HIT
+2025-05-22,Matt Strahm,Phillies,Rockies,6.2,1.7,Over,0,MISS
+2025-05-22,Tyler Anderson,Angels,Athletics,8.6,4.1,Over,0,MISS
+2025-05-22,Reid Detmers,Angels,Athletics,5.44,0.94,Over,1,MISS
+2025-05-22,Ryan Zeferjahn,Angels,Athletics,2.03,2.47,Under,1,HIT
+2025-05-22,Luis Severino,Athletics,Angels,7.38,2.88,Over,5,HIT
+2025-05-23,Julian Merryweather,Cubs,Reds,1.96,2.54,Under,0,HIT
+2025-05-23,Brad Keller,Cubs,Reds,2.06,2.44,Under,1,HIT
+2025-05-23,Drew Pomeranz,Cubs,Reds,2.99,1.51,Under,1,HIT
+2025-05-23,Ryan Pressly,Cubs,Reds,2.05,2.45,Under,1,HIT
+2025-05-23,Ian Gibaut,Reds,Cubs,1.02,3.48,Under,0,HIT
+2025-05-23,Tony Santillan,Reds,Cubs,0.22,4.28,Under,0,HIT
+2025-05-23,Beau Brieske,Tigers,Guardians,2.03,2.47,Under,0,HIT
+2025-05-23,Ben Casparius,Dodgers,Mets,2.98,1.52,Under,6,MISS
+2025-05-23,Lou Trivino,Dodgers,Mets,3.73,0.77,Under,0,HIT
+2025-05-23,Luis García,Dodgers,Mets,3.0,1.5,Under,0,HIT
+2025-05-23,Max Kranick,Mets,Dodgers,3.86,0.64,Under,2,HIT
+2025-05-23,José Castillo,Mets,Dodgers,2.86,1.64,Under,3,HIT
+2025-05-23,Ryne Stanek,Mets,Dodgers,5.88,1.38,Over,0,MISS
+2025-05-23,Reed Garrett,Mets,Dodgers,1.38,3.12,Under,2,HIT
+2025-05-23,Grant Anderson,Brewers,Pirates,3.77,0.73,Under,3,HIT
+2025-05-23,Paul Skenes,Pirates,Brewers,9.79,5.29,Over,8,HIT
+2025-05-23,Caleb Ferguson,Pirates,Brewers,3.78,0.72,Under,1,HIT
+2025-05-23,Ryan Borucki,Pirates,Brewers,0.81,3.69,Under,1,HIT
+2025-05-23,Nick Pivetta,Padres,Braves,7.38,2.88,Over,7,HIT
+2025-05-23,Randy Rodríguez,Giants,Nationals,3.79,0.71,Under,1,HIT
+2025-05-23,Erik Miller,Giants,Nationals,2.05,2.45,Under,0,HIT
+2025-05-23,Zach Brzykcy,Nationals,Giants,2.95,1.55,Under,1,HIT
+2025-05-23,Drew Rasmussen,Rays,Blue Jays,7.51,3.01,Over,3,MISS
+2025-05-23,Mason Montgomery,Rays,Blue Jays,0.97,3.53,Under,0,HIT
+2025-05-23,Pete Fairbanks,Rays,Blue Jays,3.78,0.72,Under,2,HIT
+2025-05-23,Zac Gallen,Diamondbacks,Cardinals,7.38,2.88,Over,4,MISS
+2025-05-23,Juan Morillo,Diamondbacks,Cardinals,2.99,1.51,Under,1,HIT
+2025-05-23,Ryan Thompson,Diamondbacks,Cardinals,2.96,1.54,Under,0,HIT
+2025-05-23,JoJo Romero,Cardinals,Diamondbacks,3.0,1.5,Under,0,HIT
+2025-05-23,Ryan Helsley,Cardinals,Diamondbacks,2.97,1.53,Under,1,HIT
+2025-05-23,John Schreiber,Royals,Twins,1.02,3.48,Under,2,HIT
+2025-05-23,Caleb Boushley,Rangers,White Sox,7.65,3.15,Over,1,MISS
+2025-05-23,Cam Booser,White Sox,Rangers,2.96,1.54,Under,1,HIT
+2025-05-23,Tim Hill,Yankees,Rockies,1.03,3.47,Under,0,HIT
+2025-05-23,Yerry De los Santos,Yankees,Rockies,4.19,0.31,Under,1,HIT
+2025-05-23,Brent Headrick,Yankees,Rockies,6.43,1.93,Over,1,MISS
+2025-05-23,Seth Halvorsen,Rockies,Yankees,0.8,3.7,Under,1,HIT
+2025-05-23,Sandy Alcantara,Marlins,Angels,7.38,2.88,Over,6,HIT
+2025-05-23,Lake Bachar,Marlins,Angels,3.71,0.79,Under,4,HIT
+2025-05-23,Shaun Anderson,Angels,Marlins,5.92,1.42,Over,1,MISS
+2025-05-23,Zack Wheeler,Phillies,Athletics,10.79,6.29,Over,8,HIT
+2025-05-23,Orion Kerkering,Phillies,Athletics,1.07,3.43,Under,1,HIT
+2025-05-23,Matt Strahm,Phillies,Athletics,3.78,0.72,Under,1,HIT
+2025-05-23,Cade Povich,Orioles,Red Sox,7.38,2.88,Over,6,HIT
+2025-05-24,Luis Guerrero,Red Sox,Orioles,2.99,1.51,Under,1,HIT
+2025-05-24,Tony Santillan,Reds,Cubs,0.18,4.32,Under,0,HIT
+2025-05-24,Joey Cantillo,Guardians,Tigers,5.69,1.19,Over,1,MISS
+2025-05-24,Tim Herrin,Guardians,Tigers,1.64,2.86,Under,2,HIT
+2025-05-24,Tony Gonsolin,Dodgers,Mets,7.86,3.36,Over,4,MISS
+2025-05-24,David Peterson,Mets,Dodgers,9.32,4.82,Over,7,HIT
+2025-05-24,Quinn Priester,Brewers,Pirates,6.96,2.46,Over,7,HIT
+2025-05-24,Tyler Alexander,Brewers,Pirates,3.01,1.49,Under,0,HIT
+2025-05-24,Grant Anderson,Brewers,Pirates,5.04,0.54,Over,1,MISS
+2025-05-24,Caleb Ferguson,Pirates,Brewers,3.79,0.71,Under,0,HIT
+2025-05-24,Sean Reynolds,Padres,Braves,7.04,2.54,Over,1,MISS
+2025-05-24,Yuki Matsui,Padres,Braves,0.72,3.78,Under,4,HIT
+2025-05-24,Enyel De Los Santos,Braves,Padres,1.03,3.47,Under,0,HIT
+2025-05-24,Kyle Harrison,Giants,Nationals,5.67,1.17,Over,4,MISS
+2025-05-24,José Berríos,Blue Jays,Rays,7.38,2.88,Over,3,MISS
+2025-05-24,Mason Fluharty,Blue Jays,Rays,3.0,1.5,Under,1,HIT
+2025-05-24,Pete Fairbanks,Rays,Blue Jays,6.25,1.75,Over,0,MISS
+2025-05-24,Ryan Helsley,Cardinals,Diamondbacks,2.98,1.52,Under,2,HIT
+2025-05-24,John Schreiber,Royals,Twins,2.99,1.51,Under,0,HIT
+2025-05-24,Casey Legumina,Mariners,Astros,3.76,0.74,Under,0,HIT
+2025-05-24,Jack Leiter,Rangers,White Sox,7.38,2.88,Over,3,MISS
+2025-05-24,Hoby Milner,Rangers,White Sox,0.15,4.35,Under,0,HIT
+2025-05-24,Luke Jackson,Rangers,White Sox,1.07,3.43,Under,0,HIT
+2025-05-24,Caleb Boushley,Rangers,White Sox,7.45,2.95,Over,2,MISS
+2025-05-24,Max Fried,Yankees,Rockies,9.57,5.07,Over,7,HIT
+2025-05-24,Ian Hamilton,Yankees,Rockies,2.99,1.51,Under,3,HIT
+2025-05-24,Kyle Freeland,Rockies,Yankees,7.17,2.67,Over,3,MISS
+2025-05-24,Angel Chivilli,Rockies,Yankees,3.14,1.36,Under,1,HIT
+2025-05-24,Cal Quantrill,Marlins,Angels,9.32,4.82,Over,2,MISS
+2025-05-24,Ronny Henriquez,Marlins,Angels,3.79,0.71,Under,1,HIT
+2025-05-24,José Soriano,Angels,Marlins,7.86,3.36,Over,1,MISS
+2025-05-24,Joe Ross,Phillies,Athletics,2.94,1.56,Under,1,HIT
+2025-05-24,Orion Kerkering,Phillies,Athletics,1.07,3.43,Under,0,HIT
+2025-05-24,Tyler Ferguson,Athletics,Phillies,2.99,1.51,Under,1,HIT
+2025-05-24,Félix Bautista,Orioles,Red Sox,2.71,1.79,Under,0,HIT
+2025-05-24,Sean Newcomb,Red Sox,Orioles,5.09,0.59,Over,0,MISS
+2025-05-24,Liam Hendriks,Red Sox,Orioles,3.6,0.9,Under,0,HIT
+2025-05-24,Greg Weissert,Red Sox,Orioles,2.06,2.44,Under,2,HIT
+2025-05-25,Dean Kremer,Orioles,Red Sox,7.38,2.88,Over,4,MISS
+2025-05-25,Greg Weissert,Red Sox,Orioles,3.76,0.74,Under,1,HIT
+2025-05-25,Liam Hendriks,Red Sox,Orioles,2.74,1.76,Under,1,HIT
+2025-05-25,Ben Brown,Cubs,Reds,8.3,3.8,Over,4,MISS
+2025-05-25,Caleb Thielbar,Cubs,Reds,1.04,3.46,Under,2,HIT
+2025-05-25,Drew Pomeranz,Cubs,Reds,3.0,1.5,Under,2,HIT
+2025-05-25,Brad Keller,Cubs,Reds,2.06,2.44,Under,2,HIT
+2025-05-25,Nick Lodolo,Reds,Cubs,9.12,4.62,Over,6,HIT
+2025-05-25,Jack Dreyer,Dodgers,Mets,5.13,0.63,Over,1,MISS
+2025-05-25,Lou Trivino,Dodgers,Mets,3.0,1.5,Under,2,HIT
+2025-05-25,Ryne Stanek,Mets,Dodgers,3.0,1.5,Under,0,HIT
+2025-05-25,Max Kranick,Mets,Dodgers,5.25,0.75,Over,0,MISS
+2025-05-25,Reed Garrett,Mets,Dodgers,3.15,1.35,Under,2,HIT
+2025-05-25,Logan Henderson,Brewers,Pirates,10.08,5.58,Over,6,HIT
+2025-05-25,Ryan Borucki,Pirates,Brewers,1.0,3.5,Under,0,HIT
+2025-05-25,Randy Rodríguez,Giants,Nationals,3.79,0.71,Under,1,HIT
+2025-05-25,Ryan Walker,Giants,Nationals,1.06,3.44,Under,1,HIT
+2025-05-25,Mason Fluharty,Blue Jays,Rays,2.97,1.53,Under,0,HIT
+2025-05-25,Ryan Pepiot,Rays,Blue Jays,7.17,2.67,Over,5,HIT
+2025-05-25,Cole Sulser,Rays,Blue Jays,3.78,0.72,Under,1,HIT
+2025-05-25,Juan Morillo,Diamondbacks,Cardinals,2.99,1.51,Under,0,HIT
+2025-05-25,JoJo Romero,Cardinals,Diamondbacks,2.06,2.44,Under,0,HIT
+2025-05-25,Luis Castillo,Mariners,Astros,7.64,3.14,Over,6,HIT
+2025-05-25,Casey Legumina,Mariners,Astros,2.98,1.52,Under,0,HIT
+2025-05-25,Luke Jackson,Rangers,White Sox,1.04,3.46,Under,0,HIT
+2025-05-25,Shawn Armstrong,Rangers,White Sox,1.66,2.84,Under,3,HIT
+2025-05-25,Cam Booser,White Sox,Rangers,2.96,1.54,Under,2,HIT
+2025-05-25,Mark Leiter Jr.,Yankees,Rockies,3.78,0.72,Under,2,HIT
+2025-05-25,Devin Williams,Yankees,Rockies,3.78,0.72,Under,3,HIT
+2025-05-25,Luke Weaver,Yankees,Rockies,1.06,3.44,Under,0,HIT
+2025-05-25,Seth Halvorsen,Rockies,Yankees,2.0,2.5,Under,1,HIT
+2025-05-25,Ronny Henriquez,Marlins,Angels,3.79,0.71,Under,2,HIT
+2025-05-25,Kyle Hendricks,Angels,Marlins,7.17,2.67,Over,5,HIT
+2025-05-25,Matt Strahm,Phillies,Athletics,2.99,1.51,Under,1,HIT
+2025-05-25,Tyler Ferguson,Athletics,Phillies,2.02,2.48,Under,1,HIT
+2025-05-26,Cam Booser,White Sox,Mets,3.79,0.71,Under,1,HIT
+2025-05-26,Clay Holmes,Mets,White Sox,7.38,2.88,Over,3,MISS
+2025-05-26,José Castillo,Mets,White Sox,5.12,0.62,Over,1,MISS
+2025-05-26,Luis García,Dodgers,Guardians,1.79,2.71,Under,0,HIT
+2025-05-26,Gavin Williams,Guardians,Dodgers,10.29,5.79,Over,3,MISS
+2025-05-26,Joey Cantillo,Guardians,Dodgers,5.2,0.7,Over,4,MISS
+2025-05-26,Erik Miller,Giants,Tigers,2.06,2.44,Under,0,HIT
+2025-05-26,Beau Brieske,Tigers,Giants,2.65,1.85,Under,0,HIT
+2025-05-26,Matt Svanson,Cardinals,Orioles,5.82,1.32,Over,1,MISS
+2025-05-26,Félix Bautista,Orioles,Cardinals,2.64,1.86,Under,2,HIT
+2025-05-26,Chad Patrick,Brewers,Red Sox,7.64,3.14,Over,6,HIT
+2025-05-26,Nick Martinez,Reds,Royals,10.76,6.26,Over,2,MISS
+2025-05-26,Tony Santillan,Reds,Royals,0.06,4.44,Under,1,HIT
+2025-05-26,Caleb Thielbar,Cubs,Rockies,3.0,1.5,Under,0,HIT
+2025-05-26,Ryan Pressly,Cubs,Rockies,2.05,2.45,Under,0,HIT
+2025-05-26,Drew Pomeranz,Cubs,Rockies,3.79,0.71,Under,0,HIT
+2025-05-26,Kody Funderburk,Twins,Rays,1.02,3.48,Under,0,HIT
+2025-05-26,Zack Littell,Rays,Twins,8.3,3.8,Over,4,MISS
+2025-05-26,Mason Montgomery,Rays,Twins,1.65,2.85,Under,1,HIT
+2025-05-26,Jeff Hoffman,Blue Jays,Rangers,2.96,1.54,Under,0,HIT
+2025-05-26,Hoby Milner,Rangers,Blue Jays,0.21,4.29,Under,1,HIT
+2025-05-26,Tyler Phillips,Marlins,Padres,2.05,2.45,Under,0,HIT
+2025-05-26,Cade Gibson,Marlins,Padres,3.33,1.17,Under,0,HIT
+2025-05-26,Ryan Yarbrough,Yankees,Angels,9.57,5.07,Over,7,HIT
+2025-05-26,Yerry De los Santos,Yankees,Angels,4.22,0.28,Under,3,HIT
+2025-05-26,Mark Leiter Jr.,Yankees,Angels,5.25,0.75,Over,1,MISS
+2025-05-26,Luke Weaver,Yankees,Angels,1.03,3.47,Under,0,HIT
+2025-05-26,Jack Kochanowicz,Angels,Yankees,7.86,3.36,Over,5,HIT
+2025-05-26,Hunter Strickland,Angels,Yankees,0.2,4.3,Under,1,HIT
+2025-05-26,Ryne Nelson,Diamondbacks,Pirates,8.66,4.16,Over,4,MISS
+2025-05-26,Ryan Thompson,Diamondbacks,Pirates,0.84,3.66,Under,0,HIT
+2025-05-27,Enyel De Los Santos,Braves,Phillies,1.04,3.46,Under,0,HIT
+2025-05-27,Orion Kerkering,Phillies,Braves,1.04,3.46,Under,1,HIT
+2025-05-27,Matt Strahm,Phillies,Braves,2.05,2.45,Under,1,HIT
+2025-05-27,José Castillo,Mets,White Sox,3.76,0.74,Under,1,HIT
+2025-05-27,Reed Garrett,Mets,White Sox,5.06,0.56,Over,3,MISS
+2025-05-27,Jack Dreyer,Dodgers,Guardians,1.99,2.51,Under,0,HIT
+2025-05-27,Ben Casparius,Dodgers,Guardians,8.47,3.97,Over,3,MISS
+2025-05-27,Luis García,Dodgers,Guardians,0.95,3.55,Under,1,HIT
+2025-05-27,Tim Herrin,Guardians,Dodgers,2.03,2.47,Under,1,HIT
+2025-05-27,Jack Flaherty,Tigers,Giants,7.38,2.88,Over,8,HIT
+2025-05-27,Andre Pallante,Cardinals,Orioles,7.17,2.67,Over,7,HIT
+2025-05-27,Ryan Helsley,Cardinals,Orioles,2.99,1.51,Under,2,HIT
+2025-05-27,Greg Weissert,Red Sox,Brewers,3.0,1.5,Under,1,HIT
+2025-05-27,Liam Hendriks,Red Sox,Brewers,2.98,1.52,Under,0,HIT
+2025-05-27,Grant Anderson,Brewers,Red Sox,3.79,0.71,Under,2,HIT
+2025-05-27,Rob Zastryzny,Brewers,Red Sox,3.0,1.5,Under,1,HIT
+2025-05-27,Tony Santillan,Reds,Royals,0.92,3.58,Under,1,HIT
+2025-05-27,Ian Gibaut,Reds,Royals,0.07,4.43,Under,1,HIT
+2025-05-27,John Schreiber,Royals,Reds,2.99,1.51,Under,1,HIT
+2025-05-27,Seth Halvorsen,Rockies,Cubs,2.88,1.62,Under,0,HIT
+2025-05-27,Cade Horton,Cubs,Rockies,7.13,2.63,Over,6,HIT
+2025-05-27,Caleb Thielbar,Cubs,Rockies,2.03,2.47,Under,1,HIT
+2025-05-27,Ryan Brasier,Cubs,Rockies,2.03,2.47,Under,0,HIT
+2025-05-27,Brad Keller,Cubs,Rockies,3.0,1.5,Under,0,HIT
+2025-05-27,Ryan Pressly,Cubs,Rockies,2.06,2.44,Under,0,HIT
+2025-05-27,JP Sears,Athletics,Astros,5.7,1.2,Over,1,MISS
+2025-05-27,Joe Ryan,Twins,Rays,11.05,6.55,Over,5,HIT
+2025-05-27,Taj Bradley,Rays,Twins,7.38,2.88,Over,6,HIT
+2025-05-27,Shawn Armstrong,Rangers,Blue Jays,3.72,0.78,Under,0,HIT
+2025-05-27,Hoby Milner,Rangers,Blue Jays,1.04,3.46,Under,0,HIT
+2025-05-27,Luke Jackson,Rangers,Blue Jays,0.14,4.36,Under,0,HIT
+2025-05-27,Max Meyer,Marlins,Padres,7.17,2.67,Over,0,MISS
+2025-05-27,Cade Gibson,Marlins,Padres,3.27,1.23,Under,1,HIT
+2025-05-27,Sean Reynolds,Padres,Marlins,3.16,1.34,Under,0,HIT
+2025-05-27,Yuki Matsui,Padres,Marlins,3.9,0.6,Under,1,HIT
+2025-05-27,Devin Williams,Yankees,Angels,6.25,1.75,Over,0,MISS
+2025-05-27,Grant Anderson,Angels,Yankees,3.79,0.71,Under,3,HIT
+2025-05-27,Reid Detmers,Angels,Yankees,4.5,0.0,Under,1,HIT
+2025-05-27,Zach Brzykcy,Nationals,Mariners,2.54,1.96,Under,2,HIT
+2025-05-28,Ryne Stanek,Mets,White Sox,1.07,3.43,Under,0,HIT
+2025-05-28,Lou Trivino,Dodgers,Guardians,2.99,1.51,Under,2,HIT
+2025-05-28,Tim Herrin,Guardians,Dodgers,3.0,1.5,Under,0,HIT
+2025-05-28,Randy Rodríguez,Giants,Tigers,6.09,1.59,Over,4,MISS
+2025-05-28,Ryan Walker,Giants,Tigers,2.05,2.45,Under,2,HIT
+2025-05-28,John Brebbia,Tigers,Giants,2.68,1.82,Under,0,HIT
+2025-05-28,JoJo Romero,Cardinals,Orioles,1.01,3.49,Under,1,HIT
+2025-05-28,Ryan Helsley,Cardinals,Orioles,6.12,1.62,Over,0,MISS
+2025-05-28,Cade Povich,Orioles,Cardinals,7.38,2.88,Over,9,HIT
+2025-05-28,Matt Bowman,Orioles,Cardinals,2.95,1.55,Under,2,HIT
+2025-05-28,Tyler Alexander,Brewers,Red Sox,1.93,2.57,Under,2,HIT
+2025-05-28,Ian Gibaut,Reds,Royals,1.01,3.49,Under,0,HIT
+2025-05-28,Noah Cameron,Royals,Reds,10.03,5.53,Over,2,MISS
+2025-05-28,John Schreiber,Royals,Reds,3.58,0.92,Under,1,HIT
+2025-05-28,Ryan Brasier,Cubs,Rockies,1.07,3.43,Under,0,HIT
+2025-05-28,Brad Keller,Cubs,Rockies,3.0,1.5,Under,1,HIT
+2025-05-28,Luis Severino,Athletics,Astros,8.6,4.1,Over,4,MISS
+2025-05-28,Lance McCullers Jr.,Astros,Athletics,5.91,1.41,Over,12,HIT
+2025-05-28,Kody Funderburk,Twins,Rays,0.45,4.05,Under,1,HIT
+2025-05-28,Drew Rasmussen,Rays,Twins,10.79,6.29,Over,5,HIT
+2025-05-28,Mason Montgomery,Rays,Twins,1.63,2.87,Under,1,HIT
+2025-05-28,Jeff Hoffman,Blue Jays,Rangers,2.99,1.51,Under,1,HIT
+2025-05-28,Luke Jackson,Rangers,Blue Jays,0.2,4.3,Under,1,HIT
+2025-05-28,Hoby Milner,Rangers,Blue Jays,1.04,3.46,Under,1,HIT
+2025-05-28,Sandy Alcantara,Marlins,Padres,7.38,2.88,Over,0,MISS
+2025-05-28,Ronny Henriquez,Marlins,Padres,6.4,1.9,Over,3,MISS
+2025-05-28,Yuki Matsui,Padres,Marlins,5.18,0.68,Over,0,MISS
+2025-05-28,Ian Hamilton,Yankees,Angels,3.72,0.78,Under,2,HIT
+2025-05-28,Tim Hill,Yankees,Angels,1.03,3.47,Under,0,HIT
+2025-05-28,Mark Leiter Jr.,Yankees,Angels,6.09,1.59,Over,2,MISS
+2025-05-28,Ryan Zeferjahn,Angels,Yankees,2.03,2.47,Under,2,HIT
+2025-05-28,Reid Detmers,Angels,Yankees,2.97,1.53,Under,3,HIT
+2025-05-28,Paul Skenes,Pirates,Diamondbacks,10.29,5.79,Over,7,HIT
+2025-05-28,Caleb Ferguson,Pirates,Diamondbacks,2.06,2.44,Under,0,HIT
+2025-05-28,Ryan Borucki,Pirates,Diamondbacks,0.98,3.52,Under,3,HIT
+2025-05-28,Zac Gallen,Diamondbacks,Pirates,7.38,2.88,Over,3,MISS
+2025-05-28,Juan Morillo,Diamondbacks,Pirates,2.05,2.45,Under,1,HIT
+2025-05-28,Ryan Thompson,Diamondbacks,Pirates,0.22,4.28,Under,3,HIT
+2025-05-28,Zach Brzykcy,Nationals,Mariners,3.92,0.58,Under,0,HIT
+2025-05-29,Zack Wheeler,Phillies,Braves,9.55,5.05,Over,6,HIT
+2025-05-29,Joe Ross,Phillies,Braves,3.83,0.67,Under,1,HIT
+2025-05-29,Sean Newcomb,Athletics,Blue Jays,5.13,0.63,Over,2,MISS
+2025-05-29,José Berríos,Blue Jays,Athletics,7.12,2.62,Over,9,HIT
+2025-05-29,Mason Fluharty,Blue Jays,Athletics,2.0,2.5,Under,2,HIT
+2025-05-29,Cole Sulser,Rays,Astros,3.78,0.72,Under,1,HIT
+2025-05-29,Kyle Finnegan,Nationals,Mariners,1.03,3.47,Under,1,HIT
+2025-05-29,Gabe Speier,Mariners,Nationals,5.58,1.08,Over,1,MISS
+2025-05-29,AJ Smith-Shawver,Braves,Phillies,7.38,2.88,Over,1,MISS
+2025-05-29,Orion Kerkering,Phillies,Braves,2.03,2.47,Under,1,HIT
+2025-05-29,Matt Strahm,Phillies,Braves,2.96,1.54,Under,0,HIT
+2025-05-30,José Soriano,Angels,Guardians,6.25,1.75,Over,2,MISS
+2025-05-30,Reid Detmers,Angels,Guardians,6.06,1.56,Over,2,MISS
+2025-05-30,Ryan Zeferjahn,Angels,Guardians,3.79,0.71,Under,1,HIT
+2025-05-30,Tim Herrin,Guardians,Angels,3.0,1.5,Under,1,HIT
+2025-05-30,Greg Weissert,Red Sox,Braves,3.79,0.71,Under,0,HIT
+2025-05-30,Enyel De Los Santos,Braves,Red Sox,1.01,3.49,Under,1,HIT
+2025-05-30,Félix Bautista,Orioles,White Sox,2.97,1.53,Under,2,HIT
+2025-05-30,Kyle Freeland,Rockies,Mets,7.38,2.88,Over,4,MISS
+2025-05-30,Seth Halvorsen,Rockies,Mets,2.65,1.85,Under,0,HIT
+2025-05-30,David Peterson,Mets,Rockies,9.32,4.82,Over,5,HIT
+2025-05-30,Reed Garrett,Mets,Rockies,6.44,1.94,Over,2,MISS
+2025-05-30,Quinn Priester,Brewers,Phillies,9.1,4.6,Over,0,MISS
+2025-05-30,Tyler Ferguson,Athletics,Blue Jays,3.0,1.5,Under,0,HIT
+2025-05-30,Mason Fluharty,Blue Jays,Athletics,2.94,1.56,Under,1,HIT
+2025-05-30,Kyle Harrison,Giants,Marlins,6.16,1.66,Over,5,HIT
+2025-05-30,Ryan Walker,Giants,Marlins,2.99,1.51,Under,0,HIT
+2025-05-30,Erik Miller,Giants,Marlins,0.81,3.69,Under,1,HIT
+2025-05-30,Cal Quantrill,Marlins,Giants,7.5,3.0,Over,7,HIT
+2025-05-30,Tony Santillan,Reds,Cubs,2.05,2.45,Under,0,HIT
+2025-05-30,Beau Brieske,Tigers,Royals,1.98,2.52,Under,2,HIT
+2025-05-30,Matt Svanson,Cardinals,Rangers,5.03,0.53,Over,1,MISS
+2025-05-30,Jack Leiter,Rangers,Cardinals,7.86,3.36,Over,6,HIT
+2025-05-30,Shawn Armstrong,Rangers,Cardinals,3.76,0.74,Under,0,HIT
+2025-05-30,Caleb Boushley,Rangers,Cardinals,4.74,0.24,Over,4,MISS
+2025-05-30,Ryan Pepiot,Rays,Astros,9.12,4.62,Over,4,MISS
+2025-05-30,Casey Legumina,Mariners,Twins,1.99,2.51,Under,1,HIT
+2025-05-30,Max Fried,Yankees,Dodgers,9.79,5.29,Over,3,MISS
+2025-05-30,Tim Hill,Yankees,Dodgers,1.03,3.47,Under,0,HIT
+2025-05-30,Yerry De los Santos,Yankees,Dodgers,5.21,0.71,Over,0,MISS
+2025-05-30,Brent Headrick,Yankees,Dodgers,6.44,1.94,Over,1,MISS
+2025-05-30,Tony Gonsolin,Dodgers,Yankees,7.12,2.62,Over,4,MISS
+2025-05-30,Jack Dreyer,Dodgers,Yankees,1.03,3.47,Under,1,HIT
+2025-05-30,Ben Casparius,Dodgers,Yankees,6.99,2.49,Over,1,MISS
+2025-05-30,Nick Pivetta,Padres,Pirates,7.38,2.88,Over,8,HIT
+2025-05-30,Kyle Finnegan,Nationals,Diamondbacks,1.04,3.46,Under,0,HIT
+2025-05-30,Juan Morillo,Diamondbacks,Nationals,2.04,2.46,Under,1,HIT
+2025-05-30,Ryan Thompson,Diamondbacks,Nationals,2.99,1.51,Under,0,HIT
+2025-05-31,Kyle Hendricks,Angels,Guardians,8.29,3.79,Over,6,HIT
+2025-05-31,Ryan Zeferjahn,Angels,Guardians,3.76,0.74,Under,0,HIT
+2025-05-31,Dean Kremer,Orioles,White Sox,7.38,2.88,Over,7,HIT
+2025-05-31,Félix Bautista,Orioles,White Sox,3.79,0.71,Under,3,HIT
+2025-05-31,Chad Patrick,Brewers,Phillies,9.57,5.07,Over,6,HIT
+2025-05-31,Rob Zastryzny,Brewers,Phillies,2.06,2.44,Under,2,HIT
+2025-05-31,Grant Anderson,Brewers,Phillies,5.25,0.75,Over,0,MISS
+2025-05-31,Tyler Alexander,Brewers,Phillies,2.01,2.49,Under,0,HIT
+2025-05-31,Joe Ross,Phillies,Brewers,5.34,0.84,Over,1,MISS
+2025-05-31,Tyler Ferguson,Athletics,Blue Jays,2.06,2.44,Under,0,HIT
+2025-05-31,Jeff Hoffman,Blue Jays,Athletics,2.99,1.51,Under,1,HIT
+2025-05-31,Randy Rodríguez,Giants,Marlins,5.7,1.2,Over,0,MISS
+2025-05-31,Ronny Henriquez,Marlins,Giants,5.28,0.78,Over,2,MISS
+2025-05-31,Nick Lodolo,Reds,Cubs,7.38,2.88,Over,5,HIT
+2025-05-31,Lyon Richardson,Reds,Cubs,0.99,3.51,Under,0,HIT
+2025-05-31,Drew Pomeranz,Cubs,Reds,3.0,1.5,Under,1,HIT
+2025-05-31,Ben Brown,Cubs,Reds,8.3,3.8,Over,9,HIT
+2025-05-31,Brad Keller,Cubs,Reds,2.99,1.51,Under,0,HIT
+2025-05-31,Beau Brieske,Tigers,Royals,2.03,2.47,Under,0,HIT
+2025-05-31,John Schreiber,Royals,Tigers,2.64,1.86,Under,2,HIT
+2025-05-31,Ryan Helsley,Cardinals,Rangers,3.79,0.71,Under,2,HIT
+2025-05-31,Hoby Milner,Rangers,Cardinals,2.06,2.44,Under,0,HIT
+2025-05-31,Zack Littell,Rays,Astros,8.83,4.33,Over,6,HIT
+2025-05-31,Gabe Speier,Mariners,Twins,3.78,0.72,Under,4,HIT
+2025-05-31,Brent Headrick,Yankees,Dodgers,4.96,0.46,Over,1,MISS
+2025-05-31,Ian Hamilton,Yankees,Dodgers,5.59,1.09,Over,1,MISS
+2025-05-31,Mark Leiter Jr.,Yankees,Dodgers,6.06,1.56,Over,0,MISS
+2025-05-31,Yerry De los Santos,Yankees,Dodgers,3.77,0.73,Under,0,HIT
+2025-05-31,Devin Williams,Yankees,Dodgers,3.77,0.73,Under,0,HIT
+2025-05-31,Luke Weaver,Yankees,Dodgers,1.04,3.46,Under,1,HIT
+2025-05-31,Chris Stratton,Dodgers,Yankees,7.43,2.93,Over,1,MISS
+2025-05-31,Caleb Ferguson,Pirates,Padres,1.04,3.46,Under,1,HIT
+2025-05-31,Sean Reynolds,Padres,Pirates,1.05,3.45,Under,2,HIT
+2025-05-31,Yuki Matsui,Padres,Pirates,4.98,0.48,Over,0,MISS
+2025-05-31,Ryne Nelson,Diamondbacks,Nationals,10.79,6.29,Over,1,MISS
+2025-06-01,Jack Kochanowicz,Angels,Guardians,7.38,2.88,Over,4,MISS
+2025-06-01,Hunter Strickland,Angels,Guardians,1.01,3.49,Under,0,HIT
+2025-06-01,Gavin Williams,Guardians,Angels,7.38,2.88,Over,6,HIT
+2025-06-01,Greg Weissert,Red Sox,Braves,2.05,2.45,Under,1,HIT
+2025-06-01,Enyel De Los Santos,Braves,Red Sox,1.01,3.49,Under,1,HIT
+2025-06-01,Clay Holmes,Mets,Rockies,7.38,2.88,Over,3,MISS
+2025-06-01,Reed Garrett,Mets,Rockies,6.82,2.32,Over,2,MISS
+2025-06-01,Jose Quintana,Brewers,Phillies,7.38,2.88,Over,3,MISS
+2025-06-01,Orion Kerkering,Phillies,Brewers,1.98,2.52,Under,0,HIT
+2025-06-01,Matt Strahm,Phillies,Brewers,1.94,2.56,Under,1,HIT
+2025-06-01,JP Sears,Athletics,Blue Jays,3.92,0.58,Under,3,HIT
+2025-06-01,Mason Fluharty,Blue Jays,Athletics,2.96,1.54,Under,2,HIT
+2025-06-01,Jeff Hoffman,Blue Jays,Athletics,2.05,2.45,Under,2,HIT
+2025-06-01,Ryan Walker,Giants,Marlins,2.99,1.51,Under,1,HIT
+2025-06-01,Erik Miller,Giants,Marlins,1.02,3.48,Under,1,HIT
+2025-06-01,Ryan Weathers,Marlins,Giants,9.82,5.32,Over,7,HIT
+2025-06-01,Tyler Phillips,Marlins,Giants,0.18,4.32,Under,1,HIT
+2025-06-01,Cade Gibson,Marlins,Giants,2.81,1.69,Under,0,HIT
+2025-06-01,Nick Martinez,Reds,Cubs,8.87,4.37,Over,2,MISS
+2025-06-01,Lyon Richardson,Reds,Cubs,0.23,4.27,Under,2,HIT
+2025-06-01,Caleb Thielbar,Cubs,Reds,2.97,1.53,Under,0,HIT
+2025-06-01,Ryan Pressly,Cubs,Reds,1.01,3.49,Under,3,HIT
+2025-06-01,Ryan Brasier,Cubs,Reds,0.26,4.24,Under,1,HIT
+2025-06-01,Shawn Armstrong,Rangers,Cardinals,2.97,1.53,Under,0,HIT
+2025-06-01,Hoby Milner,Rangers,Cardinals,1.06,3.44,Under,1,HIT
+2025-06-01,Luke Jackson,Rangers,Cardinals,1.04,3.46,Under,1,HIT
+2025-06-01,Taj Bradley,Rays,Astros,7.38,2.88,Over,10,HIT
+2025-06-01,Luis Castillo,Mariners,Twins,11.05,6.55,Over,5,HIT
+2025-06-01,Ryan Yarbrough,Yankees,Dodgers,10.92,6.42,Over,5,HIT
+2025-06-01,Devin Williams,Yankees,Dodgers,2.99,1.51,Under,2,HIT
+2025-06-01,Tim Hill,Yankees,Dodgers,0.26,4.24,Under,1,HIT
+2025-06-01,Lou Trivino,Dodgers,Yankees,3.73,0.77,Under,2,HIT
+2025-06-01,Chris Stratton,Dodgers,Yankees,5.63,1.13,Over,4,MISS
+2025-06-01,Caleb Ferguson,Pirates,Padres,1.03,3.47,Under,1,HIT
+2025-06-01,Zach Brzykcy,Nationals,Diamondbacks,2.93,1.57,Under,1,HIT
+2025-06-01,Caleb Thielbar,Cubs,Tigers,2.97,1.53,Under,0,HIT
+2025-06-02,Tyler Anderson,Angels,Red Sox,4.13,0.37,Under,5,MISS
+2025-06-02,Hunter Strickland,Angels,Red Sox,1.01,3.49,Under,1,HIT
+2025-06-02,Reid Detmers,Angels,Red Sox,6.25,1.75,Over,0,MISS
+2025-06-02,Ryan Zeferjahn,Angels,Red Sox,2.91,1.59,Under,2,HIT
+2025-06-02,Luis Guerrero,Red Sox,Angels,3.59,0.91,Under,0,HIT
+2025-06-02,Seth Halvorsen,Rockies,Marlins,1.01,3.49,Under,1,HIT
+2025-06-02,Max Meyer,Marlins,Rockies,8.34,3.84,Over,5,HIT
+2025-06-02,Rob Zastryzny,Brewers,Reds,3.0,1.5,Under,1,HIT
+2025-06-02,Ian Gibaut,Reds,Brewers,1.01,3.49,Under,1,HIT
+2025-06-02,Jack Flaherty,Tigers,White Sox,9.32,4.82,Over,4,MISS
+2025-06-02,John Brebbia,Tigers,White Sox,0.92,3.58,Under,1,HIT
+2025-06-02,Max Kranick,Mets,Dodgers,3.87,0.63,Under,2,HIT
+2025-06-02,Ryne Stanek,Mets,Dodgers,0.26,4.24,Under,0,HIT
+2025-06-02,José Castillo,Mets,Dodgers,6.09,1.59,Over,1,MISS
+2025-06-02,Jack Dreyer,Dodgers,Mets,2.05,2.45,Under,1,HIT
+2025-06-02,Lou Trivino,Dodgers,Mets,6.43,1.93,Over,1,MISS
+2025-06-02,Randy Rodríguez,Giants,Padres,5.43,0.93,Over,2,MISS
+2025-06-02,Ryan Walker,Giants,Padres,2.99,1.51,Under,0,HIT
+2025-06-02,John Brebbia,Tigers,Cubs,0.92,3.58,Under,2,HIT
+2025-06-02,Joe Ryan,Twins,Athletics,9.57,5.07,Over,4,MISS
+2025-06-02,Kody Funderburk,Twins,Athletics,0.9,3.6,Under,1,HIT
+2025-06-02,Luis Severino,Athletics,Twins,11.05,6.55,Over,1,MISS
+2025-06-02,Sean Newcomb,Athletics,Twins,0.14,4.36,Under,1,HIT
+2025-06-03,Greg Weissert,Red Sox,Angels,2.05,2.45,Under,0,HIT
+2025-06-03,Ryan Thompson,Diamondbacks,Braves,2.99,1.51,Under,0,HIT
+2025-06-03,Devin Williams,Yankees,Guardians,2.04,2.46,Under,1,HIT
+2025-06-03,Rob Zastryzny,Brewers,Reds,3.78,0.72,Under,0,HIT

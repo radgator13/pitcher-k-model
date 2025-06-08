@@ -1,0 +1,162 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>67f0ca22-3e1b-4d03-85d4-43dd72e593cf</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Pitcher K v2.0</Name>
+    <RootNamespace>Pitcher K v2.0</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>
+    </CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+    <InterpreterPath>
+    </InterpreterPath>
+    <InterpreterId>Global|PythonCore|3.12</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="pipeline_logic\backfill_model_picks.py" />
+    <Compile Include="bet_logic\Step_1_get_BETONLINE_odds.py" />
+    <Compile Include="bet_logic\Step_2_flatten_odds_api_events.py" />
+    <Compile Include="bet_logic\Step_3_check_event_id_and_merge.py" />
+    <Compile Include="bet_logic\Step_4_final_merged_readable_odds_api.py" />
+    <Compile Include="build_features_for_model.py" />
+    <Compile Include="pipeline_logic\compare_picks_vs_results.py" />
+    <Compile Include="pipeline_logic\get_pitching_results.py" />
+    <Compile Include="pipeline_logic\get_scores_full-with-pitcher.py" />
+    <Compile Include="models\train_pitcher_k_model.py" />
+    <Compile Include="models\train_team_model.py" />
+    <Compile Include="models\tune_models.py" />
+    <Compile Include="pipeline.py" />
+    <Compile Include="pipeline_logic\backfill_pitcher_ks.py" />
+    <Compile Include="pipeline_logic\backfill_predictions.py" />
+    <Compile Include="pipeline_logic\build_team_runs_dataset.py" />
+    <Compile Include="pipeline_logic\predict_pitcher_ks.py" />
+    <Compile Include="pipeline_logic\predict_runs.py" />
+    <Compile Include="pipeline_logic\predict_team_overs_and_unders.py" />
+    <Compile Include="pipeline_logic\Step1_Scrape_All.py" />
+    <Compile Include="bet_logic\run_odds_api.py" />
+    <Compile Include="scrape_logic\ScrapePitcherGameData.py" />
+    <Compile Include="scrape_logic\ScrapeTeamBatting.py" />
+    <Compile Include="scrape_logic\ScrapeTeamPitching.py" />
+    <Compile Include="app.py" />
+    <Compile Include="test.py" />
+    <Compile Include="utilities\scrape_schedule_and_starters.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bet_logic\" />
+    <Folder Include="data\" />
+    <Folder Include="data\archive\" />
+    <Folder Include="data\archive\2025-06-04\" />
+    <Folder Include="data\archive\2025-06-05\" />
+    <Folder Include="data\archive\2025-06-06\" />
+    <Folder Include="data\backups\" />
+    <Folder Include="models\" />
+    <Folder Include="outputs\" />
+    <Folder Include="pipeline_logic\" />
+    <Folder Include="predictions\" />
+    <Folder Include="predictions\2025-06-06\" />
+    <Folder Include="scrape_logic\" />
+    <Folder Include="utilities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="data\archive\2025-06-04\scheduled_games_and_starters_with_id_20250604_195133.csv" />
+    <Content Include="data\archive\2025-06-04\scheduled_games_and_starters_with_id_20250604_195620.csv" />
+    <Content Include="data\archive\2025-06-04\stathead_pitching_scrape_20250604_195144.csv" />
+    <Content Include="data\archive\2025-06-04\stathead_pitching_scrape_20250604_195630.csv" />
+    <Content Include="data\archive\2025-06-04\stathead_team_batting_scrape_20250604_195327.csv" />
+    <Content Include="data\archive\2025-06-04\stathead_team_batting_scrape_20250604_195715.csv" />
+    <Content Include="data\archive\2025-06-04\stathead_team_pitching_scrape_20250604_195350.csv" />
+    <Content Include="data\archive\2025-06-04\stathead_team_pitching_scrape_20250604_195740.csv" />
+    <Content Include="data\archive\2025-06-05\scheduled_games_and_starters_with_id_20250605_052457.csv" />
+    <Content Include="data\archive\2025-06-05\scheduled_games_and_starters_with_id_20250605_061830.csv" />
+    <Content Include="data\archive\2025-06-05\scheduled_games_and_starters_with_id_20250605_201116.csv" />
+    <Content Include="data\archive\2025-06-05\stathead_pitching_scrape_20250605_061842.csv" />
+    <Content Include="data\archive\2025-06-05\stathead_pitching_scrape_20250605_201127.csv" />
+    <Content Include="data\archive\2025-06-05\stathead_team_batting_scrape_20250605_062026.csv" />
+    <Content Include="data\archive\2025-06-05\stathead_team_batting_scrape_20250605_201306.csv" />
+    <Content Include="data\archive\2025-06-05\stathead_team_pitching_scrape_20250605_062048.csv" />
+    <Content Include="data\archive\2025-06-05\stathead_team_pitching_scrape_20250605_201329.csv" />
+    <Content Include="data\archive\2025-06-06\scheduled_games_and_starters_with_id_20250606_035050.csv" />
+    <Content Include="data\archive\2025-06-06\scheduled_games_and_starters_with_id_20250606_051745.csv" />
+    <Content Include="data\archive\2025-06-06\scheduled_games_and_starters_with_id_20250606_053435.csv" />
+    <Content Include="data\archive\2025-06-06\scheduled_games_and_starters_with_id_20250606_054716.csv" />
+    <Content Include="data\archive\2025-06-06\scheduled_games_and_starters_with_id_20250606_194213.csv" />
+    <Content Include="data\archive\2025-06-06\scheduled_games_and_starters_with_id_20250606_194351.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_pitching_scrape_20250606_035102.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_pitching_scrape_20250606_051756.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_pitching_scrape_20250606_053446.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_pitching_scrape_20250606_054728.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_pitching_scrape_20250606_194402.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_batting_scrape_20250606_035147.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_batting_scrape_20250606_051938.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_batting_scrape_20250606_053530.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_batting_scrape_20250606_054809.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_batting_scrape_20250606_194523.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_pitching_scrape_20250606_035209.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_pitching_scrape_20250606_052002.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_pitching_scrape_20250606_053556.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_pitching_scrape_20250606_054835.csv" />
+    <Content Include="data\archive\2025-06-06\stathead_team_pitching_scrape_20250606_194551.csv" />
+    <Content Include="data\backfilled_pitcher_ks.csv" />
+    <Content Include="data\backfilled_predictions.csv" />
+    <Content Include="data\backups\merged_game_props_backup_20250606_125321.csv" />
+    <Content Include="data\betonline_batter_props.csv" />
+    <Content Include="data\betonline_pitcher_props.csv" />
+    <Content Include="data\betonline_team_lines.csv" />
+    <Content Include="data\clean_all_props_flat.csv" />
+    <Content Include="data\flat_combined_teams_pitchers_batters.csv" />
+    <Content Include="data\merged_game_props.csv" />
+    <Content Include="data\merged_game_props.json" />
+    <Content Include="data\missing_predictions.csv" />
+    <Content Include="data\pitcher_id_map.csv" />
+    <Content Include="data\pitcher_name_map.csv" />
+    <Content Include="data\predicted_runs.csv" />
+    <Content Include="data\scheduled_games_and_starters_with_id.csv" />
+    <Content Include="data\Stathead_2025_Pitcher_Master.csv" />
+    <Content Include="data\Stathead_2025_TeamBatting_Master.csv" />
+    <Content Include="data\Stathead_2025_TeamPitching_Master.csv" />
+    <Content Include="data\team_name_map.csv" />
+    <Content Include="data\team_run_prediction_dataset.csv" />
+    <Content Include="models\classifier_over_3_5.joblib" />
+    <Content Include="models\classifier_over_4_5.joblib" />
+    <Content Include="models\classifier_over_5_5.joblib" />
+    <Content Include="models\classifier_over_6_5.joblib" />
+    <Content Include="models\final_rf_model.joblib" />
+    <Content Include="models\final_team_model.joblib" />
+    <Content Include="models\pitcher_k_model.joblib" />
+    <Content Include="outputs\pitcher_k_predictions.csv" />
+    <Content Include="outputs\team_predictions.csv" />
+    <Content Include="predictions\2025-06-06\game_totals_2025-06-06_194711.csv" />
+    <Content Include="requirements.txt" />
+    <Content Include="utilities\.env" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.12" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

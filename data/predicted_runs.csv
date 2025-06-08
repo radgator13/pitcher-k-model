@@ -1,0 +1,41 @@
+date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
+2025-06-08,CIN,ARI,1,Brady Singer,Zac Gallen,2.53
+2025-06-08,ARI,CIN,0,Zac Gallen,Brady Singer,4.7
+2025-06-08,DET,CHC,1,Jack Flaherty,Cade Horton,2.16
+2025-06-08,CHC,DET,0,Cade Horton,Jack Flaherty,1.94
+2025-06-08,CLE,HOU,1,Tanner Bibee,Brandon Walter,2.04
+2025-06-08,HOU,CLE,0,Brandon Walter,Tanner Bibee,2.74
+2025-06-08,MIN,TOR,1,Joe Ryan,Bowden Francis,3.96
+2025-06-08,TOR,MIN,0,Bowden Francis,Joe Ryan,4.42
+2025-06-08,STL,LAD,1,Michael McGreevy,Clayton Kershaw,2.36
+2025-06-08,LAD,STL,0,Clayton Kershaw,Michael McGreevy,1.62
+2025-06-08,COL,NYM,1,Chase Dollander,Tylor Megill,2.31
+2025-06-08,NYM,COL,0,Tylor Megill,Chase Dollander,4.91
+2025-06-08,ATH,BAL,1,Jacob Lopez,Tomoyuki Sugano,4.51
+2025-06-08,BAL,ATH,0,Tomoyuki Sugano,Jacob Lopez,3.44
+2025-06-08,LAA,SEA,1,Tyler Anderson,George Kirby,6.38
+2025-06-08,SEA,LAA,0,George Kirby,Tyler Anderson,3.32
+2025-06-09,CLE,CIN,1,Luis Ortiz,Wade Miley,4.16
+2025-06-09,CIN,CLE,0,Wade Miley,Luis Ortiz,2.3
+2025-06-09,PIT,MIA,1,Mike Burrows,Sandy Alcantara,1.48
+2025-06-09,MIA,PIT,0,Sandy Alcantara,Mike Burrows,1.67
+2025-06-09,MIL,ATL,1,Aaron Civale,Chris Sale,1.75
+2025-06-09,ATL,MIL,0,Chris Sale,Aaron Civale,2.23
+2025-06-09,LAA,ATH,1,Yusei Kikuchi,Jeffrey Springs,5.25
+2025-06-09,ATH,LAA,0,Jeffrey Springs,Yusei Kikuchi,5.39
+2025-06-09,ARI,SEA,1,Merrill Kelly,Emerson Hancock,4.02
+2025-06-09,SEA,ARI,0,Emerson Hancock,Merrill Kelly,1.75
+2025-06-10,BAL,DET,1,Cade Povich,Sawyer Gipson-Long,3.09
+2025-06-10,DET,BAL,0,Sawyer Gipson-Long,Cade Povich,2.37
+2025-06-10,CLE,CIN,1,Slade Cecconi,Andrew Abbott,2.37
+2025-06-10,CIN,CLE,0,Andrew Abbott,Slade Cecconi,2.93
+2025-06-10,MIL,ATL,1,Quinn Priester,Grant Holmes,2.96
+2025-06-10,ATL,MIL,0,Grant Holmes,Quinn Priester,1.8
+2025-06-10,MIN,TEX,1,Zebby Matthews,Tyler Mahle,2.93
+2025-06-10,TEX,MIN,0,Tyler Mahle,Zebby Matthews,2.16
+2025-06-10,STL,TOR,1,Miles Mikolas,Chris Bassitt,2.7
+2025-06-10,TOR,STL,0,Chris Bassitt,Miles Mikolas,4.73
+2025-06-10,HOU,CHW,1,Lance McCullers Jr.,Shane Smith,2.34
+2025-06-10,CHW,HOU,0,Shane Smith,Lance McCullers Jr.,2.76
+2025-06-10,ARI,SEA,1,Brandon Pfaadt,Bryan Woo,4.97
+2025-06-10,SEA,ARI,0,Bryan Woo,Brandon Pfaadt,3.72

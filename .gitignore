@@ -1,0 +1,63 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment files
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Python tooling
+.tox/
+.nox/
+.coverage
+.cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.dmypy.json
+
+# Testing and coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# Logs and debugging
+*.log
+
+
+
+# IDE settings
+.vscode/
+.idea/
+.vs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# ✅ Keep workflows folder but ignore its contents locally
+!.github/
+.github/*
+!.github/workflows/
+

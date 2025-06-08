@@ -1,0 +1,936 @@
+Game Date,Away Team,Home Team,Away Record,Home Record,Away Score,Home Score,Winning Pitcher,Winning IP,Winning H,Winning ER,Winning K,Winning BB,Losing Pitcher,Losing IP,Losing H,Losing ER,Losing K,Losing BB
+2025-03-28,Colorado Rockies,Tampa Bay Rays,0-1,1-0,2,3,P. Fairbanks,1.0,0,0,2,2,V. Vodnik,1.0,1,1,1,0
+2025-03-28,Baltimore Orioles,Toronto Blue Jays,1-1,1-1,2,8,K. Gausman,6.0,3,2,4,1,C. Morton,3.1,7,4,3,1
+2025-03-28,Pittsburgh Pirates,Miami Marlins,1-1,1-1,4,3,M. Keller,6.0,5,1,4,1,C. Gillispie,5.0,4,3,4,4
+2025-03-28,Boston Red Sox,Texas Rangers,1-1,1-1,1,4,J. Leiter,5.0,5,1,4,1,T. Houck,5.2,7,4,2,3
+2025-03-28,New York Mets,Houston Astros,1-1,1-1,3,1,T. Megill,5.0,3,1,6,1,H. Brown,6.0,4,2,7,3
+2025-03-28,Atlanta Braves,San Diego Padres,0-2,2-0,3,4,J. Adam,1.0,0,0,3,1,D. Lee,1.0,1,1,0,0
+2025-03-28,Chicago Cubs,Arizona Diamondbacks,1-3,1-1,1,8,M. Kelly,5.1,3,1,1,4,J. Taillon,4.1,9,6,1,0
+2025-03-28,Athletics,Seattle Mariners,1-1,1-1,7,0,J. Springs,6.0,3,0,9,1,L. Castillo,5.0,3,2,4,2
+2025-03-28,Detroit Tigers,Los Angeles Dodgers,0-2,4-0,5,8,L. Garcia,1.0,1,1,0,1,B. Brieske,0.1,4,4,0,0
+2025-03-29,Milwaukee Brewers,New York Yankees,0-2,2-0,9,20,Y. Gomez,1.1,1,0,1,0,N. Cortes,2.0,6,8,2,5
+2025-03-29,Los Angeles Angels,Chicago White Sox,1-1,1-1,1,0,J. Soriano,7.0,2,0,5,2,M. Clevinger,1.0,1,1,0,1
+2025-03-29,Minnesota Twins,St. Louis Cardinals,0-2,2-0,1,5,E. Fedde,6.0,2,1,2,0,J. Alcala,0.0,2,3,0,1
+2025-03-29,Baltimore Orioles,Toronto Blue Jays,2-1,1-2,9,5,D. Kremer,5.1,5,5,6,2,R. Lovelady,1.0,2,4,2,1
+2025-03-29,Philadelphia Phillies,Washington Nationals,2-0,0-2,11,6,J. Luzardo,5.0,5,2,11,2,C. Poche,0.1,1,3,1,2
+2025-03-29,Colorado Rockies,Tampa Bay Rays,1-1,1-1,2,1,L. Peralta,0.2,0,0,1,1,Z. Littell,6.0,4,1,7,0
+2025-03-29,Pittsburgh Pirates,Miami Marlins,1-2,2-1,4,5,G. Soriano,1.0,2,0,1,0,J. Wentz,2.0,2,0,1,2
+2025-03-29,San Francisco Giants,Cincinnati Reds,1-1,1-1,2,3,N. Lodolo,6.0,5,2,1,0,S. Bivens,1.0,2,1,1,0
+2025-03-29,Cleveland Guardians,Kansas City Royals,1-1,1-1,3,4,D. Lynch IV,2.0,0,0,0,0,P. Sewald,0.2,2,2,1,0
+2025-03-29,Boston Red Sox,Texas Rangers,1-2,2-1,3,4,H. Milner,1.1,1,0,1,1,W. Buehler,4.1,7,4,3,0
+2025-03-29,New York Mets,Houston Astros,1-2,2-1,1,2,S. Arrighetti,6.0,1,1,5,2,G. Canning,5.2,4,2,4,2
+2025-03-29,Atlanta Braves,San Diego Padres,0-3,3-0,0,1,W. Peralta,1.1,0,0,1,0,A. Bummer,0.2,1,1,2,1
+2025-03-29,Chicago Cubs,Arizona Diamondbacks,2-3,1-2,4,3,S. Imanaga,7.0,3,1,4,2,B. Pfaadt,6.0,6,3,5,1
+2025-03-29,Detroit Tigers,Los Angeles Dodgers,0-3,5-0,3,7,A. Banda,1.0,0,0,2,0,R. Olson,4.2,4,4,5,2
+2025-03-29,Athletics,Seattle Mariners,2-1,1-2,4,2,O. Bido,5.0,3,1,4,4,B. Miller,5.2,6,3,4,2
+2025-03-30,Milwaukee Brewers,New York Yankees,0-3,3-0,3,12,T. Hill,1.1,0,0,3,0,A. Civale,3.0,4,5,2,1
+2025-03-30,Philadelphia Phillies,Washington Nationals,2-1,1-2,1,5,M. Parker,6.1,7,0,5,2,A. Nola,5.1,6,5,8,0
+2025-03-30,Baltimore Orioles,Toronto Blue Jays,2-2,2-2,1,3,C. Bassitt,6.0,8,1,7,2,T. Sugano,4.0,4,2,1,2
+2025-03-30,Colorado Rockies,Tampa Bay Rays,1-2,2-1,4,6,T. Bradley,6.0,5,2,7,0,L. Peralta,0.1,1,2,0,0
+2025-03-30,Pittsburgh Pirates,Miami Marlins,1-3,3-1,2,3,A. Bender,1.0,0,0,1,1,D. Bednar,0.0,1,0,0,0
+2025-03-30,San Francisco Giants,Cincinnati Reds,2-1,1-2,6,3,R. Ray,5.1,3,3,4,1,N. Martinez,6.0,4,4,5,1
+2025-03-30,Los Angeles Angels,Chicago White Sox,2-1,1-2,3,2,B. Joyce,0.2,0,0,0,0,C. Booser,1.0,2,1,2,0
+2025-03-30,Cleveland Guardians,Kansas City Royals,2-1,1-2,6,2,T. Bibee,5.2,2,0,2,2,M. Wacha,4.0,4,1,2,4
+2025-03-30,Minnesota Twins,St. Louis Cardinals,0-3,3-0,2,9,A. Pallante,5.0,4,2,3,2,B. Ober,2.2,8,8,3,3
+2025-03-30,Boston Red Sox,Texas Rangers,1-3,3-1,2,3,S. Armstrong,1.0,1,1,1,1,R. Fitts,6.0,6,3,4,0
+2025-03-30,Chicago Cubs,Arizona Diamondbacks,2-4,2-2,6,10,J. Martinez,0.2,2,0,2,0,E. Morgan,0.2,6,6,0,1
+2025-03-30,Athletics,Seattle Mariners,2-2,2-2,1,2,B. Woo,6.0,3,1,5,2,J. Sears,6.2,5,2,7,0
+2025-03-30,Atlanta Braves,San Diego Padres,0-4,4-0,0,5,N. Pivetta,7.0,1,0,4,0,A. Smith-Shawver,4.0,6,2,4,3
+2025-03-31,Kansas City Royals,Milwaukee Brewers,2-2,0-4,11,1,K. Bubic,6.0,3,0,8,2,E. Rodriguez,4.0,6,4,3,1
+2025-03-31,Minnesota Twins,Chicago White Sox,0-4,2-2,0,9,M. Perez,6.0,0,0,9,3,C. Paddack,3.1,6,9,2,4
+2025-03-31,Boston Red Sox,Baltimore Orioles,1-4,3-2,5,8,S. Dominguez,1.0,0,0,1,0,S. Newcomb,4.0,8,4,4,2
+2025-03-31,Colorado Rockies,Philadelphia Phillies,1-3,3-1,1,6,J. Ross,1.0,1,0,1,0,S. Alexander,0.2,2,2,0,1
+2025-03-31,New York Mets,Miami Marlins,2-2,3-2,10,4,D. Peterson,6.0,5,2,9,3,C. Quantrill,4.0,8,6,2,1
+2025-03-31,Texas Rangers,Cincinnati Reds,3-2,2-2,3,14,B. Singer,7.0,1,0,8,2,K. Rocker,3.0,7,6,3,2
+2025-03-31,Pittsburgh Pirates,Tampa Bay Rays,1-4,3-1,1,6,D. Rasmussen,5.0,2,0,4,0,C. Mlodzinski,3.2,7,4,4,2
+2025-03-31,Washington Nationals,Toronto Blue Jays,1-3,3-2,2,5,B. Francis,6.0,2,2,4,3,M. Soroka,5.0,5,4,3,1
+2025-03-31,Los Angeles Angels,St. Louis Cardinals,3-1,3-1,5,4,B. Burke,1.0,1,0,1,1,J. Romero,1.0,0,1,0,2
+2025-03-31,San Francisco Giants,Houston Astros,3-1,2-2,7,2,J. Hicks,6.0,1,0,6,2,R. Blanco,5.0,3,3,6,3
+2025-03-31,Cleveland Guardians,San Diego Padres,2-2,5-0,2,7,K. Hart,5.0,5,2,4,1,L. Ortiz,4.2,9,7,2,4
+2025-03-31,Detroit Tigers,Seattle Mariners,1-3,2-3,9,6,T. Holton,1.0,0,0,1,2,E. Hancock,0.2,7,6,0,1
+2025-03-31,Chicago Cubs,Athletics,3-4,2-3,18,3,B. Brown,5.0,6,3,5,2,J. Estes,4.0,9,6,2,4
+2025-03-31,Atlanta Braves,Los Angeles Dodgers,0-5,6-0,1,6,T. Glasnow,5.0,2,0,8,3,G. Holmes,4.0,4,4,3,4
+2025-04-01,New York Mets,Miami Marlins,2-3,4-2,2,4,S. Alcantara,5.0,3,2,4,0,K. Senga,5.0,3,2,8,1
+2025-04-01,Texas Rangers,Cincinnati Reds,4-2,2-3,1,0,N. Eovaldi,9.0,4,0,8,0,C. Spiers,6.0,3,1,5,2
+2025-04-01,Arizona Diamondbacks,New York Yankees,3-2,3-1,7,5,S. Miller,1.0,0,0,0,0,M. Leiter Jr.,0.1,1,3,1,2
+2025-04-01,Pittsburgh Pirates,Tampa Bay Rays,1-5,4-1,0,7,S. Baz,6.0,7,0,10,0,T. Harrington,4.0,7,6,2,4
+2025-04-01,Washington Nationals,Toronto Blue Jays,1-4,4-2,3,5,C. Green,0.1,0,0,1,0,J. Ferrer,1.2,2,0,2,1
+2025-04-01,Kansas City Royals,Milwaukee Brewers,2-3,1-4,0,5,A. Uribe,1.1,0,0,1,0,M. Lorenzen,5.1,5,3,7,3
+2025-04-01,Minnesota Twins,Chicago White Sox,1-4,2-3,8,3,L. Varland,1.0,1,1,2,0,P. Murfee,0.0,4,3,0,0
+2025-04-01,Los Angeles Angels,St. Louis Cardinals,4-1,3-2,9,7,R. Johnson,1.0,2,0,0,1,C. Roycroft,1.0,2,2,0,1
+2025-04-01,San Francisco Giants,Houston Astros,4-1,2-3,3,1,L. Webb,7.0,5,1,6,0,H. Wesneski,5.0,2,3,6,3
+2025-04-01,Cleveland Guardians,San Diego Padres,2-3,6-0,0,7,M. King,5.0,2,0,11,1,L. Allen,5.1,7,4,1,5
+2025-04-01,Detroit Tigers,Seattle Mariners,2-3,2-4,4,1,C. Mize,5.2,1,0,6,3,L. Gilbert,5.0,5,3,10,1
+2025-04-01,Chicago Cubs,Athletics,4-4,2-4,7,4,J. Steele,6.2,7,4,6,1,L. Severino,6.0,6,5,6,3
+2025-04-01,Atlanta Braves,Los Angeles Dodgers,0-6,7-0,1,3,A. Banda,1.0,1,0,1,1,C. Sale,5.0,4,3,5,0
+2025-04-02,Texas Rangers,Cincinnati Reds,5-2,2-4,1,0,J. Leiter,5.0,1,0,6,0,H. Greene,7.0,3,1,8,1
+2025-04-02,Pittsburgh Pirates,Tampa Bay Rays,2-5,4-2,4,2,P. Skenes,7.0,3,0,6,0,R. Pepiot,5.0,5,2,3,3
+2025-04-02,Kansas City Royals,Milwaukee Brewers,2-4,2-4,2,3,J. Koenig,1.0,0,0,1,1,S. Long,0.1,1,0,0,1
+2025-04-02,Los Angeles Angels,St. Louis Cardinals,4-2,4-2,5,12,J. Romero,1.1,0,0,1,0,I. Anderson,1.0,6,4,1,1
+2025-04-02,Minnesota Twins,Chicago White Sox,2-4,2-4,6,1,P. Lopez,7.0,4,1,5,1,S. Burke,4.1,7,6,1,0
+2025-04-02,Washington Nationals,Toronto Blue Jays,1-5,5-2,2,4,E. Lucas,5.0,1,0,3,2,M. Gore,5.0,9,3,5,2
+2025-04-02,Chicago Cubs,Athletics,5-4,2-5,10,2,J. Taillon,6.0,4,2,7,3,J. Springs,3.0,5,4,3,4
+2025-04-02,San Francisco Giants,Houston Astros,5-1,2-4,6,3,R. Rodriguez,1.0,1,0,2,0,F. Valdez,5.0,4,5,9,4
+2025-04-02,Cleveland Guardians,San Diego Padres,2-4,7-0,2,5,D. Cease,6.1,4,1,7,1,B. Lively,4.1,7,4,4,2
+2025-04-02,Detroit Tigers,Seattle Mariners,2-4,3-4,2,3,L. Castillo,7.0,5,2,5,2,T. Skubal,5.2,6,3,8,3
+2025-04-02,New York Mets,Miami Marlins,3-3,4-3,6,5,J. Butto,2.0,0,0,0,0,X. Curry,1.0,1,0,0,2
+2025-04-02,Boston Red Sox,Baltimore Orioles,2-4,3-3,3,0,G. Crochet,8.0,4,0,8,1,Z. Eflin,6.0,8,3,5,0
+2025-04-02,Colorado Rockies,Philadelphia Phillies,1-4,4-1,1,5,Z. Wheeler,7.0,3,1,10,0,K. Freeland,6.2,9,3,3,0
+2025-04-02,Arizona Diamondbacks,New York Yankees,4-2,3-2,4,3,Z. Gallen,6.2,3,0,13,0,C. Rodon,6.0,3,4,5,4
+2025-04-02,Atlanta Braves,Los Angeles Dodgers,0-7,8-0,5,6,J. Dreyer,2.0,0,0,1,0,R. Iglesias,1.0,2,1,2,0
+2025-04-03,Boston Red Sox,Baltimore Orioles,3-4,3-4,8,4,Z. Kelly,1.0,0,0,0,0,C. Morton,5.0,6,5,10,2
+2025-04-03,Colorado Rockies,Philadelphia Phillies,1-5,5-1,1,3,T. Walker,6.0,3,0,4,1,A. Senzatela,5.1,10,0,3,0
+2025-04-03,Houston Astros,Minnesota Twins,3-4,2-5,5,2,H. Brown,6.0,5,2,8,0,J. Ryan,5.0,5,4,6,0
+2025-04-03,Arizona Diamondbacks,New York Yankees,4-3,4-2,7,9,C. Carrasco,5.1,5,3,5,2,M. Kelly,3.2,9,9,2,3
+2025-04-03,Cincinnati Reds,Milwaukee Brewers,2-5,3-4,0,1,N. Cortes,6.0,1,0,6,2,N. Lodolo,6.2,4,0,4,0
+2025-04-04,Chicago White Sox,Detroit Tigers,2-5,3-4,4,7,J. Flaherty,5.2,3,1,7,2,J. Cannon,3.2,3,3,3,3
+2025-04-04,St. Louis Cardinals,Boston Red Sox,4-3,4-4,9,13,W. Buehler,5.0,7,5,4,1,E. Fedde,3.0,5,6,1,4
+2025-04-04,San Diego Padres,Chicago Cubs,7-1,6-4,1,3,S. Imanaga,7.1,4,1,4,0,R. Vasquez,4.2,2,2,2,5
+2025-04-04,Toronto Blue Jays,New York Mets,5-3,4-3,0,5,T. Megill,5.1,2,0,4,3,K. Gausman,5.1,2,3,0,2
+2025-04-04,Athletics,Colorado Rockies,3-5,1-6,6,3,N. Murdock,2.0,0,0,3,2,A. Chivilli,0.2,2,2,0,1
+2025-04-04,New York Yankees,Pittsburgh Pirates,5-2,2-6,9,4,M. Fried,5.2,6,1,6,1,M. Keller,3.2,8,7,4,4
+2025-04-04,Seattle Mariners,San Francisco Giants,3-5,6-1,9,10,S. Bivens,2.0,1,0,1,2,C. Vargas,0.2,1,1,1,1
+2025-04-04,Arizona Diamondbacks,Washington Nationals,5-3,1-6,6,4,B. Pfaadt,6.0,6,4,4,0,J. Ferrer,1.0,3,2,1,0
+2025-04-04,Los Angeles Dodgers,Philadelphia Phillies,8-1,6-1,2,3,J. Luzardo,7.0,2,0,8,2,Y. Yamamoto,6.0,3,0,5,3
+2025-04-04,Miami Marlins,Atlanta Braves,4-4,1-7,0,10,S. Schwellenbach,8.0,2,0,10,0,M. Meyer,6.0,8,3,8,2
+2025-04-04,Baltimore Orioles,Kansas City Royals,3-5,3-4,2,8,S. Lugo,6.0,5,1,2,1,D. Kremer,4.1,8,2,1,0
+2025-04-04,Tampa Bay Rays,Texas Rangers,4-3,6-2,2,5,T. Mahle,5.0,1,0,5,2,Z. Littell,7.0,6,5,3,2
+2025-04-04,Cincinnati Reds,Milwaukee Brewers,2-6,4-4,2,3,T. Alexander,5.2,0,0,6,3,N. Martinez,4.2,5,3,2,2
+2025-04-04,Cleveland Guardians,Los Angeles Angels,3-4,4-3,8,6,T. Herrin,1.0,1,0,2,1,J. Soriano,5.1,5,5,9,3
+2025-04-05,Chicago White Sox,Detroit Tigers,2-6,4-4,2,7,R. Olson,6.0,7,2,5,3,D. Martin,5.0,9,7,2,2
+2025-04-05,Houston Astros,Minnesota Twins,3-5,3-5,1,6,C. Sands,1.0,0,0,2,0,S. Arrighetti,3.2,3,5,3,3
+2025-04-05,San Diego Padres,Chicago Cubs,7-2,7-4,1,7,M. Boyd,6.0,5,0,5,1,N. Pivetta,3.0,6,3,4,3
+2025-04-05,Arizona Diamondbacks,Washington Nationals,5-4,2-6,3,4,M. Parker,6.0,2,1,2,4,E. Rodriguez,5.0,5,4,12,1
+2025-04-05,Los Angeles Dodgers,Philadelphia Phillies,9-1,6-2,3,1,A. Banda,1.0,0,0,0,0,A. Nola,6.0,7,3,2,1
+2025-04-05,New York Yankees,Pittsburgh Pirates,6-2,2-7,10,4,M. Leiter Jr.,1.0,0,0,0,0,B. Falter,4.0,7,7,5,1
+2025-04-05,Baltimore Orioles,Kansas City Royals,4-5,3-5,8,1,T. Sugano,5.1,5,1,4,1,M. Wacha,5.2,6,4,5,1
+2025-04-05,Tampa Bay Rays,Texas Rangers,4-4,7-2,4,6,R. Garcia,0.1,0,0,0,0,M. Montgomery,1.0,2,2,3,0
+2025-04-05,Toronto Blue Jays,New York Mets,5-4,5-3,2,3,E. Diaz,1.0,2,0,3,0,N. Sandlin,0.2,1,1,1,1
+2025-04-05,Cincinnati Reds,Milwaukee Brewers,3-6,4-5,11,7,B. Singer,5.0,9,3,7,1,E. Rodriguez,5.0,8,7,2,1
+2025-04-05,Miami Marlins,Atlanta Braves,5-4,1-8,4,0,C. Quantrill,5.0,4,0,4,0,A. Smith-Shawver,4.2,7,3,6,3
+2025-04-05,Athletics,Colorado Rockies,4-5,1-7,7,4,J. Sears,6.1,6,3,2,2,G. Marquez,5.0,5,3,3,6
+2025-04-05,Seattle Mariners,San Francisco Giants,3-6,7-1,1,4,R. Ray,6.0,4,1,2,5,B. Miller,5.1,7,4,4,3
+2025-04-05,Cleveland Guardians,Los Angeles Angels,3-5,5-3,4,10,J. Kochanowicz,5.0,4,2,4,3,T. Bibee,4.0,9,7,4,1
+2025-04-06,Arizona Diamondbacks,Washington Nationals,5-5,3-6,4,5,T. Williams,5.0,5,3,6,2,C. Burnes,5.0,7,4,3,4
+2025-04-06,Los Angeles Dodgers,Philadelphia Phillies,9-2,7-2,7,8,O. Kerkering,1.0,1,0,0,0,B. Treinen,1.0,2,2,0,1
+2025-04-06,New York Yankees,Pittsburgh Pirates,6-3,3-7,4,5,J. Wentz,1.0,0,0,2,0,D. Williams,0.1,1,0,0,0
+2025-04-06,St. Louis Cardinals,Boston Red Sox,4-4,5-4,4,5,A. Chapman,1.0,0,0,2,1,R. Fernandez,0.1,1,0,0,1
+2025-04-06,Chicago White Sox,Detroit Tigers,2-7,5-4,3,4,J. Brebbia,1.0,0,0,0,0,F. Ellard,0.2,1,3,0,2
+2025-04-06,Toronto Blue Jays,New York Mets,5-5,6-3,1,2,M. Kranick,1.1,0,0,1,0,B. Francis,5.1,6,2,6,2
+2025-04-06,Baltimore Orioles,Kansas City Royals,4-6,4-5,1,4,K. Bubic,6.2,4,0,8,1,C. Povich,6.0,12,1,4,0
+2025-04-06,Cincinnati Reds,Milwaukee Brewers,3-7,5-5,2,8,C. Patrick,5.1,2,1,4,3,C. Spiers,3.1,5,4,3,1
+2025-04-06,Houston Astros,Minnesota Twins,4-5,3-6,9,7,J. Hader,2.0,0,0,3,0,L. Varland,1.0,1,1,1,1
+2025-04-06,San Diego Padres,Chicago Cubs,8-2,7-5,8,7,J. Adam,1.0,1,0,1,1,R. Pressly,1.0,1,0,0,1
+2025-04-06,Tampa Bay Rays,Texas Rangers,4-5,8-2,3,4,J. Webb,1.0,0,0,2,1,E. Uceta,0.2,2,1,0,0
+2025-04-06,Athletics,Colorado Rockies,4-6,2-7,5,12,C. Dollander,5.0,7,4,6,1,J. Estes,3.0,6,6,3,2
+2025-04-06,Seattle Mariners,San Francisco Giants,3-7,8-1,4,5,C. Doval,1.0,2,1,0,2,G. Santos,0.2,1,1,0,1
+2025-04-06,Cleveland Guardians,Los Angeles Angels,3-6,6-3,2,6,R. Zeferjahn,1.0,1,0,3,0,L. Ortiz,6.0,7,3,3,0
+2025-04-06,St. Louis Cardinals,Boston Red Sox,4-5,6-4,7,18,H. Dobbins,5.0,8,2,5,2,M. Mikolas,2.2,11,8,1,1
+2025-04-07,New York Yankees,Detroit Tigers,6-4,6-4,2,6,C. Mize,6.0,4,1,6,3,C. Rodon,6.0,4,5,8,3
+2025-04-07,St. Louis Cardinals,Pittsburgh Pirates,4-6,4-7,4,8,C. Mlodzinski,5.0,5,1,6,2,M. Liberatore,6.1,8,5,7,0
+2025-04-07,Los Angeles Dodgers,Washington Nationals,9-3,4-6,4,6,M. Gore,6.0,5,2,7,1,D. May,6.0,3,1,1,3
+2025-04-07,Toronto Blue Jays,Boston Red Sox,6-5,6-5,6,2,J. Berrios,7.0,4,1,2,3,R. Fitts,6.0,6,3,4,4
+2025-04-07,Miami Marlins,New York Mets,5-5,7-3,0,2,K. Senga,5.0,5,0,4,2,V. Bellozo,3.2,5,1,2,2
+2025-04-07,Minnesota Twins,Kansas City Royals,3-7,5-5,2,4,M. Lorenzen,6.0,5,1,3,0,S. Woods Richardson,5.2,8,4,6,4
+2025-04-07,Texas Rangers,Chicago Cubs,8-3,8-5,0,7,J. Steele,7.0,3,0,8,2,N. Eovaldi,4.2,4,3,4,2
+2025-04-07,Baltimore Orioles,Arizona Diamondbacks,5-6,5-6,5,1,Z. Eflin,6.0,4,1,1,0,Z. Gallen,4.2,7,5,2,4
+2025-04-07,Houston Astros,Seattle Mariners,4-6,4-7,3,4,G. Santos,1.0,1,0,0,2,T. Scott,0.1,0,2,0,2
+2025-04-07,Cincinnati Reds,San Francisco Giants,4-7,8-2,2,0,H. Greene,8.2,4,0,7,1,C. Doval,0.1,0,2,0,1
+2025-04-07,San Diego Padres,Athletics,9-2,4-7,5,4,M. King,5.2,8,3,2,2,L. Severino,7.0,8,5,3,0
+2025-04-08,New York Yankees,Detroit Tigers,6-5,7-4,0,5,T. Skubal,6.0,4,0,6,0,C. Carrasco,4.1,6,4,3,1
+2025-04-08,Chicago White Sox,Cleveland Guardians,2-8,4-6,0,1,E. Clase,1.0,0,0,2,0,M. Clevinger,0.1,1,1,0,3
+2025-04-08,Miami Marlins,New York Mets,5-6,8-3,5,10,C. Holmes,5.1,5,4,10,3,C. Faucher,0.2,2,1,0,1
+2025-04-08,St. Louis Cardinals,Pittsburgh Pirates,5-6,4-8,5,3,S. Gray,5.0,3,1,4,0,P. Skenes,6.0,6,5,7,1
+2025-04-08,Los Angeles Dodgers,Washington Nationals,9-4,5-6,2,8,C. Poche,1.0,0,0,3,0,J. Wrobleski,5.0,8,8,4,3
+2025-04-08,Toronto Blue Jays,Boston Red Sox,7-5,6-6,6,1,E. Lucas,5.1,3,0,8,1,G. Crochet,5.2,5,1,5,4
+2025-04-08,Los Angeles Angels,Tampa Bay Rays,7-3,4-6,4,3,B. Burke,1.0,1,0,2,0,P. Fairbanks,1.0,2,1,1,0
+2025-04-08,Philadelphia Phillies,Atlanta Braves,7-3,2-8,5,7,D. Hernandez,1.1,0,0,2,0,O. Kerkering,1.0,1,1,0,2
+2025-04-08,Minnesota Twins,Kansas City Royals,3-8,6-5,1,2,J. Schreiber,1.2,2,0,1,0,G. Jax,1.0,0,0,0,0
+2025-04-08,Texas Rangers,Chicago Cubs,8-4,9-5,6,10,P. Hodge,1.1,2,1,3,0,C. Martin,0.2,1,0,2,1
+2025-04-08,Milwaukee Brewers,Colorado Rockies,6-5,2-8,7,1,F. Peralta,5.0,3,1,6,3,K. Freeland,6.1,8,5,5,0
+2025-04-08,Baltimore Orioles,Arizona Diamondbacks,5-7,6-6,3,4,M. Kelly,6.0,3,2,4,2,C. Morton,5.0,4,4,4,5
+2025-04-08,Houston Astros,Seattle Mariners,5-6,4-8,2,1,R. Gusto,1.0,0,0,0,1,J. Hahn,2.0,1,0,2,3
+2025-04-08,Cincinnati Reds,San Francisco Giants,5-7,8-3,1,0,N. Lodolo,6.0,3,0,3,1,L. Roupp,6.0,7,1,4,0
+2025-04-08,San Diego Padres,Athletics,9-3,5-7,4,10,J. Springs,6.0,7,3,4,2,D. Cease,4.0,9,9,4,3
+2025-04-09,St. Louis Cardinals,Pittsburgh Pirates,5-7,5-8,1,2,J. Lawrence,1.2,1,0,2,1,C. Roycroft,0.1,1,0,0,2
+2025-04-09,Miami Marlins,New York Mets,6-6,8-4,5,0,M. Meyer,6.1,2,0,4,2,T. Megill,4.0,6,0,7,3
+2025-04-09,New York Yankees,Detroit Tigers,7-5,7-5,4,3,M. Fried,7.0,5,0,11,0,T. Holton,1.2,3,2,2,0
+2025-04-09,Texas Rangers,Chicago Cubs,9-4,9-6,6,2,T. Mahle,7.0,2,1,4,1,S. Imanaga,5.0,7,5,4,1
+2025-04-09,San Diego Padres,Athletics,10-3,5-8,2,1,R. Vasquez,5.0,1,1,1,3,O. Bido,5.0,9,2,5,0
+2025-04-09,Baltimore Orioles,Arizona Diamondbacks,5-8,7-6,0,9,B. Pfaadt,6.0,4,0,3,2,D. Kremer,4.2,8,6,4,1
+2025-04-09,Cincinnati Reds,San Francisco Giants,5-8,9-3,6,8,E. Miller,1.0,0,0,1,0,E. Pagan,0.1,1,1,0,0
+2025-04-09,Los Angeles Dodgers,Washington Nationals,10-4,5-7,6,5,K. Yates,1.0,0,0,2,0,E. Salazar,0.2,3,2,1,1
+2025-04-09,Houston Astros,Seattle Mariners,5-7,5-8,6,7,C. Lawrence,3.0,4,2,0,1,B. Abreu,0.2,3,3,0,2
+2025-04-09,Chicago White Sox,Cleveland Guardians,2-9,5-6,2,3,P. Sewald,1.1,0,0,3,1,S. Burke,3.0,3,3,4,4
+2025-04-09,Toronto Blue Jays,Boston Red Sox,8-5,6-7,2,1,J. Hoffman,2.0,0,0,3,1,J. Winckowski,1.0,0,0,0,0
+2025-04-09,Los Angeles Angels,Tampa Bay Rays,7-4,5-6,4,5,R. Pepiot,5.0,6,3,5,3,Y. Kikuchi,6.0,6,4,5,3
+2025-04-09,Philadelphia Phillies,Atlanta Braves,8-3,2-9,4,3,J. Alvarado,1.1,2,0,2,0,R. Iglesias,1.0,1,1,3,0
+2025-04-09,Minnesota Twins,Kansas City Royals,4-8,6-6,4,0,J. Ryan,7.0,2,0,4,0,S. Lugo,5.2,5,2,6,3
+2025-04-09,Milwaukee Brewers,Colorado Rockies,7-5,2-9,17,2,G. Anderson,2.0,2,0,3,0,A. Senzatela,4.1,8,8,3,1
+2025-04-10,Los Angeles Angels,Tampa Bay Rays,8-4,5-7,11,1,J. Soriano,7.2,5,1,4,3,Z. Littell,4.0,8,7,4,1
+2025-04-10,Chicago White Sox,Cleveland Guardians,2-10,6-6,1,6,G. Williams,5.0,3,1,7,2,J. Cannon,5.1,7,6,6,3
+2025-04-10,Minnesota Twins,Kansas City Royals,4-9,7-6,2,3,D. Lynch IV,0.2,0,0,2,1,C. Sands,0.2,2,2,1,0
+2025-04-10,Milwaukee Brewers,Colorado Rockies,7-6,3-9,2,7,S. Alexander,1.0,0,0,1,0,J. Payamps,0.2,3,5,1,2
+2025-04-10,Toronto Blue Jays,Boston Red Sox,8-6,7-7,3,4,B. Bernardino,1.0,0,0,0,0,N. Sandlin,0.2,2,1,0,0
+2025-04-10,Philadelphia Phillies,Atlanta Braves,8-4,3-9,2,4,J. Suarez,1.0,0,0,0,3,J. Ross,0.0,2,2,0,0
+2025-04-11,Kansas City Royals,Cleveland Guardians,7-7,7-6,0,7,T. Herrin,1.1,1,0,0,0,K. Bubic,6.0,6,2,5,2
+2025-04-11,Pittsburgh Pirates,Cincinnati Reds,5-9,6-8,3,5,B. Singer,5.0,2,3,3,3,B. Falter,5.0,3,3,4,5
+2025-04-11,Atlanta Braves,Tampa Bay Rays,3-10,6-7,3,6,T. Bradley,6.0,5,1,7,2,B. Elder,6.0,9,5,4,0
+2025-04-11,San Francisco Giants,New York Yankees,10-3,7-6,9,1,R. Ray,4.0,2,1,7,4,M. Stroman,0.2,4,5,1,3
+2025-04-11,Washington Nationals,Miami Marlins,6-7,6-7,7,4,L. Sims,1.0,0,0,0,2,A. Bender,1.0,2,1,1,1
+2025-04-11,Boston Red Sox,Chicago White Sox,7-8,3-10,1,11,D. Martin,6.0,6,1,6,1,S. Newcomb,4.0,6,2,6,2
+2025-04-11,Los Angeles Angels,Houston Astros,8-5,6-7,3,14,R. Blanco,5.0,5,2,7,1,J. Kochanowicz,4.2,7,6,1,3
+2025-04-11,Detroit Tigers,Minnesota Twins,8-5,4-10,7,6,W. Vest,1.1,1,0,2,0,J. Alcala,0.0,2,4,0,2
+2025-04-11,Philadelphia Phillies,St. Louis Cardinals,8-5,6-7,0,2,A. Pallante,7.0,2,0,4,2,A. Nola,5.0,5,2,7,4
+2025-04-11,Colorado Rockies,San Diego Padres,3-10,11-3,0,8,N. Pivetta,7.0,3,0,10,1,G. Marquez,4.2,7,5,3,1
+2025-04-11,Milwaukee Brewers,Arizona Diamondbacks,8-6,7-7,7,0,J. Quintana,7.0,4,0,2,0,E. Rodriguez,6.1,6,2,3,2
+2025-04-11,Texas Rangers,Seattle Mariners,9-5,6-8,3,5,C. Vargas,1.0,1,0,0,0,C. Martin,1.1,2,2,1,0
+2025-04-11,New York Mets,Athletics,9-4,5-9,7,6,G. Canning,5.1,7,4,3,3,J. Sears,4.0,6,3,7,1
+2025-04-11,Chicago Cubs,Los Angeles Dodgers,9-7,11-4,0,3,Y. Yamamoto,6.0,2,0,9,1,M. Boyd,6.0,4,3,7,3
+2025-04-12,Detroit Tigers,Minnesota Twins,9-5,4-11,4,0,J. Jobe,6.0,2,0,2,1,C. Paddack,5.0,2,1,5,2
+2025-04-12,Philadelphia Phillies,St. Louis Cardinals,9-5,6-8,4,1,C. Sanchez,6.1,8,1,3,2,M. Mikolas,5.0,3,3,6,2
+2025-04-12,San Francisco Giants,New York Yankees,10-4,8-6,4,8,W. Warren,5.0,2,2,6,2,J. Hicks,4.0,8,7,3,3
+2025-04-12,Toronto Blue Jays,Baltimore Orioles,8-7,6-8,4,5,B. Baker,1.0,1,1,1,1,B. Francis,5.2,3,3,5,2
+2025-04-12,New York Mets,Athletics,9-5,6-9,1,3,J.T. Ginn,5.1,5,1,6,2,D. Peterson,6.0,7,2,5,0
+2025-04-12,Atlanta Braves,Tampa Bay Rays,4-10,6-8,5,4,D. Lee,1.0,2,0,0,1,C. Sulser,1.0,4,2,0,1
+2025-04-12,Washington Nationals,Miami Marlins,6-8,7-7,6,7,S. Alcantara,5.2,5,4,1,4,T. Williams,4.2,8,6,2,1
+2025-04-12,Boston Red Sox,Chicago White Sox,7-9,4-10,2,3,T. Gilbert,0.1,0,0,0,0,A. Chapman,0.1,1,1,1,1
+2025-04-12,Kansas City Royals,Cleveland Guardians,7-8,8-6,3,6,L. Ortiz,5.2,1,1,10,2,M. Lorenzen,5.2,7,3,4,1
+2025-04-12,Pittsburgh Pirates,Cincinnati Reds,5-10,7-8,2,5,A. Abbott,5.0,2,1,5,2,A. Heaney,6.0,3,4,6,2
+2025-04-12,Los Angeles Angels,Houston Astros,9-5,6-8,4,1,T. Anderson,5.2,1,0,6,4,R. Gusto,4.0,4,3,6,1
+2025-04-12,Milwaukee Brewers,Arizona Diamondbacks,8-7,8-7,4,5,R. Nelson,3.0,2,1,3,0,T. Megill,0.1,2,3,0,3
+2025-04-12,Colorado Rockies,San Diego Padres,3-11,12-3,0,2,K. Hart,6.0,1,0,4,0,C. Dollander,5.2,3,2,7,2
+2025-04-12,Chicago Cubs,Los Angeles Dodgers,10-7,11-5,16,0,B. Brown,6.0,5,0,5,0,R. Sasaki,5.0,4,1,3,2
+2025-04-12,Texas Rangers,Seattle Mariners,9-6,7-8,2,9,B. Woo,7.0,6,1,7,1,K. Rocker,3.1,5,3,2,2
+2025-04-13,San Francisco Giants,New York Yankees,11-4,8-7,5,4,L. Webb,5.0,5,3,5,4,C. Rodon,5.2,3,4,8,3
+2025-04-13,Toronto Blue Jays,Baltimore Orioles,9-7,6-9,7,6,J. Hoffman,2.0,1,0,4,0,M. Bowman,1.0,2,0,0,0
+2025-04-13,Atlanta Braves,Tampa Bay Rays,4-11,7-8,3,8,J. Boyle,5.0,0,0,7,2,C. Sale,4.1,6,3,7,3
+2025-04-13,Kansas City Royals,Cleveland Guardians,8-8,8-7,4,2,C. Ragans,7.2,4,1,10,0,B. Lively,6.0,7,4,5,2
+2025-04-13,Pittsburgh Pirates,Cincinnati Reds,5-11,8-8,0,4,H. Greene,7.0,2,0,8,1,C. Mlodzinski,4.1,5,4,4,2
+2025-04-13,Washington Nationals,Miami Marlins,6-9,8-7,4,11,R. Henriquez,1.0,0,0,0,0,M. Gore,6.0,8,4,7,3
+2025-04-13,Los Angeles Angels,Houston Astros,9-6,7-8,3,7,H. Wesneski,6.0,5,3,10,0,K. Hendricks,4.0,4,5,1,3
+2025-04-13,Boston Red Sox,Chicago White Sox,8-9,4-11,3,1,G. Crochet,7.1,1,1,11,1,S. Smith,6.0,5,2,3,2
+2025-04-13,Detroit Tigers,Minnesota Twins,9-6,5-11,1,5,S. Woods Richardson,5.0,5,1,5,0,C. Mize,5.2,7,4,3,0
+2025-04-13,Philadelphia Phillies,St. Louis Cardinals,9-6,7-8,0,7,M. Liberatore,6.0,3,0,7,1,Z. Wheeler,6.0,7,4,3,1
+2025-04-13,New York Mets,Athletics,10-5,6-10,8,0,K. Senga,7.0,4,0,4,2,L. Severino,5.2,4,1,6,3
+2025-04-13,Colorado Rockies,San Diego Padres,3-12,13-3,0,6,M. King,9.0,2,0,8,1,K. Freeland,5.0,8,5,2,2
+2025-04-13,Milwaukee Brewers,Arizona Diamondbacks,8-8,9-7,2,5,J. Beeks,1.0,1,0,1,0,B. Hudson,0.1,2,1,0,1
+2025-04-13,Texas Rangers,Seattle Mariners,9-7,8-8,1,3,L. Gilbert,5.0,3,1,7,1,N. Eovaldi,5.0,5,2,3,0
+2025-04-13,Chicago Cubs,Los Angeles Dodgers,11-7,11-6,4,2,E. Roberts,0.2,0,0,0,0,B. Treinen,1.0,2,1,3,0
+2025-04-14,Washington Nationals,Pittsburgh Pirates,6-10,6-11,3,10,P. Skenes,6.0,3,1,6,0,B. Lord,4.1,6,4,1,3
+2025-04-14,San Francisco Giants,Philadelphia Phillies,12-4,9-7,10,4,L. Roupp,5.0,6,4,8,3,T. Walker,5.0,6,4,5,1
+2025-04-14,Boston Red Sox,Tampa Bay Rays,8-10,8-8,1,16,S. Baz,6.0,2,1,11,0,T. Houck,2.1,10,11,1,2
+2025-04-14,Kansas City Royals,New York Yankees,8-9,9-7,1,4,C. Carrasco,5.0,1,1,4,2,S. Lugo,6.2,7,4,4,2
+2025-04-14,Atlanta Braves,Toronto Blue Jays,5-11,9-8,8,4,G. Holmes,7.2,2,3,4,2,E. Lucas,5.0,6,8,3,4
+2025-04-14,Detroit Tigers,Milwaukee Brewers,10-6,8-9,9,1,T. Skubal,7.0,4,0,9,0,T. Alexander,4.0,6,4,2,3
+2025-04-14,New York Mets,Minnesota Twins,11-5,5-12,5,1,C. Holmes,5.0,2,1,8,2,J. Topa,1.0,2,1,1,0
+2025-04-14,Houston Astros,St. Louis Cardinals,7-9,8-8,3,8,S. Gray,7.0,3,0,4,1,F. Valdez,4.0,10,7,3,1
+2025-04-14,Chicago Cubs,San Diego Padres,11-8,14-3,4,10,A. Morejon,1.0,0,0,1,1,N. Pearson,0.1,2,3,0,3
+2025-04-14,Colorado Rockies,Los Angeles Dodgers,3-13,12-6,3,5,D. May,6.0,3,1,7,0,A. Senzatela,4.1,9,4,1,1
+2025-04-15,Arizona Diamondbacks,Miami Marlins,10-7,8-8,10,4,M. Kelly,6.0,3,1,9,1,C. Gillispie,5.0,8,8,6,2
+2025-04-15,Seattle Mariners,Cincinnati Reds,8-9,9-8,4,8,S. Barlow,0.1,1,0,1,1,L. Castillo,4.1,7,6,3,4
+2025-04-15,Washington Nationals,Pittsburgh Pirates,7-10,6-12,3,0,J. Irvin,7.0,3,0,6,1,M. Keller,6.0,6,3,3,2
+2025-04-15,San Francisco Giants,Philadelphia Phillies,12-5,10-7,4,6,O. Kerkering,0.2,0,0,1,0,J. Verlander,5.2,8,4,1,3
+2025-04-15,Boston Red Sox,Tampa Bay Rays,9-10,8-9,7,4,W. Buehler,5.0,3,2,3,3,R. Pepiot,6.0,9,6,8,2
+2025-04-15,Cleveland Guardians,Baltimore Orioles,9-7,6-10,6,3,L. Allen,5.2,2,0,6,2,C. Morton,5.0,7,5,2,3
+2025-04-15,Kansas City Royals,New York Yankees,8-10,10-7,2,4,M. Fried,6.2,5,2,7,2,M. Wacha,5.2,4,3,4,2
+2025-04-15,Atlanta Braves,Toronto Blue Jays,5-12,10-8,3,6,K. Gausman,6.0,6,2,6,0,S. Schwellenbach,4.2,6,6,3,2
+2025-04-15,Detroit Tigers,Milwaukee Brewers,10-7,9-9,0,5,Q. Priester,5.0,1,0,4,3,J. Flaherty,4.2,5,3,4,2
+2025-04-15,New York Mets,Minnesota Twins,11-6,6-12,3,6,B. Ober,6.1,5,3,5,0,T. Megill,5.0,8,2,3,0
+2025-04-15,Athletics,Chicago White Sox,7-10,4-12,12,3,J. Springs,5.0,3,3,4,3,S. Burke,3.1,6,5,2,2
+2025-04-15,Houston Astros,St. Louis Cardinals,8-9,8-9,2,0,H. Brown,6.0,4,0,4,2,E. Fedde,6.0,6,1,5,3
+2025-04-15,Los Angeles Angels,Texas Rangers,9-7,10-7,0,4,T. Mahle,6.0,3,0,9,2,Y. Kikuchi,6.0,3,1,6,2
+2025-04-15,Chicago Cubs,San Diego Padres,12-8,14-4,2,1,R. Pressly,1.0,0,0,1,0,Y. Matsui,1.0,1,0,2,0
+2025-04-15,Colorado Rockies,Los Angeles Dodgers,3-14,13-6,2,6,J. Dreyer,1.2,0,0,4,1,R. Feltner,2.2,5,5,1,6
+2025-04-16,Atlanta Braves,Toronto Blue Jays,5-13,11-8,1,3,C. Bassitt,5.0,3,0,10,2,S. Strider,5.0,5,2,5,1
+2025-04-16,Detroit Tigers,Milwaukee Brewers,10-8,10-9,1,5,J. Quintana,5.2,4,1,4,3,K. Montero,5.0,8,5,8,1
+2025-04-16,New York Mets,Minnesota Twins,11-7,7-12,3,4,C. Sands,1.0,0,0,0,1,R. Garrett,0.0,1,0,0,0
+2025-04-16,Houston Astros,St. Louis Cardinals,8-10,9-9,1,4,S. Matz,5.0,2,1,5,0,R. Blanco,5.0,5,3,1,3
+2025-04-16,Chicago Cubs,San Diego Padres,12-9,15-4,2,4,N. Pivetta,6.0,4,1,6,1,M. Boyd,5.1,6,2,3,2
+2025-04-16,Cleveland Guardians,Baltimore Orioles,9-8,7-10,1,9,D. Kremer,5.1,4,1,2,1,G. Williams,6.2,4,5,4,4
+2025-04-16,Arizona Diamondbacks,Miami Marlins,11-7,8-9,6,2,B. Pfaadt,5.2,5,1,6,2,M. Meyer,6.0,5,3,8,2
+2025-04-16,Seattle Mariners,Cincinnati Reds,9-9,9-9,5,3,B. Miller,5.0,3,0,8,2,N. Martinez,4.2,7,3,4,3
+2025-04-16,Washington Nationals,Pittsburgh Pirates,7-11,7-12,1,6,B. Falter,7.0,2,0,2,1,M. Parker,6.0,4,1,6,1
+2025-04-16,San Francisco Giants,Philadelphia Phillies,13-5,10-8,11,4,L. Trivino,2.0,1,0,2,0,A. Nola,5.1,9,6,8,4
+2025-04-16,Boston Red Sox,Tampa Bay Rays,10-10,8-10,1,0,G. Weissert,1.1,0,0,3,0,Z. Littell,6.0,5,1,5,3
+2025-04-16,Kansas City Royals,New York Yankees,8-11,11-7,3,4,M. Leiter Jr.,1.1,0,0,2,0,J. Schreiber,0.2,1,1,0,0
+2025-04-16,Athletics,Chicago White Sox,8-10,4-13,3,1,O. Bido,5.2,5,1,0,1,T. Gilbert,1.0,2,2,0,0
+2025-04-16,Los Angeles Angels,Texas Rangers,9-8,11-7,1,3,P. Corbin,5.1,5,1,6,1,J. Soriano,5.2,10,3,2,2
+2025-04-16,Colorado Rockies,Los Angeles Dodgers,3-15,14-6,7,8,B. Casparius,3.0,2,1,3,0,G. Marquez,0.2,6,7,1,1
+2025-04-17,Arizona Diamondbacks,Miami Marlins,12-7,8-10,6,4,E. Rodriguez,5.1,10,1,9,0,E. Cabrera,4.0,4,5,6,3
+2025-04-17,Washington Nationals,Pittsburgh Pirates,7-12,8-12,0,1,A. Heaney,7.1,5,0,4,2,T. Williams,5.0,3,1,5,3
+2025-04-17,Seattle Mariners,Cincinnati Reds,10-9,9-10,11,7,C. Legumina,1.0,0,0,1,0,G. Ashcraft,1.0,2,0,1,1
+2025-04-17,Athletics,Chicago White Sox,9-10,4-14,8,0,J. Sears,6.0,3,0,2,2,D. Martin,5.1,8,4,3,1
+2025-04-17,San Francisco Giants,Philadelphia Phillies,13-6,11-8,4,6,C. Sanchez,7.0,4,2,12,1,J. Hicks,7.0,6,5,5,4
+2025-04-17,Cleveland Guardians,Baltimore Orioles,9-9,8-10,2,6,T. Sugano,7.0,5,2,3,0,T. Bibee,5.2,5,6,5,4
+2025-04-17,Kansas City Royals,Detroit Tigers,8-12,11-8,1,6,R. Olson,5.0,4,0,5,2,M. Lorenzen,4.2,7,4,3,3
+2025-04-17,New York Yankees,Tampa Bay Rays,12-7,8-11,6,3,T. Hill,2.0,1,0,2,0,T. Bradley,5.1,9,6,3,4
+2025-04-17,St. Louis Cardinals,New York Mets,9-10,12-7,1,4,G. Canning,6.0,3,1,8,2,A. Pallante,6.0,7,4,2,0
+2025-04-17,Los Angeles Angels,Texas Rangers,9-9,12-7,3,5,K. Rocker,7.0,5,3,8,0,J. Kochanowicz,4.2,8,4,1,1
+2025-04-18,Arizona Diamondbacks,Chicago Cubs,12-8,13-9,11,13,R. Pressly,1.0,1,0,0,0,J. Mantiply,0.2,6,3,1,0
+2025-04-18,Cleveland Guardians,Pittsburgh Pirates,10-9,8-13,10,7,L. Ortiz,5.0,4,2,8,3,C. Mlodzinski,4.0,9,5,0,2
+2025-04-18,Kansas City Royals,Detroit Tigers,8-13,12-8,3,7,J. Jobe,5.0,5,1,5,2,C. Ragans,4.0,6,5,8,3
+2025-04-18,Miami Marlins,Philadelphia Phillies,8-11,12-8,2,7,Z. Wheeler,7.0,5,2,13,0,S. Alcantara,2.0,4,6,1,2
+2025-04-18,Cincinnati Reds,Baltimore Orioles,10-10,8-11,8,3,A. Abbott,6.0,2,1,11,1,C. Povich,3.1,6,7,4,5
+2025-04-18,New York Yankees,Tampa Bay Rays,13-7,8-12,1,0,C. Rodon,6.0,2,0,9,4,D. Rasmussen,5.2,3,1,7,3
+2025-04-18,Seattle Mariners,Toronto Blue Jays,10-10,12-8,1,3,B. Francis,6.0,5,1,5,1,B. Woo,7.0,7,3,4,2
+2025-04-18,Chicago White Sox,Boston Red Sox,4-15,11-10,3,10,H. Dobbins,6.0,3,1,6,0,M. Perez,3.0,5,4,0,2
+2025-04-18,St. Louis Cardinals,New York Mets,9-11,13-7,4,5,H. Brazoban,1.0,1,1,3,0,R. Fernandez,0.0,1,1,0,0
+2025-04-18,Minnesota Twins,Atlanta Braves,7-13,6-13,4,6,E. De Los Santos,1.2,0,0,0,0,G. Jax,0.1,2,4,1,2
+2025-04-18,Los Angeles Dodgers,Texas Rangers,15-6,12-8,3,0,Y. Yamamoto,7.0,5,0,10,0,J. deGrom,7.0,3,1,7,1
+2025-04-18,Athletics,Milwaukee Brewers,9-11,11-9,3,5,F. Peralta,5.0,7,0,5,1,J.T. Ginn,4.2,4,3,7,2
+2025-04-18,San Diego Padres,Houston Astros,15-5,9-10,4,6,R. Gusto,5.0,9,2,2,0,K. Hart,5.0,10,5,2,0
+2025-04-18,San Francisco Giants,Los Angeles Angels,13-7,10-9,0,2,T. Anderson,6.0,3,0,6,2,L. Webb,6.0,4,1,12,0
+2025-04-19,Miami Marlins,Philadelphia Phillies,8-12,13-8,10,11,M. Strahm,1.0,2,0,0,0,C. Quantrill,3.1,8,7,0,3
+2025-04-19,Kansas City Royals,Detroit Tigers,8-14,13-8,1,3,C. Mize,7.0,4,1,3,1,S. Lugo,6.2,5,3,5,2
+2025-04-19,Arizona Diamondbacks,Chicago Cubs,12-9,14-9,2,6,C. Thielbar,2.0,0,0,1,0,Z. Gallen,6.0,7,6,5,2
+2025-04-19,Seattle Mariners,Toronto Blue Jays,11-10,12-9,8,4,A. Munoz,1.0,0,0,1,1,J. Barnes,1.0,3,4,1,2
+2025-04-19,Cincinnati Reds,Baltimore Orioles,10-11,9-11,5,9,S. Dominguez,1.0,1,0,1,0,H. Greene,3.0,6,5,4,2
+2025-04-19,Cleveland Guardians,Pittsburgh Pirates,11-9,8-14,3,0,B. Lively,5.1,4,0,3,1,P. Skenes,7.0,6,2,4,1
+2025-04-19,St. Louis Cardinals,New York Mets,9-12,14-7,0,3,K. Senga,5.2,3,0,4,2,M. Liberatore,6.2,6,2,6,1
+2025-04-19,Los Angeles Dodgers,Texas Rangers,15-7,13-8,3,4,J. Webb,2.0,0,0,1,0,K. Yates,0.0,2,2,0,0
+2025-04-19,Chicago White Sox,Boston Red Sox,4-16,12-10,3,4,G. Whitlock,1.0,0,0,2,1,M. Vasil,0.1,1,0,0,2
+2025-04-19,New York Yankees,Tampa Bay Rays,13-8,9-12,8,10,E. Uceta,1.1,1,0,3,0,Y. Gomez,0.0,1,1,0,0
+2025-04-19,Washington Nationals,Colorado Rockies,8-12,3-16,12,11,M. Gore,6.0,4,2,13,2,C. Dollander,4.0,9,6,5,2
+2025-04-19,Athletics,Milwaukee Brewers,10-11,11-10,3,1,L. Severino,8.0,3,1,1,0,C. Patrick,6.0,7,2,7,0
+2025-04-19,San Diego Padres,Houston Astros,15-6,10-10,2,3,T. Scott,2.0,0,0,1,0,J. Estrada,1.1,2,1,0,1
+2025-04-19,Minnesota Twins,Atlanta Braves,7-14,7-13,3,4,P. Johnson,0.2,0,0,0,0,S. Woods Richardson,4.1,7,3,3,1
+2025-04-19,San Francisco Giants,Los Angeles Angels,14-7,10-10,3,2,L. Roupp,7.0,5,2,9,1,K. Hendricks,5.0,4,3,1,2
+2025-04-20,Chicago White Sox,Boston Red Sox,5-16,12-11,8,4,B. Eisert,1.2,1,0,1,0,Z. Kelly,0.0,1,3,0,0
+2025-04-20,Cincinnati Reds,Baltimore Orioles,11-11,9-12,24,2,T. Rogers,1.0,0,0,1,0,C. Morton,2.1,7,7,2,4
+2025-04-20,Cleveland Guardians,Pittsburgh Pirates,12-9,8-15,5,4,E. Clase,1.0,4,3,0,1,D. Santana,1.0,0,0,0,0
+2025-04-20,Miami Marlins,Philadelphia Phillies,9-12,13-9,7,5,C. Faucher,1.0,1,0,0,1,M. Strahm,1.0,2,1,0,0
+2025-04-20,Minnesota Twins,Atlanta Braves,7-15,8-13,2,6,G. Holmes,5.2,4,1,7,4,J. Ryan,5.0,8,6,5,1
+2025-04-20,Seattle Mariners,Toronto Blue Jays,12-10,12-10,8,3,L. Castillo,5.0,10,3,5,2,E. Lucas,1.2,7,6,5,2
+2025-04-20,Kansas City Royals,Detroit Tigers,9-14,13-9,4,3,C. Estevez,2.0,0,0,1,1,T. Holton,2.0,0,0,3,0
+2025-04-20,New York Yankees,Tampa Bay Rays,14-8,9-13,4,0,M. Fried,7.2,2,0,2,2,R. Pepiot,6.0,6,3,7,1
+2025-04-20,St. Louis Cardinals,New York Mets,9-13,15-7,4,7,J. Butto,1.1,1,0,2,0,J. Romero,0.1,1,1,1,1
+2025-04-20,Athletics,Milwaukee Brewers,10-12,12-10,1,14,L. Henderson,6.0,3,1,9,1,J. Springs,2.1,5,4,3,4
+2025-04-20,Arizona Diamondbacks,Chicago Cubs,13-9,14-10,3,2,S. Miller,2.0,1,0,2,0,J. Wicks,2.0,3,0,2,0
+2025-04-20,Los Angeles Dodgers,Texas Rangers,16-7,13-9,1,0,B. Casparius,1.2,0,0,1,0,C. Martin,1.0,1,1,0,1
+2025-04-20,Washington Nationals,Colorado Rockies,9-12,3-17,3,2,J. Irvin,6.1,3,2,9,0,K. Freeland,2.0,3,1,2,1
+2025-04-20,San Francisco Giants,Los Angeles Angels,14-8,11-10,4,5,M. Darrell-Hicks,1.2,1,0,1,0,R. Walker,0.1,3,4,1,1
+2025-04-20,San Diego Padres,Houston Astros,16-6,10-11,3,2,A. Jacob,1.1,1,0,1,0,T. Scott,0.2,1,1,0,0
+2025-04-20,Washington Nationals,Colorado Rockies,9-13,4-17,1,3,A. Senzatela,6.0,6,1,2,1,B. Lord,4.0,5,2,5,2
+2025-04-21,Chicago White Sox,Boston Red Sox,5-17,13-11,2,4,W. Buehler,7.0,4,1,9,3,J. Cannon,6.0,6,4,4,4
+2025-04-21,New York Yankees,Cleveland Guardians,14-9,13-9,4,6,G. Williams,6.1,7,2,8,2,C. Schmidt,4.0,7,5,7,3
+2025-04-21,Cincinnati Reds,Miami Marlins,11-12,10-12,3,6,M. Meyer,6.0,5,0,14,0,N. Lodolo,5.2,7,3,4,2
+2025-04-21,San Diego Padres,Detroit Tigers,16-7,14-9,4,6,B. Hanifee,2.0,1,0,2,0,R. Vasquez,2.0,5,6,1,3
+2025-04-21,Philadelphia Phillies,New York Mets,13-10,16-7,4,5,T. Megill,5.1,1,0,10,4,A. Nola,6.1,7,4,6,2
+2025-04-21,St. Louis Cardinals,Atlanta Braves,9-14,9-13,6,7,D. Hernandez,1.0,0,0,0,1,P. Maton,0.1,2,4,1,2
+2025-04-21,Toronto Blue Jays,Houston Astros,12-11,11-11,0,7,H. Brown,7.0,2,0,9,1,K. Gausman,6.0,6,4,6,3
+2025-04-21,Milwaukee Brewers,San Francisco Giants,12-11,15-8,2,5,H. Birdsong,3.0,1,0,4,2,G. Anderson,1.0,1,1,2,0
+2025-04-22,New York Yankees,Cleveland Guardians,14-10,14-9,2,3,T. Bibee,6.0,5,2,5,3,M. Leiter Jr.,0.2,3,1,1,1
+2025-04-22,Cincinnati Reds,Miami Marlins,11-13,11-12,3,4,L. Bachar,1.0,1,0,2,0,G. Ashcraft,1.0,3,1,2,1
+2025-04-22,San Diego Padres,Detroit Tigers,17-7,14-10,2,0,N. Pivetta,7.0,2,0,6,2,J. Flaherty,6.0,5,2,9,0
+2025-04-22,Baltimore Orioles,Washington Nationals,9-13,10-13,0,7,M. Parker,8.0,1,0,4,2,D. Kremer,5.1,11,5,4,0
+2025-04-22,Seattle Mariners,Boston Red Sox,12-11,14-11,3,8,B. Bello,5.0,4,1,3,3,B. Miller,4.2,5,4,4,4
+2025-04-22,Philadelphia Phillies,New York Mets,13-11,17-7,1,5,G. Canning,5.0,7,1,5,1,C. Sanchez,2.0,4,2,2,2
+2025-04-22,St. Louis Cardinals,Atlanta Braves,10-14,9-14,10,4,S. Matz,2.2,1,0,2,1,E. De Los Santos,1.0,2,3,1,2
+2025-04-22,Chicago White Sox,Minnesota Twins,5-18,8-15,2,4,B. Ober,6.0,8,1,6,1,D. Martin,5.0,3,0,3,3
+2025-04-22,Colorado Rockies,Kansas City Royals,4-18,10-14,3,4,D. Lynch IV,1.0,0,0,1,1,T. Kinley,1.0,1,0,1,2
+2025-04-22,Los Angeles Dodgers,Chicago Cubs,16-8,15-10,10,11,P. Hodge,1.0,0,0,1,0,N. Davis,0.0,1,0,0,0
+2025-04-22,Toronto Blue Jays,Houston Astros,12-12,12-11,1,5,R. Blanco,6.2,2,1,3,2,C. Bassitt,5.1,7,4,3,1
+2025-04-22,Pittsburgh Pirates,Los Angeles Angels,9-15,11-11,9,3,C. Shugart,2.0,0,0,3,0,J. Soriano,3.1,8,5,2,4
+2025-04-22,Tampa Bay Rays,Arizona Diamondbacks,9-14,14-9,1,5,B. Pfaadt,6.0,4,1,5,0,Z. Littell,6.0,6,3,2,1
+2025-04-22,Milwaukee Brewers,San Francisco Giants,13-11,15-9,11,3,J. Quintana,6.0,6,1,3,2,J. Hicks,5.0,8,5,5,3
+2025-04-22,Texas Rangers,Athletics,14-9,10-13,8,5,P. Corbin,5.0,7,2,4,2,O. Bido,5.1,8,8,2,3
+2025-04-23,St. Louis Cardinals,Atlanta Braves,10-15,10-14,1,4,D. Hernandez,1.1,1,0,2,0,J. Romero,0.1,2,2,0,0
+2025-04-23,Cincinnati Reds,Miami Marlins,12-13,11-13,5,2,B. Singer,6.0,4,2,8,0,S. Alcantara,6.0,5,3,4,2
+2025-04-23,New York Yankees,Cleveland Guardians,15-10,14-10,5,1,C. Rodon,7.0,4,0,8,2,L. Ortiz,4.1,5,4,8,5
+2025-04-23,Philadelphia Phillies,New York Mets,13-12,18-7,3,4,M. Kranick,0.2,1,0,0,1,J. Romano,0.2,2,1,1,1
+2025-04-23,San Diego Padres,Detroit Tigers,17-8,15-10,0,6,R. Olson,7.1,2,0,7,1,K. Hart,4.1,5,2,6,1
+2025-04-23,Baltimore Orioles,Washington Nationals,9-14,11-13,3,4,J. Lopez,1.2,1,1,1,0,G. Soto,1.0,1,1,0,1
+2025-04-23,Seattle Mariners,Boston Red Sox,13-11,14-12,8,5,E. Hancock,6.0,5,2,7,2,S. Newcomb,5.0,8,4,8,2
+2025-04-23,Los Angeles Dodgers,Chicago Cubs,16-9,16-10,6,7,M. Boyd,6.0,10,3,4,1,J. Dreyer,1.0,2,4,0,3
+2025-04-23,Chicago White Sox,Minnesota Twins,5-19,9-15,3,6,J. Topa,1.0,1,0,0,0,J. Leasure,1.0,1,1,0,1
+2025-04-23,Toronto Blue Jays,Houston Astros,12-13,13-11,1,3,R. Gusto,5.2,3,1,6,1,B. Francis,4.2,8,3,2,1
+2025-04-23,Pittsburgh Pirates,Los Angeles Angels,10-15,11-12,3,0,A. Heaney,6.0,1,0,9,0,J. Kochanowicz,6.0,8,2,3,1
+2025-04-23,Tampa Bay Rays,Arizona Diamondbacks,10-14,14-10,7,6,P. Fairbanks,0.2,0,0,0,0,D. Jameson,1.0,3,1,0,1
+2025-04-23,Milwaukee Brewers,San Francisco Giants,13-12,16-9,2,4,L. Webb,6.1,6,0,6,3,F. Peralta,5.0,5,3,3,2
+2025-04-23,Texas Rangers,Athletics,14-10,11-13,2,5,J. Sears,5.0,5,2,5,1,K. Rocker,1.2,7,5,2,1
+2025-04-24,Chicago White Sox,Minnesota Twins,6-19,9-16,3,0,S. Smith,5.0,4,0,7,1,C. Paddack,5.0,5,2,5,4
+2025-04-24,Seattle Mariners,Boston Red Sox,14-11,14-13,4,3,B. Woo,6.0,3,2,8,1,G. Crochet,5.0,5,4,9,5
+2025-04-24,Colorado Rockies,Kansas City Royals,4-19,11-14,4,7,A. Zerpa,2.0,1,0,1,1,G. Marquez,4.0,8,6,3,3
+2025-04-24,Milwaukee Brewers,San Francisco Giants,13-13,17-9,5,6,T. Rogers,1.0,1,0,3,0,T. Alexander,0.1,1,2,0,1
+2025-04-24,Colorado Rockies,Kansas City Royals,4-20,12-14,2,6,M. Lorenzen,6.0,5,1,7,4,C. Dollander,4.2,7,5,3,2
+2025-04-24,Baltimore Orioles,Washington Nationals,10-14,11-14,2,1,C. Povich,6.2,4,1,5,1,M. Gore,6.0,4,2,8,1
+2025-04-24,Pittsburgh Pirates,Los Angeles Angels,10-16,12-12,3,4,R. Zeferjahn,1.0,1,0,2,0,C. Shugart,1.0,1,1,0,0
+2025-04-24,Tampa Bay Rays,Arizona Diamondbacks,11-14,14-11,7,4,E. Uceta,1.0,1,0,0,0,J.P. Feyereisen,1.0,2,2,1,0
+2025-04-24,Texas Rangers,Athletics,14-11,12-13,3,4,G. Holman,2.0,0,0,0,0,L. Jackson,1.0,2,1,1,1
+2025-04-25,Philadelphia Phillies,Chicago Cubs,13-13,17-10,0,4,C. Rea,5.0,3,0,7,2,T. Walker,3.0,6,2,4,2
+2025-04-25,New York Mets,Washington Nationals,18-8,12-14,4,5,J. Lopez,1.0,0,0,0,0,R. Stanek,0.1,2,2,0,0
+2025-04-25,Toronto Blue Jays,New York Yankees,13-13,15-11,4,2,M. Fluharty,0.2,1,1,0,1,D. Williams,0.0,2,3,0,0
+2025-04-25,Los Angeles Angels,Minnesota Twins,12-13,10-16,4,11,P. Lopez,5.0,5,2,6,2,K. Hendricks,3.0,3,7,3,5
+2025-04-25,Houston Astros,Kansas City Royals,13-12,13-14,0,2,S. Lugo,8.0,3,0,8,1,H. Wesneski,5.0,8,2,1,0
+2025-04-25,Milwaukee Brewers,St. Louis Cardinals,13-14,11-15,2,3,M. Liberatore,6.0,5,1,4,0,C. Patrick,4.1,4,2,2,2
+2025-04-25,Cincinnati Reds,Colorado Rockies,13-13,4-21,8,7,G. Ashcraft,1.0,0,0,1,2,A. Chivilli,2.0,2,2,3,1
+2025-04-25,Atlanta Braves,Arizona Diamondbacks,11-14,14-12,8,2,C. Sale,5.0,5,1,4,2,Z. Gallen,5.0,4,3,6,2
+2025-04-25,Miami Marlins,Seattle Mariners,12-13,14-12,8,4,C. Quantrill,5.2,5,4,5,0,C. Lawrence,5.0,10,2,4,0
+2025-04-25,Tampa Bay Rays,San Diego Padres,12-14,17-9,1,0,S. Baz,7.0,4,0,6,1,M. King,5.0,4,0,9,1
+2025-04-25,Chicago White Sox,Athletics,6-20,13-13,5,6,J. Sterner,1.1,0,0,1,1,S. Burke,5.1,5,3,5,2
+2025-04-25,Pittsburgh Pirates,Los Angeles Dodgers,11-16,16-10,3,0,P. Skenes,6.1,5,0,9,0,Y. Yamamoto,5.0,5,1,5,4
+2025-04-25,Texas Rangers,San Francisco Giants,15-11,17-10,2,0,N. Eovaldi,6.0,3,0,7,1,J. Verlander,6.0,4,1,5,1
+2025-04-26,Baltimore Orioles,Detroit Tigers,10-15,16-10,3,4,C. Mize,5.1,8,1,5,0,B. Young,4.2,4,3,6,5
+2025-04-26,Boston Red Sox,Cleveland Guardians,14-14,15-10,4,5,T. Herrin,1.0,0,0,1,1,B. Bernardino,0.2,2,1,1,0
+2025-04-26,Los Angeles Angels,Minnesota Twins,12-14,11-16,1,5,S. Woods Richardson,5.1,4,1,7,0,Y. Kikuchi,2.0,9,4,0,4
+2025-04-26,Milwaukee Brewers,St. Louis Cardinals,13-15,12-15,5,6,R. Helsley,1.0,2,2,0,0,T. Megill,0.1,1,1,0,0
+2025-04-26,Cincinnati Reds,Colorado Rockies,14-13,4-22,6,4,H. Greene,6.0,7,3,8,0,A. Senzatela,5.0,8,4,4,0
+2025-04-26,Philadelphia Phillies,Chicago Cubs,14-13,17-11,10,4,J. Luzardo,6.0,3,0,5,3,B. Brown,3.2,9,6,5,1
+2025-04-26,Texas Rangers,San Francisco Giants,15-12,18-10,2,3,R. Walker,1.0,2,0,2,0,J. Webb,0.2,1,1,0,2
+2025-04-26,Chicago White Sox,Athletics,7-20,13-14,10,3,J. Cannon,7.2,6,3,5,2,J. Springs,6.0,7,5,4,2
+2025-04-26,New York Mets,Washington Nationals,19-8,12-15,2,0,C. Holmes,5.0,4,0,2,0,B. Lord,4.0,5,2,3,0
+2025-04-26,Boston Red Sox,Cleveland Guardians,15-14,15-11,7,3,W. Buehler,6.0,7,3,3,1,D. Nikhazy,3.0,5,6,3,6
+2025-04-26,Baltimore Orioles,Detroit Tigers,10-16,17-10,2,6,B. Hurter,2.1,1,1,0,2,C. Morton,3.2,3,3,3,5
+2025-04-26,Houston Astros,Kansas City Royals,13-13,14-14,0,2,M. Wacha,6.0,4,0,6,2,F. Valdez,8.0,3,2,5,2
+2025-04-26,Atlanta Braves,Arizona Diamondbacks,12-14,14-13,8,7,R. Iglesias,1.0,2,1,0,0,J. Martinez,1.0,0,0,0,1
+2025-04-26,Tampa Bay Rays,San Diego Padres,13-14,17-10,4,1,R. Pepiot,6.0,3,1,3,2,D. Cease,4.1,6,2,6,4
+2025-04-26,Pittsburgh Pirates,Los Angeles Dodgers,11-17,17-10,4,8,K. Yates,1.0,1,0,1,1,C. Holderman,0.0,2,3,0,1
+2025-04-26,Miami Marlins,Seattle Mariners,12-14,15-12,0,14,L. Castillo,6.0,1,0,5,2,C. Gillispie,2.0,6,7,2,3
+2025-04-27,New York Mets,Washington Nationals,19-9,13-15,7,8,J. Lopez,0.1,0,0,0,0,R. Stanek,0.1,2,1,0,1
+2025-04-27,Toronto Blue Jays,New York Yankees,13-14,16-11,2,11,M. Fried,6.0,5,0,3,2,K. Gausman,2.2,3,6,2,5
+2025-04-27,Baltimore Orioles,Detroit Tigers,10-17,18-10,0,7,T. Skubal,6.0,4,0,11,0,D. Kremer,5.2,4,5,3,4
+2025-04-27,Los Angeles Angels,Minnesota Twins,12-15,12-16,0,5,J. Ryan,7.0,4,0,11,1,J. Soriano,5.0,5,3,4,1
+2025-04-27,Boston Red Sox,Cleveland Guardians,16-14,15-12,13,3,B. Bello,6.0,6,3,4,3,L. Allen,4.1,9,7,2,3
+2025-04-27,Houston Astros,Kansas City Royals,14-13,14-15,7,3,H. Brown,6.0,7,1,9,1,K. Bubic,5.0,5,4,4,3
+2025-04-27,Milwaukee Brewers,St. Louis Cardinals,14-15,12-16,7,1,J. Quintana,5.0,5,1,6,3,E. Fedde,5.2,10,7,4,2
+2025-04-27,Cincinnati Reds,Colorado Rockies,15-13,4-23,8,1,N. Lodolo,7.0,2,0,9,1,B. Blalock,4.0,7,6,1,2
+2025-04-27,Texas Rangers,San Francisco Giants,15-13,19-10,2,3,C. Doval,1.0,0,0,2,0,L. Jackson,0.0,1,0,0,0
+2025-04-27,Chicago White Sox,Athletics,7-21,14-14,2,3,G. Holman,1.0,2,0,0,0,J. Leasure,0.1,1,1,1,0
+2025-04-27,Atlanta Braves,Arizona Diamondbacks,12-15,15-13,4,6,B. Pfaadt,6.0,9,2,6,1,S. Schwellenbach,6.0,7,3,6,1
+2025-04-27,Miami Marlins,Seattle Mariners,12-15,16-12,6,7,L. Evans,5.0,2,2,3,3,M. Meyer,4.0,5,5,6,4
+2025-04-27,Pittsburgh Pirates,Los Angeles Dodgers,11-18,18-10,2,9,B. Casparius,3.2,2,0,5,0,B. Falter,4.1,8,5,2,2
+2025-04-27,Tampa Bay Rays,San Diego Padres,14-14,17-11,4,2,Z. Littell,5.0,5,2,1,1,R. Vasquez,4.2,5,3,1,2
+2025-04-27,Toronto Blue Jays,New York Yankees,13-15,17-11,1,5,T. Hill,1.0,1,0,0,0,C. Bassitt,5.2,6,4,5,1
+2025-04-27,Philadelphia Phillies,Chicago Cubs,15-13,17-12,3,1,J. Alvarado,1.0,0,0,1,0,J. Merryweather,0.2,1,1,0,3
+2025-04-28,New York Mets,Washington Nationals,20-9,13-16,19,5,G. Canning,5.0,4,0,5,3,T. Williams,5.1,5,5,5,2
+2025-04-28,Minnesota Twins,Cleveland Guardians,13-16,15-13,11,1,B. Ober,7.2,8,1,2,0,G. Williams,2.0,7,4,2,2
+2025-04-28,New York Yankees,Baltimore Orioles,17-12,11-17,3,4,T. Sugano,5.0,5,0,8,1,W. Warren,3.1,6,4,5,2
+2025-04-28,St. Louis Cardinals,Cincinnati Reds,12-17,16-13,1,3,N. Martinez,6.0,5,1,3,2,A. Pallante,6.0,6,3,4,2
+2025-04-28,Athletics,Texas Rangers,15-14,15-14,2,1,J. Sears,5.2,5,1,7,0,P. Corbin,4.2,7,2,5,1
+2025-04-28,Detroit Tigers,Houston Astros,18-11,15-13,5,8,S. Okert,1.0,0,0,1,0,J. Flaherty,5.0,6,4,4,2
+2025-04-28,Atlanta Braves,Colorado Rockies,13-15,4-24,6,3,B. Elder,6.0,5,3,4,2,R. Feltner,4.2,10,5,4,1
+2025-04-28,Miami Marlins,Los Angeles Dodgers,12-16,19-10,6,7,K. Yates,1.0,1,0,0,0,R. Henriquez,0.1,1,1,0,1
+2025-04-29,Minnesota Twins,Cleveland Guardians,13-17,16-13,1,2,E. Clase,1.0,1,0,0,0,L. Varland,0.0,1,1,0,0
+2025-04-29,New York Yankees,Baltimore Orioles,18-12,11-18,15,3,C. Rodon,6.0,2,2,7,1,K. Gibson,3.2,11,9,2,2
+2025-04-29,Chicago Cubs,Pittsburgh Pirates,18-12,11-19,9,0,S. Imanaga,5.0,6,0,3,1,A. Heaney,4.2,5,4,0,3
+2025-04-29,Washington Nationals,Philadelphia Phillies,13-17,16-13,6,7,O. Kerkering,1.0,3,1,2,0,K. Finnegan,0.2,1,2,0,1
+2025-04-29,Kansas City Royals,Tampa Bay Rays,15-15,14-15,3,1,M. Lorenzen,6.0,4,1,4,2,T. Bradley,7.0,5,2,2,3
+2025-04-29,Boston Red Sox,Toronto Blue Jays,17-14,13-16,10,2,G. Crochet,7.0,4,2,6,3,B. Francis,3.0,8,7,1,0
+2025-04-29,Arizona Diamondbacks,New York Mets,15-14,21-9,3,8,D. Peterson,5.0,5,1,2,0,E. Rodriguez,4.0,9,8,1,1
+2025-04-29,Milwaukee Brewers,Chicago White Sox,15-15,7-22,7,2,F. Peralta,6.0,3,2,5,3,B. Wilson,3.1,2,3,1,3
+2025-04-29,Athletics,Texas Rangers,15-15,16-14,2,15,J. deGrom,6.0,4,0,7,0,J. Lopez,2.2,6,3,4,4
+2025-04-29,Detroit Tigers,Houston Astros,18-12,16-13,4,6,B. Sousa,1.2,1,0,3,0,R. Olson,5.2,4,3,7,3
+2025-04-29,Atlanta Braves,Colorado Rockies,14-15,4-25,8,2,A. Smith-Shawver,5.1,4,2,5,1,G. Marquez,5.1,11,7,1,1
+2025-04-29,Los Angeles Angels,Seattle Mariners,12-16,17-12,3,5,B. Miller,5.0,2,0,6,5,J. Kochanowicz,6.0,4,3,6,4
+2025-04-29,San Francisco Giants,San Diego Padres,19-11,18-11,4,7,N. Pivetta,5.1,5,3,9,1,L. Webb,5.0,9,5,6,1
+2025-04-29,Miami Marlins,Los Angeles Dodgers,12-17,20-10,2,15,M. Sauer,5.0,5,1,4,0,S. Alcantara,2.2,7,7,2,5
+2025-04-30,St. Louis Cardinals,Cincinnati Reds,13-17,16-14,6,0,M. Mikolas,5.1,3,0,4,0,B. Singer,6.0,2,1,4,3
+2025-04-30,Detroit Tigers,Houston Astros,19-12,16-14,7,4,B. Hanifee,2.0,2,0,3,1,A. Blubaugh,4.0,5,2,6,1
+2025-04-30,Atlanta Braves,Colorado Rockies,14-16,5-25,1,2,C. Dollander,5.2,2,1,4,3,C. Sale,7.0,5,2,10,0
+2025-04-30,Miami Marlins,Los Angeles Dodgers,12-18,21-10,7,12,T. Gonsolin,6.0,6,3,9,0,C. Quantrill,3.2,6,4,3,1
+2025-04-30,Los Angeles Angels,Seattle Mariners,12-17,18-12,3,9,C. Legumina,1.0,1,0,0,1,R. Detmers,0.0,5,5,0,0
+2025-04-30,San Francisco Giants,San Diego Padres,19-12,19-11,3,5,M. King,5.2,3,1,6,1,L. Roupp,4.1,7,4,4,3
+2025-04-30,Minnesota Twins,Cleveland Guardians,13-18,17-13,2,4,C. Smith,0.2,0,0,2,0,P. Lopez,6.1,4,2,6,0
+2025-04-30,New York Yankees,Baltimore Orioles,18-13,12-18,4,5,B. Baker,1.0,0,0,2,1,C. Carrasco,3.1,8,4,5,0
+2025-04-30,Chicago Cubs,Pittsburgh Pirates,18-13,12-19,3,4,C. Ferguson,1.1,0,0,0,0,C. Thielbar,0.1,2,1,1,0
+2025-04-30,St. Louis Cardinals,Cincinnati Reds,14-17,16-15,9,1,G. Graceffo,5.0,2,1,5,0,C. Petty,2.1,7,9,3,2
+2025-04-30,Washington Nationals,Philadelphia Phillies,13-18,17-13,2,7,C. Sanchez,5.0,5,2,6,3,J. Irvin,6.0,8,6,2,3
+2025-04-30,Kansas City Royals,Tampa Bay Rays,16-15,14-16,3,0,N. Cameron,6.1,1,0,3,5,D. Rasmussen,5.0,6,3,3,1
+2025-04-30,Boston Red Sox,Toronto Blue Jays,17-15,14-16,6,7,J. Hoffman,2.0,0,0,3,0,J. Slaten,0.1,1,0,0,2
+2025-04-30,Arizona Diamondbacks,New York Mets,16-14,21-10,4,3,C. Burnes,6.0,4,1,3,5,R. Stanek,0.2,3,2,0,0
+2025-04-30,Milwaukee Brewers,Chicago White Sox,16-15,7-23,6,4,J. Koenig,1.0,2,1,0,0,C. Booser,0.1,2,3,0,2
+2025-04-30,Athletics,Texas Rangers,16-15,16-15,7,1,G. Holman,2.0,1,0,2,1,R. Garcia,0.2,1,1,0,0
+2025-05-01,Chicago Cubs,Pittsburgh Pirates,19-13,12-20,8,3,C. Rea,6.0,4,2,2,2,P. Skenes,5.0,5,3,2,4
+2025-05-01,St. Louis Cardinals,Cincinnati Reds,14-18,17-15,1,9,G. Ashcraft,3.0,0,0,4,0,M. Liberatore,3.0,2,2,2,1
+2025-05-01,Arizona Diamondbacks,New York Mets,17-14,21-11,4,2,Z. Gallen,6.0,2,1,8,3,K. Senga,4.0,5,1,6,3
+2025-05-01,Kansas City Royals,Tampa Bay Rays,17-15,14-17,8,2,S. Lugo,6.0,5,2,5,0,S. Baz,5.2,9,7,1,3
+2025-05-01,Minnesota Twins,Cleveland Guardians,13-19,18-13,3,4,K. Allard,1.0,1,0,0,0,J. Topa,0.1,2,1,0,1
+2025-05-01,Milwaukee Brewers,Chicago White Sox,16-16,8-23,0,8,S. Burke,6.0,2,0,5,3,C. Patrick,5.2,6,3,4,0
+2025-05-01,Athletics,Texas Rangers,17-15,16-16,3,0,J. Springs,6.0,2,0,1,1,T. Mahle,6.0,5,1,6,1
+2025-05-01,Washington Nationals,Philadelphia Phillies,14-18,17-14,4,2,B. Lord,5.0,6,2,4,1,T. Walker,5.2,4,1,2,3
+2025-05-01,Boston Red Sox,Toronto Blue Jays,17-16,15-16,2,4,M. Fluharty,1.1,0,0,0,0,J. Slaten,1.0,3,3,0,1
+2025-05-01,Detroit Tigers,Los Angeles Angels,20-12,12-18,10,4,C. Mize,7.0,7,4,4,2,R. Detmers,0.1,3,4,0,1
+2025-05-01,Colorado Rockies,San Francisco Giants,6-25,19-13,4,3,A. Chivilli,1.1,1,0,0,0,T. Rogers,1.0,3,2,0,0
+2025-05-02,Washington Nationals,Cincinnati Reds,14-19,18-15,1,6,H. Greene,6.0,2,1,12,2,M. Parker,4.0,4,5,1,4
+2025-05-02,San Diego Padres,Pittsburgh Pirates,20-11,12-21,9,4,J. Estrada,1.0,0,0,3,0,M. Keller,5.0,8,4,3,1
+2025-05-02,Arizona Diamondbacks,Philadelphia Phillies,17-15,18-14,2,3,T. Banks,1.0,0,0,1,0,J. Castillo,1.0,2,2,0,0
+2025-05-02,Kansas City Royals,Baltimore Orioles,17-16,13-18,0,3,D. Kremer,7.0,3,0,2,1,M. Wacha,6.1,7,3,3,1
+2025-05-02,Tampa Bay Rays,New York Yankees,14-18,19-13,0,3,M. Fried,7.0,1,0,6,2,R. Pepiot,4.1,5,2,1,2
+2025-05-02,Cleveland Guardians,Toronto Blue Jays,18-14,16-16,3,5,B. Little,1.2,1,0,1,0,J. Junis,0.2,2,2,0,1
+2025-05-02,Minnesota Twins,Boston Red Sox,13-20,18-16,1,6,J. Wilson,0.1,0,0,0,0,L. Varland,0.1,2,2,0,0
+2025-05-02,Athletics,Miami Marlins,18-15,12-19,6,1,G. Hoglund,6.0,6,1,7,0,V. Bellozo,4.2,4,5,1,4
+2025-05-02,Los Angeles Dodgers,Atlanta Braves,22-10,14-17,2,1,Y. Yamamoto,6.0,1,0,6,2,G. Holmes,6.0,4,2,9,2
+2025-05-02,Houston Astros,Chicago White Sox,16-15,9-23,3,7,J. Cannon,6.0,9,2,5,0,F. Valdez,5.0,7,4,6,2
+2025-05-02,Seattle Mariners,Texas Rangers,19-12,16-17,13,1,B. Woo,6.1,1,0,8,0,J. Leiter,4.1,8,6,2,2
+2025-05-02,Chicago Cubs,Milwaukee Brewers,20-13,16-17,10,0,B. Brown,6.0,4,0,4,0,T. Alexander,0.2,3,2,1,0
+2025-05-02,New York Mets,St. Louis Cardinals,22-11,14-19,9,3,C. Holmes,6.0,8,3,3,0,S. Gray,4.1,9,4,6,3
+2025-05-02,Detroit Tigers,Los Angeles Angels,21-12,12-19,9,1,T. Holton,1.0,0,0,1,0,K. Jansen,0.2,6,6,1,0
+2025-05-02,Colorado Rockies,San Francisco Giants,6-26,20-13,0,4,R. Ray,7.0,2,0,8,2,A. Senzatela,5.0,7,4,4,2
+2025-05-03,Tampa Bay Rays,New York Yankees,15-18,19-14,3,2,Z. Littell,7.0,3,2,3,0,M. Leiter Jr.,0.1,2,2,1,1
+2025-05-03,Houston Astros,Chicago White Sox,17-15,9-24,8,3,H. Brown,6.0,4,3,9,3,F. Ellard,0.2,0,2,2,2
+2025-05-03,Cleveland Guardians,Toronto Blue Jays,19-14,16-17,5,3,K. Allard,4.0,1,1,3,0,Y. Garcia,0.2,2,4,2,2
+2025-05-03,San Diego Padres,Pittsburgh Pirates,21-11,12-22,2,1,J. Adam,1.0,0,0,0,0,D. Bednar,1.0,1,1,1,0
+2025-05-03,Colorado Rockies,San Francisco Giants,6-27,21-13,3,6,R. Rodriguez,1.0,2,0,1,0,J. Bird,1.1,3,3,3,3
+2025-05-03,Minnesota Twins,Boston Red Sox,14-20,18-17,4,3,B. Ober,6.0,7,1,6,1,H. Dobbins,5.2,7,4,2,2
+2025-05-03,Athletics,Miami Marlins,18-16,13-19,6,9,L. Bachar,2.0,1,1,4,2,M. Miller,0.2,2,5,2,2
+2025-05-03,Arizona Diamondbacks,Philadelphia Phillies,17-16,19-14,2,7,A. Nola,6.0,4,0,8,1,B. Pfaadt,4.2,9,6,6,1
+2025-05-03,Washington Nationals,Cincinnati Reds,15-19,18-16,11,6,T. Williams,5.1,9,4,4,2,N. Lodolo,5.1,10,6,4,2
+2025-05-03,Seattle Mariners,Texas Rangers,20-12,16-18,2,1,G. Speier,1.0,0,0,0,1,C. Martin,1.0,2,1,0,0
+2025-05-03,Chicago Cubs,Milwaukee Brewers,21-13,16-18,6,2,J. Taillon,6.0,3,2,5,1,J. Quintana,5.0,7,6,6,1
+2025-05-03,Kansas City Royals,Baltimore Orioles,18-16,13-19,4,0,K. Bubic,5.0,4,0,3,1,T. Sugano,6.0,4,2,4,2
+2025-05-03,Detroit Tigers,Los Angeles Angels,21-13,13-19,2,5,K. Hendricks,7.2,4,1,3,0,J. Flaherty,5.2,8,4,8,1
+2025-05-03,Los Angeles Dodgers,Atlanta Braves,23-10,14-18,10,3,R. Sasaki,5.0,6,3,4,2,S. Schwellenbach,3.2,8,6,4,1
+2025-05-04,New York Mets,St. Louis Cardinals,22-12,15-19,5,6,E. Fedde,5.0,6,3,4,5,B. Tidwell,3.2,9,6,2,3
+2025-05-04,Kansas City Royals,Baltimore Orioles,19-16,13-20,11,6,A. Zerpa,1.2,3,1,0,0,Y. Cano,1.0,3,2,1,0
+2025-05-04,Minnesota Twins,Boston Red Sox,15-20,18-18,5,4,L. Varland,1.0,0,0,1,0,J. Slaten,1.0,3,2,0,0
+2025-05-04,San Diego Padres,Pittsburgh Pirates,22-11,12-23,4,0,S. Kolek,5.1,4,0,4,2,A. Heaney,3.2,8,4,3,4
+2025-05-04,Tampa Bay Rays,New York Yankees,16-18,19-15,7,5,T. Bradley,5.1,4,2,1,3,W. Warren,4.2,7,3,8,3
+2025-05-04,Cleveland Guardians,Toronto Blue Jays,20-14,16-18,5,4,T. Bibee,5.0,5,2,3,2,B. Francis,4.1,6,4,2,1
+2025-05-04,Athletics,Miami Marlins,19-16,13-20,3,2,M. Spence,1.2,1,0,1,0,A. Bender,1.0,2,1,2,0
+2025-05-04,Arizona Diamondbacks,Philadelphia Phillies,18-16,19-15,11,9,S. Miller,1.0,4,2,2,0,J. Alvarado,1.1,3,3,0,1
+2025-05-04,Chicago Cubs,Milwaukee Brewers,21-14,17-18,0,4,F. Peralta,6.0,4,0,7,1,S. Imanaga,5.2,4,2,4,1
+2025-05-04,Houston Astros,Chicago White Sox,17-16,10-24,4,5,M. Vasil,2.1,0,0,0,1,S. Okert,1.0,2,2,1,1
+2025-05-04,Seattle Mariners,Texas Rangers,20-13,17-18,1,8,J. deGrom,5.0,3,1,3,2,L. Evans,5.0,10,1,5,2
+2025-05-04,Colorado Rockies,San Francisco Giants,6-28,22-13,3,9,L. Webb,7.0,6,1,6,2,G. Marquez,4.1,6,5,3,0
+2025-05-04,Detroit Tigers,Los Angeles Angels,22-13,13-20,13,1,R. Olson,5.2,3,0,8,3,J. Kochanowicz,5.0,7,5,1,2
+2025-05-04,Washington Nationals,Cincinnati Reds,16-19,18-17,4,1,J. Lopez,2.0,0,0,2,0,G. Ashcraft,0.2,3,3,0,0
+2025-05-04,New York Mets,St. Louis Cardinals,22-13,16-19,4,5,M. McGreevy,5.2,1,0,5,1,M. Kranick,1.0,2,1,1,0
+2025-05-04,Los Angeles Dodgers,Atlanta Braves,23-11,15-18,3,4,B. Elder,5.0,4,2,6,2,D. May,5.2,5,4,6,2
+2025-05-05,Los Angeles Dodgers,Miami Marlins,24-11,13-21,7,4,B. Casparius,4.0,5,1,5,2,S. Alcantara,5.0,6,5,4,1
+2025-05-05,San Diego Padres,New York Yankees,23-11,19-16,4,3,R. Bergert,1.0,0,0,1,0,L. Weaver,0.1,2,1,0,1
+2025-05-05,Cincinnati Reds,Atlanta Braves,18-18,16-18,0,4,A. Smith-Shawver,8.0,1,0,5,4,B. Singer,6.0,7,4,2,2
+2025-05-05,Chicago White Sox,Kansas City Royals,10-25,20-16,0,3,C. Ragans,5.0,3,0,11,2,S. Smith,5.0,5,2,5,3
+2025-05-05,Houston Astros,Milwaukee Brewers,17-17,18-18,1,5,T. Myers,5.1,6,1,2,0,R. Blanco,6.0,7,3,6,2
+2025-05-05,San Francisco Giants,Chicago Cubs,22-14,22-14,2,9,M. Boyd,6.0,5,2,7,0,L. Roupp,5.0,5,2,4,0
+2025-05-05,Pittsburgh Pirates,St. Louis Cardinals,12-24,17-19,3,6,G. Graceffo,1.0,0,0,0,0,C. Shugart,0.0,5,4,0,1
+2025-05-05,New York Mets,Arizona Diamondbacks,23-13,18-17,5,4,G. Canning,5.0,6,1,6,1,R. Nelson,4.1,3,2,2,4
+2025-05-05,Seattle Mariners,Athletics,20-14,20-16,6,7,H. Harris,1.0,0,0,1,0,C. Legumina,0.1,1,0,0,2
+2025-05-06,Cleveland Guardians,Washington Nationals,20-15,17-19,9,10,J. Lopez,1.2,3,1,0,0,C. Smith,0.2,3,4,2,1
+2025-05-06,Los Angeles Dodgers,Miami Marlins,24-12,14-21,4,5,J. Tinoco,2.0,0,0,2,1,J.P. Feyereisen,0.0,2,0,0,1
+2025-05-06,Texas Rangers,Boston Red Sox,18-18,18-19,6,1,N. Eovaldi,6.0,5,1,7,1,L. Giolito,3.2,10,6,2,1
+2025-05-06,Philadelphia Phillies,Tampa Bay Rays,20-15,16-19,8,4,Z. Wheeler,7.0,4,2,9,0,D. Rasmussen,4.1,5,3,2,2
+2025-05-06,San Diego Padres,New York Yankees,23-12,20-16,3,12,F. Cruz,0.2,1,0,1,1,A. Morejon,0.1,3,4,0,1
+2025-05-06,Cleveland Guardians,Washington Nationals,21-15,17-20,9,1,B. Lively,5.1,2,1,3,2,B. Lord,6.0,3,3,4,1
+2025-05-06,Cincinnati Reds,Atlanta Braves,18-19,17-18,1,2,R. Iglesias,1.0,0,0,2,0,L. Richardson,0.0,1,0,0,1
+2025-05-06,Baltimore Orioles,Minnesota Twins,13-21,16-20,1,9,P. Lopez,5.0,2,1,11,1,C. Povich,6.0,6,5,4,0
+2025-05-06,Chicago White Sox,Kansas City Royals,10-26,21-16,3,4,T. Clarke,1.1,0,0,0,0,C. Booser,0.1,3,1,0,1
+2025-05-06,Houston Astros,Milwaukee Brewers,17-18,19-18,3,4,C. Patrick,6.2,4,3,6,1,H. Wesneski,4.0,5,4,3,2
+2025-05-06,San Francisco Giants,Chicago Cubs,23-14,22-15,14,5,E. Miller,1.1,1,0,2,1,R. Pressly,0.0,5,8,0,1
+2025-05-06,Pittsburgh Pirates,St. Louis Cardinals,12-25,18-19,1,2,M. Liberatore,7.0,3,1,8,3,P. Skenes,6.0,3,2,6,4
+2025-05-06,Toronto Blue Jays,Los Angeles Angels,16-19,14-20,3,8,H. Neris,0.2,0,0,2,0,Y. Garcia,0.1,1,3,1,1
+2025-05-06,New York Mets,Arizona Diamondbacks,23-14,19-17,1,5,Z. Gallen,7.0,2,1,6,3,D. Peterson,6.0,4,2,6,4
+2025-05-06,Seattle Mariners,Athletics,21-14,20-17,5,3,C. Snider,1.0,1,0,2,1,T. Ferguson,0.2,2,3,1,1
+2025-05-07,Cleveland Guardians,Washington Nationals,22-15,17-21,8,6,J. Cantillo,1.0,0,0,1,1,M. Soroka,5.0,5,4,8,2
+2025-05-07,Houston Astros,Milwaukee Brewers,18-18,19-19,9,1,F. Valdez,7.0,3,1,7,2,Q. Priester,5.0,3,1,3,3
+2025-05-07,Pittsburgh Pirates,St. Louis Cardinals,12-26,19-19,0,5,S. Gray,7.0,2,0,8,1,M. Keller,6.0,7,3,6,3
+2025-05-07,San Francisco Giants,Chicago Cubs,24-14,22-16,3,1,R. Ray,6.0,3,1,5,2,B. Brown,5.0,6,3,9,2
+2025-05-07,Seattle Mariners,Athletics,22-14,20-18,6,5,E. Bazardo,1.1,1,0,1,0,N. Murdock,1.0,2,2,2,1
+2025-05-07,New York Mets,Arizona Diamondbacks,24-14,19-18,7,1,K. Senga,6.0,2,0,4,5,M. Kelly,6.1,6,3,6,0
+2025-05-07,Los Angeles Dodgers,Miami Marlins,25-12,14-22,10,1,L. Knack,5.0,4,0,5,1,C. Gibson,1.0,2,1,0,1
+2025-05-07,Texas Rangers,Boston Red Sox,18-19,19-19,4,6,B. Bernardino,1.0,0,0,0,0,J. Webb,0.2,2,2,0,0
+2025-05-07,Philadelphia Phillies,Tampa Bay Rays,21-15,16-20,7,0,C. Sanchez,6.0,1,0,5,3,S. Baz,3.1,8,6,3,2
+2025-05-07,San Diego Padres,New York Yankees,23-13,21-16,3,4,D. Williams,1.0,0,0,3,1,J. Estrada,0.2,0,0,0,0
+2025-05-07,Cincinnati Reds,Atlanta Braves,19-19,17-19,4,3,B. Suter,2.0,1,1,3,0,G. Holmes,5.1,7,4,5,1
+2025-05-07,Baltimore Orioles,Minnesota Twins,13-22,17-20,2,5,D. Coulombe,1.0,1,0,2,0,C. Morton,4.0,4,3,2,1
+2025-05-07,Chicago White Sox,Kansas City Royals,10-27,22-16,1,2,M. Wacha,7.0,3,0,5,1,J. Cannon,6.0,9,2,1,0
+2025-05-07,Detroit Tigers,Colorado Rockies,23-13,6-29,8,6,W. Vest,2.0,1,0,2,2,Z. Agnos,2.0,1,0,2,0
+2025-05-07,Toronto Blue Jays,Los Angeles Angels,16-20,15-20,4,5,B. Burke,1.0,0,0,0,1,J. Hoffman,0.1,3,3,1,1
+2025-05-08,Baltimore Orioles,Minnesota Twins,13-23,18-20,2,5,G. Jax,1.0,0,0,2,0,Y. Cano,0.1,0,2,1,2
+2025-05-08,Texas Rangers,Boston Red Sox,18-20,20-19,0,5,J. Slaten,1.1,0,0,0,0,J. Leiter,5.1,3,4,3,4
+2025-05-08,Chicago White Sox,Kansas City Royals,10-28,23-16,0,10,K. Bubic,7.0,6,0,7,1,D. Martin,4.1,7,4,2,1
+2025-05-08,Detroit Tigers,Colorado Rockies,24-13,6-30,10,2,C. Mize,6.0,3,1,8,0,K. Freeland,3.0,11,5,2,1
+2025-05-08,Detroit Tigers,Colorado Rockies,25-13,6-31,11,1,K. Montero,8.0,5,1,2,3,T. Gordon,6.1,9,4,4,1
+2025-05-08,Philadelphia Phillies,Tampa Bay Rays,22-15,16-21,7,6,J. Alvarado,1.0,1,0,1,0,M. Rodriguez,1.0,2,1,1,0
+2025-05-08,Cincinnati Reds,Atlanta Braves,19-20,18-19,4,5,S. Blewett,2.0,0,0,1,0,T. Rogers,0.2,1,0,1,1
+2025-05-08,Toronto Blue Jays,Los Angeles Angels,17-20,15-21,8,5,C. Bassitt,6.0,8,4,6,1,R. Johnson,0.0,2,3,0,1
+2025-05-08,Los Angeles Dodgers,Arizona Diamondbacks,25-13,20-18,3,5,B. Pfaadt,6.1,4,0,6,3,Y. Yamamoto,5.0,6,5,4,1
+2025-05-09,Atlanta Braves,Pittsburgh Pirates,18-20,13-26,2,3,B. Falter,6.0,2,0,3,2,B. Elder,6.0,5,3,8,0
+2025-05-09,Texas Rangers,Detroit Tigers,18-21,26-13,1,2,T. Skubal,7.0,2,1,12,0,P. Corbin,7.0,3,2,3,4
+2025-05-09,St. Louis Cardinals,Washington Nationals,20-19,17-22,10,0,E. Fedde,9.0,6,0,8,0,M. Parker,4.0,7,4,5,2
+2025-05-09,Milwaukee Brewers,Tampa Bay Rays,19-20,17-21,3,4,C. Sulser,1.0,1,1,1,2,J. Koenig,0.2,2,1,2,2
+2025-05-09,Chicago Cubs,New York Mets,22-17,25-14,2,7,C. Holmes,6.0,3,1,5,3,J. Taillon,4.0,9,5,4,1
+2025-05-09,Philadelphia Phillies,Cleveland Guardians,22-16,23-15,0,6,G. Williams,5.0,4,0,8,4,A. Nola,5.0,6,4,5,2
+2025-05-09,Boston Red Sox,Kansas City Royals,20-20,24-16,1,2,S. Cruz,0.2,0,0,1,0,S. Newcomb,0.1,1,0,0,0
+2025-05-09,Miami Marlins,Chicago White Sox,14-23,11-28,2,6,C. Booser,0.2,1,0,1,0,M. Meyer,6.1,5,5,5,3
+2025-05-09,Cincinnati Reds,Houston Astros,19-21,19-18,0,3,H. Brown,5.2,2,0,9,4,N. Martinez,6.0,10,3,5,0
+2025-05-09,San Francisco Giants,Minnesota Twins,24-15,19-20,1,3,C. Paddack,7.1,3,1,6,0,J. Hicks,6.0,7,3,6,0
+2025-05-09,San Diego Padres,Colorado Rockies,24-13,6-32,13,9,R. Vasquez,6.0,6,2,5,1,A. Senzatela,4.2,9,4,2,2
+2025-05-09,Baltimore Orioles,Los Angeles Angels,14-23,15-22,4,1,T. Sugano,7.1,3,1,5,0,K. Hendricks,5.0,6,3,5,3
+2025-05-09,Los Angeles Dodgers,Arizona Diamondbacks,26-13,20-19,14,11,A. Vesia,1.0,2,2,1,0,K. Ginkel,0.1,4,5,1,0
+2025-05-09,Toronto Blue Jays,Seattle Mariners,18-20,22-15,6,3,K. Gausman,5.1,7,3,3,0,L. Castillo,5.0,7,5,3,2
+2025-05-09,New York Yankees,Athletics,22-16,20-19,10,2,W. Warren,7.1,4,1,7,1,O. Bido,5.1,8,3,6,2
+2025-05-10,Atlanta Braves,Pittsburgh Pirates,19-20,13-27,3,2,S. Blewett,2.0,1,0,1,0,C. Shugart,1.0,0,0,0,2
+2025-05-10,St. Louis Cardinals,Washington Nationals,21-19,17-23,4,2,A. Pallante,7.1,5,2,7,0,T. Williams,6.0,7,4,4,1
+2025-05-10,New York Yankees,Athletics,22-17,21-19,7,11,G. Holman,1.1,1,0,1,0,F. Cruz,0.2,3,3,2,0
+2025-05-10,Milwaukee Brewers,Tampa Bay Rays,19-21,18-21,2,3,P. Fairbanks,1.0,0,0,1,1,G. Anderson,0.2,1,1,0,1
+2025-05-10,Philadelphia Phillies,Cleveland Guardians,23-16,23-16,7,1,R. Suarez,7.0,3,0,5,1,T. Bibee,7.0,5,1,3,0
+2025-05-10,Texas Rangers,Detroit Tigers,19-21,26-14,10,3,J. deGrom,5.0,5,2,10,1,J. Flaherty,3.0,4,5,4,2
+2025-05-10,Boston Red Sox,Kansas City Royals,21-20,24-17,10,1,G. Crochet,7.0,7,1,9,1,C. Ragans,5.0,7,4,8,2
+2025-05-10,Cincinnati Reds,Houston Astros,20-21,19-19,13,9,G. Ashcraft,1.2,1,0,4,1,L. McCullers Jr.,0.1,3,7,0,3
+2025-05-10,Miami Marlins,Chicago White Sox,15-23,11-29,3,1,C. Faucher,1.0,1,0,2,0,J. Leasure,0.2,1,1,2,0
+2025-05-10,Chicago Cubs,New York Mets,23-17,25-15,6,5,C. Horton,4.0,4,3,5,0,T. Megill,4.2,7,4,7,2
+2025-05-10,San Francisco Giants,Minnesota Twins,24-16,20-20,1,2,J. Ryan,6.0,2,1,7,0,L. Webb,7.0,5,2,9,1
+2025-05-10,San Diego Padres,Colorado Rockies,25-13,6-33,21,0,S. Kolek,9.0,5,0,7,2,B. Blalock,3.2,13,12,1,2
+2025-05-10,Los Angeles Dodgers,Arizona Diamondbacks,26-14,21-19,0,3,C. Burnes,7.0,5,0,5,2,D. May,6.2,7,2,5,1
+2025-05-10,Baltimore Orioles,Los Angeles Angels,14-24,16-22,2,5,J. Kochanowicz,5.2,4,1,4,4,K. Gibson,4.0,7,5,4,3
+2025-05-10,Toronto Blue Jays,Seattle Mariners,19-20,22-16,6,3,M. Fluharty,1.1,0,0,2,0,C. Vargas,0.2,3,3,1,2
+2025-05-11,Chicago Cubs,New York Mets,23-18,26-15,2,6,R. Stanek,1.0,0,0,2,0,P. Hodge,0.1,3,3,0,0
+2025-05-11,Atlanta Braves,Pittsburgh Pirates,19-21,14-27,3,4,D. Santana,1.0,0,0,1,0,R. Iglesias,0.1,3,1,0,1
+2025-05-11,St. Louis Cardinals,Washington Nationals,22-19,17-24,6,1,M. Mikolas,5.1,4,1,5,1,M. Gore,6.2,5,4,7,3
+2025-05-11,Milwaukee Brewers,Tampa Bay Rays,20-21,18-22,4,2,T. Alexander,1.2,0,0,0,0,D. Rasmussen,5.0,4,3,3,1
+2025-05-11,Texas Rangers,Detroit Tigers,20-21,26-15,6,1,N. Eovaldi,7.0,2,0,7,1,R. Olson,4.0,7,3,5,1
+2025-05-11,Boston Red Sox,Kansas City Royals,22-20,24-18,3,1,L. Giolito,6.2,2,1,5,1,S. Lugo,6.0,6,3,5,0
+2025-05-11,Cincinnati Reds,Houston Astros,20-22,20-19,0,6,R. Blanco,8.0,2,0,11,1,C. Petty,3.0,6,4,4,6
+2025-05-11,Miami Marlins,Chicago White Sox,15-24,12-29,2,4,M. Vasil,3.0,3,1,1,1,S. Alcantara,5.2,7,4,8,3
+2025-05-11,San Francisco Giants,Minnesota Twins,24-17,21-20,6,7,J. Duran,1.0,0,0,1,1,R. Walker,0.2,2,1,0,1
+2025-05-11,San Diego Padres,Colorado Rockies,25-14,7-33,3,9,G. Marquez,7.0,3,1,2,1,N. Pivetta,4.0,7,6,5,2
+2025-05-11,New York Yankees,Athletics,23-17,21-20,12,2,R. Yarbrough,5.0,6,2,2,1,L. Severino,4.0,9,8,2,2
+2025-05-11,Baltimore Orioles,Los Angeles Angels,15-24,16-23,7,3,Z. Eflin,5.0,5,2,5,2,T. Anderson,5.0,4,1,5,2
+2025-05-11,Los Angeles Dodgers,Arizona Diamondbacks,27-14,21-20,8,1,T. Gonsolin,5.0,3,0,4,2,Z. Gallen,5.2,10,4,5,2
+2025-05-11,Toronto Blue Jays,Seattle Mariners,20-20,22-17,9,1,E. Lauer,4.2,1,0,5,1,B. Miller,5.0,8,7,3,2
+2025-05-11,Philadelphia Phillies,Cleveland Guardians,24-16,23-17,3,0,Z. Wheeler,7.0,3,0,8,2,L. Ortiz,6.0,4,1,9,2
+2025-05-12,Milwaukee Brewers,Cleveland Guardians,20-22,24-17,0,5,J. Junis,1.0,2,0,0,1,F. Peralta,5.1,4,4,4,3
+2025-05-12,Boston Red Sox,Detroit Tigers,22-21,27-15,2,14,J. Jobe,5.2,3,1,7,5,T. Houck,2.1,9,11,0,3
+2025-05-12,St. Louis Cardinals,Philadelphia Phillies,23-19,24-17,3,2,K. Leahy,2.1,2,0,2,0,M. Strahm,1.0,1,1,1,0
+2025-05-12,Pittsburgh Pirates,New York Mets,14-28,27-15,3,4,H. Brazoban,1.0,1,0,0,0,D. Bednar,0.2,2,1,1,0
+2025-05-12,Washington Nationals,Atlanta Braves,17-25,20-21,3,4,R. Iglesias,1.0,3,1,1,1,J. Rutledge,1.1,1,1,1,0
+2025-05-12,Miami Marlins,Chicago Cubs,15-25,24-18,2,5,C. Rea,6.2,6,2,4,2,C. Quantrill,4.1,4,3,1,2
+2025-05-12,Colorado Rockies,Texas Rangers,7-34,21-21,1,2,T. Mahle,6.1,4,1,5,1,C. Dollander,6.0,1,2,7,3
+2025-05-12,Kansas City Royals,Houston Astros,25-18,20-20,7,5,M. Wacha,6.1,8,2,3,2,R. Gusto,2.1,7,7,2,3
+2025-05-12,Los Angeles Angels,San Diego Padres,17-23,25-15,9,5,B. Burke,1.0,1,1,0,0,R. Suarez,0.1,1,5,1,4
+2025-05-12,New York Yankees,Seattle Mariners,24-17,22-18,11,5,C. Schmidt,6.0,3,3,6,2,E. Hancock,5.0,8,7,5,4
+2025-05-12,Arizona Diamondbacks,San Francisco Giants,22-20,24-18,2,1,M. Kelly,7.0,8,1,8,0,J. Verlander,6.0,9,2,5,1
+2025-05-13,Milwaukee Brewers,Cleveland Guardians,20-23,25-17,0,2,L. Allen,6.0,3,0,6,1,Q. Priester,5.0,3,1,3,2
+2025-05-13,Boston Red Sox,Detroit Tigers,22-22,28-15,9,10,B. Brieske,1.0,1,1,2,0,G. Weissert,1.0,3,2,1,0
+2025-05-13,Chicago White Sox,Cincinnati Reds,13-29,20-23,5,1,S. Wilson,1.0,1,1,2,0,E. Pagan,1.2,3,3,1,1
+2025-05-13,Tampa Bay Rays,Toronto Blue Jays,19-22,20-21,11,9,E. Uceta,1.0,2,3,1,2,J. Hoffman,0.1,4,5,1,1
+2025-05-13,Pittsburgh Pirates,New York Mets,14-29,28-15,1,2,M. Kranick,1.0,0,0,1,0,M. Keller,7.0,5,2,8,1
+2025-05-13,Washington Nationals,Atlanta Braves,17-26,21-21,2,5,S. Schwellenbach,7.0,4,2,3,2,B. Lord,2.0,5,2,4,1
+2025-05-13,Miami Marlins,Chicago Cubs,15-26,25-18,4,5,C. Flexen,2.0,1,0,1,1,J. Tinoco,0.1,2,2,0,1
+2025-05-13,Colorado Rockies,Texas Rangers,7-35,22-21,1,4,J. Leiter,6.0,2,1,5,3,K. Freeland,6.0,6,3,5,1
+2025-05-13,Kansas City Royals,Houston Astros,25-19,21-20,1,2,B. Abreu,1.0,0,0,1,0,J. Schreiber,0.0,1,1,0,0
+2025-05-13,Los Angeles Angels,San Diego Padres,17-24,26-15,4,6,J. Adam,1.0,0,0,0,0,K. Jansen,0.0,1,2,0,1
+2025-05-13,New York Yankees,Seattle Mariners,24-18,23-18,1,2,C. Legumina,1.0,0,0,0,1,T. Hill,0.0,2,0,0,0
+2025-05-13,Arizona Diamondbacks,San Francisco Giants,22-21,25-18,6,10,R. Ray,6.0,7,3,9,3,B. Pfaadt,4.0,6,4,3,3
+2025-05-13,Athletics,Los Angeles Dodgers,22-20,27-15,11,1,J. Springs,7.0,6,1,4,2,L. Knack,4.2,7,5,8,1
+2025-05-14,Minnesota Twins,Baltimore Orioles,22-20,15-25,6,3,B. Stewart,1.0,0,0,3,1,D. Kremer,5.2,7,4,4,2
+2025-05-14,St. Louis Cardinals,Philadelphia Phillies,23-20,25-17,1,2,J. Luzardo,7.0,5,1,6,2,S. Matz,1.2,4,2,1,0
+2025-05-14,Milwaukee Brewers,Cleveland Guardians,21-23,25-18,9,5,L. Henderson,5.0,4,2,7,1,T. Herrin,0.1,1,2,1,1
+2025-05-14,Arizona Diamondbacks,San Francisco Giants,23-21,25-19,8,7,R. Thompson,1.0,1,0,2,0,J. Hicks,2.0,7,5,1,1
+2025-05-14,Minnesota Twins,Baltimore Orioles,23-20,15-26,8,6,K. Funderburk,1.1,1,0,0,0,Y. Cano,1.0,2,3,2,1
+2025-05-14,New York Yankees,Seattle Mariners,25-18,23-19,3,2,I. Hamilton,1.1,0,0,2,0,C. Vargas,1.0,1,1,2,0
+2025-05-14,St. Louis Cardinals,Philadelphia Phillies,24-20,25-18,14,7,C. Roycroft,1.1,0,0,1,1,A. Nola,3.2,12,9,2,1
+2025-05-14,Boston Red Sox,Detroit Tigers,22-23,29-15,5,6,W. Vest,1.0,2,0,1,0,A. Chapman,0.2,1,1,1,1
+2025-05-14,Tampa Bay Rays,Toronto Blue Jays,19-23,21-21,1,3,B. Little,1.1,0,0,1,0,R. Pepiot,6.0,6,3,7,1
+2025-05-14,Pittsburgh Pirates,New York Mets,15-29,28-16,4,0,C. Shugart,2.1,1,0,0,0,C. Holmes,6.0,7,4,4,1
+2025-05-14,Chicago White Sox,Cincinnati Reds,14-29,20-24,4,2,D. Martin,6.2,7,1,5,0,N. Lodolo,5.1,7,3,4,2
+2025-05-14,Washington Nationals,Atlanta Braves,18-26,21-22,5,4,J. Ferrer,1.1,0,0,1,0,E. De Los Santos,0.1,2,2,0,1
+2025-05-14,Miami Marlins,Chicago Cubs,16-26,25-19,3,1,R. Weathers,5.0,2,1,5,1,J. Taillon,6.0,4,3,7,0
+2025-05-14,Colorado Rockies,Texas Rangers,7-36,23-21,3,8,P. Corbin,6.0,4,3,9,1,A. Senzatela,4.2,8,6,3,4
+2025-05-14,Kansas City Royals,Houston Astros,25-20,22-20,3,4,B. King,1.0,0,0,1,1,M. Lorenzen,7.1,7,4,5,1
+2025-05-14,Los Angeles Angels,San Diego Padres,17-25,27-15,1,5,R. Vasquez,6.0,4,1,5,1,K. Hendricks,6.0,5,3,4,1
+2025-05-14,Athletics,Los Angeles Dodgers,22-21,28-15,3,9,Y. Yamamoto,6.0,4,3,6,2,G. Hoglund,5.1,7,4,5,3
+2025-05-15,Washington Nationals,Atlanta Braves,18-27,22-22,2,5,A. Smith-Shawver,6.0,2,0,6,2,T. Williams,4.1,5,3,4,0
+2025-05-15,Minnesota Twins,Baltimore Orioles,24-20,15-27,4,0,C. Paddack,7.0,3,0,3,1,T. Sugano,6.1,6,4,3,1
+2025-05-15,Chicago White Sox,Cincinnati Reds,14-30,21-24,1,7,N. Martinez,7.0,2,0,3,0,B. Wilson,5.1,10,7,3,1
+2025-05-15,Tampa Bay Rays,Toronto Blue Jays,20-23,21-22,8,3,Z. Littell,7.1,8,3,2,1,K. Gausman,5.2,10,6,6,0
+2025-05-15,Houston Astros,Texas Rangers,22-21,24-21,0,1,J. deGrom,8.0,5,0,7,1,H. Brown,8.0,3,1,9,0
+2025-05-15,Athletics,Los Angeles Dodgers,22-22,29-15,2,19,J. Wrobleski,4.0,1,0,4,0,O. Bido,1.2,5,6,2,2
+2025-05-16,Chicago White Sox,Chicago Cubs,14-31,26-19,3,13,C. Horton,5.0,7,3,2,0,S. Smith,5.0,7,1,5,1
+2025-05-16,Cleveland Guardians,Cincinnati Reds,25-19,22-24,4,5,B. Singer,5.0,3,3,4,3,T. Bibee,6.0,10,4,4,1
+2025-05-16,Pittsburgh Pirates,Philadelphia Phillies,15-30,26-18,4,8,R. Suarez,7.0,6,3,6,1,R. Borucki,0.0,0,2,0,2
+2025-05-16,New York Mets,New York Yankees,28-17,26-18,2,6,C. Rodon,5.0,2,1,5,4,T. Megill,2.2,4,4,4,5
+2025-05-16,Washington Nationals,Baltimore Orioles,19-27,15-28,4,3,J. Lopez,1.0,2,0,1,0,F. Bautista,1.0,1,1,0,2
+2025-05-16,Detroit Tigers,Toronto Blue Jays,30-15,21-23,5,4,J. Flaherty,5.2,5,2,6,1,B. Francis,4.2,8,4,6,2
+2025-05-16,Atlanta Braves,Boston Red Sox,23-22,22-24,4,2,C. Sale,7.0,5,1,8,2,G. Crochet,7.0,7,2,8,0
+2025-05-16,Tampa Bay Rays,Miami Marlins,20-24,17-26,4,9,M. Meyer,5.0,5,3,7,0,T. Bradley,4.0,6,5,6,3
+2025-05-16,St. Louis Cardinals,Kansas City Royals,25-20,25-21,10,3,A. Pallante,7.0,7,2,4,0,C. Ragans,5.0,5,4,7,0
+2025-05-16,Houston Astros,Texas Rangers,23-21,24-22,6,3,K. Ort,1.0,0,0,1,0,S. Armstrong,0.0,2,4,0,2
+2025-05-16,Minnesota Twins,Milwaukee Brewers,25-20,21-24,3,0,J. Ryan,6.0,2,0,9,1,C. Patrick,6.0,8,3,2,1
+2025-05-16,Colorado Rockies,Arizona Diamondbacks,7-37,24-21,0,8,C. Burnes,6.0,2,0,10,3,C. Palmquist,4.0,6,5,0,1
+2025-05-16,Seattle Mariners,San Diego Padres,24-19,27-16,5,1,L. Evans,6.0,7,0,3,1,S. Kolek,5.0,8,5,4,1
+2025-05-16,Los Angeles Angels,Los Angeles Dodgers,18-25,29-16,6,2,J. Kochanowicz,6.2,5,1,5,4,D. May,5.0,6,4,8,2
+2025-05-16,Athletics,San Francisco Giants,22-23,26-19,1,9,L. Webb,8.0,5,1,4,2,J. Sears,4.0,6,4,2,3
+2025-05-17,New York Mets,New York Yankees,29-17,26-19,3,2,R. Garrett,1.0,1,0,0,3,F. Cruz,1.1,1,1,1,1
+2025-05-17,Chicago White Sox,Chicago Cubs,14-32,27-19,3,7,M. Boyd,6.0,4,3,8,0,S. Burke,4.2,7,5,4,5
+2025-05-17,Detroit Tigers,Toronto Blue Jays,30-16,22-23,1,2,J. Hoffman,1.0,0,0,0,1,B. Hanifee,0.2,2,1,0,1
+2025-05-17,Washington Nationals,Baltimore Orioles,20-27,15-29,10,6,J. Irvin,6.1,5,2,6,1,K. Gibson,0.2,6,6,1,1
+2025-05-17,Tampa Bay Rays,Miami Marlins,21-24,17-27,4,0,D. Rasmussen,6.0,4,0,5,0,S. Alcantara,5.0,5,4,3,2
+2025-05-17,Pittsburgh Pirates,Philadelphia Phillies,15-31,27-18,2,5,Z. Wheeler,6.0,3,0,6,1,C. Mlodzinski,3.1,7,4,2,1
+2025-05-17,Cleveland Guardians,Cincinnati Reds,25-20,23-24,1,4,L. Mey,1.0,0,0,1,0,S. Cecconi,5.0,5,3,8,0
+2025-05-17,Houston Astros,Texas Rangers,23-22,25-22,1,5,T. Mahle,6.0,5,1,3,2,R. Blanco,6.0,5,3,5,3
+2025-05-17,St. Louis Cardinals,Kansas City Royals,26-20,25-22,1,0,M. Mikolas,6.0,2,0,4,2,N. Cameron,6.1,2,1,3,0
+2025-05-17,Atlanta Braves,Boston Red Sox,23-23,23-24,6,7,A. Chapman,1.0,1,0,3,1,P. Johnson,0.1,2,1,0,0
+2025-05-17,Minnesota Twins,Milwaukee Brewers,26-20,21-25,7,0,P. Lopez,6.0,2,0,6,2,T. Myers,3.2,11,4,4,0
+2025-05-17,Colorado Rockies,Arizona Diamondbacks,8-37,24-22,14,12,J. Bird,2.0,2,1,2,0,R. Thompson,0.2,5,3,1,0
+2025-05-17,Seattle Mariners,San Diego Padres,25-19,27-17,4,1,G. Speier,1.1,1,0,2,0,A. Morejon,0.1,2,1,1,0
+2025-05-17,Athletics,San Francisco Giants,22-24,27-19,0,1,C. Doval,1.0,0,0,2,1,M. Miller,0.2,0,0,1,3
+2025-05-17,Los Angeles Angels,Los Angeles Dodgers,19-25,29-17,11,9,R. Detmers,2.0,3,1,2,2,K. Yates,0.1,3,3,0,1
+2025-05-18,Houston Astros,Texas Rangers,24-22,25-23,4,3,F. Valdez,7.0,6,3,8,1,R. Garcia,1.0,1,1,0,1
+2025-05-18,Atlanta Braves,Boston Red Sox,24-23,23-25,10,4,S. Schwellenbach,7.0,6,4,3,1,B. Bello,4.1,10,7,3,5
+2025-05-18,Pittsburgh Pirates,Philadelphia Phillies,15-32,28-18,0,1,M. Abel,6.0,5,0,9,0,P. Skenes,8.0,3,1,9,1
+2025-05-18,Washington Nationals,Baltimore Orioles,21-27,15-30,10,4,M. Soroka,5.2,7,3,8,0,Z. Eflin,5.1,10,8,4,0
+2025-05-18,Detroit Tigers,Toronto Blue Jays,31-16,22-24,3,2,J. Jobe,6.0,6,2,5,2,M. Fluharty,0.2,1,1,1,1
+2025-05-18,Cleveland Guardians,Cincinnati Reds,25-21,24-24,1,3,A. Abbott,5.0,4,0,5,3,L. Ortiz,5.0,6,2,7,2
+2025-05-18,Tampa Bay Rays,Miami Marlins,21-25,18-27,1,5,C. Quantrill,5.0,2,1,6,2,S. Baz,6.0,9,5,2,3
+2025-05-18,Minnesota Twins,Milwaukee Brewers,26-21,22-25,2,5,F. Peralta,5.0,3,1,5,2,Z. Matthews,3.0,5,4,5,3
+2025-05-18,St. Louis Cardinals,Kansas City Royals,26-21,26-22,1,2,L. Erceg,1.2,1,0,1,1,C. Roycroft,1.0,2,1,0,0
+2025-05-18,Chicago White Sox,Chicago Cubs,14-33,28-19,2,6,D. Pomeranz,0.2,1,0,1,0,J. Cannon,5.0,4,3,3,0
+2025-05-18,Athletics,San Francisco Giants,22-25,28-19,2,3,R. Rodriguez,1.0,0,0,0,0,T. Ferguson,0.2,3,2,0,1
+2025-05-18,Los Angeles Angels,Los Angeles Dodgers,20-25,29-18,6,4,S. Anderson,2.2,1,1,3,0,A. Banda,2.0,2,1,2,0
+2025-05-18,Colorado Rockies,Arizona Diamondbacks,8-38,25-22,0,1,M. Kelly,7.0,1,0,11,3,C. Dollander,4.2,3,1,6,2
+2025-05-18,Seattle Mariners,San Diego Padres,26-19,27-18,6,1,B. Woo,7.0,5,1,5,0,M. King,5.1,6,3,8,1
+2025-05-18,New York Mets,New York Yankees,29-18,27-19,2,8,D. Williams,1.0,0,0,1,0,R. Stanek,0.1,2,1,1,1
+2025-05-19,Chicago Cubs,Miami Marlins,28-20,19-27,7,8,V. Bellozo,3.0,2,0,1,1,D. Palencia,0.2,2,2,1,1
+2025-05-19,Cincinnati Reds,Pittsburgh Pirates,25-24,15-33,7,1,N. Lodolo,6.0,4,1,7,1,M. Keller,6.0,6,1,5,1
+2025-05-19,New York Mets,Boston Red Sox,29-19,24-25,1,3,J. Wilson,1.0,1,0,1,1,K. Senga,6.0,5,3,5,3
+2025-05-19,Houston Astros,Tampa Bay Rays,25-22,21-26,4,3,B. King,1.1,1,0,2,1,M. Rodriguez,1.0,3,1,0,0
+2025-05-19,Baltimore Orioles,Milwaukee Brewers,15-31,23-25,4,5,A. Uribe,1.0,1,0,3,1,Y. Cano,1.0,1,1,0,1
+2025-05-19,Cleveland Guardians,Minnesota Twins,25-22,27-21,5,6,J. Duran,1.0,2,1,1,0,C. Smith,0.2,2,1,0,0
+2025-05-19,Seattle Mariners,Chicago White Sox,27-19,14-34,5,1,L. Castillo,7.0,3,0,5,0,D. Martin,7.1,4,2,3,1
+2025-05-19,Detroit Tigers,St. Louis Cardinals,31-17,27-21,4,11,S. Gray,6.0,3,0,10,1,S. Guenther,0.1,3,1,0,0
+2025-05-19,Philadelphia Phillies,Colorado Rockies,29-18,8-39,9,3,J. Ross,1.0,1,0,0,0,S. Halvorsen,0.2,5,4,1,0
+2025-05-19,Kansas City Royals,San Francisco Giants,27-22,28-20,3,1,K. Bubic,7.0,2,0,5,3,T. Rogers,1.0,2,2,0,0
+2025-05-19,Los Angeles Angels,Athletics,21-25,22-26,4,3,J. Soriano,6.0,6,3,4,4,J.T. Ginn,4.0,6,4,7,0
+2025-05-19,Arizona Diamondbacks,Los Angeles Dodgers,26-22,29-19,9,5,B. Pfaadt,6.0,3,3,0,1,J. Dreyer,2.0,3,3,1,1
+2025-05-20,Chicago Cubs,Miami Marlins,29-20,19-28,14,1,J. Taillon,7.0,4,1,2,3,C. Faucher,0.0,5,6,0,1
+2025-05-20,Cincinnati Reds,Pittsburgh Pirates,25-25,16-33,0,1,B. Falter,7.0,4,0,5,0,N. Martinez,6.0,4,1,3,2
+2025-05-20,Atlanta Braves,Washington Nationals,24-24,22-27,3,5,M. Parker,5.1,6,3,4,1,S. Strider,4.1,6,4,3,1
+2025-05-20,New York Mets,Boston Red Sox,29-20,25-25,0,2,G. Whitlock,1.0,2,0,1,0,C. Holmes,6.0,4,2,5,3
+2025-05-20,Houston Astros,Tampa Bay Rays,25-23,22-26,2,3,M. Rodriguez,1.0,1,0,1,0,K. Ort,1.1,1,1,0,1
+2025-05-20,Texas Rangers,New York Yankees,25-24,28-19,2,5,W. Warren,5.2,5,0,10,1,P. Corbin,5.0,5,3,3,2
+2025-05-20,San Diego Padres,Toronto Blue Jays,27-19,23-24,0,3,C. Bassitt,6.0,4,0,6,1,D. Cease,7.0,3,3,6,1
+2025-05-20,Baltimore Orioles,Milwaukee Brewers,15-32,24-25,2,5,L. Henderson,5.0,2,0,7,2,C. McDermott,4.2,4,3,2,5
+2025-05-20,Seattle Mariners,Chicago White Sox,27-20,15-34,0,1,A. Houser,6.0,2,0,2,3,C. Lawrence,5.0,6,1,2,0
+2025-05-20,Detroit Tigers,St. Louis Cardinals,32-17,27-22,5,4,W. Vest,1.0,0,0,1,2,K. Leahy,1.1,2,1,1,0
+2025-05-20,Philadelphia Phillies,Colorado Rockies,30-18,8-40,7,4,J. Luzardo,6.0,2,1,10,3,A. Senzatela,6.0,10,4,3,1
+2025-05-20,Kansas City Royals,San Francisco Giants,27-23,29-20,2,3,H. Birdsong,5.0,5,0,4,0,M. Lorenzen,4.2,7,2,5,1
+2025-05-20,Los Angeles Angels,Athletics,22-25,22-27,7,5,K. Hendricks,5.2,9,4,3,0,G. Hoglund,4.2,6,5,5,2
+2025-05-20,Arizona Diamondbacks,Los Angeles Dodgers,26-23,30-19,3,4,A. Banda,0.1,0,0,0,0,S. Miller,0.2,1,2,0,2
+2025-05-21,Cleveland Guardians,Minnesota Twins,25-22,27-21,5,6,J. Duran,1.0,2,1,1,0,C. Smith,0.2,2,1,0,0
+2025-05-21,Cincinnati Reds,Pittsburgh Pirates,25-26,17-33,1,3,A. Heaney,5.0,3,1,4,2,B. Singer,5.0,5,2,3,4
+2025-05-21,Chicago Cubs,Miami Marlins,30-20,19-29,2,1,B. Keller,1.2,0,0,0,0,A. Bender,1.0,1,0,2,1
+2025-05-21,Houston Astros,Tampa Bay Rays,25-24,23-26,4,8,T. Bradley,6.0,4,2,7,2,H. Brown,5.0,7,5,4,2
+2025-05-21,Baltimore Orioles,Milwaukee Brewers,16-32,24-26,8,4,B. Baker,1.0,1,0,1,0,T. Alexander,1.0,3,3,0,0
+2025-05-21,Detroit Tigers,St. Louis Cardinals,33-17,27-23,5,1,C. Lee,2.0,0,0,2,0,A. Pallante,5.2,4,3,3,4
+2025-05-21,Seattle Mariners,Chicago White Sox,28-20,15-35,6,5,C. Legumina,1.0,1,0,2,1,M. Vasil,1.0,3,2,0,0
+2025-05-21,Kansas City Royals,San Francisco Giants,28-23,29-21,8,4,J. Bowlan,1.1,2,1,1,0,L. Webb,4.0,10,3,5,0
+2025-05-21,Cleveland Guardians,Minnesota Twins,26-22,27-22,5,1,G. Williams,6.0,2,1,6,2,C. Paddack,5.1,7,2,2,2
+2025-05-21,New York Mets,Boston Red Sox,30-20,25-26,5,1,H. Brazoban,2.1,1,0,4,0,L. Hendriks,0.2,3,3,2,0
+2025-05-21,Texas Rangers,New York Yankees,25-25,29-19,3,4,L. Weaver,1.0,0,0,0,0,L. Jackson,0.2,2,1,0,0
+2025-05-21,San Diego Padres,Toronto Blue Jays,27-20,24-24,0,14,K. Gausman,7.0,3,0,9,0,R. Vasquez,4.2,4,2,4,0
+2025-05-21,Philadelphia Phillies,Colorado Rockies,31-18,8-41,9,5,T. Walker,5.0,6,3,2,2,C. Palmquist,4.1,10,6,2,4
+2025-05-21,Los Angeles Angels,Athletics,23-25,22-28,10,5,H. Neris,1.0,0,0,0,0,J. Sears,5.0,8,6,4,0
+2025-05-21,Arizona Diamondbacks,Los Angeles Dodgers,26-24,31-19,1,3,D. May,6.0,5,1,8,1,C. Burnes,7.0,4,3,8,1
+2025-05-22,Texas Rangers,New York Yankees,25-26,30-19,0,1,C. Rodon,6.0,2,0,8,2,N. Eovaldi,6.0,5,1,6,1
+2025-05-22,San Diego Padres,Toronto Blue Jays,27-21,25-24,6,7,B. Fisher,0.1,0,0,0,0,J. Estrada,0.1,2,1,0,1
+2025-05-22,Philadelphia Phillies,Colorado Rockies,32-18,8-42,2,0,R. Suarez,6.2,6,0,6,3,G. Marquez,7.0,4,1,5,2
+2025-05-22,Los Angeles Angels,Athletics,24-25,22-29,10,5,H. Strickland,1.1,1,0,0,2,G. Holman,0.2,4,5,2,1
+2025-05-22,Cleveland Guardians,Detroit Tigers,27-22,33-18,7,0,T. Bibee,7.0,3,0,8,1,J. Flaherty,6.2,3,3,8,3
+2025-05-22,Milwaukee Brewers,Pittsburgh Pirates,25-26,17-34,8,5,C. Rodriguez,3.1,5,3,2,4,M. Burrows,5.0,4,4,3,2
+2025-05-22,Atlanta Braves,Washington Nationals,24-25,23-27,7,8,J. Rutledge,1.0,1,0,0,0,D. Lee,0.1,1,0,0,0
+2025-05-22,Seattle Mariners,Houston Astros,28-21,26-24,2,9,S. Dubin,0.2,1,0,1,0,G. Kirby,3.2,6,5,4,1
+2025-05-23,Baltimore Orioles,Boston Red Sox,16-33,26-26,5,19,G. Whitlock,2.0,1,0,3,0,S. Dominguez,0.1,2,3,0,1
+2025-05-23,Chicago Cubs,Cincinnati Reds,31-20,25-27,13,6,C. Flexen,1.1,0,0,0,0,T. Santillan,0.0,3,3,0,1
+2025-05-23,Milwaukee Brewers,Pittsburgh Pirates,25-27,18-34,5,6,R. Borucki,1.0,1,0,1,0,A. Uribe,1.2,4,2,1,1
+2025-05-23,San Francisco Giants,Washington Nationals,30-21,23-28,4,0,L. Roupp,6.0,5,0,2,2,M. Gore,6.0,2,1,9,3
+2025-05-23,Toronto Blue Jays,Tampa Bay Rays,25-25,24-26,1,3,D. Rasmussen,6.0,4,0,3,2,E. Lauer,4.1,6,3,2,2
+2025-05-23,Cleveland Guardians,Detroit Tigers,28-22,33-19,3,1,S. Cecconi,6.0,5,1,6,2,J. Jobe,5.0,4,2,3,2
+2025-05-23,Los Angeles Dodgers,New York Mets,32-19,30-21,7,5,L. Garcia,2.1,0,0,0,2,H. Brazoban,1.0,3,1,0,0
+2025-05-23,San Diego Padres,Atlanta Braves,28-21,24-26,2,1,J. Adam,0.1,0,0,0,0,R. Iglesias,1.0,1,1,1,0
+2025-05-23,Texas Rangers,Chicago White Sox,25-27,16-35,1,4,S. Burke,6.0,3,1,6,3,T. Mahle,5.0,5,3,3,3
+2025-05-23,Kansas City Royals,Minnesota Twins,28-24,28-22,1,3,C. Sands,1.0,0,0,0,0,L. Erceg,0.1,2,2,1,0
+2025-05-23,Seattle Mariners,Houston Astros,29-21,26-25,5,3,E. Hancock,6.0,9,3,3,0,B. Abreu,1.1,3,2,2,1
+2025-05-23,Arizona Diamondbacks,St. Louis Cardinals,26-25,28-23,3,4,M. Mikolas,6.0,4,1,4,1,Z. Gallen,5.2,3,4,4,4
+2025-05-23,New York Yankees,Colorado Rockies,30-20,9-42,2,3,T. Gordon,6.0,5,2,5,2,C. Schmidt,4.2,6,3,8,2
+2025-05-23,Miami Marlins,Los Angeles Angels,19-30,25-25,4,7,Y. Kikuchi,5.2,7,0,4,4,S. Alcantara,5.1,5,5,6,2
+2025-05-23,Philadelphia Phillies,Athletics,33-18,22-30,4,3,Z. Wheeler,6.2,3,0,8,2,J. Lopez,7.0,3,1,8,1
+2025-05-24,Baltimore Orioles,Boston Red Sox,16-34,27-26,5,6,G. Weissert,1.0,0,0,2,1,G. Soto,0.1,1,0,0,0
+2025-05-24,Kansas City Royals,Minnesota Twins,28-25,29-22,4,5,J. Duran,1.0,1,0,2,1,D. Lynch IV,0.1,0,1,0,2
+2025-05-24,Arizona Diamondbacks,St. Louis Cardinals,26-26,29-23,5,6,R. Helsley,1.0,1,0,2,1,J. Martinez,1.0,2,2,2,1
+2025-05-24,Milwaukee Brewers,Pittsburgh Pirates,25-28,19-34,1,2,C. Shugart,0.1,0,0,0,0,T. Alexander,0.2,2,1,0,0
+2025-05-24,San Francisco Giants,Washington Nationals,30-22,24-28,0,3,J. Irvin,8.0,3,0,7,2,K. Harrison,4.0,5,2,4,0
+2025-05-24,Chicago Cubs,Cincinnati Reds,31-21,26-27,4,6,A. Abbott,5.2,6,1,2,2,C. Rea,5.0,7,6,8,3
+2025-05-24,San Diego Padres,Atlanta Braves,28-22,25-26,1,7,G. Holmes,7.0,6,1,6,1,S. Reynolds,2.2,6,3,1,0
+2025-05-24,Seattle Mariners,Houston Astros,29-22,27-25,1,2,F. Valdez,6.0,4,1,5,4,B. Woo,6.0,10,2,5,0
+2025-05-24,Texas Rangers,Chicago White Sox,25-28,17-35,5,10,M. Vasil,3.0,1,0,2,1,H. Milner,0.0,0,0,0,0
+2025-05-24,New York Yankees,Colorado Rockies,31-20,9-43,13,1,M. Fried,7.1,6,1,7,1,K. Freeland,4.2,9,4,3,3
+2025-05-24,Baltimore Orioles,Boston Red Sox,17-34,27-27,2,1,A. Kittredge,1.0,1,0,1,1,B. Bernardino,0.2,0,1,0,1
+2025-05-24,Toronto Blue Jays,Tampa Bay Rays,25-26,25-26,1,3,S. Baz,5.2,4,1,4,3,J. Berrios,6.0,3,3,3,1
+2025-05-24,Cleveland Guardians,Detroit Tigers,29-22,33-20,7,5,T. Herrin,1.0,0,0,2,0,B. Hanifee,1.0,3,3,1,1
+2025-05-24,Los Angeles Dodgers,New York Mets,32-20,31-21,2,5,D. Peterson,7.2,5,2,7,2,T. Gonsolin,5.0,7,4,4,3
+2025-05-24,Philadelphia Phillies,Athletics,34-18,22-31,9,6,O. Kerkering,1.0,1,0,0,2,M. Spence,1.0,1,2,0,1
+2025-05-24,Miami Marlins,Los Angeles Angels,20-30,25-26,6,2,R. Henriquez,0.2,0,0,1,0,J. Soriano,4.2,7,3,1,3
+2025-05-25,Cleveland Guardians,Detroit Tigers,29-23,34-20,0,5,T. Skubal,9.0,2,0,13,0,L. Allen,3.2,6,4,2,4
+2025-05-25,Baltimore Orioles,Boston Red Sox,18-34,27-28,5,1,D. Kremer,5.1,7,0,4,1,W. Buehler,5.0,4,2,3,2
+2025-05-25,Milwaukee Brewers,Pittsburgh Pirates,26-28,19-35,6,5,J. Koenig,1.2,2,2,1,1,R. Borucki,0.2,3,3,0,1
+2025-05-25,San Francisco Giants,Washington Nationals,31-22,24-29,3,2,R. Ray,6.0,3,1,7,0,M. Soroka,6.0,5,3,2,1
+2025-05-25,Chicago Cubs,Cincinnati Reds,32-21,26-28,11,8,D. Pomeranz,1.0,0,0,2,0,T. Rogers,0.0,2,3,0,1
+2025-05-25,Toronto Blue Jays,Tampa Bay Rays,25-27,26-26,0,13,R. Pepiot,7.0,3,0,5,1,C. Bassitt,4.0,9,5,2,2
+2025-05-25,Kansas City Royals,Minnesota Twins,29-25,29-23,2,1,C. Estevez,1.1,0,0,2,0,J. Duran,1.0,1,0,1,0
+2025-05-25,Seattle Mariners,Houston Astros,29-23,28-25,3,5,B. King,1.1,1,0,2,0,C. Legumina,0.0,2,2,0,0
+2025-05-25,Texas Rangers,Chicago White Sox,26-28,17-36,5,4,S. Armstrong,1.1,0,0,3,0,J. Leasure,1.0,3,3,2,0
+2025-05-25,Arizona Diamondbacks,St. Louis Cardinals,26-27,30-23,3,4,J. King,1.0,0,0,0,0,K. Ginkel,0.2,1,1,1,0
+2025-05-25,New York Yankees,Colorado Rockies,32-20,9-44,5,4,M. Leiter Jr.,1.1,0,0,2,1,A. Senzatela,4.1,6,4,4,1
+2025-05-25,Philadelphia Phillies,Athletics,34-19,23-31,4,5,T. Ferguson,0.1,0,0,1,0,M. Strahm,1.0,2,2,1,1
+2025-05-25,Miami Marlins,Los Angeles Angels,21-30,25-27,3,0,E. Cabrera,5.2,3,0,10,2,K. Hendricks,6.0,7,3,5,0
+2025-05-25,San Diego Padres,Atlanta Braves,29-22,25-27,5,3,J. Estrada,1.0,1,0,2,1,S. Schwellenbach,7.0,7,2,11,0
+2025-05-25,Los Angeles Dodgers,New York Mets,32-21,32-21,1,3,K. Senga,5.1,5,1,5,4,L. Knack,6.0,4,1,5,0
+2025-05-26,San Francisco Giants,Detroit Tigers,31-23,35-20,1,3,K. Montero,5.0,1,0,3,2,H. Birdsong,4.1,5,3,6,2
+2025-05-26,Boston Red Sox,Milwaukee Brewers,27-29,27-28,2,3,D. Hall,2.1,2,1,1,2,G. Crochet,6.2,5,2,11,2
+2025-05-26,Colorado Rockies,Chicago Cubs,9-45,33-21,1,3,J. Taillon,6.1,4,1,7,0,C. Palmquist,5.0,3,2,4,3
+2025-05-26,St. Louis Cardinals,Baltimore Orioles,30-24,19-34,2,5,C. Morton,6.0,4,2,5,2,E. Fedde,5.0,7,3,5,1
+2025-05-26,Toronto Blue Jays,Texas Rangers,26-27,26-29,2,1,K. Gausman,8.0,5,1,6,0,J. deGrom,5.1,5,2,0,2
+2025-05-26,Chicago White Sox,New York Mets,17-37,33-21,1,2,E. Diaz,1.0,0,0,1,1,S. Wilson,0.2,2,1,0,2
+2025-05-26,Cincinnati Reds,Kansas City Royals,27-28,29-26,7,4,N. Martinez,7.0,6,3,2,0,M. Lorenzen,5.0,11,6,2,3
+2025-05-26,Los Angeles Dodgers,Cleveland Guardians,33-21,29-24,7,2,Y. Yamamoto,6.0,3,2,7,2,G. Williams,4.2,4,4,3,6
+2025-05-26,Minnesota Twins,Tampa Bay Rays,29-24,27-26,2,7,Z. Littell,6.1,3,1,4,0,C. Paddack,5.1,5,2,5,0
+2025-05-26,Pittsburgh Pirates,Arizona Diamondbacks,19-36,27-27,0,5,R. Nelson,6.2,4,0,4,0,A. Heaney,5.0,8,5,2,3
+2025-05-26,Miami Marlins,San Diego Padres,21-31,30-22,3,4,A. Morejon,1.0,0,0,1,0,C. Gibson,0.1,0,0,0,1
+2025-05-26,New York Yankees,Los Angeles Angels,33-20,25-28,5,1,R. Yarbrough,6.0,2,1,7,1,J. Kochanowicz,6.2,5,4,5,2
+2025-05-27,Los Angeles Dodgers,Cleveland Guardians,34-21,29-25,9,5,D. May,5.0,4,3,9,2,T. Bibee,5.0,7,4,7,3
+2025-05-27,St. Louis Cardinals,Baltimore Orioles,31-24,19-35,7,4,S. Matz,1.1,1,0,1,0,B. Baker,0.2,3,3,2,1
+2025-05-27,San Francisco Giants,Detroit Tigers,31-24,36-20,1,3,J. Flaherty,6.0,2,0,8,1,L. Webb,6.0,7,3,10,1
+2025-05-27,Atlanta Braves,Philadelphia Phillies,25-28,35-19,0,2,R. Suarez,6.0,4,0,8,3,S. Strider,4.2,1,1,7,4
+2025-05-27,Minnesota Twins,Tampa Bay Rays,30-24,27-27,4,2,J. Ryan,6.0,5,1,5,1,T. Bradley,7.0,5,2,6,1
+2025-05-27,Chicago White Sox,New York Mets,17-38,34-21,4,6,T. Megill,5.2,4,2,6,4,J. Cannon,5.2,9,5,4,1
+2025-05-27,Boston Red Sox,Milwaukee Brewers,27-30,28-28,1,5,R. Zastryzny,0.2,0,0,1,0,L. Hendriks,0.1,2,3,0,1
+2025-05-27,Cincinnati Reds,Kansas City Royals,28-28,29-27,7,2,B. Singer,7.0,7,2,3,1,T. Clarke,2.2,1,1,3,0
+2025-05-27,Colorado Rockies,Chicago Cubs,9-46,34-21,3,4,C. Flexen,2.0,1,0,1,0,T. Kinley,1.1,2,1,1,2
+2025-05-27,Toronto Blue Jays,Texas Rangers,26-28,27-29,0,2,L. Jackson,1.0,0,0,0,1,C. Green,1.0,2,1,1,1
+2025-05-27,Athletics,Houston Astros,23-32,29-25,1,11,H. Brown,6.0,6,1,8,0,J. Sears,3.1,10,9,1,1
+2025-05-27,New York Yankees,Los Angeles Angels,34-20,25-29,3,2,C. Rodon,7.0,5,0,10,0,T. Anderson,6.0,5,1,3,1
+2025-05-27,Miami Marlins,San Diego Padres,21-32,31-22,6,8,S. Kolek,5.1,6,6,3,2,C. Gibson,1.1,1,1,1,1
+2025-05-27,Pittsburgh Pirates,Arizona Diamondbacks,20-36,27-28,9,6,J. Wentz,3.2,3,1,4,0,K. Ginkel,0.1,4,5,1,1
+2025-05-27,Washington Nationals,Seattle Mariners,24-30,30-23,1,9,L. Evans,8.0,4,1,4,1,M. Parker,4.2,7,4,4,1
+2025-05-28,Chicago White Sox,New York Mets,18-38,34-22,9,4,B. Eisert,1.1,0,0,2,0,G. Canning,3.0,4,3,3,4
+2025-05-28,Los Angeles Dodgers,Cleveland Guardians,34-22,30-25,4,7,M. Festa,1.0,1,0,0,0,T. Scott,0.2,3,4,2,1
+2025-05-28,San Francisco Giants,Detroit Tigers,31-25,37-20,3,4,B. Hanifee,1.0,1,0,1,0,L. Roupp,4.0,5,1,7,2
+2025-05-28,Boston Red Sox,Milwaukee Brewers,27-31,29-28,5,6,T. Alexander,1.0,1,0,2,0,J. Slaten,0.1,1,0,0,0
+2025-05-28,Minnesota Twins,Tampa Bay Rays,30-25,28-27,0,5,D. Rasmussen,6.0,1,0,5,1,P. Lopez,5.0,7,4,3,2
+2025-05-28,Athletics,Houston Astros,23-33,30-25,3,5,S. Dubin,1.0,1,0,2,0,J. Sterner,0.2,4,3,0,1
+2025-05-28,Pittsburgh Pirates,Arizona Diamondbacks,21-36,27-29,10,1,P. Skenes,6.2,4,0,7,0,Z. Gallen,5.0,6,5,3,3
+2025-05-28,Miami Marlins,San Diego Padres,22-32,31-23,10,8,R. Henriquez,2.0,1,2,3,1,J. Adam,0.2,3,0,0,0
+2025-05-28,St. Louis Cardinals,Baltimore Orioles,32-24,19-36,6,4,J. King,1.0,0,0,2,0,C. Povich,4.2,8,5,9,3
+2025-05-28,Cincinnati Reds,Kansas City Royals,28-29,30-27,2,3,N. Cameron,6.1,6,1,2,2,H. Greene,5.0,7,2,3,1
+2025-05-28,Colorado Rockies,Chicago Cubs,9-47,35-21,1,2,M. Boyd,6.0,4,0,8,0,T. Gordon,4.2,6,2,1,0
+2025-05-28,Toronto Blue Jays,Texas Rangers,27-28,27-30,2,0,B. Little,0.2,0,0,2,0,J. Webb,1.0,2,2,0,0
+2025-05-28,New York Yankees,Los Angeles Angels,35-20,25-30,1,0,C. Schmidt,6.0,4,0,4,1,Y. Kikuchi,5.0,4,1,4,5
+2025-05-28,Washington Nationals,Seattle Mariners,25-30,30-24,9,0,T. Williams,6.0,3,0,2,0,G. Kirby,5.0,7,6,4,2
+2025-05-29,Atlanta Braves,Philadelphia Phillies,25-29,36-19,4,5,J. Ruiz,0.1,0,0,0,0,D. Hernandez,0.1,1,1,0,2
+2025-05-29,Atlanta Braves,Philadelphia Phillies,26-29,36-20,9,3,C. Sale,6.0,2,0,8,3,Z. Wheeler,5.1,4,6,6,4
+2025-05-29,Athletics,Toronto Blue Jays,23-34,28-28,0,12,J. Berrios,6.0,2,0,9,2,J. Lopez,1.2,6,7,0,1
+2025-05-29,Tampa Bay Rays,Houston Astros,29-27,30-26,13,3,E. Uceta,0.1,1,0,1,0,B. King,0.1,5,5,0,0
+2025-05-29,Washington Nationals,Seattle Mariners,26-30,30-25,9,3,J. Ferrer,1.2,0,0,0,0,C. Snider,0.1,4,5,0,1
+2025-05-30,Cincinnati Reds,Chicago Cubs,29-29,35-22,6,2,A. Abbott,7.0,1,0,8,1,C. Rea,5.2,10,6,3,2
+2025-05-30,Chicago White Sox,Baltimore Orioles,18-39,20-36,1,2,Z. Eflin,7.0,4,0,6,1,S. Burke,6.0,5,2,6,1
+2025-05-30,Milwaukee Brewers,Philadelphia Phillies,30-28,36-21,6,2,Q. Priester,6.0,4,2,0,0,T. Walker,4.0,7,4,6,1
+2025-05-30,Athletics,Toronto Blue Jays,23-35,29-28,7,11,C. Bassitt,5.0,7,5,6,2,J. Springs,2.0,6,6,2,6
+2025-05-30,Los Angeles Angels,Cleveland Guardians,26-30,30-26,4,1,J. Soriano,6.0,4,0,2,4,L. Ortiz,6.0,7,1,5,2
+2025-05-30,Colorado Rockies,New York Mets,9-48,35-22,2,4,D. Peterson,5.2,5,1,5,1,K. Freeland,6.0,7,3,4,0
+2025-05-30,San Francisco Giants,Miami Marlins,32-25,22-33,2,0,K. Harrison,5.0,1,0,5,3,C. Quantrill,5.0,8,2,7,1
+2025-05-30,Boston Red Sox,Atlanta Braves,28-31,26-30,5,1,G. Whitlock,1.2,1,0,2,1,G. Holmes,5.2,6,3,9,1
+2025-05-30,St. Louis Cardinals,Texas Rangers,32-25,28-30,1,11,J. Leiter,5.2,3,0,6,2,M. Liberatore,5.0,7,4,5,1
+2025-05-30,Detroit Tigers,Kansas City Royals,38-20,30-28,7,5,B. Hurter,1.2,0,0,2,2,S. Lugo,3.1,5,4,3,2
+2025-05-30,Tampa Bay Rays,Houston Astros,29-28,31-26,1,2,F. Valdez,9.0,3,1,9,1,G. Cleavinger,0.2,1,1,2,0
+2025-05-30,Pittsburgh Pirates,San Diego Padres,21-37,32-23,2,3,N. Pivetta,6.0,6,2,8,0,M. Keller,6.0,3,3,1,2
+2025-05-30,Washington Nationals,Arizona Diamondbacks,27-30,27-30,9,7,J. Irvin,5.0,10,6,0,1,J. Morillo,1.0,1,2,1,3
+2025-05-30,Minnesota Twins,Seattle Mariners,31-25,30-26,12,6,J. Duran,1.0,0,0,1,0,C. Legumina,1.0,4,5,1,2
+2025-05-30,New York Yankees,Los Angeles Dodgers,35-21,35-22,5,8,T. Gonsolin,6.0,6,5,4,3,M. Fried,5.0,8,6,3,0
+2025-05-31,Cincinnati Reds,Chicago Cubs,29-30,36-22,0,2,B. Keller,1.0,0,0,0,0,G. Ashcraft,0.2,3,2,0,2
+2025-05-31,Athletics,Toronto Blue Jays,23-36,30-28,7,8,E. Lucas,4.2,4,0,3,1,G. Hoglund,6.0,10,8,1,2
+2025-05-31,Chicago White Sox,Baltimore Orioles,18-40,21-36,2,4,D. Kremer,6.0,6,1,7,2,D. Martin,6.0,5,4,3,1
+2025-05-31,Milwaukee Brewers,Philadelphia Phillies,31-28,36-22,17,7,C. Patrick,6.0,5,2,6,0,J. Luzardo,3.1,12,12,4,3
+2025-05-31,St. Louis Cardinals,Texas Rangers,33-25,28-31,2,0,S. Gray,7.0,4,0,10,1,P. Corbin,5.1,3,2,3,2
+2025-05-31,Los Angeles Angels,Cleveland Guardians,26-31,31-26,5,7,L. Allen,1.0,0,0,2,0,R. Zeferjahn,0.2,3,3,0,1
+2025-05-31,Boston Red Sox,Atlanta Braves,28-32,27-30,0,5,S. Schwellenbach,6.1,5,0,11,0,W. Buehler,5.2,10,5,6,2
+2025-05-31,Colorado Rockies,New York Mets,9-49,36-22,2,8,K. Senga,6.1,2,2,7,2,A. Senzatela,4.0,8,7,2,2
+2025-05-31,San Francisco Giants,Miami Marlins,32-26,23-33,0,1,E. Cabrera,5.2,6,0,5,3,R. Ray,7.0,2,1,9,3
+2025-05-31,Detroit Tigers,Kansas City Royals,38-21,31-28,0,1,J. Schreiber,1.0,0,0,2,1,B. Brieske,1.0,2,1,0,0
+2025-05-31,Tampa Bay Rays,Houston Astros,30-28,31-27,16,3,Z. Littell,9.0,10,3,6,1,C. Gordon,5.0,5,4,6,1
+2025-05-31,Minnesota Twins,Seattle Mariners,31-26,31-26,4,5,C. Snider,2.0,2,0,1,1,C. Sands,0.1,0,0,0,0
+2025-05-31,New York Yankees,Los Angeles Dodgers,35-22,36-22,2,18,L. Knack,6.0,5,1,6,3,W. Warren,1.1,6,7,2,4
+2025-05-31,Pittsburgh Pirates,San Diego Padres,22-37,32-24,5,0,B. Falter,6.1,2,0,1,1,D. Cease,4.2,7,3,6,1
+2025-05-31,Washington Nationals,Arizona Diamondbacks,28-30,27-31,11,7,M. Soroka,5.1,6,4,3,1,B. Pfaadt,0.0,6,8,0,0
+2025-06-01,St. Louis Cardinals,Texas Rangers,33-26,29-31,1,8,J. deGrom,6.0,4,1,4,3,E. Fedde,6.0,4,2,5,3
+2025-06-01,Boston Red Sox,Atlanta Braves,29-32,27-31,3,1,G. Crochet,7.0,5,1,12,2,B. Elder,5.1,6,3,4,3
+2025-06-01,Chicago White Sox,Baltimore Orioles,18-41,22-36,2,3,C. Morton,6.2,6,0,7,1,A. Houser,6.1,8,3,6,1
+2025-06-01,Milwaukee Brewers,Philadelphia Phillies,32-28,36-23,5,2,N. Mears,1.0,0,0,1,0,O. Kerkering,1.0,1,0,0,1
+2025-06-01,Athletics,Toronto Blue Jays,23-37,31-28,4,8,E. Swanson,1.0,1,1,1,0,J. Sterner,0.0,3,3,0,0
+2025-06-01,Los Angeles Angels,Cleveland Guardians,26-32,32-26,2,4,G. Williams,6.2,1,0,6,2,J. Kochanowicz,3.2,5,4,4,3
+2025-06-01,Colorado Rockies,New York Mets,9-50,37-22,3,5,C. Holmes,7.0,3,3,3,0,C. Palmquist,4.2,4,4,8,2
+2025-06-01,San Francisco Giants,Miami Marlins,33-26,23-34,4,2,H. Birdsong,5.1,5,1,5,0,R. Weathers,6.0,5,4,7,3
+2025-06-01,Detroit Tigers,Kansas City Royals,39-21,31-29,1,0,C. Lee,1.1,0,0,1,0,K. Bubic,7.0,4,1,9,2
+2025-06-01,Tampa Bay Rays,Houston Astros,30-29,32-27,0,1,H. Brown,6.0,1,0,5,4,T. Bradley,7.0,3,0,10,2
+2025-06-01,Cincinnati Reds,Chicago Cubs,29-31,37-22,3,7,J. Taillon,6.1,3,2,2,1,N. Martinez,4.2,7,5,2,2
+2025-06-01,Minnesota Twins,Seattle Mariners,31-27,32-26,1,2,A. Munoz,1.0,1,1,2,1,G. Jax,0.1,2,1,1,0
+2025-06-01,Washington Nationals,Arizona Diamondbacks,28-31,28-31,1,3,C. Mena,2.0,1,0,2,1,M. Parker,5.0,3,3,2,2
+2025-06-01,Pittsburgh Pirates,San Diego Padres,22-38,33-24,4,6,A. Morejon,0.1,0,0,0,0,T. Rainey,0.1,1,4,0,3
+2025-06-01,New York Yankees,Los Angeles Dodgers,36-22,36-23,7,3,R. Yarbrough,6.0,4,1,5,0,Y. Yamamoto,3.2,7,4,2,3
+2025-06-02,Colorado Rockies,Miami Marlins,10-50,23-35,6,4,G. Marquez,5.0,9,3,6,2,M. Meyer,5.0,10,4,5,1
+2025-06-02,Los Angeles Angels,Boston Red Sox,27-32,29-33,7,6,R. Zeferjahn,1.0,0,0,2,0,R. Fitts,1.0,4,5,0,1
+2025-06-02,Milwaukee Brewers,Cincinnati Reds,33-28,29-32,3,2,A. Civale,5.1,7,2,5,1,B. Singer,5.0,4,3,4,3
+2025-06-02,Detroit Tigers,Chicago White Sox,40-21,18-42,13,1,J. Flaherty,6.0,4,1,4,1,J. Cannon,3.0,4,5,5,3
+2025-06-02,San Diego Padres,San Francisco Giants,34-24,33-27,1,0,R. Suarez,2.0,1,0,1,0,R. Walker,1.0,0,0,0,0
+2025-06-02,Minnesota Twins,Athletics,32-27,23-38,10,4,J. Ryan,5.0,6,4,4,3,L. Severino,5.2,9,8,1,1
+2025-06-02,New York Mets,Los Angeles Dodgers,38-22,36-24,4,3,E. Diaz,1.0,2,1,2,0,T. Scott,1.0,2,1,1,1
+2025-06-03,Colorado Rockies,Miami Marlins,11-50,23-36,3,2,V. Vodnik,1.1,0,0,0,0,A. Bender,1.0,1,1,1,0
+2025-06-03,Houston Astros,Pittsburgh Pirates,33-27,22-39,3,0,L. McCullers Jr.,6.0,2,0,7,1,P. Skenes,8.0,3,1,8,1
+2025-06-03,Chicago Cubs,Washington Nationals,38-22,28-32,8,3,C. Horton,5.1,5,1,3,1,T. Williams,4.1,5,5,4,1
+2025-06-03,Cleveland Guardians,New York Yankees,32-27,37-22,2,3,C. Rodon,7.0,5,1,8,1,T. Bibee,6.1,4,3,6,2
+2025-06-03,Philadelphia Phillies,Toronto Blue Jays,37-23,31-29,8,3,C. Sanchez,6.0,4,1,4,4,B. Francis,1.2,7,6,2,2
+2025-06-03,Los Angeles Angels,Boston Red Sox,28-32,29-34,4,3,K. Jansen,1.0,0,0,1,2,Z. Kelly,1.0,0,0,0,1
+2025-06-03,Milwaukee Brewers,Cincinnati Reds,33-29,30-32,2,4,G. Ashcraft,1.1,0,0,1,0,F. Peralta,6.0,7,3,9,3
+2025-06-03,Arizona Diamondbacks,Atlanta Braves,29-31,27-32,8,3,Z. Gallen,7.0,4,1,4,1,S. Strider,5.0,6,5,4,2
+2025-06-03,Texas Rangers,Tampa Bay Rays,29-32,31-29,1,5,D. Rasmussen,5.0,1,0,8,0,T. Mahle,5.1,5,4,5,2
+2025-06-03,Detroit Tigers,Chicago White Sox,40-22,19-42,1,8,S. Smith,5.1,3,0,6,2,B. Hurter,2.0,1,0,4,1
+2025-06-03,Kansas City Royals,St. Louis Cardinals,32-29,33-27,10,7,S. Cruz,1.2,0,0,2,0,S. Matz,1.1,3,2,2,0
+2025-06-03,Baltimore Orioles,Seattle Mariners,23-36,32-27,5,1,T. Sugano,7.0,5,1,5,1,G. Kirby,5.0,8,2,3,1
+2025-06-03,San Diego Padres,San Francisco Giants,35-24,33-28,3,2,Y. Matsui,1.0,0,0,0,0,S. Bivens,1.0,2,0,0,0
+2025-06-03,Minnesota Twins,Athletics,33-27,23-39,10,3,P. Lopez,5.0,4,2,4,3,J. Lopez,4.1,5,5,9,1
+2025-06-03,New York Mets,Los Angeles Dodgers,38-23,37-24,5,6,T. Scott,1.0,0,0,2,0,J. Butto,0.1,1,0,0,1
+2025-06-04,Colorado Rockies,Miami Marlins,12-50,23-37,3,2,K. Freeland,6.1,4,0,4,0,C. Quantrill,5.0,5,2,2,1
+2025-06-04,Milwaukee Brewers,Cincinnati Reds,34-29,30-33,9,1,Q. Priester,5.0,2,1,4,3,A. Abbott,6.0,7,5,6,1
+2025-06-04,Los Angeles Angels,Boston Red Sox,28-33,30-34,9,11,C. Criswell,1.2,0,0,2,1,B. Burke,1.0,3,2,1,1
+2025-06-04,Houston Astros,Pittsburgh Pirates,33-28,23-39,0,3,M. Burrows,5.1,5,0,6,0,R. Gusto,4.1,8,3,3,2
+2025-06-04,Chicago Cubs,Washington Nationals,38-23,29-32,0,2,M. Gore,7.0,3,0,7,1,M. Boyd,7.1,4,2,6,1
+2025-06-04,Cleveland Guardians,New York Yankees,33-27,37-23,4,0,L. Ortiz,5.2,3,0,7,3,C. Schmidt,5.2,7,3,8,1
+2025-06-04,Philadelphia Phillies,Toronto Blue Jays,37-24,32-29,1,2,J. Hoffman,0.1,1,0,0,0,J. Romano,0.2,2,1,1,0
+2025-06-04,Arizona Diamondbacks,Atlanta Braves,30-31,27-33,2,1,M. Kelly,7.0,1,0,8,1,C. Sale,6.0,3,1,10,4
+2025-06-04,Texas Rangers,Tampa Bay Rays,29-33,32-29,4,5,S. Baz,5.0,5,3,5,1,K. Rocker,3.1,6,5,5,2
+2025-06-04,Detroit Tigers,Chicago White Sox,41-22,19-43,5,4,W. Vest,2.0,0,0,3,0,B. Eisert,1.0,1,1,1,0
+2025-06-04,Baltimore Orioles,Seattle Mariners,24-36,32-28,3,2,Y. Cano,0.2,0,0,1,0,C. Vargas,0.1,1,1,0,1
+2025-06-04,San Diego Padres,San Francisco Giants,35-25,34-28,5,6,S. Hjelle,2.2,0,0,1,1,J. Adam,1.0,2,1,1,1
+2025-06-04,Minnesota Twins,Athletics,34-27,23-40,6,1,Z. Matthews,5.0,4,1,4,3,J. Sterner,1.0,1,1,1,0
+2025-06-04,New York Mets,Los Angeles Dodgers,39-23,37-25,6,1,G. Canning,6.0,3,0,7,1,T. Gonsolin,5.0,3,2,6,3
+2025-06-05,Arizona Diamondbacks,Atlanta Braves,31-31,27-34,11,10,K. Graveman,1.0,2,1,0,0,R. Iglesias,0.2,4,3,0,1
+2025-06-05,Kansas City Royals,St. Louis Cardinals,32-30,34-27,5,6,J. Romero,1.0,1,0,1,0,C. Estevez,0.1,2,1,0,1
+2025-06-05,Detroit Tigers,Chicago White Sox,41-23,20-43,2,3,S. Wilson,1.0,0,0,1,0,B. Brieske,0.1,1,0,0,1
+2025-06-05,Philadelphia Phillies,Toronto Blue Jays,37-25,33-29,1,9,C. Bassitt,7.0,5,1,6,2,J. Luzardo,2.1,9,8,2,2
+2025-06-05,Minnesota Twins,Athletics,34-28,24-40,3,14,M. Spence,5.0,3,1,4,1,D. Festa,3.2,6,8,6,2
+2025-06-05,Baltimore Orioles,Seattle Mariners,25-36,32-29,4,3,Z. Eflin,6.0,8,3,7,0,B. Woo,6.0,4,4,6,2
+2025-06-05,San Diego Padres,San Francisco Giants,35-26,35-28,2,3,R. Ray,7.0,4,2,9,1,D. Cease,5.0,5,3,7,3
+2025-06-05,New York Mets,Los Angeles Dodgers,39-24,38-25,5,6,A. Vesia,0.1,0,0,0,0,R. Garrett,0.2,2,1,1,2
+2025-06-05,Houston Astros,Pittsburgh Pirates,34-28,23-40,8,2,F. Valdez,7.0,4,2,11,3,M. Keller,6.1,8,6,5,1
+2025-06-05,Chicago Cubs,Washington Nationals,39-23,29-33,7,1,C. Rea,5.1,5,0,0,1,J. Irvin,5.0,8,3,3,2
+2025-06-05,Cleveland Guardians,New York Yankees,33-28,38-23,0,4,M. Fried,6.0,1,0,7,2,S. Cecconi,5.0,5,2,3,2
+2025-06-05,Texas Rangers,Tampa Bay Rays,29-34,33-29,3,4,C. Sulser,1.0,1,0,1,0,R. Garcia,0.2,4,3,0,1
+2025-06-05,Kansas City Royals,St. Louis Cardinals,33-30,34-28,7,5,A. Zerpa,3.0,1,0,4,1,M. Liberatore,4.0,8,7,2,1
+2025-06-06,Miami Marlins,Tampa Bay Rays,23-38,34-29,3,4,Z. Littell,6.0,6,1,4,0,E. Cabrera,4.0,6,1,5,2
+2025-06-06,Philadelphia Phillies,Pittsburgh Pirates,37-26,24-40,4,5,D. Bednar,1.0,0,0,3,0,J. Romano,0.2,3,1,1,0
+2025-06-06,Texas Rangers,Washington Nationals,29-35,30-33,0,2,M. Soroka,6.0,2,0,7,1,P. Corbin,8.0,5,2,2,0
+2025-06-06,Boston Red Sox,New York Yankees,30-35,39-23,6,9,W. Warren,5.1,3,4,6,4,W. Buehler,2.0,7,5,2,2
+2025-06-06,Arizona Diamondbacks,Cincinnati Reds,31-32,31-33,3,4,T. Santillan,1.0,0,0,2,1,R. Thompson,1.1,1,0,3,0
+2025-06-06,Chicago Cubs,Detroit Tigers,39-24,42-23,1,3,T. Skubal,7.2,8,1,6,0,B. Brown,7.0,7,2,7,1
+2025-06-06,Houston Astros,Cleveland Guardians,35-28,33-29,4,2,C. Gordon,5.0,7,1,5,0,L. Allen,6.0,7,4,2,2
+2025-06-06,Kansas City Royals,Chicago White Sox,33-31,21-43,2,7,J. Leasure,1.0,1,0,0,1,J. Bowlan,1.1,2,3,1,4
+2025-06-06,San Diego Padres,Milwaukee Brewers,36-26,34-30,2,0,W. Peralta,0.2,0,0,2,1,C. Patrick,6.0,4,1,6,3
+2025-06-06,Toronto Blue Jays,Minnesota Twins,34-29,34-29,6,4,E. Lauer,2.1,1,0,2,1,B. Ober,7.0,5,5,4,1
+2025-06-06,Los Angeles Dodgers,St. Louis Cardinals,38-26,35-28,0,5,S. Gray,6.1,8,0,5,0,J. Wrobleski,6.0,6,4,5,3
+2025-06-06,New York Mets,Colorado Rockies,40-24,12-51,4,2,R. Stanek,1.0,2,0,1,1,Z. Agnos,1.0,2,2,2,1
+2025-06-06,Seattle Mariners,Los Angeles Angels,32-30,29-33,4,5,K. Hendricks,6.0,8,4,2,2,B. Miller,5.0,6,5,2,1
+2025-06-06,Baltimore Orioles,Athletics,25-37,25-40,4,5,J. Sears,5.0,4,4,3,3,D. Kremer,5.1,8,5,2,1
+2025-06-06,Atlanta Braves,San Francisco Giants,27-35,36-28,4,5,S. Bivens,0.1,0,0,0,0,P. Johnson,1.0,1,0,0,0
+2025-06-07,Arizona Diamondbacks,Cincinnati Reds,31-32,31-33,3,4,T. Santillan,1.0,0,0,2,1,R. Thompson,1.1,1,0,3,0
+2025-06-07,Chicago Cubs,Detroit Tigers,40-24,42-24,6,1,J. Taillon,7.0,3,1,5,1,T. Holton,1.1,1,1,2,0
