@@ -81,7 +81,6 @@ with tab1:
         line_df = line_df.rename(columns={"line": "vegas_line"})
 
         merged = line_df.merge(pred_df, on="pitcher_key", how="left")
-
         merged["date"] = selected_date
 
         col_map = {col.lower(): col for col in merged.columns}
@@ -151,11 +150,16 @@ with tab1:
                     output_df.to_csv(full_path, index=False)
 
                     master_path = f"{folder}/strikeouts_master.csv"
+
+                    if "Vegas Line" not in output_df.columns:
+                        st.error("Vegas Line column missing — cannot evaluate prop matches.")
+                        st.stop()
+
                     current_complete = output_df["Vegas Line"].notna().sum()
 
                     if os.path.exists(master_path):
                         existing_df = pd.read_csv(master_path)
-                        existing_complete = existing_df["Vegas Line"].notna().sum()
+                        existing_complete = existing_df["Vegas Line"].notna().sum() if "Vegas Line" in existing_df.columns else 0
                     else:
                         existing_complete = -1
 
@@ -179,6 +183,7 @@ with tab1:
 
     except Exception as e:
         st.error(f"❌ Tab 1 failed: {e}")
+
 
 
 
