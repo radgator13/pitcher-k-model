@@ -65,7 +65,7 @@ with tab1:
         pred_df = pd.read_csv(prediction_path)
         odds_df = pd.read_csv(odds_path)
 
-        pitcher_col = next((c for c in pred_df.columns if normalize(c) in ["pitcher", "starting_pitcher"]), None)
+        pitcher_col = next((col for col in pred_df.columns if normalize(col) in ["pitcher", "starting_pitcher"]), None)
         if pitcher_col is None:
             st.error("No pitcher column found.")
             st.stop()
@@ -80,27 +80,59 @@ with tab1:
         line_df = odds_df.groupby("pitcher_key", as_index=False)["line"].agg(get_mode_line)
         line_df = line_df.rename(columns={"line": "vegas_line"})
 
-        merged = pred_df.merge(line_df, on="pitcher_key", how="left")
-        merged["🔥 Confidence"] = merged.apply(
-            lambda row: render_confidence(get_confidence(row.get("Predicted K"), row.get("vegas_line"))),
-            axis=1
-        )
+        merged = line_df.merge(pred_df, on="pitcher_key", how="left")
+
         merged["date"] = selected_date
 
-        col_map = {c.lower(): c for c in merged.columns}
+        col_map = {col.lower(): col for col in merged.columns}
+        team_col = col_map.get("team")
+        opp_col = col_map.get("opponent")
+        pred_k_col = col_map.get("predicted k") or col_map.get("predicted_ks")
+
+        if not all([team_col, opp_col, pred_k_col]):
+            st.error("Missing one or more required columns: Team, Opponent, or Predicted K")
+            st.stop()
+
+        def get_confidence(pred, vegas_line):
+            return abs(pred - vegas_line)
+
+        def safe_get_confidence(pred, vegas_line):
+            if pred is None or pd.isna(pred) or vegas_line is None or pd.isna(vegas_line):
+                return None
+            return get_confidence(pred, vegas_line)
+
+        def render_confidence(score):
+            if score is None:
+                return None
+            if score >= 2.5:
+                return "🔥🔥🔥"
+            elif score >= 1.5:
+                return "🔥🔥"
+            elif score >= 0.8:
+                return "🔥"
+            else:
+                return "💤"
+
+        merged["confidence_score"] = merged.apply(
+            lambda row: safe_get_confidence(row.get(pred_k_col), row.get("vegas_line")),
+            axis=1
+        )
+        merged["🔥 Confidence"] = merged["confidence_score"].apply(render_confidence)
+
         output_df = merged[[
-            col_map["date"],
-            col_map.get("team", "Team"),
-            col_map.get("opponent", "Opponent"),
+            "date",
+            team_col,
+            opp_col,
             pitcher_col,
-            col_map.get("predicted k", "Predicted K"),
+            pred_k_col,
             "vegas_line",
             "🔥 Confidence"
         ]].rename(columns={
+            team_col: "Team",
+            opp_col: "Opponent",
             pitcher_col: "Pitcher",
-            "vegas_line": "Vegas Line",
-            col_map.get("team", "Team"): "Team",
-            col_map.get("opponent", "Opponent"): "Opponent"
+            pred_k_col: "Predicted K",
+            "vegas_line": "Vegas Line"
         })
 
         output_df = output_df.sort_values("Vegas Line", ascending=False)
@@ -147,6 +179,14 @@ with tab1:
 
     except Exception as e:
         st.error(f"❌ Tab 1 failed: {e}")
+
+
+
+
+
+
+
+
 
 
 
