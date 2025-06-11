@@ -1,10 +1,4 @@
 date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
-2025-06-11,PIT,MIA,1,Bailey Falter,Cal Quantrill,3.22
-2025-06-11,MIA,PIT,0,Cal Quantrill,Bailey Falter,2.01
-2025-06-11,CLE,CIN,1,Logan Allen,Nick Lodolo,1.49
-2025-06-11,CIN,CLE,0,Nick Lodolo,Logan Allen,3.27
-2025-06-11,MIL,ATL,1,Chad Patrick,Spencer Schwellenbach,2.13
-2025-06-11,ATL,MIL,0,Spencer Schwellenbach,Chad Patrick,1.42
 2025-06-11,STL,TOR,1,Matthew Liberatore,Eric Lauer,5.04
 2025-06-11,TOR,STL,0,Eric Lauer,Matthew Liberatore,5.97
 2025-06-11,LAA,ATH,1,Kyle Hendricks,JP Sears,1.77
@@ -35,7 +29,7 @@ date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-13,CHW,TEX,0,Adrian Houser,Jacob deGrom,3.55
 2025-06-13,HOU,MIN,1,Colton Gordon,Chris Paddack,1.59
 2025-06-13,MIN,HOU,0,Chris Paddack,Colton Gordon,3.17
-2025-06-13,MIL,STL,1,Jose Quintana,Erick Fedde,3.29
-2025-06-13,STL,MIL,0,Erick Fedde,Jose Quintana,3.48
+2025-06-13,MIL,STL,1,Freddy Peralta,Erick Fedde,3.07
+2025-06-13,STL,MIL,0,Erick Fedde,Freddy Peralta,2.82
 2025-06-13,SEA,CLE,1,Luis Castillo,Gavin Williams,1.18
 2025-06-13,CLE,SEA,0,Gavin Williams,Luis Castillo,1.97
