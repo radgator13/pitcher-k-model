@@ -1,8 +1,6 @@
 date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
-2025-06-12,MIN,TEX,1,Bailey Ober,Patrick Corbin,5.03
-2025-06-12,TEX,MIN,0,Patrick Corbin,Bailey Ober,4.51
-2025-06-12,BAL,DET,1,Dean Kremer,Tarik Skubal,2.56
-2025-06-12,DET,BAL,0,Tarik Skubal,Dean Kremer,3.44
+2025-06-12,BAL,DET,1,Keegan Akin,Tarik Skubal,2.35
+2025-06-12,DET,BAL,0,Tarik Skubal,Keegan Akin,4.63
 2025-06-12,CHC,PIT,1,Jameson Taillon,Andrew Heaney,1.62
 2025-06-12,PIT,CHC,0,Andrew Heaney,Jameson Taillon,1.98
 2025-06-12,HOU,CHW,1,Framber Valdez,Davis Martin,2.28
