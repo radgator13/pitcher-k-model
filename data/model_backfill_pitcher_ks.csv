@@ -1251,6 +1251,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-04-27,ATH,CHW,Osvaldo Bido,1.12,3.38,Under,1,HIT
 2025-05-03,ATH,MIA,Osvaldo Bido,2.2,2.3,Under,4,HIT
 2025-05-09,ATH,NYY,Osvaldo Bido,3.73,0.77,Under,6,MISS
+2025-06-11,CHW,HOU,Owen White,4.96,0.46,Over,5,HIT
 2025-04-02,MIN,CHW,Pablo López,3.9,0.6,Under,5,MISS
 2025-04-08,MIN,KCR,Pablo López,4.86,0.36,Over,6,HIT
 2025-04-25,MIN,LAA,Pablo López,6.0,1.5,Over,6,HIT
