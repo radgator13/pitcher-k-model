@@ -1,4 +1,15 @@
 date,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id
+2025-06-11,TOR,STL,Eric Lauer,Matthew Liberatore,39915,41173
+2025-06-11,SEA,ARI,Bryan Woo,Eduardo Rodriguez,4629089,32675
+2025-06-11,ATH,LAA,JP Sears,Kyle Hendricks,39818,33173
+2025-06-11,LAD,SD,Ben Casparius,Randy Vasquez,4326800,4722847
+2025-06-11,DET,BAL,Casey Mize,Zach Eflin,41167,32804
+2025-06-11,TB,BOS,Zack Littell,Walker Buehler,36052,39251
+2025-06-11,WSH,NYM,Jake Irvin,David Peterson,41290,40921
+2025-06-11,NYY,KC,Clarke Schmidt,Kris Bubic,41085,41201
+2025-06-11,TEX,MIN,Jack Leiter,David Festa,4622181,5124114
+2025-06-11,CHW,HOU,Sean Burke,Ryan Gusto,4867679,5131986
+2025-06-11,SF,COL,Robbie Ray,Kyle Freeland,32175,33839
 2025-06-12,WSH,NYM,Michael Soroka,Kodai Senga,34984,4142421
 2025-06-12,TEX,MIN,Patrick Corbin,Bailey Ober,31313,3107919
 2025-06-12,SF,COL,Hayden Birdsong,Antonio Senzatela,5197166,33750
@@ -22,17 +33,3 @@ date,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_
 2025-06-13,SD,ARI,Stephen Kolek,Ryne Nelson,5190073,4916269
 2025-06-13,CLE,SEA,Gavin Williams,Luis Castillo,4345076,35124
 2025-06-13,SF,LAD,Logan Webb,Yoshinobu Yamamoto,41216,4872587
-2025-06-14,MIA,WSH,Undecided,Trevor Williams,,33305
-2025-06-14,CIN,DET,Brady Singer,Jack Flaherty,41172,33837
-2025-06-14,PIT,CHC,Mike Burrows,Matthew Boyd,4918155,34401
-2025-06-14,LAA,BAL,Tyler Anderson,Tomoyuki Sugano,32151,4142423
-2025-06-14,TOR,PHI,Bowden Francis,Cristopher Sanchez,4734325,42359
-2025-06-14,COL,ATL,Chase Dollander,Spencer Strider,4719068,4307825
-2025-06-14,TB,NYM,Drew Rasmussen,Tylor Megill,42584,3332018
-2025-06-14,MIN,HOU,Joe Ryan,Hunter Brown,42450,4717803
-2025-06-14,ATH,KC,Jacob Lopez,Michael Lorenzen,42239,33252
-2025-06-14,STL,MIL,Andre Pallante,Jose Quintana,4109034,32106
-2025-06-14,NYY,BOS,Carlos Rodon,Hunter Dobbins,33696,4415836
-2025-06-14,SD,ARI,Ryan Bergert,Zac Gallen,5196249,39910
-2025-06-14,CLE,SEA,Tanner Bibee,George Kirby,4345278,42406
-2025-06-14,SF,LAD,Landen Roupp,Clayton Kershaw,4345404,28963

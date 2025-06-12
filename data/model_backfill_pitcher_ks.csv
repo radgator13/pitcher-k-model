@@ -78,6 +78,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-25,PIT,MIL,Bailey Falter,2.89,1.61,Under,1,HIT
 2025-05-31,PIT,SDP,Bailey Falter,2.01,2.49,Under,1,HIT
 2025-06-06,PIT,PHI,Bailey Falter,1.41,3.09,Under,2,HIT
+2025-06-11,PIT,MIA,Bailey Falter,2.08,2.42,Under,3,HIT
 2025-04-05,MIN,HOU,Bailey Ober,3.72,0.78,Under,5,MISS
 2025-04-10,MIN,KCR,Bailey Ober,3.55,0.95,Under,4,HIT
 2025-04-15,MIN,NYM,Bailey Ober,5.06,0.56,Over,5,HIT
@@ -101,8 +102,10 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-25,CHC,CIN,Ben Brown,5.41,0.91,Over,4,MISS
 2025-05-31,CHC,CIN,Ben Brown,7.47,2.97,Over,9,HIT
 2025-06-06,CHC,DET,Ben Brown,6.2,1.7,Over,7,HIT
+2025-06-11,CHC,PHI,Ben Brown,7.54,3.04,Over,5,HIT
 2025-04-27,LAD,PIT,Ben Casparius,3.4,1.1,Under,5,MISS
 2025-05-05,LAD,MIA,Ben Casparius,5.32,0.82,Over,5,HIT
+2025-06-11,LAD,SDP,Ben Casparius,0.68,3.82,Under,2,HIT
 2025-04-02,CLE,SDP,Ben Lively,3.25,1.25,Under,4,HIT
 2025-04-08,CLE,CHW,Ben Lively,3.62,0.88,Under,4,HIT
 2025-04-13,CLE,KCR,Ben Lively,4.58,0.08,Over,5,HIT
@@ -174,6 +177,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,SEA,HOU,Bryan Woo,5.62,1.12,Over,5,HIT
 2025-05-30,SEA,MIN,Bryan Woo,3.9,0.6,Under,3,HIT
 2025-06-05,SEA,BAL,Bryan Woo,4.71,0.21,Over,6,HIT
+2025-06-11,SEA,ARI,Bryan Woo,3.97,0.53,Under,3,HIT
 2025-04-11,ATL,TBR,Bryce Elder,3.18,1.32,Under,4,HIT
 2025-04-18,ATL,MIN,Bryce Elder,3.46,1.04,Under,3,HIT
 2025-04-23,ATL,STL,Bryce Elder,3.28,1.22,Under,2,HIT
@@ -221,6 +225,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-18,MIA,TBR,Cal Quantrill,4.61,0.11,Over,6,HIT
 2025-05-30,MIA,SFG,Cal Quantrill,5.13,0.63,Over,7,HIT
 2025-06-04,MIA,COL,Cal Quantrill,3.65,0.85,Under,2,HIT
+2025-06-11,MIA,PIT,Cal Quantrill,4.86,0.36,Over,6,HIT
 2025-04-03,NYY,ARI,Carlos Carrasco,3.34,1.16,Under,5,MISS
 2025-04-08,NYY,DET,Carlos Carrasco,3.26,1.24,Under,3,HIT
 2025-04-14,NYY,KCR,Carlos Carrasco,3.77,0.73,Under,4,HIT
@@ -262,6 +267,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-08,DET,COL,Casey Mize,5.82,1.32,Over,8,HIT
 2025-05-24,DET,CLE,Casey Mize,6.19,1.69,Over,6,HIT
 2025-06-05,DET,CHW,Casey Mize,4.3,0.2,Under,3,HIT
+2025-06-11,DET,BAL,Casey Mize,4.48,0.02,Under,7,MISS
 2025-04-01,MIL,KCR,Chad Patrick,2.97,1.53,Under,5,MISS
 2025-04-06,MIL,CIN,Chad Patrick,3.32,1.18,Under,4,HIT
 2025-04-12,MIL,ARI,Chad Patrick,3.36,1.14,Under,3,HIT
@@ -275,6 +281,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-26,MIL,BOS,Chad Patrick,5.14,0.64,Over,6,HIT
 2025-05-31,MIL,PHI,Chad Patrick,6.03,1.53,Over,6,HIT
 2025-06-06,MIL,SDP,Chad Patrick,6.11,1.61,Over,6,HIT
+2025-06-11,MIL,ATL,Chad Patrick,6.46,1.96,Over,8,HIT
 2025-04-03,BAL,BOS,Charlie Morton,6.52,2.02,Over,10,HIT
 2025-04-08,BAL,ARI,Charlie Morton,5.07,0.57,Over,4,MISS
 2025-04-15,BAL,CLE,Charlie Morton,4.5,0.0,Under,2,HIT
@@ -336,6 +343,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-23,NYY,COL,Clarke Schmidt,6.51,2.01,Over,8,HIT
 2025-05-28,NYY,LAA,Clarke Schmidt,5.49,0.99,Over,4,MISS
 2025-06-04,NYY,CLE,Clarke Schmidt,6.43,1.93,Over,8,HIT
+2025-06-11,NYY,KCR,Clarke Schmidt,6.02,1.52,Over,7,HIT
 2025-04-02,NYM,MIA,Clay Holmes,5.23,0.73,Over,6,HIT
 2025-04-08,NYM,MIA,Clay Holmes,7.0,2.5,Over,10,HIT
 2025-04-14,NYM,MIN,Clay Holmes,8.09,3.59,Over,8,HIT
@@ -401,6 +409,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-04-16,MIN,NYM,David Festa,5.33,0.83,Over,6,HIT
 2025-04-23,MIN,CHW,David Festa,5.14,0.64,Over,5,HIT
 2025-06-05,MIN,ATH,David Festa,5.79,1.29,Over,6,HIT
+2025-06-11,MIN,TEX,David Festa,5.03,0.53,Over,4,MISS
 2025-04-06,NYM,TOR,David Peterson,5.84,1.34,Over,3,MISS
 2025-04-12,NYM,ATH,David Peterson,5.58,1.08,Over,5,HIT
 2025-04-18,NYM,STL,David Peterson,5.99,1.49,Over,9,HIT
@@ -412,6 +421,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,NYM,LAD,David Peterson,5.47,0.97,Over,7,HIT
 2025-05-30,NYM,COL,David Peterson,5.13,0.63,Over,5,HIT
 2025-06-05,NYM,LAD,David Peterson,5.33,0.83,Over,6,HIT
+2025-06-11,NYM,WSN,David Peterson,6.49,1.99,Over,6,HIT
 2025-04-05,CHW,DET,Davis Martin,2.15,2.35,Under,2,HIT
 2025-04-11,CHW,BOS,Davis Martin,3.68,0.82,Under,6,MISS
 2025-04-17,CHW,ATH,Davis Martin,3.91,0.59,Under,3,HIT
@@ -483,6 +493,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-04,ARI,PHI,Eduardo Rodríguez,4.79,0.29,Over,10,HIT
 2025-05-14,ARI,SFG,Eduardo Rodríguez,4.94,0.44,Over,4,MISS
 2025-06-06,ARI,CIN,Eduardo Rodríguez,3.21,1.29,Under,3,HIT
+2025-06-11,ARI,SEA,Eduardo Rodríguez,3.84,0.66,Under,5,MISS
 2025-04-17,MIA,ARI,Edward Cabrera,5.71,1.21,Over,6,HIT
 2025-04-22,MIA,CIN,Edward Cabrera,5.97,1.47,Over,7,HIT
 2025-04-28,MIA,LAD,Edward Cabrera,4.24,0.26,Under,2,HIT
@@ -507,6 +518,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-11,TOR,SEA,Eric Lauer,2.89,1.61,Under,5,MISS
 2025-05-23,TOR,TBR,Eric Lauer,3.62,0.88,Under,2,HIT
 2025-06-03,TOR,PHI,Eric Lauer,2.67,1.83,Under,2,HIT
+2025-06-11,TOR,STL,Eric Lauer,2.65,1.85,Under,4,HIT
 2025-04-09,STL,PIT,Erick Fedde,1.35,3.15,Under,2,HIT
 2025-04-15,STL,HOU,Erick Fedde,3.05,1.45,Under,5,MISS
 2025-04-21,STL,ATL,Erick Fedde,3.25,1.25,Under,3,HIT
@@ -658,6 +670,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-21,ATH,LAA,JP Sears,3.34,1.16,Under,4,HIT
 2025-06-01,ATH,TOR,JP Sears,2.6,1.9,Under,3,HIT
 2025-06-06,ATH,BAL,JP Sears,2.01,2.49,Under,3,HIT
+2025-06-11,ATH,LAA,JP Sears,4.86,0.36,Over,9,HIT
 2025-04-04,DET,CHW,Jack Flaherty,6.11,1.61,Over,7,HIT
 2025-04-09,DET,NYY,Jack Flaherty,7.58,3.08,Over,9,HIT
 2025-04-15,DET,MIL,Jack Flaherty,5.94,1.44,Over,4,MISS
@@ -688,6 +701,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,TEX,CHW,Jack Leiter,3.64,0.86,Under,3,HIT
 2025-05-30,TEX,STL,Jack Leiter,5.01,0.51,Over,6,HIT
 2025-06-05,TEX,TBR,Jack Leiter,4.68,0.18,Over,6,HIT
+2025-06-11,TEX,MIN,Jack Leiter,4.82,0.32,Over,3,MISS
 2025-04-06,DET,CHW,Jackson Jobe,3.64,0.86,Under,4,HIT
 2025-04-12,DET,MIN,Jackson Jobe,2.61,1.89,Under,2,HIT
 2025-04-18,DET,KCR,Jackson Jobe,3.7,0.8,Under,5,MISS
@@ -724,6 +738,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,WSN,SFG,Jake Irvin,5.39,0.89,Over,7,HIT
 2025-05-30,WSN,ARI,Jake Irvin,4.54,0.04,Over,0,MISS
 2025-06-05,WSN,CHC,Jake Irvin,2.82,1.68,Under,3,HIT
+2025-06-11,WSN,NYM,Jake Irvin,2.28,2.22,Under,4,HIT
 2025-04-02,CHC,ATH,Jameson Taillon,3.67,0.83,Under,7,MISS
 2025-04-08,CHC,TEX,Jameson Taillon,5.14,0.64,Over,6,HIT
 2025-04-14,CHC,SDP,Jameson Taillon,5.75,1.25,Over,4,MISS
@@ -759,6 +774,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-14,PHI,STL,Jesús Luzardo,5.63,1.13,Over,6,HIT
 2025-05-20,PHI,COL,Jesús Luzardo,6.25,1.75,Over,10,HIT
 2025-05-25,PHI,ATH,Jesús Luzardo,8.97,4.47,Over,10,HIT
+2025-06-11,PHI,CHC,Jesús Luzardo,4.99,0.49,Over,10,HIT
 2025-04-03,MIN,HOU,Joe Ryan,5.49,0.99,Over,6,HIT
 2025-04-09,MIN,KCR,Joe Ryan,4.91,0.41,Over,4,MISS
 2025-04-14,MIN,NYM,Joe Ryan,6.16,1.66,Over,8,HIT
@@ -877,6 +893,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-19,KCR,SFG,Kris Bubic,6.61,2.11,Over,5,HIT
 2025-05-25,KCR,MIN,Kris Bubic,7.91,3.41,Over,9,HIT
 2025-06-01,KCR,DET,Kris Bubic,8.09,3.59,Over,9,HIT
+2025-06-11,KCR,NYY,Kris Bubic,7.4,2.9,Over,3,MISS
 2025-04-06,TEX,TBR,Kumar Rocker,2.05,2.45,Under,1,HIT
 2025-04-17,TEX,LAA,Kumar Rocker,3.61,0.89,Under,8,MISS
 2025-04-02,COL,PHI,Kyle Freeland,5.28,0.78,Over,3,MISS
@@ -889,6 +906,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,COL,NYY,Kyle Freeland,5.07,0.57,Over,3,MISS
 2025-05-30,COL,NYM,Kyle Freeland,4.54,0.04,Over,4,MISS
 2025-06-04,COL,MIA,Kyle Freeland,3.76,0.74,Under,4,HIT
+2025-06-11,COL,SFG,Kyle Freeland,4.94,0.44,Over,5,HIT
 2025-05-04,BAL,KCR,Kyle Gibson,1.78,2.72,Under,3,HIT
 2025-05-10,BAL,LAA,Kyle Gibson,2.56,1.94,Under,4,HIT
 2025-05-24,SFG,WSN,Kyle Harrison,1.93,2.57,Under,4,HIT
@@ -909,6 +927,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-25,LAA,MIA,Kyle Hendricks,4.07,0.43,Under,5,MISS
 2025-05-31,LAA,CLE,Kyle Hendricks,5.0,0.5,Over,6,HIT
 2025-06-06,LAA,SEA,Kyle Hendricks,3.83,0.67,Under,2,HIT
+2025-06-11,LAA,ATH,Kyle Hendricks,2.69,1.81,Under,3,HIT
 2025-05-16,HOU,TEX,Lance McCullers Jr.,1.86,2.64,Under,2,HIT
 2025-05-22,HOU,SEA,Lance McCullers Jr.,3.3,1.2,Under,8,MISS
 2025-05-28,HOU,ATH,Lance McCullers Jr.,8.34,3.84,Over,12,HIT
@@ -941,6 +960,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-13,CLE,MIL,Logan Allen,4.7,0.2,Over,6,HIT
 2025-05-25,CLE,DET,Logan Allen,3.47,1.03,Under,2,HIT
 2025-06-06,CLE,HOU,Logan Allen,2.1,2.4,Under,2,HIT
+2025-06-11,CLE,CIN,Logan Allen,3.47,1.03,Under,6,MISS
 2025-05-04,SEA,TEX,Logan Evans,3.66,0.84,Under,5,MISS
 2025-05-10,SEA,TOR,Logan Evans,3.69,0.81,Under,3,HIT
 2025-05-16,SEA,SDP,Logan Evans,3.82,0.68,Under,3,HIT
@@ -1053,6 +1073,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,STL,ARI,Matthew Liberatore,4.39,0.11,Under,4,HIT
 2025-05-30,STL,TEX,Matthew Liberatore,4.93,0.43,Over,5,HIT
 2025-06-05,STL,KCR,Matthew Liberatore,3.9,0.6,Under,2,HIT
+2025-06-11,STL,TOR,Matthew Liberatore,3.67,0.83,Under,4,HIT
 2025-04-04,NYY,PIT,Max Fried,4.35,0.15,Under,6,MISS
 2025-04-09,NYY,DET,Max Fried,7.84,3.34,Over,11,HIT
 2025-04-15,NYY,KCR,Max Fried,8.72,4.22,Over,7,HIT
@@ -1285,6 +1306,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-21,SDP,TOR,Randy Vásquez,4.84,0.34,Over,4,MISS
 2025-05-26,SDP,MIA,Randy Vásquez,5.04,0.54,Over,5,HIT
 2025-06-06,SDP,MIL,Randy Vásquez,3.0,1.5,Under,2,HIT
+2025-06-11,SDP,LAD,Randy Vásquez,2.87,1.63,Under,4,HIT
 2025-05-10,PHI,CLE,Ranger Suárez,5.22,0.72,Over,5,HIT
 2025-05-16,PHI,PIT,Ranger Suárez,6.07,1.57,Over,6,HIT
 2025-05-22,PHI,COL,Ranger Suárez,4.84,0.34,Over,6,HIT
@@ -1313,6 +1335,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-25,SFG,WSN,Robbie Ray,8.1,3.6,Over,7,HIT
 2025-05-31,SFG,MIA,Robbie Ray,7.52,3.02,Over,9,HIT
 2025-06-05,SFG,SDP,Robbie Ray,8.61,4.11,Over,9,HIT
+2025-06-11,SFG,COL,Robbie Ray,7.89,3.39,Over,5,HIT
 2025-04-05,LAD,PHI,Roki Sasaki,3.25,1.25,Under,4,HIT
 2025-04-12,LAD,CHC,Roki Sasaki,2.91,1.59,Under,3,HIT
 2025-04-19,LAD,TEX,Roki Sasaki,3.49,1.01,Under,4,HIT
@@ -1339,6 +1362,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-23,HOU,SEA,Ryan Gusto,2.95,1.55,Under,6,MISS
 2025-05-29,HOU,TBR,Ryan Gusto,3.61,0.89,Under,4,HIT
 2025-06-04,HOU,PIT,Ryan Gusto,4.12,0.38,Under,3,HIT
+2025-06-11,HOU,CHW,Ryan Gusto,4.93,0.43,Over,7,HIT
 2025-04-02,TBR,PIT,Ryan Pepiot,5.63,1.13,Over,3,MISS
 2025-04-09,TBR,LAA,Ryan Pepiot,5.57,1.07,Over,5,HIT
 2025-04-15,TBR,BOS,Ryan Pepiot,5.45,0.95,Over,8,HIT
@@ -1388,6 +1412,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-23,CHW,TEX,Sean Burke,4.57,0.07,Over,6,HIT
 2025-05-30,CHW,BAL,Sean Burke,5.56,1.06,Over,6,HIT
 2025-06-05,CHW,DET,Sean Burke,6.23,1.73,Over,5,HIT
+2025-06-11,CHW,HOU,Sean Burke,4.94,0.44,Over,4,MISS
 2025-04-06,BOS,STL,Sean Newcomb,4.57,0.07,Over,5,HIT
 2025-04-11,BOS,CHW,Sean Newcomb,4.92,0.42,Over,6,HIT
 2025-04-16,BOS,TBR,Sean Newcomb,4.71,0.21,Over,4,MISS
@@ -1470,6 +1495,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-25,ATL,SDP,Spencer Schwellenbach,8.48,3.98,Over,11,HIT
 2025-05-31,ATL,BOS,Spencer Schwellenbach,8.28,3.78,Over,11,HIT
 2025-06-06,ATL,SFG,Spencer Schwellenbach,9.01,4.51,Over,4,MISS
+2025-06-11,ATL,MIL,Spencer Schwellenbach,8.92,4.42,Over,9,HIT
 2025-05-20,ATL,WSN,Spencer Strider,3.56,0.94,Under,3,HIT
 2025-05-27,ATL,PHI,Spencer Strider,4.84,0.34,Over,7,HIT
 2025-06-03,ATL,ARI,Spencer Strider,4.87,0.37,Over,4,MISS
@@ -1620,6 +1646,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-04-26,BOS,CLE,Walker Buehler,4.99,0.49,Over,3,MISS
 2025-05-25,BOS,BAL,Walker Buehler,3.39,1.11,Under,3,HIT
 2025-05-31,BOS,ATL,Walker Buehler,4.35,0.15,Under,6,MISS
+2025-06-11,BOS,TBR,Walker Buehler,4.8,0.3,Over,7,HIT
 2025-04-06,NYY,PIT,Will Warren,4.33,0.17,Under,5,MISS
 2025-04-12,NYY,SFG,Will Warren,5.07,0.57,Over,6,HIT
 2025-04-22,NYY,CLE,Will Warren,3.57,0.93,Under,5,MISS
@@ -1673,6 +1700,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-24,BAL,BOS,Zach Eflin,3.27,1.23,Under,1,HIT
 2025-05-30,BAL,CHW,Zach Eflin,3.91,0.59,Under,6,MISS
 2025-06-05,BAL,SEA,Zach Eflin,4.92,0.42,Over,7,HIT
+2025-06-11,BAL,DET,Zach Eflin,6.14,1.64,Over,5,HIT
 2025-04-04,TBR,TEX,Zack Littell,4.44,0.06,Under,3,HIT
 2025-04-10,TBR,LAA,Zack Littell,5.03,0.53,Over,4,MISS
 2025-04-16,TBR,BOS,Zack Littell,4.06,0.44,Under,5,MISS
@@ -1685,6 +1713,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-26,TBR,MIN,Zack Littell,4.18,0.32,Under,4,HIT
 2025-05-31,TBR,HOU,Zack Littell,5.15,0.65,Over,6,HIT
 2025-06-06,TBR,MIA,Zack Littell,5.33,0.83,Over,4,MISS
+2025-06-11,TBR,BOS,Zack Littell,6.61,2.11,Over,6,HIT
 2025-04-02,PHI,COL,Zack Wheeler,9.0,4.5,Over,10,HIT
 2025-04-08,PHI,ATL,Zack Wheeler,8.61,4.11,Over,7,HIT
 2025-04-13,PHI,STL,Zack Wheeler,6.29,1.79,Over,3,MISS
