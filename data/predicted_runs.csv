@@ -3,10 +3,12 @@ date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-13,PIT,CHC,0,Paul Skenes,Cade Horton,3.48
 2025-06-13,BAL,LAA,1,Charlie Morton,Jack Kochanowicz,3.72
 2025-06-13,LAA,BAL,0,Jack Kochanowicz,Charlie Morton,4.32
-2025-06-13,DET,CIN,1,Keider Montero,Nick Martinez,2.28
-2025-06-13,CIN,DET,0,Nick Martinez,Keider Montero,2.22
+2025-06-13,DET,CIN,1,Brant Hurter,Nick Martinez,2.9
+2025-06-13,CIN,DET,0,Nick Martinez,Brant Hurter,1.58
 2025-06-13,BOS,NYY,1,Garrett Crochet,Ryan Yarbrough,2.67
 2025-06-13,NYY,BOS,0,Ryan Yarbrough,Garrett Crochet,2.17
+2025-06-13,TEX,CHW,1,Shawn Armstrong,Adrian Houser,2.38
+2025-06-13,CHW,TEX,0,Adrian Houser,Shawn Armstrong,5.61
 2025-06-13,HOU,MIN,1,Colton Gordon,Chris Paddack,3.35
 2025-06-13,MIN,HOU,0,Chris Paddack,Colton Gordon,3.49
 2025-06-13,MIL,STL,1,Freddy Peralta,Erick Fedde,2.38
