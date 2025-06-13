@@ -721,6 +721,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-23,ATH,PHI,Jacob Lopez,6.06,1.56,Over,8,HIT
 2025-06-03,ATH,MIN,Jacob Lopez,6.25,1.75,Over,9,HIT
 2025-06-08,ATH,BAL,Jacob Lopez,5.41,0.91,Over,5,HIT
+2025-06-12,MIL,STL,Jacob Misiorowski,4.93,0.43,Over,5,HIT
 2025-04-05,TEX,TBR,Jacob deGrom,4.64,0.14,Over,3,MISS
 2025-04-11,TEX,SEA,Jacob deGrom,4.3,0.2,Under,4,HIT
 2025-04-18,TEX,LAD,Jacob deGrom,5.07,0.57,Over,7,HIT
