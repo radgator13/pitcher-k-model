@@ -704,25 +704,25 @@ Date,Home_Team,Away_Team,Home_SP,Away_SP,Predicted_Home,Predicted_Away,Predicted
 2025-06-08,ATH,BAL,Jacob Lopez,Tomoyuki Sugano,3.22,4.97,8.19,6,5,1
 2025-06-08,PIT,PHI,Paul Skenes,Cristopher Sánchez,2.7,1.58,4.28,3,2,1
 2025-06-08,SFG,ATL,Landen Roupp,Spencer Strider,2.71,2.5,5.21,7,4,3
-2025-06-09,LAA,ATH,Yusei Kikuchi,Jeffrey Springs,2.75,2.74,5.49,11,7,4
-2025-06-09,ARI,SEA,Merrill Kelly,Emerson Hancock,1.61,2.67,4.28,12,8,4
-2025-06-09,BOS,TBR,Brayan Bello,Shane Baz,4.05,3.84,7.89,18,8,10
-2025-06-09,MIL,ATL,Aaron Civale,Chris Sale,1.53,2.5,4.03,8,1,7
-2025-06-09,PHI,CHC,Zack Wheeler,Matthew Boyd,1.23,1.6,2.83,7,4,3
-2025-06-09,PIT,MIA,Mike Burrows,Janson Junk,1.72,2.46,4.18,13,10,3
-2025-06-09,SDP,LAD,Nick Pivetta,Dustin May,1.38,3.6,4.98,15,7,8
-2025-06-09,STL,TOR,Andre Pallante,José Berríos,2.92,4.3,7.22,9,4,5
+2025-06-09,LAA,ATH,Yusei Kikuchi,Jeffrey Springs,4.01,2.68,6.69,11,7,4
+2025-06-09,ARI,SEA,Merrill Kelly,Emerson Hancock,2.14,3.44,5.58,12,8,4
+2025-06-09,BOS,TBR,Brayan Bello,Shane Baz,4.11,4.42,8.53,18,8,10
+2025-06-09,MIL,ATL,Aaron Civale,Chris Sale,1.53,2.37,3.9,8,1,7
+2025-06-09,PHI,CHC,Zack Wheeler,Matthew Boyd,2.16,1.59,3.75,7,4,3
+2025-06-09,PIT,MIA,Mike Burrows,Janson Junk,1.71,2.85,4.56,13,10,3
+2025-06-09,SDP,LAD,Nick Pivetta,Dustin May,1.57,1.28,2.85,15,7,8
+2025-06-09,STL,TOR,Andre Pallante,José Berríos,2.96,4.93,7.89,9,4,5
 2025-06-10,LAA,ATH,José Soriano,Mitch Spence,5.35,3.06,8.41,3,2,1
 2025-06-10,ARI,SEA,Brandon Pfaadt,Logan Evans,2.52,2.13,4.65,13,10,3
-2025-06-10,BAL,DET,Cade Povich,Sawyer Gipson-Long,1.67,3.3,4.97,8,3,5
+2025-06-10,BAL,DET,Cade Povich,Sawyer Gipson-Long,3.84,2.74,6.58,8,3,5
 2025-06-10,BOS,TBR,Lucas Giolito,Ryan Pepiot,4.43,6.4,10.83,4,3,1
 2025-06-10,CLE,CIN,Slade Cecconi,Andrew Abbott,1.86,4.89,6.75,1,0,1
-2025-06-10,COL,SFG,Carson Palmquist,Kyle Harrison,1.75,3.66,5.41,11,5,6
-2025-06-10,HOU,CHW,Lance McCullers Jr.,Shane Smith,2.94,3.03,5.97,6,2,4
-2025-06-10,KCR,NYY,Noah Cameron,Max Fried,2.86,2.19,5.05,12,2,10
+2025-06-10,COL,SFG,Carson Palmquist,Kyle Harrison,0.74,4.46,5.2,11,5,6
+2025-06-10,HOU,CHW,Lance McCullers Jr.,Shane Smith,3.23,2.62,5.85,6,2,4
+2025-06-10,KCR,NYY,Noah Cameron,Max Fried,3.1,3.63,6.73,12,2,10
 2025-06-10,MIL,ATL,Quinn Priester,Grant Holmes,1.53,3.76,5.29,5,4,1
-2025-06-10,MIN,TEX,Simeon Woods Richardson,Tyler Mahle,4.01,3.12,7.13,20,4,16
-2025-06-10,NYM,WSN,Griffin Canning,MacKenzie Gore,2.54,2.7,5.24,9,5,4
+2025-06-10,MIN,TEX,Simeon Woods Richardson,Tyler Mahle,3.31,1.42,4.73,20,4,16
+2025-06-10,NYM,WSN,Griffin Canning,MacKenzie Gore,2.47,2.63,5.1,9,5,4
 2025-06-10,PHI,CHC,Mick Abel,Colin Rea,2.23,1.62,3.85,12,4,8
 2025-06-10,PIT,MIA,Mitch Keller,Sandy Alcantara,6.58,1.03,7.61,5,2,3
 2025-06-10,SDP,LAD,Dylan Cease,Matt Sauer,2.41,4.97,7.38,12,11,1
@@ -735,8 +735,8 @@ Date,Home_Team,Away_Team,Home_SP,Away_SP,Predicted_Home,Predicted_Away,Predicted
 2025-06-11,HOU,CHW,Ryan Gusto,Sean Burke,1.54,4.23,5.77,12,10,2
 2025-06-11,KCR,NYY,Kris Bubic,Clarke Schmidt,2.04,4.02,6.06,9,3,6
 2025-06-11,MIL,ATL,Chad Patrick,Spencer Schwellenbach,1.62,1.56,3.18,8,2,6
-2025-06-11,MIN,TEX,David Festa,Jack Leiter,2.04,4.64,6.68,8,6,2
-2025-06-11,NYM,WSN,David Peterson,Jake Irvin,5.07,1.57,6.64,5,5,0
+2025-06-11,MIN,TEX,David Festa,Jack Leiter,2.04,4.68,6.72,8,6,2
+2025-06-11,NYM,WSN,David Peterson,Jake Irvin,5.07,1.55,6.62,5,5,0
 2025-06-11,PHI,CHC,Jesús Luzardo,Ben Brown,2.49,4.61,7.1,9,7,2
 2025-06-11,PIT,MIA,Bailey Falter,Cal Quantrill,5.03,1.52,6.55,7,5,2
 2025-06-11,SDP,LAD,Randy Vásquez,Ben Casparius,1.98,2.72,4.7,7,2,5
@@ -746,5 +746,17 @@ Date,Home_Team,Away_Team,Home_SP,Away_SP,Predicted_Home,Predicted_Away,Predicted
 2025-06-12,COL,SFG,Antonio Senzatela,Hayden Birdsong,4.87,4.98,9.85,15,8,7
 2025-06-12,HOU,CHW,Framber Valdez,Davis Martin,5.14,1.03,6.17,7,4,3
 2025-06-12,KCR,NYY,Seth Lugo,Will Warren,1.19,4.66,5.85,1,0,1
-2025-06-12,MIN,TEX,Bailey Ober,Patrick Corbin,3.41,4.61,8.02,19,3,16
+2025-06-12,MIN,TEX,Bailey Ober,Patrick Corbin,3.41,4.55,7.96,19,3,16
 2025-06-12,NYM,WSN,Kodai Senga,Michael Soroka,3.91,0.99,4.9,7,4,3
+2025-06-13,ARI,SDP,Ryne Nelson,Stephen Kolek,4.74,2.21,6.95,6,5,1
+2025-06-13,BAL,LAA,Charlie Morton,Jack Kochanowicz,3.5,2.24,5.74,2,2,0
+2025-06-13,BOS,NYY,Garrett Crochet,Ryan Yarbrough,2.71,1.63,4.34,3,2,1
+2025-06-13,CHC,PIT,Cade Horton,Paul Skenes,1.05,2.57,3.62,3,1,2
+2025-06-13,DET,CIN,Keider Montero,Nick Martinez,1.67,1.88,3.55,16,11,5
+2025-06-13,HOU,MIN,Colton Gordon,Chris Paddack,4.92,2.48,7.4,13,10,3
+2025-06-13,KCR,ATH,Michael Wacha,Luis Severino,3.12,1.7,4.82,10,4,6
+2025-06-13,LAD,SFG,Yoshinobu Yamamoto,Logan Webb,1.67,3.46,5.13,8,2,6
+2025-06-13,MIL,STL,Freddy Peralta,Erick Fedde,2.75,0.85,3.6,5,3,2
+2025-06-13,NYM,TBR,Clay Holmes,Taj Bradley,2.97,2.49,5.46,12,5,7
+2025-06-13,PHI,TOR,Ranger Suárez,Kevin Gausman,3.45,1.54,4.99,8,8,0
+2025-06-13,SEA,CLE,Luis Castillo,Gavin Williams,1.05,4.17,5.22,9,7,2
