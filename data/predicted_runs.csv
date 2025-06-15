@@ -1,35 +1,39 @@
 date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
-2025-06-14,DET,CIN,1,Jack Flaherty,Brady Singer,3.7
-2025-06-14,CIN,DET,0,Brady Singer,Jack Flaherty,3.53
-2025-06-14,CHC,PIT,1,Matthew Boyd,Mike Burrows,1.52
-2025-06-14,PIT,CHC,0,Mike Burrows,Matthew Boyd,1.24
-2025-06-14,BAL,LAA,1,Tomoyuki Sugano,Tyler Anderson,1.88
-2025-06-14,LAA,BAL,0,Tyler Anderson,Tomoyuki Sugano,1.85
-2025-06-14,TEX,CHW,1,Jacob deGrom,Mike Vasil,2.27
-2025-06-14,CHW,TEX,0,Mike Vasil,Jacob deGrom,3.06
-2025-06-14,ATL,COL,1,Spencer Strider,Chase Dollander,4.66
-2025-06-14,COL,ATL,0,Chase Dollander,Spencer Strider,4.51
-2025-06-14,HOU,MIN,1,Hunter Brown,Joe Ryan,4.31
-2025-06-14,MIN,HOU,0,Joe Ryan,Hunter Brown,2.85
-2025-06-14,MIL,STL,1,Jose Quintana,Andre Pallante,2.49
-2025-06-14,STL,MIL,0,Andre Pallante,Jose Quintana,1.98
-2025-06-14,SEA,CLE,1,George Kirby,Tanner Bibee,4.29
-2025-06-14,CLE,SEA,0,Tanner Bibee,George Kirby,3.85
-2025-06-15,DET,CIN,1,Sawyer Gipson-Long,Wade Miley,4.98
-2025-06-15,CIN,DET,0,Wade Miley,Sawyer Gipson-Long,4.49
-2025-06-15,BAL,LAA,1,Cade Povich,Yusei Kikuchi,1.32
-2025-06-15,LAA,BAL,0,Yusei Kikuchi,Cade Povich,2.88
-2025-06-15,BOS,NYY,1,Brayan Bello,Max Fried,1.14
-2025-06-15,NYY,BOS,0,Max Fried,Brayan Bello,1.34
-2025-06-15,HOU,MIN,1,Brandon Walter,Simeon Woods Richardson,4.73
-2025-06-15,MIN,HOU,0,Simeon Woods Richardson,Brandon Walter,2.89
-2025-06-15,MIL,STL,1,Quinn Priester,Miles Mikolas,2.7
-2025-06-15,STL,MIL,0,Miles Mikolas,Quinn Priester,1.93
-2025-06-15,CHC,PIT,1,Colin Rea,Mitch Keller,1.81
-2025-06-15,PIT,CHC,0,Mitch Keller,Colin Rea,2.09
-2025-06-15,SEA,CLE,1,Emerson Hancock,Luis Ortiz,4.65
-2025-06-15,CLE,SEA,0,Luis Ortiz,Emerson Hancock,4.28
-2025-06-16,MIA,PHI,1,Sandy Alcantara,Mick Abel,3.8
-2025-06-16,PHI,MIA,0,Mick Abel,Sandy Alcantara,2.58
-2025-06-16,ATH,HOU,1,Mitch Spence,Lance McCullers Jr.,4.49
-2025-06-16,HOU,ATH,0,Lance McCullers Jr.,Mitch Spence,2.27
+2025-06-15,DET,CIN,1,Sawyer Gipson-Long,Wade Miley,6.57
+2025-06-15,CIN,DET,0,Wade Miley,Sawyer Gipson-Long,4.27
+2025-06-15,BAL,LAA,1,Cade Povich,Yusei Kikuchi,1.64
+2025-06-15,LAA,BAL,0,Yusei Kikuchi,Cade Povich,2.31
+2025-06-15,BOS,NYY,1,Brayan Bello,Max Fried,1.17
+2025-06-15,NYY,BOS,0,Max Fried,Brayan Bello,2.2
+2025-06-15,HOU,MIN,1,Brandon Walter,Simeon Woods Richardson,4.71
+2025-06-15,MIN,HOU,0,Simeon Woods Richardson,Brandon Walter,2.93
+2025-06-15,MIL,STL,1,Quinn Priester,Miles Mikolas,2.97
+2025-06-15,STL,MIL,0,Miles Mikolas,Quinn Priester,2.28
+2025-06-15,CHC,PIT,1,Colin Rea,Mitch Keller,1.18
+2025-06-15,PIT,CHC,0,Mitch Keller,Colin Rea,2.07
+2025-06-15,TEX,CHW,1,Kumar Rocker,Aaron Civale,3.79
+2025-06-15,CHW,TEX,0,Aaron Civale,Kumar Rocker,3.48
+2025-06-15,SEA,CLE,1,Emerson Hancock,Luis Ortiz,3.65
+2025-06-15,CLE,SEA,0,Luis Ortiz,Emerson Hancock,2.8
+2025-06-16,MIA,PHI,1,Sandy Alcantara,Mick Abel,6.14
+2025-06-16,PHI,MIA,0,Mick Abel,Sandy Alcantara,4.35
+2025-06-16,ATH,HOU,1,Mitch Spence,Lance McCullers Jr.,4.59
+2025-06-16,HOU,ATH,0,Lance McCullers Jr.,Mitch Spence,2.81
+2025-06-17,DET,PIT,1,Casey Mize,Bailey Falter,4.22
+2025-06-17,PIT,DET,0,Bailey Falter,Casey Mize,3.2
+2025-06-17,NYY,LAA,1,Will Warren,Kyle Hendricks,2.37
+2025-06-17,LAA,NYY,0,Kyle Hendricks,Will Warren,1.17
+2025-06-17,TOR,ARI,1,Chris Bassitt,Brandon Pfaadt,2.69
+2025-06-17,ARI,TOR,0,Brandon Pfaadt,Chris Bassitt,4.59
+2025-06-17,CIN,MIN,1,Andrew Abbott,David Festa,4.05
+2025-06-17,MIN,CIN,0,David Festa,Andrew Abbott,2.67
+2025-06-17,ATL,NYM,1,Chris Sale,David Peterson,2.37
+2025-06-17,NYM,ATL,0,David Peterson,Chris Sale,3.0
+2025-06-17,CHW,STL,1,Shane Smith,Matthew Liberatore,2.4
+2025-06-17,STL,CHW,0,Matthew Liberatore,Shane Smith,2.57
+2025-06-17,CHC,MIL,1,Ben Brown,Chad Patrick,1.99
+2025-06-17,MIL,CHC,0,Chad Patrick,Ben Brown,2.14
+2025-06-17,SEA,BOS,1,Bryan Woo,Walker Buehler,4.85
+2025-06-17,BOS,SEA,0,Walker Buehler,Bryan Woo,2.69
+2025-06-17,ATH,HOU,1,JP Sears,Ryan Gusto,6.0
+2025-06-17,HOU,ATH,0,Ryan Gusto,JP Sears,4.38
