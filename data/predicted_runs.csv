@@ -1,22 +1,12 @@
 date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
-2025-06-15,DET,CIN,1,Sawyer Gipson-Long,Wade Miley,5.49
-2025-06-15,CIN,DET,0,Wade Miley,Sawyer Gipson-Long,4.34
-2025-06-15,BAL,LAA,1,Cade Povich,Yusei Kikuchi,3.26
-2025-06-15,LAA,BAL,0,Yusei Kikuchi,Cade Povich,3.3
-2025-06-15,BOS,NYY,1,Brayan Bello,Max Fried,1.68
-2025-06-15,NYY,BOS,0,Max Fried,Brayan Bello,2.58
-2025-06-15,HOU,MIN,1,Brandon Walter,Simeon Woods Richardson,4.76
-2025-06-15,MIN,HOU,0,Simeon Woods Richardson,Brandon Walter,2.33
-2025-06-15,MIL,STL,1,Quinn Priester,Miles Mikolas,4.3
-2025-06-15,STL,MIL,0,Miles Mikolas,Quinn Priester,3.45
-2025-06-15,CHC,PIT,1,Colin Rea,Mitch Keller,1.81
-2025-06-15,PIT,CHC,0,Mitch Keller,Colin Rea,1.33
 2025-06-15,TEX,CHW,1,Kumar Rocker,Aaron Civale,3.79
 2025-06-15,CHW,TEX,0,Aaron Civale,Kumar Rocker,3.48
 2025-06-15,SEA,CLE,1,Emerson Hancock,Luis Ortiz,3.5
 2025-06-15,CLE,SEA,0,Luis Ortiz,Emerson Hancock,2.48
 2025-06-16,MIA,PHI,1,Sandy Alcantara,Mick Abel,5.28
 2025-06-16,PHI,MIA,0,Mick Abel,Sandy Alcantara,3.58
+2025-06-16,SEA,BOS,1,Logan Gilbert,Lucas Giolito,4.14
+2025-06-16,BOS,SEA,0,Lucas Giolito,Logan Gilbert,2.17
 2025-06-16,ATH,HOU,1,Mitch Spence,Lance McCullers Jr.,3.31
 2025-06-16,HOU,ATH,0,Lance McCullers Jr.,Mitch Spence,2.57
 2025-06-17,DET,PIT,1,Casey Mize,Bailey Falter,3.03
