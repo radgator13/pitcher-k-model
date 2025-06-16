@@ -4,7 +4,7 @@ date,team,opponent,starting_pitcher,predicted_ks
 2025-06-16,SEA,BOS,Logan Gilbert,6.06
 2025-06-16,BOS,SEA,Lucas Giolito,2.58
 2025-06-16,ATH,HOU,Mitch Spence,3.41
-2025-06-16,HOU,ATH,Lance McCullers Jr.,7.91
+2025-06-16,HOU,ATH,Ryan Gusto,5.82
 2025-06-17,DET,PIT,Casey Mize,5.88
 2025-06-17,PIT,DET,Bailey Falter,2.59
 2025-06-17,NYY,LAA,Will Warren,4.95
@@ -21,8 +21,6 @@ date,team,opponent,starting_pitcher,predicted_ks
 2025-06-17,MIL,CHC,Chad Patrick,7.78
 2025-06-17,SEA,BOS,Bryan Woo,4.0
 2025-06-17,BOS,SEA,Walker Buehler,5.35
-2025-06-17,ATH,HOU,JP Sears,7.64
-2025-06-17,HOU,ATH,Ryan Gusto,5.82
 2025-06-18,SEA,BOS,Luis Castillo,6.25
 2025-06-18,BOS,SEA,Garrett Crochet,7.51
 2025-06-18,DET,PIT,Tarik Skubal,3.92
