@@ -71,6 +71,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-31,COL,NYM,Antonio Senzatela,2.67,1.83,Under,2,HIT
 2025-06-06,COL,NYM,Antonio Senzatela,2.69,1.81,Under,2,HIT
 2025-06-12,COL,SFG,Antonio Senzatela,2.5,2.0,Under,2,HIT
+2025-06-15,COL,ATL,Austin Gomber,3.61,0.89,Under,4,HIT
 2025-04-05,PIT,NYY,Bailey Falter,4.66,0.16,Over,5,HIT
 2025-04-11,PIT,CIN,Bailey Falter,4.33,0.17,Under,4,HIT
 2025-04-16,PIT,WSN,Bailey Falter,3.71,0.79,Under,2,HIT
