@@ -1,11 +1,17 @@
 date,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id
+2025-06-15,TB,NYM,Shane Baz,Griffin Canning,39639,41065
+2025-06-15,ATH,KC,Jeffrey Springs,Noah Cameron,35397,4417208
+2025-06-15,CHW,TEX,Aaron Civale,Kumar Rocker,40934,4414525
+2025-06-15,CLE,SEA,Luis Ortiz,Emerson Hancock,5101355,4297897
+2025-06-15,SD,ARI,Nick Pivetta,Merrill Kelly,36071,32968
+2025-06-15,SF,LAD,Kyle Harrison,Dustin May,4683375,40937
 2025-06-16,PHI,MIA,Mick Abel,Sandy Alcantara,4718970,35241
 2025-06-16,COL,WSH,Carson Palmquist,Jake Irvin,4621424,41290
 2025-06-16,LAA,NYY,Jose Soriano,Clarke Schmidt,40973,41085
 2025-06-16,BAL,TB,Zach Eflin,Ryan Pepiot,32804,4208281
 2025-06-16,BOS,SEA,Lucas Giolito,Logan Gilbert,32697,41221
 2025-06-16,HOU,ATH,Lance McCullers Jr.,Mitch Spence,32764,4987645
-2025-06-16,SD,LAD,Dylan Cease,Shohei Ohtani,34943,
+2025-06-16,SD,LAD,Dylan Cease,Undecided,34943,
 2025-06-17,PHI,MIA,Jesus Luzardo,Cal Quantrill,39667,39875
 2025-06-17,PIT,DET,Bailey Falter,Casey Mize,4705677,41167
 2025-06-17,COL,WSH,Antonio Senzatela,Michael Soroka,33750,34984
@@ -21,18 +27,3 @@ date,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_
 2025-06-17,CLE,SF,Slade Cecconi,Robbie Ray,41462,32175
 2025-06-17,HOU,ATH,Ryan Gusto,JP Sears,5131986,39818
 2025-06-17,SD,LAD,Randy Vasquez,Undecided,4722847,
-2025-06-18,BOS,SEA,Garrett Crochet,Luis Castillo,4297835,35124
-2025-06-18,PHI,MIA,Ranger Suarez,Edward Cabrera,39817,40944
-2025-06-18,PIT,DET,Andrew Heaney,Tarik Skubal,32672,42409
-2025-06-18,COL,WSH,German Marquez,Mitchell Parker,34874,4683356
-2025-06-18,LAA,NYY,Jack Kochanowicz,Ryan Yarbrough,4917819,33735
-2025-06-18,ARI,TOR,Eduardo Rodriguez,Undecided,32675,
-2025-06-18,MIN,CIN,Bailey Ober,Nick Lodolo,3107919,42433
-2025-06-18,NYM,ATL,Paul Blackburn,Spencer Schwellenbach,,4424862
-2025-06-18,BAL,TB,Charlie Morton,Taj Bradley,29155,42480
-2025-06-18,STL,CHW,Sonny Gray,Sean Burke,32082,4867679
-2025-06-18,KC,TEX,Seth Lugo,Jack Leiter,34873,4622181
-2025-06-18,MIL,CHC,Jacob Misiorowski,Jameson Taillon,,31258
-2025-06-18,CLE,SF,Logan Allen,Hayden Birdsong,4683350,5197166
-2025-06-18,HOU,ATH,Framber Valdez,Luis Severino,36581,33263
-2025-06-18,SD,LAD,Stephen Kolek,Yoshinobu Yamamoto,5190073,4872587
