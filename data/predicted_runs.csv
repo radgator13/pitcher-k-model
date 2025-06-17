@@ -1,8 +1,8 @@
 date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-17,DET,PIT,1,Casey Mize,Bailey Falter,2.22
 2025-06-17,PIT,DET,0,Bailey Falter,Casey Mize,2.51
-2025-06-17,NYY,LAA,1,Will Warren,Kyle Hendricks,1.82
-2025-06-17,LAA,NYY,0,Kyle Hendricks,Will Warren,2.42
+2025-06-17,NYY,LAA,1,Will Warren,Kyle Hendricks,1.25
+2025-06-17,LAA,NYY,0,Kyle Hendricks,Will Warren,1.13
 2025-06-17,TOR,ARI,1,Chris Bassitt,Brandon Pfaadt,2.24
 2025-06-17,ARI,TOR,0,Brandon Pfaadt,Chris Bassitt,2.9
 2025-06-17,CIN,MIN,1,Andrew Abbott,David Festa,4.74
@@ -13,16 +13,16 @@ date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-17,STL,CHW,0,Matthew Liberatore,Shane Smith,2.73
 2025-06-17,CHC,MIL,1,Ben Brown,Chad Patrick,1.67
 2025-06-17,MIL,CHC,0,Chad Patrick,Ben Brown,1.77
-2025-06-17,SEA,BOS,1,Bryan Woo,Walker Buehler,2.97
-2025-06-17,BOS,SEA,0,Walker Buehler,Bryan Woo,1.51
-2025-06-17,ATH,HOU,1,JP Sears,Jason Alexander,2.09
-2025-06-17,HOU,ATH,0,Jason Alexander,JP Sears,1.66
-2025-06-18,SEA,BOS,1,Luis Castillo,Garrett Crochet,1.64
-2025-06-18,BOS,SEA,0,Garrett Crochet,Luis Castillo,1.82
+2025-06-17,SEA,BOS,1,Bryan Woo,Walker Buehler,1.93
+2025-06-17,BOS,SEA,0,Walker Buehler,Bryan Woo,1.58
+2025-06-17,ATH,HOU,1,JP Sears,Jason Alexander,2.11
+2025-06-17,HOU,ATH,0,Jason Alexander,JP Sears,1.58
+2025-06-18,SEA,BOS,1,Luis Castillo,Garrett Crochet,0.95
+2025-06-18,BOS,SEA,0,Garrett Crochet,Luis Castillo,1.78
 2025-06-18,DET,PIT,1,Tarik Skubal,Andrew Heaney,2.97
 2025-06-18,PIT,DET,0,Andrew Heaney,Tarik Skubal,1.66
-2025-06-18,NYY,LAA,1,Ryan Yarbrough,Jack Kochanowicz,1.23
-2025-06-18,LAA,NYY,0,Jack Kochanowicz,Ryan Yarbrough,3.26
+2025-06-18,NYY,LAA,1,Ryan Yarbrough,Jack Kochanowicz,1.16
+2025-06-18,LAA,NYY,0,Jack Kochanowicz,Ryan Yarbrough,1.89
 2025-06-18,CIN,MIN,1,Nick Lodolo,Bailey Ober,4.73
 2025-06-18,MIN,CIN,0,Bailey Ober,Nick Lodolo,2.7
 2025-06-18,ATL,NYM,1,Chris Sale,Paul Blackburn,9.35
@@ -31,8 +31,8 @@ date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-18,STL,CHW,0,Sonny Gray,Sean Burke,2.33
 2025-06-18,CHC,MIL,1,Jameson Taillon,Jacob Misiorowski,1.8
 2025-06-18,MIL,CHC,0,Jacob Misiorowski,Jameson Taillon,1.74
-2025-06-18,ATH,HOU,1,Luis Severino,Framber Valdez,1.47
-2025-06-18,HOU,ATH,0,Framber Valdez,Luis Severino,1.11
+2025-06-18,ATH,HOU,1,Luis Severino,Framber Valdez,1.44
+2025-06-18,HOU,ATH,0,Framber Valdez,Luis Severino,1.42
 2025-06-19,CIN,MIN,1,Nick Martinez,Chris Paddack,4.68
 2025-06-19,MIN,CIN,0,Chris Paddack,Nick Martinez,3.32
 2025-06-19,DET,PIT,1,Keider Montero,Paul Skenes,1.75
@@ -45,5 +45,5 @@ date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-19,ARI,TOR,0,Ryne Nelson,Kevin Gausman,3.06
 2025-06-19,ATL,NYM,1,Spencer Strider,Clay Holmes,2.44
 2025-06-19,NYM,ATL,0,Clay Holmes,Spencer Strider,3.05
-2025-06-19,ATH,HOU,1,Jacob Lopez,Colton Gordon,1.92
-2025-06-19,HOU,ATH,0,Colton Gordon,Jacob Lopez,1.04
+2025-06-19,ATH,HOU,1,Jacob Lopez,Colton Gordon,1.93
+2025-06-19,HOU,ATH,0,Colton Gordon,Jacob Lopez,1.19
