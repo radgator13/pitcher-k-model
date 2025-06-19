@@ -1,16 +1,14 @@
 date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
-2025-06-19,CIN,MIN,1,Nick Martinez,Chris Paddack,3.37
-2025-06-19,MIN,CIN,0,Chris Paddack,Nick Martinez,2.36
-2025-06-19,DET,PIT,1,Tarik Skubal,Andrew Heaney,3.05
-2025-06-19,PIT,DET,0,Andrew Heaney,Tarik Skubal,2.1
 2025-06-19,CHW,STL,1,Sean Burke,Erick Fedde,2.68
 2025-06-19,STL,CHW,0,Erick Fedde,Sean Burke,3.97
-2025-06-19,CHC,MIL,1,Jameson Taillon,Jacob Misiorowski,4.73
-2025-06-19,MIL,CHC,0,Jacob Misiorowski,Jameson Taillon,1.88
+2025-06-19,CHC,MIL,1,Jameson Taillon,Freddy Peralta,2.38
+2025-06-19,MIL,CHC,0,Freddy Peralta,Jameson Taillon,2.08
 2025-06-19,TOR,ARI,1,Kevin Gausman,Ryne Nelson,4.26
 2025-06-19,ARI,TOR,0,Ryne Nelson,Kevin Gausman,3.11
 2025-06-19,CHW,STL,1,Mike Vasil,Michael McGreevy,3.12
 2025-06-19,STL,CHW,0,Michael McGreevy,Mike Vasil,3.33
+2025-06-19,DET,PIT,1,Tyler Holton,Paul Skenes,2.01
+2025-06-19,PIT,DET,0,Paul Skenes,Tyler Holton,4.12
 2025-06-19,ATL,NYM,1,Spencer Strider,Clay Holmes,1.89
 2025-06-19,NYM,ATL,0,Clay Holmes,Spencer Strider,2.51
 2025-06-19,ATH,HOU,1,Jacob Lopez,Colton Gordon,3.66
@@ -23,8 +21,8 @@ date,team,opponent,home,starting_pitcher,opponent_pitcher,predicted_runs
 2025-06-20,BAL,NYY,0,Tomoyuki Sugano,Max Fried,1.34
 2025-06-20,STL,CIN,1,Andre Pallante,Brady Singer,3.75
 2025-06-20,CIN,STL,0,Brady Singer,Andre Pallante,3.75
-2025-06-20,MIN,MIL,1,Joe Ryan,Freddy Peralta,1.58
-2025-06-20,MIL,MIN,0,Freddy Peralta,Joe Ryan,1.38
+2025-06-20,MIN,MIL,1,Joe Ryan,Jacob Misiorowski,1.95
+2025-06-20,MIL,MIN,0,Jacob Misiorowski,Joe Ryan,1.53
 2025-06-20,COL,ARI,1,Austin Gomber,Zac Gallen,4.77
 2025-06-20,ARI,COL,0,Zac Gallen,Austin Gomber,2.21
 2025-06-20,LAA,HOU,1,Yusei Kikuchi,Hunter Brown,2.88

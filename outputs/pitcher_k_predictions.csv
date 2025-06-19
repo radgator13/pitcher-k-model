@@ -1,14 +1,13 @@
 date,team,opponent,starting_pitcher,predicted_ks
-2025-06-19,CIN,MIN,Nick Martinez,4.77
-2025-06-19,MIN,CIN,Chris Paddack,4.7
-2025-06-19,DET,PIT,Tarik Skubal,4.51
-2025-06-19,PIT,DET,Andrew Heaney,4.89
 2025-06-19,CHW,STL,Sean Burke,5.2
 2025-06-19,STL,CHW,Erick Fedde,3.52
 2025-06-19,CHC,MIL,Jameson Taillon,4.79
+2025-06-19,MIL,CHC,Freddy Peralta,6.0
 2025-06-19,TOR,ARI,Kevin Gausman,6.69
 2025-06-19,ARI,TOR,Ryne Nelson,2.08
 2025-06-19,CHW,STL,Mike Vasil,3.75
+2025-06-19,DET,PIT,Tyler Holton,0.64
+2025-06-19,PIT,DET,Paul Skenes,4.7
 2025-06-19,ATL,NYM,Spencer Strider,10.29
 2025-06-19,NYM,ATL,Clay Holmes,3.77
 2025-06-19,ATH,HOU,Jacob Lopez,8.15
@@ -22,7 +21,6 @@ date,team,opponent,starting_pitcher,predicted_ks
 2025-06-20,STL,CIN,Andre Pallante,5.96
 2025-06-20,CIN,STL,Brady Singer,4.11
 2025-06-20,MIN,MIL,Joe Ryan,6.56
-2025-06-20,MIL,MIN,Freddy Peralta,6.0
 2025-06-20,ARI,COL,Zac Gallen,4.87
 2025-06-20,LAA,HOU,Yusei Kikuchi,8.74
 2025-06-20,HOU,LAA,Hunter Brown,10.79

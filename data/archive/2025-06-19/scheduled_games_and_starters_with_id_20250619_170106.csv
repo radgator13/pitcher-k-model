@@ -1,11 +1,15 @@
 date,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id
+2025-06-19,MIN,CIN,Chris Paddack,Nick Martinez,35999,33372
+2025-06-19,LAA,NYY,Tyler Anderson,Carlos Rodon,32151,33696
+2025-06-19,COL,WSH,Chase Dollander,Trevor Williams,4719068,33305
+2025-06-19,PIT,DET,Andrew Heaney,Tarik Skubal,32672,42409
 2025-06-19,STL,CHW,Erick Fedde,Sean Burke,33793,4867679
-2025-06-19,MIL,CHC,Freddy Peralta,Jameson Taillon,39825,31258
+2025-06-19,MIL,CHC,Jacob Misiorowski,Jameson Taillon,,31258
 2025-06-19,KC,TEX,Michael Wacha,Shawn Armstrong,32640,33499
 2025-06-19,ARI,TOR,Ryne Nelson,Kevin Gausman,4916269,32667
 2025-06-19,CLE,SF,Gavin Williams,Logan Webb,4345076,41216
 2025-06-19,STL,CHW,Michael McGreevy,Mike Vasil,4424141,4414551
-2025-06-19,PIT,DET,Paul Skenes,Tyler Holton,4719507,3983833
+2025-06-19,PIT,DET,Paul Skenes,Undecided,4719507,
 2025-06-19,PHI,MIA,Cristopher Sanchez,Edward Cabrera,42359,40944
 2025-06-19,NYM,ATL,Clay Holmes,Spencer Strider,32827,4307825
 2025-06-19,BAL,TB,Charlie Morton,Drew Rasmussen,29155,42584
@@ -19,7 +23,7 @@ date,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_
 2025-06-20,ATL,MIA,Bryce Elder,Eury Perez,4301067,
 2025-06-20,NYM,PHI,Undecided,Zack Wheeler,,31267
 2025-06-20,CIN,STL,Brady Singer,Andre Pallante,41172,4109034
-2025-06-20,MIL,MIN,Jacob Misiorowski,Joe Ryan,,42450
+2025-06-20,MIL,MIN,Freddy Peralta,Joe Ryan,39825,42450
 2025-06-20,ARI,COL,Zac Gallen,Austin Gomber,39910,
 2025-06-20,HOU,LAA,Hunter Brown,Yusei Kikuchi,4717803,41415
 2025-06-20,KC,SD,Michael Lorenzen,Nick Pivetta,33252,36071
