@@ -18,6 +18,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-05-03,PHI,ARI,Aaron Nola,6.65,2.15,Over,8,HIT
 2025-05-09,PHI,CLE,Aaron Nola,6.06,1.56,Over,5,HIT
 2025-05-14,PHI,STL,Aaron Nola,4.84,0.34,Over,2,MISS
+2025-06-18,MIA,PHI,Adam Mazur,3.91,0.59,Under,5,MISS
 2025-05-26,CHW,NYM,Adrian Houser,3.65,0.85,Under,6,MISS
 2025-06-01,CHW,BAL,Adrian Houser,4.98,0.48,Over,6,HIT
 2025-06-07,CHW,KCR,Adrian Houser,6.26,1.76,Over,6,HIT
@@ -562,6 +563,7 @@ Date,Team,Opponent,Pitcher,Predicted K,Confidence,Model Pick,Actual K,Result
 2025-06-04,SEA,BAL,Emerson Hancock,4.74,0.24,Over,6,HIT
 2025-06-09,SEA,ARI,Emerson Hancock,4.16,0.34,Under,3,HIT
 2025-06-15,SEA,CLE,Emerson Hancock,4.67,0.17,Over,4,MISS
+2025-06-18,LAD,SDP,Emmet Sheehan,5.44,0.94,Over,6,HIT
 2025-05-11,TOR,SEA,Eric Lauer,2.89,1.61,Under,5,MISS
 2025-05-23,TOR,TBR,Eric Lauer,3.62,0.88,Under,2,HIT
 2025-06-03,TOR,PHI,Eric Lauer,2.67,1.83,Under,2,HIT
