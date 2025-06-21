@@ -1,4 +1,4 @@
-﻿import subprocess
+import subprocess
 import sys
 import os
 import shutil
@@ -117,9 +117,9 @@ else:
 
 #     print("[GIT] Pushing to GitHub...")
 #     subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-#     print("[GIT] ✅ Push successful.")
+#     print("[GIT]  Push successful.")
 # except subprocess.CalledProcessError as e:
-#     print("[GIT] ❌ Git push failed.")
+#     print("[GIT]  Git push failed.")
 #     print(e)
 
 print("\n[DONE] All steps completed successfully.")

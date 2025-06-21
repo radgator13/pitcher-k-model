@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import pandas as pd
 import numpy as np
 import unidecode
@@ -76,4 +76,4 @@ output.rename(columns={
 os.makedirs("data", exist_ok=True)
 output.to_csv(OUTPUT, index=False)
 
-print(f"✅ Feature file saved to: {OUTPUT}")
+print(f" Feature file saved to: {OUTPUT}")

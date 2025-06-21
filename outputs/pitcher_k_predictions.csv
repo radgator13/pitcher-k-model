@@ -1,27 +1,10 @@
 date,team,opponent,starting_pitcher,predicted_ks
-2025-06-20,CHC,SEA,Matthew Boyd,3.95
-2025-06-20,SEA,CHC,George Kirby,7.48
-2025-06-20,PIT,TEX,Mike Burrows,6.3
-2025-06-20,TEX,PIT,Jacob deGrom,6.51
-2025-06-20,NYY,BAL,Max Fried,7.68
-2025-06-20,BAL,NYY,Tomoyuki Sugano,3.69
-2025-06-20,TOR,CHW,Spencer Turnbull,0.69
-2025-06-20,CHW,TOR,Grant Taylor,1.32
-2025-06-20,PHI,NYM,Zack Wheeler,8.34
-2025-06-20,STL,CIN,Andre Pallante,3.87
-2025-06-20,CIN,STL,Brady Singer,3.94
-2025-06-20,MIN,MIL,Joe Ryan,5.92
-2025-06-20,ARI,COL,Zac Gallen,4.69
-2025-06-20,LAA,HOU,Yusei Kikuchi,8.74
-2025-06-20,HOU,LAA,Hunter Brown,8.58
-2025-06-20,ATH,CLE,Jeffrey Springs,4.05
-2025-06-20,CLE,ATH,Tanner Bibee,5.02
 2025-06-21,NYY,BAL,Clarke Schmidt,3.39
 2025-06-21,BAL,NYY,Zach Eflin,2.32
 2025-06-21,MIN,MIL,Simeon Woods Richardson,3.77
 2025-06-21,MIL,MIN,Jose Quintana,3.96
 2025-06-21,STL,CIN,Sonny Gray,6.34
-2025-06-21,CIN,STL,Wade Miley,3.28
+2025-06-21,CIN,STL,Brent Suter,0.66
 2025-06-21,CHC,SEA,Cade Horton,4.66
 2025-06-21,SEA,CHC,Emerson Hancock,4.13
 2025-06-21,PIT,TEX,Mitch Keller,3.67
@@ -36,6 +19,8 @@ date,team,opponent,starting_pitcher,predicted_ks
 2025-06-22,BAL,NYY,Dean Kremer,5.24
 2025-06-22,PIT,TEX,Bailey Falter,3.64
 2025-06-22,TEX,PIT,Jack Leiter,2.98
+2025-06-22,TOR,CHW,Chris Bassitt,3.92
+2025-06-22,CHW,TOR,Adrian Houser,4.93
 2025-06-22,MIA,ATL,Sandy Alcantara,5.52
 2025-06-22,ATL,MIA,Bryce Elder,5.95
 2025-06-22,MIN,MIL,David Festa,3.64
@@ -50,3 +35,13 @@ date,team,opponent,starting_pitcher,predicted_ks
 2025-06-22,CLE,ATH,Slade Cecconi,5.91
 2025-06-22,LAA,HOU,Kyle Hendricks,7.71
 2025-06-22,HOU,LAA,Ryan Gusto,7.8
+2025-06-23,NYM,ATL,Paul Blackburn,1.36
+2025-06-23,ATL,NYM,Spencer Schwellenbach,9.81
+2025-06-23,CIN,NYY,Nick Lodolo,4.88
+2025-06-23,NYY,CIN,Ryan Yarbrough,2.84
+2025-06-23,MIN,SEA,Bailey Ober,4.52
+2025-06-23,SEA,MIN,Bryan Woo,5.06
+2025-06-23,STL,CHC,Matthew Liberatore,4.06
+2025-06-23,CHC,STL,Ben Brown,4.97
+2025-06-23,LAA,BOS,Jack Kochanowicz,6.09
+2025-06-23,BOS,LAA,Walker Buehler,2.92

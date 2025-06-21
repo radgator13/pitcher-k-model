@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import joblib
 import numpy as np
 import os
@@ -115,4 +115,4 @@ for _, game in schedule_df.iterrows():
 os.makedirs("outputs", exist_ok=True)
 pred_df = pd.DataFrame(prediction_rows)
 pred_df.to_csv("outputs/team_predictions.csv", index=False)
-print("✅ Saved full team predictions to outputs/team_predictions.csv")
+print(" Saved full team predictions to outputs/team_predictions.csv")

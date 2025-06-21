@@ -1,4 +1,4 @@
-﻿import requests
+import requests
 import pandas as pd
 import time
 import os
@@ -27,10 +27,10 @@ params = {
 print("--- Fetching MLB events ---")
 resp = requests.get(events_url, params=params)
 if resp.status_code != 200:
-    raise Exception(f"❌ Events error: {resp.status_code} - {resp.text}")
+    raise Exception(f" Events error: {resp.status_code} - {resp.text}")
 
 events = resp.json()
-print(f"✅ Found {len(events)} events")
+print(f" Found {len(events)} events")
 
 # === Containers for props ===
 pitcher_rows = []
@@ -44,7 +44,7 @@ for event in events:
     away = event.get("away_team")
     game_time = event.get("commence_time")
 
-    print(f"\n🎯 {away} @ {home} | {game_time}")
+    print(f"\n {away} @ {home} | {game_time}")
 
     odds_url = f"https://api.the-odds-api.com/v4/sports/{SPORT}/events/{event_id}/odds"
     odds_params = {
@@ -57,7 +57,7 @@ for event in events:
 
     odds_resp = requests.get(odds_url, params=odds_params)
     if odds_resp.status_code != 200:
-        print(f"❌ Odds error: {odds_resp.status_code} - {odds_resp.text}")
+        print(f" Odds error: {odds_resp.status_code} - {odds_resp.text}")
         continue
 
     event_odds = odds_resp.json()
@@ -100,19 +100,19 @@ os.makedirs("data", exist_ok=True)
 
 if pitcher_rows:
     pd.DataFrame(pitcher_rows).to_csv("data/betonline_pitcher_props.csv", index=False)
-    print(f"✅ Saved pitcher props: {len(pitcher_rows)} rows")
+    print(f" Saved pitcher props: {len(pitcher_rows)} rows")
 else:
-    print("⚠️ No pitcher props found.")
+    print(" No pitcher props found.")
 
 if batter_rows:
     pd.DataFrame(batter_rows).to_csv("data/betonline_batter_props.csv", index=False)
-    print(f"✅ Saved batter props: {len(batter_rows)} rows")
+    print(f" Saved batter props: {len(batter_rows)} rows")
 else:
-    print("⚠️ No batter props found.")
+    print(" No batter props found.")
 
 if team_rows:
     pd.DataFrame(team_rows).to_csv("data/betonline_team_lines.csv", index=False)
-    print(f"✅ Saved team lines: {len(team_rows)} rows")
+    print(f" Saved team lines: {len(team_rows)} rows")
 else:
-    print("⚠️ No team lines found.")
+    print(" No team lines found.")
 

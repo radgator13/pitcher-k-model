@@ -1,4 +1,4 @@
-﻿from selenium import webdriver
+from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -28,14 +28,14 @@ all_games = []
 for date_str in dates:
     driver = webdriver.Chrome(service=service, options=options)
     url = f"{base_url}{date_str}"
-    print(f"🌐 Loading → {url}")
+    print(f" Loading → {url}")
     driver.get(url)
     time.sleep(5)
 
     try:
         section = driver.find_element(By.CLASS_NAME, "ScheduleTables")
         game_date = section.find_element(By.CLASS_NAME, "Table__Title").text.strip()
-        print(f"📆 Game Date Found: {game_date}")
+        print(f" Game Date Found: {game_date}")
 
         rows = section.find_elements(By.XPATH, ".//tbody/tr[contains(@class, 'Table__TR')]")
         for row in rows:
@@ -60,10 +60,10 @@ for date_str in dates:
                     "HomePitcher": home_pitcher
                 })
             except Exception as e:
-                print(f"❌ Error processing row: {e}")
+                print(f" Error processing row: {e}")
 
     except Exception as e:
-        print(f"⚠️ Could not find schedule on page {url} → {e}")
+        print(f" Could not find schedule on page {url} → {e}")
     
     driver.quit()
 
@@ -78,7 +78,7 @@ def parse_date(text):
     try:
         return parser.parse(text).strftime("%Y-%m-%d")
     except Exception as e:
-        print(f"❌ Failed to parse date: '{text}' → {e}")
+        print(f" Failed to parse date: '{text}' → {e}")
         return None
 
 df["GameDate"] = df["GameDate"].apply(parse_date)
@@ -107,9 +107,9 @@ if os.path.exists(id_map_path):
     df["away_pitcher_id"] = df["away_pitcher"].apply(match_id)
     df["home_pitcher_id"] = df["home_pitcher"].apply(match_id)
 
-    print("✅ Successfully matched pitcher names to PlayerID.")
+    print(" Successfully matched pitcher names to PlayerID.")
 else:
-    print("❌ pitcher_id_map.csv not found.")
+    print(" pitcher_id_map.csv not found.")
     df["away_pitcher_id"] = ""
     df["home_pitcher_id"] = ""
 
@@ -128,8 +128,8 @@ if os.path.exists(output_path):
     archive_path = os.path.join(archive_dir, archive_filename)
 
     shutil.move(output_path, archive_path)
-    print(f"📦 Archived old file to {archive_path}")
+    print(f" Archived old file to {archive_path}")
 
 # === Save new schedule
 df.to_csv(output_path, index=False)
-print(f"✅ Saved new schedule to → {output_path}")
+print(f" Saved new schedule to → {output_path}")

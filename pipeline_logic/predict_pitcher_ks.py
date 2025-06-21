@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import numpy as np
 import joblib
 import os
@@ -63,19 +63,19 @@ output_df = pd.DataFrame(pred_rows)
 # === Save to general output folder
 os.makedirs("outputs", exist_ok=True)
 output_df.to_csv("outputs/pitcher_k_predictions.csv", index=False)
-print("✅ Saved to outputs/pitcher_k_predictions.csv")
+print(" Saved to outputs/pitcher_k_predictions.csv")
 
 # === Save to dated predictions folder (for Streamlit)
 today_str = datetime.today().strftime("%Y-%m-%d")
 output_folder = f"predictions/{today_str}"
 os.makedirs(output_folder, exist_ok=True)
 
-# ✅ Filter only today's predictions before saving
+#  Filter only today's predictions before saving
 output_df_today = output_df[output_df["date"] == pd.to_datetime(today_str)]
 
 # === Log dates included
-print("📅 Dates in prediction output:", output_df["date"].dt.strftime("%Y-%m-%d").unique())
+print(" Dates in prediction output:", output_df["date"].dt.strftime("%Y-%m-%d").unique())
 
 output_path = f"{output_folder}/strikeouts_master.csv"
 output_df_today.to_csv(output_path, index=False)
-print(f"✅ Saved to {output_path}")
+print(f" Saved to {output_path}")

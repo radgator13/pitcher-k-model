@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import ast
 
 # === Load the merged file ===
@@ -65,4 +65,4 @@ for _, row in df.iterrows():
 flat_df = pd.DataFrame(rows)
 flat_df.to_csv("data/clean_all_props_flat.csv", index=False)
 
-print(f"✅ All team, pitcher, and batter props saved to: data/clean_all_props_flat.csv")
+print(f" All team, pitcher, and batter props saved to: data/clean_all_props_flat.csv")

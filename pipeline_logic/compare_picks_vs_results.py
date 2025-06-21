@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import pandas as pd
 import datetime
 import unidecode
@@ -9,7 +9,7 @@ from rapidfuzz import process, fuzz
 today = datetime.date.today()
 yesterday = today - datetime.timedelta(days=1)
 date_str = yesterday.strftime("%Y-%m-%d")
-print(f"\n🔍 Evaluating predictions for {date_str}\n")
+print(f"\n Evaluating predictions for {date_str}\n")
 
 # --- Normalize Utilities ---
 def normalize(text):
@@ -36,7 +36,7 @@ match_key = next((k for k in normalized_cols if "predicted" in k and "k" in k), 
 pred_k_col = normalized_cols.get(match_key)
 
 if not pred_k_col:
-    print("❌ Could not find predicted strikeouts column.")
+    print(" Could not find predicted strikeouts column.")
     exit()
 
 # Normalize prediction names
@@ -99,10 +99,10 @@ merged["Result"] = merged.apply(evaluate_result, axis=1)
 
 # --- Final Output ---
 final = merged[[
-    "date", "Pitcher", "Model Pick", "🔥 Confidence", "Vegas Line", "Predicted K", "Actual K", "Result"
+    "date", "Pitcher", "Model Pick", " Confidence", "Vegas Line", "Predicted K", "Actual K", "Result"
 ]]
 
-print("\n🎯 Final Results:")
+print("\n Final Results:")
 print(final.to_string(index=False))
 
 # --- Summary Totals ---
@@ -111,7 +111,7 @@ miss_count = (final["Result"] == "MISS").sum()
 total = hit_count + miss_count
 hit_rate = (hit_count / total * 100) if total > 0 else 0.0
 
-print("\n📊 Summary:")
+print("\n Summary:")
 print(f"Total HITs  : {hit_count}")
 print(f"Total MISSes: {miss_count}")
 print(f"Hit Rate    : {hit_rate:.1f}%")

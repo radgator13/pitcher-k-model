@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import ast
 from datetime import date
 import os
@@ -74,4 +74,4 @@ final_df = pd.DataFrame(flat_rows)
 output_file = "data/flat_combined_teams_pitchers_batters.csv"
 final_df.to_csv(output_file, index=False)
 
-print(f"✅ Saved 3x per game format to:\n📄 {os.path.abspath(output_file)}")
+print(f" Saved 3x per game format to:\n {os.path.abspath(output_file)}")

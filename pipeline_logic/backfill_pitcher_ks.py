@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import pandas as pd
 import numpy as np
 import joblib
@@ -46,14 +46,14 @@ pitching["Is_SP"] = pitching["IP_float"] >= 3.5
 pitching_starts = pitching[pitching["Is_SP"]]
 
 # === Debug: Check date coverage
-print("📆 Max Date (raw):", pitching["Date"].max())
-print("📆 Max Date (starts only):", pitching_starts["Date"].max())
+print(" Max Date (raw):", pitching["Date"].max())
+print(" Max Date (starts only):", pitching_starts["Date"].max())
 
 # === Drop rows missing rolling features
 pitching_starts = pitching_starts.dropna(subset=["K_last3", "IP_last3", "ER_last3", "BB_last3", "BF_last3"])
 
 # === Final date after filtering
-print("📆 Max Date (usable for modeling):", pitching_starts["Date"].max())
+print(" Max Date (usable for modeling):", pitching_starts["Date"].max())
 
 # === Build feature matrix
 features = ["K_last3", "IP_last3", "ER_last3", "BB_last3", "BF_last3", "Home"]
@@ -107,4 +107,4 @@ out_df = pd.DataFrame(records)
 out_df = out_df.drop_duplicates(subset=["Date", "Pitcher"])
 out_df.to_csv(OUTPUT_PATH, index=False)
 
-print(f"✅ Backfilled pitcher K predictions saved to {OUTPUT_PATH}")
+print(f" Backfilled pitcher K predictions saved to {OUTPUT_PATH}")

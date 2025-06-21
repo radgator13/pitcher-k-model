@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import streamlit as st
 import pandas as pd
 import os
@@ -8,7 +8,7 @@ import re
 from rapidfuzz import process, fuzz
 
 st.set_page_config(page_title="Strikeout Predictions", layout="wide")
-if st.button("🔄 Clear cache and reload"):
+if st.button(" Clear cache and reload"):
     st.cache_data.clear()
 
 
@@ -34,25 +34,25 @@ def get_confidence(pred, line):
 
 def render_confidence(value):
     if pd.isna(value): return ""
-    if value >= 2.0: return "🔥🔥🔥🔥🔥"
-    elif value >= 1.6: return "🔥🔥🔥🔥"
-    elif value >= 1.1: return "🔥🔥🔥"
-    elif value >= 0.6: return "🔥🔥"
-    elif value > 0.0: return "🔥"
+    if value >= 2.0: return ""
+    elif value >= 1.6: return ""
+    elif value >= 1.1: return ""
+    elif value >= 0.6: return ""
+    elif value > 0.0: return ""
     else: return ""
 
 tab1, tab2, tab3 = st.tabs([
-    "📈 Today's Predictions",
-    "📊 Model Results vs Actual Ks",
-    "🗓️ Backfill Results"
+    " Today's Predictions",
+    " Model Results vs Actual Ks",
+    " Backfill Results"
 ])
 
 
 with tab1:
     try:
-        st.markdown("### 📈 Strikeout Predictions for Today")
+        st.markdown("###  Strikeout Predictions for Today")
 
-        selected_date = st.date_input("📅 Select date", value=datetime.date.today())
+        selected_date = st.date_input(" Select date", value=datetime.date.today())
         date_str = selected_date.strftime("%Y-%m-%d")
 
         prediction_path = f"predictions/{date_str}/strikeouts_master.csv"
@@ -104,19 +104,19 @@ with tab1:
             if score is None:
                 return None
             if score >= 2.5:
-                return "🔥🔥🔥"
+                return ""
             elif score >= 1.5:
-                return "🔥🔥"
+                return ""
             elif score >= 0.8:
-                return "🔥"
+                return ""
             else:
-                return "💤"
+                return ""
 
         merged["confidence_score"] = merged.apply(
             lambda row: safe_get_confidence(row.get(pred_k_col), row.get("vegas_line")),
             axis=1
         )
-        merged["🔥 Confidence"] = merged["confidence_score"].apply(render_confidence)
+        merged[" Confidence"] = merged["confidence_score"].apply(render_confidence)
 
         output_df = merged[[
             "date",
@@ -125,7 +125,7 @@ with tab1:
             pitcher_col,
             pred_k_col,
             "vegas_line",
-            "🔥 Confidence"
+            " Confidence"
         ]].rename(columns={
             team_col: "Team",
             opp_col: "Opponent",
@@ -136,11 +136,11 @@ with tab1:
 
         output_df = output_df.sort_values("Vegas Line", ascending=False)
 
-        st.markdown("### 📊 Final Output Table")
+        st.markdown("###  Final Output Table")
         st.dataframe(output_df, use_container_width=True)
 
         if len(output_df) > 0:
-            if st.button("📥 Generate & Save CSV"):
+            if st.button(" Generate & Save CSV"):
                 try:
                     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
                     folder = f"predictions/{date_str}"
@@ -165,13 +165,13 @@ with tab1:
 
                     if current_complete > existing_complete:
                         output_df.to_csv(master_path, index=False)
-                        st.success(f"📊 Master updated: {current_complete} props matched (was {existing_complete})")
+                        st.success(f" Master updated: {current_complete} props matched (was {existing_complete})")
                     else:
-                        st.info(f"✅ Master kept: {existing_complete} props matched is still best")
+                        st.info(f" Master kept: {existing_complete} props matched is still best")
 
                     with open(full_path, "rb") as f:
                         st.download_button(
-                            label="⬇️ Download This CSV",
+                            label=" Download This CSV",
                             data=f,
                             file_name=os.path.basename(full_path),
                             mime="text/csv"
@@ -182,7 +182,7 @@ with tab1:
             st.info("No data to export.")
 
     except Exception as e:
-        st.error(f"❌ Tab 1 failed: {e}")
+        st.error(f" Tab 1 failed: {e}")
 
 
 
@@ -224,7 +224,7 @@ with tab2:
     try:
         st.markdown("### 🧾 Model Predictions vs Actual Strikeouts")
         date_dirs = sorted(d for d in os.listdir("predictions") if os.path.isdir(os.path.join("predictions", d)))
-        selected_date = st.selectbox("📅 Select date to compare", date_dirs)
+        selected_date = st.selectbox(" Select date to compare", date_dirs)
 
         pred_path = f"predictions/{selected_date}/strikeouts_master.csv"
         boxscore_path = "data/pitching_through_yesterday.csv"
@@ -243,7 +243,7 @@ with tab2:
         vegas_line_col = next((c for k, c in col_map.items() if "vegas" in k and "line" in k), None)
 
         if not pred_k_col or not vegas_line_col:
-            st.error("❌ Required columns not found.")
+            st.error(" Required columns not found.")
             st.stop()
 
         compare_date = datetime.datetime.strptime(selected_date, "%Y-%m-%d").date()
@@ -266,13 +266,13 @@ with tab2:
             return 0
 
         def render_confidence(conf):
-            return "🔥" * fireball_rating(conf)
+            return "" * fireball_rating(conf)
 
-        merged["🔥 Confidence"] = merged["Confidence"].apply(render_confidence)
+        merged[" Confidence"] = merged["Confidence"].apply(render_confidence)
         merged["Fireball Level"] = merged["Confidence"].apply(fireball_rating)
 
-        # ✅ Add confidence level slider
-        min_fireballs = st.slider("🔥 Minimum Confidence Level (Fireballs)", 1, 5, 1)
+        #  Add confidence level slider
+        min_fireballs = st.slider(" Minimum Confidence Level (Fireballs)", 1, 5, 1)
         merged = merged[merged["Fireball Level"] >= min_fireballs]
 
         def model_pick(row):
@@ -293,7 +293,7 @@ with tab2:
         merged["Result"] = merged.apply(result_eval, axis=1)
 
         final = merged[[ 
-            "date", "Pitcher", "Model Pick", "🔥 Confidence",
+            "date", "Pitcher", "Model Pick", " Confidence",
             "Vegas Line", "Predicted K", "Actual K", "Result"
         ]]
 
@@ -304,10 +304,10 @@ with tab2:
         total = hits + misses
         hit_rate = f"{(hits / total * 100):.1f}%" if total > 0 else "N/A"
 
-        st.markdown(f"**✅ HITs:** {hits} ❌ MISSes: {misses} 🎯 Hit Rate: {hit_rate}")
+        st.markdown(f"** HITs:** {hits}  MISSes: {misses}  Hit Rate: {hit_rate}")
 
     except Exception as e:
-        st.error("❌ Failed to compare predictions.")
+        st.error(" Failed to compare predictions.")
 
 
 
@@ -315,7 +315,7 @@ with tab2:
         # === Tab 3: Backfill Results Explorer ===
 with tab3:
     try:
-        st.markdown("### 🗓️ Model Backfill Results by Date")
+        st.markdown("###  Model Backfill Results by Date")
 
         # === Load backfill data (now reads pitcher-specific backfill file)
         def load_backfill_data():
@@ -328,20 +328,20 @@ with tab3:
         if backfill_df.empty:
             st.warning("No backfill results found.")
         else:
-            st.write("📆 Max date in backfill:", backfill_df["Date"].max())
+            st.write(" Max date in backfill:", backfill_df["Date"].max())
             available_dates = sorted(backfill_df["Date"].unique(), reverse=True)
             default_date = datetime.date.today() - datetime.timedelta(days=1)
             default_date = max([d for d in available_dates if d <= default_date], default=available_dates[0])
 
             selected_date = st.date_input(
-                "📅 Select a date",
+                " Select a date",
                 value=default_date,
                 min_value=min(available_dates),
                 max_value=max(available_dates)
             )
 
             # === Vegas Line slider
-            vegas_line = st.slider("🎯 Adjust comparison line (Vegas Line)", 0.0, 15.0, 4.5, 0.5)
+            vegas_line = st.slider(" Adjust comparison line (Vegas Line)", 0.0, 15.0, 4.5, 0.5)
 
             # === Filter rows
             filtered = backfill_df[backfill_df["Date"] == selected_date].copy()
@@ -367,18 +367,18 @@ with tab3:
 
                 def render_confidence(conf):
                     if pd.isna(conf): return ""
-                    if conf >= 2.0: return "🔥🔥🔥🔥🔥"
-                    elif conf >= 1.6: return "🔥🔥🔥🔥"
-                    elif conf >= 1.1: return "🔥🔥🔥"
-                    elif conf >= 0.6: return "🔥🔥"
-                    elif conf > 0.0: return "🔥"
+                    if conf >= 2.0: return ""
+                    elif conf >= 1.6: return ""
+                    elif conf >= 1.1: return ""
+                    elif conf >= 0.6: return ""
+                    elif conf > 0.0: return ""
                     else: return ""
 
-                filtered["🔥"] = filtered["Confidence"].apply(render_confidence)
+                filtered[""] = filtered["Confidence"].apply(render_confidence)
 
                 display_df = filtered[[
                     "Date", "Team", "Opponent", "Pitcher",
-                    "Predicted K", "Vegas Line", "Confidence", "🔥",
+                    "Predicted K", "Vegas Line", "Confidence", "",
                     "Model Pick", "Actual K", "Result"
                 ]]
 
@@ -390,10 +390,10 @@ with tab3:
                 total = hits + misses
                 if total > 0:
                     hit_rate = f"{(hits / total * 100):.1f}%"
-                    st.markdown(f"**✅ HITs:** {hits} ❌ MISSes: {misses} 🎯 Hit Rate: {hit_rate}")
+                    st.markdown(f"** HITs:** {hits}  MISSes: {misses}  Hit Rate: {hit_rate}")
 
     except Exception as e:
-        st.error(f"❌ Failed to load backfill data: {e}")
+        st.error(f" Failed to load backfill data: {e}")
 
 
 

@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import datetime
 import re
 import unidecode
@@ -32,13 +32,13 @@ box_df["GameDate"] = pd.to_datetime(box_df["GameDate"]).dt.date
 box_df["pitcher_key"] = box_df["Pitcher"].apply(lambda x: normalize(clean_pitcher_name(x)))
 
 # === Analyze date range
-print(f"🔍 Checking feature completeness from {START_DATE} to {END_DATE}\n")
+print(f" Checking feature completeness from {START_DATE} to {END_DATE}\n")
 for date in pd.date_range(START_DATE, END_DATE).date:
     stats = feat_df[feat_df["date"] == date]
     box = box_df[box_df["GameDate"] == date]
 
     if stats.empty or box.empty:
-        print(f"⏭️ {date}: Skipped (missing {'features' if stats.empty else 'boxscores'})")
+        print(f"⏭ {date}: Skipped (missing {'features' if stats.empty else 'boxscores'})")
         continue
 
     feature_map = stats.set_index("pitcher_key")
@@ -57,13 +57,13 @@ for date in pd.date_range(START_DATE, END_DATE).date:
             key = match_result[0]
 
         if key in feature_map.index:
-            # ✅ Force exact Series row
+            #  Force exact Series row
             feat_row = feature_map.loc[[key]].iloc[0]
             missing = [col for col in expected_features if pd.isna(feat_row.get(col))]
             if missing:
-                print(f"⚠️ {date} - {row['Pitcher']} missing: {missing}")
+                print(f" {date} - {row['Pitcher']} missing: {missing}")
                 total_missing += 1
             else:
                 matched += 1
 
-    print(f"✅ {date}: {matched} pitchers had complete features, {total_missing} had missing values\n")
+    print(f" {date}: {matched} pitchers had complete features, {total_missing} had missing values\n")

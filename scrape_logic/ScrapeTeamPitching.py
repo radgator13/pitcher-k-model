@@ -1,4 +1,4 @@
-﻿import os
+import os
 import time
 import datetime
 import pandas as pd
@@ -19,7 +19,7 @@ load_dotenv(dotenv_path=Path("utilities/.env"))
 USERNAME = os.getenv("STATHEAD_USERNAME")
 PASSWORD = os.getenv("STATHEAD_PASSWORD")
 if not USERNAME or not PASSWORD:
-    raise ValueError("❌ STATHEAD_USERNAME or STATHEAD_PASSWORD is not set.")
+    raise ValueError(" STATHEAD_USERNAME or STATHEAD_PASSWORD is not set.")
 
 # === Setup headless browser
 options = Options()
@@ -43,17 +43,17 @@ all_rows = []
 page_num = 0
 
 try:
-    print("🚀 Starting browser and loading login page...")
+    print(" Starting browser and loading login page...")
     driver.get("https://stathead.com/users/login.cgi")
     time.sleep(2)
 
-    print("🔐 Logging in...")
+    print(" Logging in...")
     driver.find_element(By.NAME, "username").send_keys(USERNAME)
     driver.find_element(By.NAME, "password").send_keys(PASSWORD)
     driver.find_element(By.NAME, "password").send_keys(Keys.RETURN)
     time.sleep(3)
 
-    print("📅 Navigating to recent team pitching game logs...")
+    print(" Navigating to recent team pitching game logs...")
     driver.get(
         "https://stathead.com/baseball/team-pitching-game-finder.cgi"
         "?request=1&match=team_game&order_by_asc=0&order_by=date"
@@ -61,38 +61,38 @@ try:
         "&comp_type=reg&game_type=all"
     )
 
-    print("🕒 Waiting for results page to load (up to 3 mins)...")
+    print(" Waiting for results page to load (up to 3 mins)...")
     WebDriverWait(driver, 180).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "table.stats_table"))
     )
 
     while True:
         page_num += 1
-        print(f"📄 Scraping page {page_num}...")
+        print(f" Scraping page {page_num}...")
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         table = soup.select_one("table.stats_table")
 
         if not table:
-            print("❌ Table not found on page.")
+            print(" Table not found on page.")
             break
 
         df = pd.read_html(str(table), header=0)[0]
 
-        # ✅ This removes ONLY the repeated header row
+        #  This removes ONLY the repeated header row
         df = df[df["Rk"].astype(str).str.lower() != "rk"].reset_index(drop=True)
 
         all_rows.append(df)
-        print(f"✅ Page {page_num}: {len(df)} clean rows scraped")
+        print(f" Page {page_num}: {len(df)} clean rows scraped")
 
 
         try:
             next_btn = driver.find_element(By.CSS_SELECTOR, "div.prevnext a.button2.next")
             href = next_btn.get_attribute("href")
             if not href:
-                print("⛔ No more pages to scrape.")
+                print(" No more pages to scrape.")
                 break
-            print("➡️ Moving to next page...")
+            print(" Moving to next page...")
             driver.get(href)
 
             print("⏳ Waiting for next table (up to 3 mins)...")
@@ -100,7 +100,7 @@ try:
                 EC.presence_of_element_located((By.CSS_SELECTOR, "table.stats_table"))
             )
         except:
-            print("⛔ No next button found — ending scrape.")
+            print(" No next button found — ending scrape.")
             break
 
 finally:
@@ -111,7 +111,7 @@ finally:
 if all_rows:
     scraped_df = pd.concat(all_rows, ignore_index=True)
     scraped_df.to_csv(output_csv, index=False)
-    print(f"💾 Scraped {len(scraped_df)} rows to {output_csv}")
+    print(f" Scraped {len(scraped_df)} rows to {output_csv}")
 
     if os.path.exists(master_csv):
         master_df = pd.read_csv(master_csv)
@@ -125,10 +125,10 @@ if all_rows:
         new_rows = after - before if after >= before else 0
 
         combined.to_csv(master_csv, index=False)
-        print(f"📌 Master file updated: {after} total rows")
-        print(f"➕ Appended {new_rows} new row(s)")
+        print(f" Master file updated: {after} total rows")
+        print(f" Appended {new_rows} new row(s)")
     else:
         scraped_df.to_csv(master_csv, index=False)
-        print("🆕 Master file created.")
+        print(" Master file created.")
 else:
-    print("❌ No data collected.")
+    print(" No data collected.")

@@ -1,16 +1,16 @@
-﻿import pandas as pd
+import pandas as pd
 import numpy as np
 
-print("🚀 Starting script...")
+print(" Starting script...")
 
 # === Load Data ===
 pitcher_df = pd.read_csv("data/Stathead_2025_Pitcher_Master.csv")
 batting_df = pd.read_csv("data/Stathead_2025_TeamBatting_Master.csv")
 team_pitching_df = pd.read_csv("data/Stathead_2025_TeamPitching_Master.csv")
 
-print(f"✅ Loaded pitcher_df: {len(pitcher_df)} rows")
-print(f"✅ Loaded batting_df: {len(batting_df)} rows")
-print(f"✅ Loaded team_pitching_df: {len(team_pitching_df)} rows")
+print(f" Loaded pitcher_df: {len(pitcher_df)} rows")
+print(f" Loaded batting_df: {len(batting_df)} rows")
+print(f" Loaded team_pitching_df: {len(team_pitching_df)} rows")
 
 # === Clean & Parse Dates ===
 pitcher_df["Date"] = pitcher_df["Date"].astype(str).str.extract(r"^([0-9]{4}-[0-9]{2}-[0-9]{2})")[0]
@@ -32,13 +32,13 @@ pitcher_df["Is_SP"] = pitcher_df["IP_float"] >= 3.5
 starters = pitcher_df[pitcher_df["Is_SP"]].copy()
 
 # Copy Home column into starters
-starters["Home"] = pitcher_df["Home"]  # ✅ No .loc — simpler and works
+starters["Home"] = pitcher_df["Home"]  #  No .loc — simpler and works
 
 # Pick best starter per team per game
 starters = starters.sort_values("BF", ascending=False).dropna(subset=["BF"])
 starters = starters.groupby(["Date", "Team"]).head(1)
 
-print(f"✅ Found {len(starters)} starting pitcher rows")
+print(f" Found {len(starters)} starting pitcher rows")
 
 # === Get Starter ERA/WHIP rolling stats ===
 def rolling_pitcher_stats(df, window=3):
@@ -59,7 +59,7 @@ def rolling_pitcher_stats(df, window=3):
     rolling["Player"] = df["Player"].values
     rolling["Date"] = df["Date"].values
 
-    print(f"🔁 Built rolling SP stats: {len(rolling)} rows")
+    print(f" Built rolling SP stats: {len(rolling)} rows")
     print(rolling.head())
     return rolling[["Player", "Date", "ERA_rolling", "WHIP_rolling"]]
 
@@ -76,7 +76,7 @@ batting_rolling = batting_df.groupby("Team").rolling(3, on="Date").agg({
 }).reset_index()
 batting_rolling.rename(columns={"Runs": "Runs_avg3", "OBP": "OBP_avg3"}, inplace=True)
 
-print(f"📊 Team batting rolling: {len(batting_rolling)} rows")
+print(f" Team batting rolling: {len(batting_rolling)} rows")
 print(batting_rolling.head())
 
 # === Add Home/Away Indicator ===
@@ -98,25 +98,25 @@ pitching_rolling = team_pitching_df.groupby("Team").rolling(3, on="Date").agg({
 }).reset_index()
 pitching_rolling.rename(columns={"ER": "Team_ER_avg3", "WHIP": "Team_WHIP_avg3"}, inplace=True)
 
-print(f"📉 Opponent team pitching rolling: {len(pitching_rolling)} rows")
+print(f" Opponent team pitching rolling: {len(pitching_rolling)} rows")
 
 # === Build initial team-game base
 final_df = batting_df[["Date", "Team", "Opp", "Runs"]].copy()
-print("🔗 Initial team-game base:", len(final_df))
+print(" Initial team-game base:", len(final_df))
 
 # === Merge Batting Rolling Stats
 final_df = final_df.merge(
     batting_rolling[["Team", "Date", "Runs_avg3", "OBP_avg3"]],
     on=["Team", "Date"], how="left"
 )
-print("🔗 After merging batting rolling:", len(final_df))
+print(" After merging batting rolling:", len(final_df))
 
 # === Merge Opponent Pitching Rolling Stats
 final_df = final_df.merge(
     pitching_rolling.rename(columns={"Team": "Opp"}),
     on=["Opp", "Date"], how="left"
 )
-print("🔗 After merging opponent pitching rolling:", len(final_df))
+print(" After merging opponent pitching rolling:", len(final_df))
 
 # === Merge Team SP Info (now including Home)
 starter_info = starters[["Date", "Team", "Player", "IP_float", "Home"]].drop_duplicates(subset=["Date", "Team"])
@@ -126,7 +126,7 @@ final_df = final_df.merge(
     starter_info[["Date", "Team", "Player", "IP_float", "ERA_rolling", "WHIP_rolling", "Home"]],
     on=["Date", "Team"], how="left"
 )
-print("🔗 After merging team SP stats:", len(final_df))
+print(" After merging team SP stats:", len(final_df))
 
 # === Opponent Starting Pitcher Info
 opp_starters = pitcher_df[pitcher_df["IP_float"] >= 3.5].copy()
@@ -140,7 +140,7 @@ final_df = final_df.merge(
     opp_starter_info[["Date", "Team", "Player", "IP_float", "ERA_rolling", "WHIP_rolling"]],
     left_on=["Date", "Opp"], right_on=["Date", "Team"], how="left", suffixes=("", "_opp")
 )
-print("🔗 After merging opponent SP stats:", len(final_df))
+print(" After merging opponent SP stats:", len(final_df))
 
 # === Final Column Renaming
 final_df.rename(columns={
@@ -157,14 +157,14 @@ final_df.rename(columns={
 }, inplace=True)
 
 # === Final Debug Before Drop
-print("📋 Columns before dropna:", final_df.columns.tolist())
-print("❓ Null counts before dropna:\n", final_df[[
+print(" Columns before dropna:", final_df.columns.tolist())
+print(" Null counts before dropna:\n", final_df[[
     "Runs_avg3", "OBP_avg3", "Team_ER_avg3",
     "SP_ERA_3g", "SP_IP",
     "Opp_SP_ERA_3g", "Opp_SP_IP",
     "Home"
 ]].isna().sum())
-print("📊 Row count before dropna:", len(final_df))
+print(" Row count before dropna:", len(final_df))
 
 # === Drop rows missing any critical stat
 final_df.dropna(subset=[
@@ -174,14 +174,14 @@ final_df.dropna(subset=[
     "Home"
 ], inplace=True)
 
-print("✅ Final dataset row count:", len(final_df))
+print(" Final dataset row count:", len(final_df))
 print("🧪 Sample with Opponent SP + Home flag:\n", final_df[[
     "Date", "Team", "Opp", "Home", "Opp_SP_Name", "Opp_SP_ERA_3g", "Opp_SP_IP"
 ]].head())
 
 # === Export Final Dataset
 final_df.to_csv("data/team_run_prediction_dataset.csv", index=False)
-print("✅ Dataset exported to 'data/team_run_prediction_dataset.csv'")
+print(" Dataset exported to 'data/team_run_prediction_dataset.csv'")
 
 
 

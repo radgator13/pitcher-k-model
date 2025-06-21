@@ -1,4 +1,4 @@
-﻿import requests
+import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import pandas as pd
@@ -9,20 +9,20 @@ import os
 def get_game_ids(date_obj):
     date_str = date_obj.strftime("%Y%m%d")
     url = f"https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates={date_str}"
-    print(f"🔍 Requesting game IDs for {date_str}...")
+    print(f" Requesting game IDs for {date_str}...")
     r = requests.get(url)
     events = r.json().get("events", [])
     return [{"gameId": e["id"], "date": date_obj.strftime("%Y-%m-%d")} for e in events if "id" in e]
 
 def extract_boxscore(game_id, game_date):
     url = f"https://www.espn.com/mlb/boxscore/_/gameId/{game_id}"
-    print(f"🌐 Scraping HTML: {url}")
+    print(f" Scraping HTML: {url}")
     r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(r.content, "html.parser")
 
     team_names = soup.select("h2.ScoreCell__TeamName")
     if len(team_names) < 2:
-        print("❌ Could not find team names")
+        print(" Could not find team names")
         return None
 
     away_team = team_names[0].text.strip()
@@ -46,11 +46,11 @@ def extract_boxscore(game_id, game_date):
         "Home Score": re.sub(r"\D", "", home_runs)
     }
 
-    print(f"✅ Game context parsed: {away_team} @ {home_team} | Score: {away_runs}-{home_runs}")
+    print(f" Game context parsed: {away_team} @ {home_team} | Score: {away_runs}-{home_runs}")
 
     try:
         containers = soup.select("div.Athletes__Container")
-        print(f"🔍 Found {len(containers)} pitcher containers")
+        print(f" Found {len(containers)} pitcher containers")
 
         for container in containers:
             labels = container.find_all("span", class_="Athlete__Header")
@@ -58,19 +58,19 @@ def extract_boxscore(game_id, game_date):
             stats = container.find_all("div", class_="Athlete__Stats")
 
             count = min(len(labels), len(names), len(stats))
-            print(f"➡️ Found {count} pitcher label blocks in this container")
+            print(f" Found {count} pitcher label blocks in this container")
 
             for i in range(count):
                 role = labels[i].text.strip().lower()
                 if role not in ["win", "loss"]:
-                    print(f"   ⛔ Skipping label: {role}")
+                    print(f"    Skipping label: {role}")
                     continue
 
                 prefix = "Winning" if role == "win" else "Losing"
                 name = names[i].text.strip()
                 stats_text = stats[i].text.strip()
 
-                print(f"   🏷️ {prefix} Pitcher: {name} | Stats: {stats_text}")
+                print(f"    {prefix} Pitcher: {name} | Stats: {stats_text}")
 
                 ip = re.search(r"(\d+\.?\d*) IP", stats_text)
                 h = re.search(r"(\d+) H", stats_text)
@@ -86,7 +86,7 @@ def extract_boxscore(game_id, game_date):
                 game_row[f"{prefix} BB"] = int(bb.group(1)) if bb else None
 
     except Exception as e:
-        print(f"⚠️ Error parsing pitchers for game {game_id}: {e}")
+        print(f" Error parsing pitchers for game {game_id}: {e}")
 
     return game_row
 
@@ -115,7 +115,7 @@ def scrape_and_append_pitchers_only():
     end = datetime.strptime(end_date, "%Y-%m-%d")
 
     while current <= end:
-        print(f"\n📅 Checking games on {current.strftime('%Y-%m-%d')}")
+        print(f"\n Checking games on {current.strftime('%Y-%m-%d')}")
         games = get_game_ids(current)
         print(f"Found {len(games)} games.")
 
@@ -125,31 +125,31 @@ def scrape_and_append_pitchers_only():
                 if row:
                     row_id = (row.get("Game Date"), row.get("Away Team"), row.get("Home Team"))
                     if row_id in existing_keys:
-                        print(f"⏭️ Already exists: {row_id}")
+                        print(f"⏭ Already exists: {row_id}")
                         continue
 
                     if "Winning Pitcher" in row and "Losing Pitcher" in row:
                         new_rows.append(row)
                     else:
-                        print(f"⚠️ Incomplete data: {row_id}")
+                        print(f" Incomplete data: {row_id}")
             except Exception as e:
-                print(f"❌ Error scraping game {game['gameId']}: {e}")
+                print(f" Error scraping game {game['gameId']}: {e}")
             time.sleep(0.5)
 
         current += timedelta(days=1)
 
     if new_rows:
         new_df = pd.DataFrame(new_rows)
-        print(f"\n✅ Appending {len(new_df)} new games to MASTER and ARCHIVE.")
+        print(f"\n Appending {len(new_df)} new games to MASTER and ARCHIVE.")
 
         new_df.to_csv(master_file, mode='a', index=False, header=not os.path.exists(master_file))
         new_df.to_csv(archive_file, index=False)
 
-        print(f"📌 Appended to {master_file}")
-        print(f"📁 Archived to {archive_file}")
+        print(f" Appended to {master_file}")
+        print(f" Archived to {archive_file}")
     else:
-        print("\n⚠️ No new games to append.")
+        print("\n No new games to append.")
 
 if __name__ == "__main__":
-    print("🚀 Appending pitcher data from today -2 through today +1")
+    print(" Appending pitcher data from today -2 through today +1")
     scrape_and_append_pitchers_only()

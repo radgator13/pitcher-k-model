@@ -1,4 +1,4 @@
-﻿import requests
+import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import re
@@ -10,11 +10,11 @@ def scrape_espn_boxscore(game_id, game_date):
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Could not retrieve game {game_id}")
+        print(f" Could not retrieve game {game_id}")
         return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
-    print(f"✅ Game ID: {game_id} | Date: {game_date}")
+    print(f" Game ID: {game_id} | Date: {game_date}")
 
     pitching_data = []
 
@@ -24,7 +24,7 @@ def scrape_espn_boxscore(game_id, game_date):
         if text.endswith("Pitching"):
             teams.append(text.replace("Pitching", "").strip())
     if len(teams) != 2:
-        print("⚠️ Could not determine both teams.")
+        print(" Could not determine both teams.")
         return []
     away_team, home_team = teams
 
@@ -50,7 +50,7 @@ def scrape_espn_boxscore(game_id, game_date):
             wrapper = title_div.find_parent("div", class_="Boxscore__Team")
             tables = wrapper.find_all("table")
             if len(tables) < 2:
-                print(f"⚠️ Not enough tables for {team_name}.")
+                print(f" Not enough tables for {team_name}.")
                 continue
 
             name_table = tables[0]
@@ -79,7 +79,7 @@ def scrape_espn_boxscore(game_id, game_date):
                 pitching_data.append(record)
 
         except Exception as e:
-            print(f"🔥 Error in {team_name} section: {e}")
+            print(f" Error in {team_name} section: {e}")
 
     return pitching_data
 
@@ -88,7 +88,7 @@ def get_game_ids_for_date(date):
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(url, headers=headers)
     if resp.status_code != 200:
-        print(f"❌ Could not load scoreboard for {date}")
+        print(f" Could not load scoreboard for {date}")
         return []
     game_ids = re.findall(r'gameId/(\d+)', resp.text)
     return sorted(set(game_ids))
@@ -100,11 +100,11 @@ if os.path.exists(existing_path):
     existing_df["GameID"] = existing_df["GameID"].astype(str)
     existing_df["Pitcher"] = existing_df["Pitcher"].astype(str)
     existing_keys = set(zip(existing_df["GameID"], existing_df["Pitcher"]))
-    print(f"📄 Found {len(existing_df)} existing rows.")
+    print(f" Found {len(existing_df)} existing rows.")
 else:
     existing_df = pd.DataFrame()
     existing_keys = set()
-    print("🆕 Starting fresh.")
+    print(" Starting fresh.")
 
 # Date range
 #start_date = datetime(2025, 3, 27)
@@ -115,7 +115,7 @@ current_date = start_date
 new_rows = []
 
 while current_date <= end_date:
-    print(f"\n📆 Processing {current_date.date()}")
+    print(f"\n Processing {current_date.date()}")
     for game_id in get_game_ids_for_date(current_date):
         game_data = scrape_espn_boxscore(game_id, current_date.date())
         for row in game_data:
@@ -132,7 +132,7 @@ if new_rows:
     ]
     combined = combined[cols]
     combined.to_csv(existing_path, index=False)
-    print(f"\n✅ Appended {len(new_rows)} new rows.")
-    print(f"✅ Updated: {existing_path}")
+    print(f"\n Appended {len(new_rows)} new rows.")
+    print(f" Updated: {existing_path}")
 else:
-    print("✅ No new pitching data needed.")
+    print(" No new pitching data needed.")

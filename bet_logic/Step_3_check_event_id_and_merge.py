@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import os
 import shutil
 from datetime import datetime, date
@@ -20,9 +20,9 @@ def normalize_and_filter(df, label):
     today = date.today()
     fresh_df = df[df["game_date"] >= today].copy()
 
-    print(f"\n📅 {label} — game dates:")
+    print(f"\n {label} — game dates:")
     print(fresh_df["game_date"].value_counts().sort_index())
-    print(f"✅ Retained rows for {fresh_df['game_date'].nunique()} game dates (≥ {today})")
+    print(f" Retained rows for {fresh_df['game_date'].nunique()} game dates (≥ {today})")
 
     return fresh_df
 
@@ -90,7 +90,7 @@ merged["commence_time"] = pd.to_datetime(merged["commence_time"], errors="coerce
 merged["game_date"] = merged["commence_time"].dt.date
 
 if merged["game_date"].max() < date.today():
-    raise ValueError("❌ STOP: All merged games are from the past. Check your input files.")
+    raise ValueError(" STOP: All merged games are from the past. Check your input files.")
 
 # === Auto-backup old file
 backup_dir = "data/backups"
@@ -99,12 +99,12 @@ if os.path.exists("data/merged_game_props.csv"):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     backup_path = os.path.join(backup_dir, f"merged_game_props_backup_{timestamp}.csv")
     shutil.copy("data/merged_game_props.csv", backup_path)
-    print(f"\n📦 Previous merged_game_props.csv backed up to:\n   {backup_path}")
+    print(f"\n Previous merged_game_props.csv backed up to:\n   {backup_path}")
 
 # === Save new output
 merged.to_json("data/merged_game_props.json", orient="records", indent=2)
 merged.to_csv("data/merged_game_props.csv", index=False)
 
-print(f"\n✅ Merged game-level file saved with {len(merged)} rows")
-print(f"📄 JSON: {os.path.abspath('data/merged_game_props.json')}")
-print(f"📄 CSV:  {os.path.abspath('data/merged_game_props.csv')}")
+print(f"\n Merged game-level file saved with {len(merged)} rows")
+print(f" JSON: {os.path.abspath('data/merged_game_props.json')}")
+print(f" CSV:  {os.path.abspath('data/merged_game_props.csv')}")

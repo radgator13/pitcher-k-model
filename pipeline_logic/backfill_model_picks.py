@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import pandas as pd
 import datetime
 from joblib import load
@@ -22,36 +22,36 @@ def normalize(name):
 def clean_pitcher_name(name):
     return re.sub(r"\(.*?\)", "", str(name)).strip()
 
-print(f"📦 Loading model from: {MODEL_PATH}")
+print(f" Loading model from: {MODEL_PATH}")
 model = load(MODEL_PATH)
 
-print(f"📊 Loading pitching results from: {BOX_SCORE_PATH}")
+print(f" Loading pitching results from: {BOX_SCORE_PATH}")
 box_df = pd.read_csv(BOX_SCORE_PATH)
 box_df["GameDate"] = pd.to_datetime(box_df["GameDate"]).dt.date
 box_df["pitcher_key"] = box_df["Pitcher"].apply(lambda x: normalize(clean_pitcher_name(x)))
 
-print(f"🔍 Loading model features from: {FEATURE_PATH}")
+print(f" Loading model features from: {FEATURE_PATH}")
 feat_df = pd.read_csv(FEATURE_PATH)
 feat_df["date"] = pd.to_datetime(feat_df["date"]).dt.date
 feat_df["pitcher_key"] = feat_df["pitcher_name"].apply(normalize)
 
 # === Confirm data coverage
-print("📅 Max date in box_df:", box_df["GameDate"].max())
-print("📅 Max date in feat_df:", feat_df["date"].max())
+print(" Max date in box_df:", box_df["GameDate"].max())
+print(" Max date in feat_df:", feat_df["date"].max())
 
 expected_features = model.feature_names_in_
 records = []
 
 # === Date range loop
 date_range = pd.date_range(START_DATE, END_DATE).date
-print(f"📅 Running backfill from {START_DATE} to {END_DATE} ({len(date_range)} days)\n")
+print(f" Running backfill from {START_DATE} to {END_DATE} ({len(date_range)} days)\n")
 
 for date in date_range:
     game_pitchers = box_df[box_df["GameDate"] == date]
     stats_for_date = feat_df[feat_df["date"] == date]
 
     if game_pitchers.empty or stats_for_date.empty:
-        print(f"⏭️ Skipping {date}: missing {'boxscore' if game_pitchers.empty else 'features'}")
+        print(f"⏭ Skipping {date}: missing {'boxscore' if game_pitchers.empty else 'features'}")
         continue
 
     feature_keys = stats_for_date["pitcher_key"].tolist()
@@ -70,7 +70,7 @@ for date in date_range:
 
         if match and score >= 80:
             feat_row = feature_map.loc[match]
-            print(f"🔗 Matched {row['Pitcher']} → {feat_row['pitcher_name']} (score={score})")
+            print(f" Matched {row['Pitcher']} → {feat_row['pitcher_name']} (score={score})")
             full_row = {
                 "pitcher_key": match,
                 "pitcher_name": feat_row["pitcher_name"],
@@ -84,10 +84,10 @@ for date in date_range:
             matched_rows.append(full_row)
 
     if not matched_rows:
-        print(f"⏭️ Skipping {date}: no matches after join")
+        print(f"⏭ Skipping {date}: no matches after join")
         continue
 
-    print(f"📋 {date}: matched {len(matched_rows)} / {len(game_pitchers)} pitchers")
+    print(f" {date}: matched {len(matched_rows)} / {len(game_pitchers)} pitchers")
     merged = pd.DataFrame(matched_rows)
     X = merged[expected_features].apply(pd.to_numeric, errors="coerce")
 
@@ -96,19 +96,19 @@ for date in date_range:
         for i, row in merged.iterrows():
             missing = X.iloc[i].isna()
             if missing.any():
-                print(f"⚠️ {row['pitcher_name']} missing: {missing[missing].index.tolist()}")
+                print(f" {row['pitcher_name']} missing: {missing[missing].index.tolist()}")
 
     X = X.dropna()
     if X.empty:
-        print(f"⏭️ Skipping {date}: all rows dropped due to NaNs")
+        print(f"⏭ Skipping {date}: all rows dropped due to NaNs")
         continue
 
-    print(f"✅ {date}: {len(X)} valid rows ready for prediction")
+    print(f" {date}: {len(X)} valid rows ready for prediction")
 
     try:
         preds = model.predict(X)
     except Exception as e:
-        print(f"❌ Error predicting on {date}: {e}")
+        print(f" Error predicting on {date}: {e}")
         continue
 
     for i, idx in enumerate(X.index):
@@ -141,4 +141,4 @@ for date in date_range:
 out_df = pd.DataFrame(records)
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 out_df.to_csv(OUTPUT_PATH, index=False)
-print(f"\n✅ Backfill complete: {len(out_df)} predictions saved to {OUTPUT_PATH}")
+print(f"\n Backfill complete: {len(out_df)} predictions saved to {OUTPUT_PATH}")

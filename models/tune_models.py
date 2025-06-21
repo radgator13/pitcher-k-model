@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error
@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 # === Load Data ===
 df = pd.read_csv("data/team_run_prediction_dataset.csv")
-print(f"✅ Loaded dataset with {len(df)} rows")
+print(f" Loaded dataset with {len(df)} rows")
 
 # === Features & Target ===
 target = "Target_Runs"
@@ -27,7 +27,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # === Random Forest Tuning ===
-print("\n🔍 Tuning Random Forest...")
+print("\n Tuning Random Forest...")
 rf_params = {
     "n_estimators": [100, 200],
     "max_depth": [5, 10, None],
@@ -47,11 +47,11 @@ best_rf = rf_grid.best_estimator_
 rf_preds = best_rf.predict(X_test)
 rf_rmse = np.sqrt(mean_squared_error(y_test, rf_preds))
 
-print(f"✅ Best Random Forest RMSE: {rf_rmse:.3f}")
-print(f"🛠️  Best Params: {rf_grid.best_params_}")
+print(f" Best Random Forest RMSE: {rf_rmse:.3f}")
+print(f"  Best Params: {rf_grid.best_params_}")
 
 # === XGBoost Tuning ===
-print("\n🔍 Tuning XGBoost...")
+print("\n Tuning XGBoost...")
 xgb_params = {
     "n_estimators": [100, 200],
     "max_depth": [3, 6, 10],
@@ -71,11 +71,11 @@ best_xgb = xgb_grid.best_estimator_
 xgb_preds = best_xgb.predict(X_test)
 xgb_rmse = np.sqrt(mean_squared_error(y_test, xgb_preds))
 
-print(f"✅ Best XGBoost RMSE: {xgb_rmse:.3f}")
-print(f"🛠️  Best Params: {xgb_grid.best_params_}")
+print(f" Best XGBoost RMSE: {xgb_rmse:.3f}")
+print(f"  Best Params: {xgb_grid.best_params_}")
 
 # === Compare
-print("\n🏁 Final Results:")
+print("\n Final Results:")
 print(f"Random Forest RMSE: {rf_rmse:.3f}")
 print(f"XGBoost       RMSE: {xgb_rmse:.3f}")
 
@@ -87,10 +87,10 @@ final_model = RandomForestRegressor(
     random_state=42
 )
 final_model.fit(X, y)
-print("✅ Trained final Random Forest model on all data")
+print(" Trained final Random Forest model on all data")
 
 # === Save the model
 import joblib, os
 os.makedirs("models", exist_ok=True)
 joblib.dump(final_model, "models/final_rf_model.joblib")
-print("📦 Model saved to: models/final_rf_model.joblib")
+print(" Model saved to: models/final_rf_model.joblib")

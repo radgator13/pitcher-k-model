@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import numpy as np
 import joblib
 import os
@@ -65,9 +65,9 @@ for name, model in models.items():
 # === Pick Best ===
 results.sort(key=lambda x: x[2])  # sort by RMSE
 best_name, best_model, best_rmse = results[0]
-print(f"\n✅ Best Model: {best_name} (RMSE = {best_rmse:.3f})")
+print(f"\n Best Model: {best_name} (RMSE = {best_rmse:.3f})")
 
 # === Save Best Model
 os.makedirs("models", exist_ok=True)
 joblib.dump(best_model, "models/pitcher_k_model.joblib")
-print("📦 Model saved to models/pitcher_k_model.joblib")
+print(" Model saved to models/pitcher_k_model.joblib")

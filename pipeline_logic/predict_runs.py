@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import joblib
 import numpy as np
 from datetime import datetime
@@ -97,4 +97,4 @@ for _, game in schedule_df.iterrows():
 # === Output predictions ===
 pred_df = pd.DataFrame(prediction_rows)
 pred_df.to_csv("data/predicted_runs.csv", index=False)
-print("✅ Saved predictions to data/predicted_runs.csv")
+print(" Saved predictions to data/predicted_runs.csv")

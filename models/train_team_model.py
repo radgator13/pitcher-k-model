@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error
@@ -52,7 +52,7 @@ for name, model in models.items():
     preds = model.predict(X_test)
     rmse = np.sqrt(mean_squared_error(y_test, preds))
     results.append((name, rmse))
-    print(f"✅ {name}: RMSE = {rmse:.3f}")
+    print(f" {name}: RMSE = {rmse:.3f}")
 
     if rmse < best_rmse:
         best_model = model
@@ -60,4 +60,4 @@ for name, model in models.items():
 
 # === Save best model
 joblib.dump(best_model, "models/final_team_model.joblib")
-print(f"\n🏆 Saved best model ({best_model.__class__.__name__}) to models/final_team_model.joblib")
+print(f"\n Saved best model ({best_model.__class__.__name__}) to models/final_team_model.joblib")

@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 import numpy as np
 import joblib
 
@@ -28,7 +28,7 @@ away_rows = batting[batting["Home"] == 0][["Date", "Team", "R"]].rename(
 games = pd.merge(home_rows, away_rows, on=["Date", "Away"])
 games["Actual_Total"] = games["Home_R"] + games["Away_R"]
 
-# ✅ Deduplicate real games
+#  Deduplicate real games
 games["key"] = games["Date"].astype(str) + "_" + games["Home"] + "_" + games["Away"]
 games = games.drop_duplicates(subset="key")
 games = games.drop(columns="key")
@@ -149,5 +149,5 @@ final_df = final_df.drop_duplicates(subset=["Date", "Home_Team", "Away_Team"])
 
 # === Export
 final_df.to_csv("data/backfilled_predictions.csv", index=False)
-print("✅ Backfilled predictions saved to data/backfilled_predictions.csv")
+print(" Backfilled predictions saved to data/backfilled_predictions.csv")
 
